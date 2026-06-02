@@ -9,3 +9,5 @@ node_modules/
 .env.production
 .DS_Store
 npm-debug.log*
+# local IDE config
+.claude/
