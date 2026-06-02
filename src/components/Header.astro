@@ -1,0 +1,20 @@
+---
+const nav = [
+  { href: '/', label: 'Home' },
+  { href: '/about/', label: 'About' },
+  { href: '/tag/abseiling/', label: 'Abseiling' },
+  { href: '/tag/equipment/', label: 'Gear' },
+  { href: '/blog/', label: 'All articles' },
+];
+---
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="/">
+      <span class="mark">RJ</span>
+      <span>Rap Jumping</span>
+    </a>
+    <nav class="nav">
+      {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+    </nav>
+  </div>
+</header>

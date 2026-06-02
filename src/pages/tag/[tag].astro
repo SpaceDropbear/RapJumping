@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostRow from '../../components/PostRow.astro';
+import { sortByDate, tagSlug } from '../../utils';
+
+export async function getStaticPaths() {
+  const posts = (await getCollection('blog')).filter((p) => !p.data.draft);
+  const map = new Map();
+  for (const p of posts) {
+    for (const t of p.data.tags) {
+      const slug = tagSlug(t);
+      if (!map.has(slug)) map.set(slug, { label: t, posts: [] });
+      map.get(slug).posts.push(p);
+    }
+  }
+  return [...map.entries()].map(([slug, { label, posts }]) => ({
+    params: { tag: slug },
+    props: { label, posts: posts.sort(sortByDate) },
+  }));
+}
+
+const { label, posts } = Astro.props;
+---
+<BaseLayout title={`${label} | Rap Jumping`} description={`Articles tagged ${label}.`}>
+  <div class="wrap-narrow">
+    <h1 class="page-title">{label}</h1>
+    <p class="page-sub">{posts.length} {posts.length === 1 ? 'article' : 'articles'}</p>
+    <div style="margin-top: 16px;">
+      {posts.map((post, i) => <PostRow post={post} eager={i === 0} />)}
+    </div>
+  </div>
+</BaseLayout>

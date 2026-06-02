@@ -1,0 +1,17 @@
+---
+import { Image } from 'astro:assets';
+import { formatDate } from '../utils';
+const { post, eager = false } = Astro.props;
+const { title, heroImage, description, pubDate, readingTime } = post.data;
+const url = `/${post.id.replace(/\.md$/, '')}/`;
+---
+<article class="post-row">
+  <a class="rthumb" href={url}>
+    {heroImage && <Image src={heroImage} alt={title} loading={eager ? "eager" : "lazy"} width={140} height={88} />}
+  </a>
+  <div>
+    <h3><a href={url}>{title}</a></h3>
+    {description && <p class="excerpt">{description}</p>}
+    <div class="meta">{formatDate(pubDate)}{readingTime ? ` · ${readingTime} min read` : ''}</div>
+  </div>
+</article>

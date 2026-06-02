@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostRow from '../../components/PostRow.astro';
+import { sortByDate } from '../../utils';
+
+const posts = (await getCollection('blog')).filter((p) => !p.data.draft).sort(sortByDate);
+---
+<BaseLayout title="All articles | Rap Jumping" description="Every guide, gear review and how-to from Rap Jumping.">
+  <div class="wrap-narrow">
+    <h1 class="page-title">All articles</h1>
+    <p class="page-sub">{posts.length} guides, gear reviews and how-tos.</p>
+    <div style="margin-top: 16px;">
+      {posts.map((post, i: number) => <PostRow post={post} eager={i === 0} />)}
+    </div>
+  </div>
+</BaseLayout>

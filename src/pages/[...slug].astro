@@ -1,0 +1,61 @@
+---
+import { getCollection, render } from 'astro:content';
+import { Image } from 'astro:assets';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { formatDate, tagSlug } from '../utils';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const pages = await getCollection('pages');
+  const postPaths = posts.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry, kind: 'post' },
+  }));
+  const pagePaths = pages.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry, kind: 'page' },
+  }));
+  return [...postPaths, ...pagePaths];
+}
+
+const { entry, kind } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+---
+<BaseLayout
+  title={`${d.title} | Rap Jumping`}
+  description={d.description}
+  image={d.heroImage || undefined}
+  type={kind === 'post' ? 'article' : 'website'}
+>
+  <article class="wrap-narrow">
+    <header class="article-head" style="margin-top: 36px;">
+      {kind === 'post' && d.tags?.[0] && (
+        <a class="pill" style="text-decoration:none;" href={`/tag/${tagSlug(d.tags[0])}/`}>{d.tags[0]}</a>
+      )}
+      <h1>{d.title}</h1>
+      {kind === 'post' && (
+        <div class="article-meta">
+          <span>{formatDate(d.pubDate)}</span>
+          {d.readingTime && <span>· {d.readingTime} min read</span>}
+        </div>
+      )}
+    </header>
+
+    {d.heroImage && (
+      <div class="article-hero">
+        <Image src={d.heroImage} alt={d.title} width={760} height={326} loading="eager" />
+      </div>
+    )}
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    {kind === 'post' && d.tags?.length > 0 && (
+      <div class="tagrow" style="margin: 40px 0;">
+        {d.tags.map((t) => <a class="tag" href={`/tag/${tagSlug(t)}/`}>{t}</a>)}
+      </div>
+    )}
+  </article>
+</BaseLayout>
