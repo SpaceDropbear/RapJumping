@@ -11,3 +11,9 @@ node_modules/
 npm-debug.log*
 # local IDE config
 .claude/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
