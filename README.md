@@ -28,6 +28,7 @@ src/
   styles/        # global.css (brand accent #a12e38)
 public/
   images/        # all post images
+  _redirects     # Cloudflare redirect rules
 ```
 
 ## Deployment
