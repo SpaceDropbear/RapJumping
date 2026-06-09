@@ -1,0 +1,23 @@
+# RapJumping.com
+
+> Australia's home of Rap Jumping — guides, gear reviews, and stories about face-forward abseiling and rappelling.
+
+Rap Jumping is a forward-facing form of abseiling pioneered in Australia in the late 1980s by Macka MacKail. This site covers the sport's history, technique, safety, gear, and locations across Australia.
+
+## Key pages
+
+- [About](https://www.rapjumping.com/about/): Who we are and the history of Rap Jumping in Australia
+- [Blog](https://www.rapjumping.com/blog/): All guides, gear reviews, and how-tos
+- [RSS Feed](https://www.rapjumping.com/rss.xml): Full content feed
+
+## Content topics
+
+- [Rap Jumping](https://www.rapjumping.com/tag/rap-jumping/): Face-forward abseiling — what it is, how to do it, where to try it
+- [Abseiling](https://www.rapjumping.com/tag/abseiling/): Technique guides, safety, anchors, and rescue
+- [Equipment](https://www.rapjumping.com/tag/equipment/): Gear reviews — harnesses, ropes, descenders, helmets
+- [Safety](https://www.rapjumping.com/tag/safety/): Safety checklists, rescue procedures, and best practices
+- [Australia](https://www.rapjumping.com/tag/australia/): Locations, tours, and operators across Australia
+
+## Usage
+
+Content on this site is © RapJumping.com. Reproduction or use for AI training is not permitted. See robots.txt for crawler policy.
