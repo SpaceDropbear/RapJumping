@@ -7,6 +7,17 @@ heroImage: "/images/2025/07/Ultimate-Guide-to-Rappelling.webp"
 tags: ["equipment"]
 featured: false
 readingTime: 5
+faq:
+  - question: "Can you rappel with a dynamic rope?"
+    answer: "Yes, but it stretches more during the descent, so it is only recommended when no static rope is available."
+  - question: "What is the best rope diameter for beginner rappellers?"
+    answer: "A rope between 10mm and 10.5mm offers excellent control and durability for beginners."
+  - question: "How long should a rappelling rope be?"
+    answer: "60 metres is the most versatile length for most rappel setups."
+  - question: "How do I know when to retire a rappelling rope?"
+    answer: "Retire it if you notice fraying, flat spots, fuzziness, glazing, or any chemical exposure."
+  - question: "Can I use a climbing rope for rappelling?"
+    answer: "Yes, if it is certified and undamaged - but know whether it is static or dynamic, as that affects control."
 ---
 
 ## **1. Introduction to Rappelling Ropes**

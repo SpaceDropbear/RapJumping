@@ -22,6 +22,15 @@ howto:
       text: "Learn the key knots and add a friction-hitch backup so the rope locks off if you let go."
     - name: "Build confidence with repetition"
       text: "Start on low, supervised descents and repeat until the movement feels controlled before progressing to bigger drops."
+faq:
+  - question: "What do I need to start abseiling?"
+    answer: "The core kit is a harness, helmet, a descender/belay device, locking carabiners, a static rope and gloves - plus a qualified instructor to rig and check your system on your first descents."
+  - question: "Is abseiling dangerous for beginners?"
+    answer: "Abseiling carries real risk, but beginners can do it safely by learning under a qualified instructor, using inspected gear, keeping a brake hand on the rope at all times and adding a friction-hitch backup."
+  - question: "What is the difference between abseiling and rappelling?"
+    answer: "They describe the same activity - a controlled rope descent. 'Abseiling' is the common term in Australia and the UK; 'rappelling' is more common in North America."
+  - question: "How do I learn to abseil?"
+    answer: "Start with a guided session or course run by a certified instructor, practise body positioning and braking on low supervised descents, then build up gradually before attempting bigger drops."
 ---
 
 ## Explore abseiling basics

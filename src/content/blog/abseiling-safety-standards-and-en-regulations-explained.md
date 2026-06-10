@@ -1,6 +1,6 @@
 ---
-title: "Abseiling Safety Standards and EN Regulations Explained"
-description: "Navigate abseiling safety standards effortlessly with expert insights into EN regulations for secure descents."
+title: "Abseiling Safety Standards: EN Regulations & Gear Compliance Guide (Australia)"
+description: "Which safety standards must your abseiling harness, rope and gear meet? A plain-English guide to EN/UIAA ratings and how to check compliance in Australia."
 pubDate: "2025-08-14"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/08/abseiling-safety-standards.webp"

@@ -1,6 +1,6 @@
 ---
-title: "Abseiling vs Rappelling: Terminology and Techniques in Australia"
-description: "Discover beginner abseiling techniques with a guide on abseiling vs rappelling - your descent into adventure starts here!"
+title: "Abseiling vs Rappelling: What's the Difference? (Australian Terms Explained)"
+description: "Abseiling and rappelling are the same thing - here's why Australians use different terms, where each came from, and what it means for your gear and technique."
 pubDate: "2025-07-26"
 updatedDate: "2025-07-30"
 heroImage: "/images/2025/07/Abseiling-vs-Rappelling.webp"
