@@ -11,6 +11,9 @@ node_modules/
 npm-debug.log*
 # local IDE config
 .claude/
+# agent / skill docs — toolchain only, never publish to the repo
+/SKILL.md
+AGENTS.md
 
 # wrangler files
 .wrangler
