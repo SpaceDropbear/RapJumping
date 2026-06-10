@@ -2,3 +2,4 @@ Contact: mailto:security@rapjumping.com
 Expires: 2027-06-09T00:00:00.000Z
 Preferred-Languages: en
 Canonical: https://www.rapjumping.com/.well-known/security.txt
+Policy: https://www.rapjumping.com/terms-conditions/

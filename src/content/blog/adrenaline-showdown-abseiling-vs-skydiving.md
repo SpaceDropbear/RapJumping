@@ -4,7 +4,7 @@ description: "Dive into the ultimate adrenaline showdown: abseiling vs skydiving
 pubDate: "2025-08-14"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/08/abseiling-vs-skydiving.webp"
-tags: []
+tags: ["abseiling", "mindset"]
 featured: false
 readingTime: 10
 ---

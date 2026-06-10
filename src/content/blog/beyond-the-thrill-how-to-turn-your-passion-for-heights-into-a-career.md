@@ -4,7 +4,7 @@ description: "Love abseiling? Discover how to transform your passion for adventu
 pubDate: "2025-07-18"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/07/Passion-for-Heights-into-a-Career.webp"
-tags: []
+tags: ["abseiling", "careers"]
 featured: false
 readingTime: 6
 ---

@@ -4,7 +4,7 @@ description: "Explore 7 incredible abseiling and rappelling feats, from record-b
 pubDate: "2025-07-18"
 updatedDate: "2025-07-26"
 heroImage: "/images/2025/07/Abseiling-Feats-That-Inspire-Adventure.webp"
-tags: []
+tags: ["abseiling", "stories"]
 featured: false
 readingTime: 7
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Terms & Conditions"
-description: ""
-heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fHNjYWxlfGVufDB8fHx8MTc3MTIyMzIwMnww&ixlib=rb-4.1.0&q=80&w=2000"
+description: "Terms & Conditions for rapjumping.com. We are an information directory and referral service - bookings are made directly with third-party suppliers."
+heroImage: "/images/2025/07/rapjumping-extreme-urban-adventure.webp"
 ---
 
 **Service Disclaimer & Limitation of Liability**

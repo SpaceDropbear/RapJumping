@@ -4,7 +4,7 @@ description: "Gear up for firefighter rappelling! Unleash your high-angle rescue
 pubDate: "2025-08-14"
 updatedDate: "2025-08-14"
 heroImage: "/images/2025/08/firefighter-rappelling.webp"
-tags: []
+tags: ["abseiling", "safety"]
 featured: false
 readingTime: 10
 ---

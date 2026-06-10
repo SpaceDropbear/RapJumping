@@ -6,12 +6,65 @@ import '../styles/global.css';
 const {
   title = 'Rap Jumping | Abseiling, Rappelling & Adventure Gear Australia',
   description = "Explore Australia's best abseiling and rappelling spots, discover top-rated climbing gear, and get expert adventure guides, tips, and trusted picks.",
-  image = '/images/2025/07/rapjumping-extreme-urban-adventure.JPG',
+  image = '/images/2025/07/rapjumping-extreme-urban-adventure.webp',
   type = 'website',
+  headline,
+  pubDate,
+  updatedDate,
+  breadcrumbs,
+  jsonLd = [],
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = new URL(image, Astro.site).href;
+const siteBase = new URL('/', Astro.site).href.replace(/\/$/, '');
+
+const pubISO = pubDate ? new Date(pubDate).toISOString() : undefined;
+const modISO = updatedDate ? new Date(updatedDate).toISOString() : pubISO;
+
+const publisher = {
+  '@type': 'Organization',
+  name: 'Rap Jumping',
+  url: siteBase + '/',
+  logo: { '@type': 'ImageObject', url: siteBase + '/apple-touch-icon.png' },
+};
+
+const schemas: Record<string, unknown>[] = [];
+schemas.push({
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Rap Jumping',
+  url: siteBase + '/',
+  description:
+    "Australia's home of rap jumping, abseiling and rappelling - guides, gear reviews and adventure stories.",
+  publisher,
+});
+if (type === 'article') {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: headline ?? title,
+    image: ogImage,
+    datePublished: pubISO,
+    dateModified: modISO,
+    author: { '@type': 'Organization', name: 'Rap Jumping', url: siteBase + '/' },
+    publisher,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+  });
+}
+if (breadcrumbs && breadcrumbs.length) {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((b: { name: string; path: string }, i: number) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: b.name,
+      item: new URL(b.path, Astro.site).href,
+    })),
+  });
+}
+for (const s of jsonLd) schemas.push({ '@context': 'https://schema.org', ...s });
 ---
 <!doctype html>
 <html lang="en-AU">
@@ -21,20 +74,26 @@ const ogImage = new URL(image, Astro.site).href;
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#a12e38" />
     <meta property="og:type" content={type} />
+    <meta property="og:locale" content="en_AU" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:site_name" content="Rap Jumping" />
+    {type === 'article' && pubISO && <meta property="article:published_time" content={pubISO} />}
+    {type === 'article' && modISO && <meta property="article:modified_time" content={modISO} />}
+    {type === 'article' && <meta property="article:author" content="Rap Jumping" />}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
     <link rel="alternate" type="application/rss+xml" title="Rap Jumping" href="/rss.xml" />
+    {schemas.map((s) => <script type="application/ld+json" is:inline set:html={JSON.stringify(s)} />)}
   </head>
   <body>
     <Header />

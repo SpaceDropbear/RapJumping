@@ -4,7 +4,7 @@ description: "Explore 5 exciting climbing and rope sports, from abseiling and ca
 pubDate: "2025-07-16"
 updatedDate: "2025-07-26"
 heroImage: "/images/2025/07/Climbing-and-Rope-Sports.webp"
-tags: []
+tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 5
 ---

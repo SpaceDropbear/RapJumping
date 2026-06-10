@@ -4,7 +4,7 @@ description: "Bouldering vs abseiling: Your guide to thrilling climbs! Compare t
 pubDate: "2025-08-14"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/08/bouldering-vs-rappelling.webp"
-tags: []
+tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 11
 ---

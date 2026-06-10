@@ -1,12 +1,15 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.rapjumping.com/sitemap.xml
+Sitemap: https://www.rapjumping.com/sitemap-index.xml
 
-# AI training crawlers — blocked
+# AI training / scraping crawlers — blocked (ai-train=no)
 User-agent: GPTBot
 Disallow: /
 
 User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
 Disallow: /
 
 User-agent: Claude-Web
@@ -24,6 +27,15 @@ Disallow: /
 User-agent: Applebot-Extended
 Disallow: /
 
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: img2dataset
+Disallow: /
+
 # AI search crawlers — allowed (search=yes)
 User-agent: OAI-SearchBot
 Allow: /
@@ -31,5 +43,11 @@ Allow: /
 User-agent: Amazonbot
 Allow: /
 
-# Content usage preferences (https://contentsignals.org)
-Content-Signal: ai-train=no, search=yes, ai-input=yes
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: DuckAssistant
+Allow: /
+
+# Content usage preferences are delivered via the Content-Signal HTTP header
+# (see public/_headers and https://contentsignals.org)

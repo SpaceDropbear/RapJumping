@@ -4,7 +4,7 @@ description: "Discover the vital role of helicopter rappelling for Australian De
 pubDate: "2025-07-18"
 updatedDate: "2025-07-26"
 heroImage: "/images/2025/07/Helicopter-Rappelling-in-Australia.webp"
-tags: []
+tags: ["abseiling", "australia"]
 featured: false
 readingTime: 4
 ---

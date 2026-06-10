@@ -1,10 +1,10 @@
 ---
 title: "Rap Jumping Is Back: Who We Are, Where We've Been & Our Vision Ahead"
-description: ""
+description: "Rap Jumping is back. Meet Australia's original face-forward abseiling pioneers, founded in 1989, and our 2025 relaunch as your hub for vertical adventure."
 pubDate: "2025-07-15"
 updatedDate: "2025-07-27"
 heroImage: "/images/2025/07/Our-Vision-Ahead.webp"
-tags: []
+tags: ["rap jumping", "stories"]
 featured: true
 readingTime: 2
 ---

@@ -7,6 +7,19 @@ heroImage: "/images/2025/08/Tactical-Rappelling-Australian-Rappel-Techniques.web
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 11
+howto:
+  name: "The Australian (Face-Forward) Rappel Technique"
+  steps:
+    - name: "Understand the Australian rappel"
+      text: "Learn how the face-forward descent differs from a standard seated abseil and why fine control matters."
+    - name: "Prepare the right gear"
+      text: "Set up an appropriate harness, anchor system and a rope rated for the load and use."
+    - name: "Run your safety checks"
+      text: "Complete pre-descent checks of the anchor, device, carabiners and backup before committing your weight."
+    - name: "Follow the step-by-step technique"
+      text: "Face downhill, control your speed with the brake hand and keep your body square to the slope."
+    - name: "Practise rescue and emergency skills"
+      text: "Rehearse self-arrest and rescue procedures with a trained professional before any live descent."
 ---
 
 ---
@@ -192,3 +205,8 @@ The Australian rappel can be an incredible way to expand your abseiling repertoi
 If you're eager to learn more about anchor systems, self-belaying, or other safe abseiling techniques, spend some time reviewing abseiling safety. And if you do decide to give the Australian rappel a go, start slow, stay alert, and have a friend tag along to spot you. With practice, you'll soon find yourself confident enough to descend face-first while enjoying every adrenaline-charged second of the journey.
 
 Happy (and safe) abseiling! If you have any go-to tricks or want to share stories of your own trials and triumphs, drop them in the comments. Embrace the rush, keep safety at the forefront, and you'll be running down walls like a pro in no time.
+
+
+---
+
+**Keep reading:** [Abseiling for Beginners](/abseiling-101-a-beginners-guide-to-rappelling/) · [Mastering Abseiling Techniques & Rope Skills](/mastering-abseiling-techniques-and-rope-skills/)

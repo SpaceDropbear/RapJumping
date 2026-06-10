@@ -7,6 +7,15 @@ heroImage: "/images/2025/07/Introduction-to-Rappel-Devices.webp"
 tags: ["equipment"]
 featured: false
 readingTime: 6
+faq:
+  - question: "Which descender is best for beginners?"
+    answer: "A tube-style device such as an ATC is a popular, affordable beginner choice because it is simple, light and works with a range of rope diameters."
+  - question: "What is the advantage of a figure-8 descender?"
+    answer: "A figure-8 dissipates heat well and feeds rope smoothly, which suits longer or rescue descents, though it can put twists in the rope."
+  - question: "Is a GriGri good for rappelling?"
+    answer: "An assisted-braking device like the GriGri adds a self-braking function for extra security, but it is single-rope only and needs correct technique to lower smoothly."
+  - question: "Do I need a backup with my descender?"
+    answer: "Yes - a friction-hitch backup such as a prusik or autoblock is strongly recommended so the rope locks off if you lose control, whatever device you use."
 ---
 
 ## **1. Introduction to Rappel Devices**

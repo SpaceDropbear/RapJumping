@@ -4,7 +4,7 @@ description: "Discover the legendary Dave Evans Bicentennial Tree in WA - a 75m 
 pubDate: "2025-07-18"
 updatedDate: "2025-07-18"
 heroImage: "/images/2025/07/Dave-Evans-Bicentennial-Tree.webp"
-tags: []
+tags: ["abseiling", "western australia"]
 featured: false
 readingTime: 4
 ---

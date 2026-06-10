@@ -4,7 +4,7 @@ description: "Explore the 5 deadliest extreme sports-FREE SOLO climbing, BASE ju
 pubDate: "2025-07-18"
 updatedDate: "2025-07-26"
 heroImage: "/images/2025/07/Deadliest-Extreme-Sports.webp"
-tags: []
+tags: ["abseiling"]
 featured: false
 readingTime: 2
 ---

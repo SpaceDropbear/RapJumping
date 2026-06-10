@@ -1,0 +1,42 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostRow from '../../components/PostRow.astro';
+import { sortByDate } from '../../utils';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = (await getCollection('blog')).filter((p) => !p.data.draft).sort(sortByDate);
+  return paginate(posts, { pageSize: 20 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const title =
+  page.currentPage === 1
+    ? 'All articles | Rap Jumping'
+    : `All articles - Page ${page.currentPage} | Rap Jumping`;
+const breadcrumbs = [
+  { name: 'Home', path: '/' },
+  { name: 'Blog', path: '/blog/' },
+];
+---
+<BaseLayout
+  title={title}
+  description="Every guide, gear review and how-to from Rap Jumping."
+  breadcrumbs={breadcrumbs}
+>
+  <div class="wrap-narrow">
+    <h1 class="page-title">All articles</h1>
+    <p class="page-sub">{page.total} guides, gear reviews and how-tos.</p>
+    <div style="margin-top: 16px;">
+      {page.data.map((post, i: number) => <PostRow post={post} eager={i === 0} />)}
+    </div>
+    {(page.url.prev || page.url.next) && (
+      <nav class="pagination" style="display:flex;justify-content:space-between;align-items:center;gap:12px;margin:36px 0;">
+        {page.url.prev ? <a class="tag" href={page.url.prev}>&larr; Newer</a> : <span></span>}
+        <span class="page-sub">Page {page.currentPage} of {page.lastPage}</span>
+        {page.url.next ? <a class="tag" href={page.url.next}>Older &rarr;</a> : <span></span>}
+      </nav>
+    )}
+  </div>
+</BaseLayout>

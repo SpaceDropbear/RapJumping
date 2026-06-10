@@ -4,7 +4,7 @@ description: "Take your extreme sports to the next level with drone footage. Lea
 pubDate: "2025-07-19"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/07/Enhance-Your-Extreme-Sports-Experience-with-a-Drone.webp"
-tags: []
+tags: ["abseiling", "australia"]
 featured: false
 readingTime: 4
 ---

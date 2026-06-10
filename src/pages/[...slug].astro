@@ -21,12 +21,48 @@ export async function getStaticPaths() {
 const { entry, kind } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
+const isPost = kind === 'post';
+
+const breadcrumbs = isPost
+  ? [{ name: 'Home', path: '/' }, { name: 'Blog', path: '/blog/' }, { name: d.title, path: `/${entry.id}/` }]
+  : [{ name: 'Home', path: '/' }, { name: d.title, path: `/${entry.id}/` }];
+
+const jsonLd: Record<string, unknown>[] = [];
+if (isPost) {
+  if (d.faq?.length) {
+    jsonLd.push({
+      '@type': 'FAQPage',
+      mainEntity: d.faq.map((f) => ({
+        '@type': 'Question',
+        name: f.question,
+        acceptedAnswer: { '@type': 'Answer', text: f.answer },
+      })),
+    });
+  }
+  if (d.howto) {
+    jsonLd.push({
+      '@type': 'HowTo',
+      name: d.howto.name,
+      step: d.howto.steps.map((s, i) => ({
+        '@type': 'HowToStep',
+        position: i + 1,
+        name: s.name,
+        text: s.text,
+      })),
+    });
+  }
+}
 ---
 <BaseLayout
   title={`${d.title} | Rap Jumping`}
   description={d.description}
   image={d.heroImage || undefined}
-  type={kind === 'post' ? 'article' : 'website'}
+  type={isPost ? 'article' : 'website'}
+  headline={d.title}
+  pubDate={isPost ? d.pubDate : undefined}
+  updatedDate={isPost ? d.updatedDate : undefined}
+  breadcrumbs={breadcrumbs}
+  jsonLd={jsonLd}
 >
   <article class="wrap-narrow">
     <header class="article-head" style="margin-top: 36px;">

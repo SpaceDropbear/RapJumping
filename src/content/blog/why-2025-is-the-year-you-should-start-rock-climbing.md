@@ -4,7 +4,7 @@ description: "Discover why rock climbing is your perfect new hobby for 2025! Get
 pubDate: "2025-07-17"
 updatedDate: "2025-07-26"
 heroImage: "/images/2025/07/You-Should-Start-Rock-Climbing.webp"
-tags: []
+tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 4
 ---

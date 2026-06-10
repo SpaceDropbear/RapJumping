@@ -21,8 +21,13 @@ export async function getStaticPaths() {
 }
 
 const { label, posts } = Astro.props;
+const description = `${label} guides, tips and gear reviews from Australia's abseiling and rap jumping experts - ${posts.length} ${posts.length === 1 ? 'article' : 'articles'} on ${label}.`;
+const breadcrumbs = [
+  { name: 'Home', path: '/' },
+  { name: label, path: `/tag/${tagSlug(label)}/` },
+];
 ---
-<BaseLayout title={`${label} | Rap Jumping`} description={`Articles tagged ${label}.`}>
+<BaseLayout title={`${label} | Rap Jumping`} description={description} breadcrumbs={breadcrumbs}>
   <div class="wrap-narrow">
     <h1 class="page-title">{label}</h1>
     <p class="page-sub">{posts.length} {posts.length === 1 ? 'article' : 'articles'}</p>

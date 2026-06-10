@@ -18,6 +18,10 @@ Rap Jumping is a forward-facing form of abseiling pioneered in Australia in the 
 - [Safety](https://www.rapjumping.com/tag/safety/): Safety checklists, rescue procedures, and best practices
 - [Australia](https://www.rapjumping.com/tag/australia/): Locations, tours, and operators across Australia
 
+## Optional
+
+- [Full content index](https://www.rapjumping.com/llms-full.txt): A curated list of the most important individual articles for AI retrieval and citation.
+
 ## Usage
 
-Content on this site is © RapJumping.com. Reproduction or use for AI training is not permitted. See robots.txt for crawler policy.
+Content on this site is © RapJumping.com. AI search and retrieval (ai-input=yes) is permitted — you may read and cite this content with attribution. AI training (ai-train=no) is not permitted. See `/robots.txt` and the `Content-Signal` HTTP header (in `/_headers`) for the machine-readable crawler and usage policy.

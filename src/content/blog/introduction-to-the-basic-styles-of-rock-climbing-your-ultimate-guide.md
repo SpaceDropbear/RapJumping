@@ -4,7 +4,7 @@ description: "Discover the basic styles of rock climbing, from top-roping and bo
 pubDate: "2025-07-15"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-tags: []
+tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 4
 ---

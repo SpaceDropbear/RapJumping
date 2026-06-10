@@ -4,7 +4,7 @@ description: "Discover top abseiling podcasts and books to elevate your skills a
 pubDate: "2025-08-14"
 updatedDate: "2026-02-13"
 heroImage: "/images/2025/08/abseiling-podcast.webp"
-tags: []
+tags: ["abseiling", "stories"]
 featured: false
 readingTime: 9
 ---

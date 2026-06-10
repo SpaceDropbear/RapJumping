@@ -87,3 +87,8 @@ Safety is your ally when you're learning any new skill, and abseiling is no diff
 ## Summing up
 
 Whether you call it abseiling or rappelling, this controlled descent technique is a brilliant way to see Australia's natural wonders from a fresh angle. It's equal parts adrenaline and skill-building, and a good set of beginner abseiling techniques will boost your confidence from day one. Check your gear, move slowly, and remember to keep friction in your favour. Before you know it, you'll be backing over edges with a grin on your face and a new passion you can share with others.
+
+
+---
+
+**Keep reading:** [Abseiling for Beginners](/abseiling-101-a-beginners-guide-to-rappelling/)

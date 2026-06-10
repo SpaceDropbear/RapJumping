@@ -1,6 +1,6 @@
 ---
 title: "Rope Rescue and Professional Rappelling Applications"
-description: ""
+description: "How rope rescue and professional rappelling work: gear, anchors, mechanical advantage and team training for high-angle and rope-access rescue operations."
 pubDate: "2025-08-14"
 updatedDate: "2025-08-15"
 heroImage: "/images/2025/08/rope-rescue.webp"

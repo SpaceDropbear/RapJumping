@@ -4,7 +4,7 @@ description: "Love extreme sports and travel? Discover 8 adrenaline-fueled outdo
 pubDate: "2025-07-18"
 updatedDate: "2025-07-26"
 heroImage: "/images/2025/07/Must-Try-Extreme-Sports.webp"
-tags: []
+tags: ["abseiling"]
 featured: false
 readingTime: 7
 ---

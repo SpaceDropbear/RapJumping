@@ -1,12 +1,21 @@
 ---
-title: "Carabiners Explained: Top Types, Strength Ratings & Best Uses for Rappelling"
-description: "Discover the best rappelling carabiners, including HMS and locking carabiners. Learn about carabiner strength, types, safety ratings, and when to use each in climbing and rigging."
+title: "Which Carabiner for Rappelling? Types, Strength Ratings & Safety Guide"
+description: "Which carabiner is best for rappelling? Compare HMS, locking and screwgate types, kN strength ratings and safe uses for abseiling, climbing and rigging."
 pubDate: "2025-07-22"
 updatedDate: "2025-07-25"
 heroImage: "/images/2025/07/Carabiners-Explained.webp"
 tags: ["equipment"]
 featured: false
 readingTime: 5
+faq:
+  - question: "What type of carabiner is best for rappelling?"
+    answer: "A locking carabiner - typically a pear-shaped HMS or a screwgate or auto-locking model - is recommended for rappelling because the locking gate prevents accidental opening under load."
+  - question: "How strong should a rappelling carabiner be?"
+    answer: "Look for carabiners rated to at least 20 kN along the major (long) axis, with the strength rating and CE or UIAA markings stamped on the spine."
+  - question: "What is the difference between a screwgate and an auto-locking carabiner?"
+    answer: "A screwgate locks manually by turning a sleeve, while an auto-locking carabiner closes itself automatically; auto-locking reduces the risk of forgetting to lock the gate."
+  - question: "Can I use a non-locking carabiner for rappelling?"
+    answer: "No - non-locking carabiners can open under movement or rope friction and should never be used in the critical connections of a rappel system."
 ---
 
 ## **1. Introduction to Carabiners for Rappelling**
@@ -272,3 +281,8 @@ Yes. Cross-loading reduces strength drastically and can lead to failure.
 ## **18. Conclusion: Picking the Perfect Rappelling Carabiner**
 
 When it comes to rappelling, carabiners are more than connectors-they're crucial safety gear. Choose based on your activity, device compatibility, and environment. Look for certified models with locking gates and appropriate strength ratings. Always inspect before use and never compromise on safety.
+
+
+---
+
+**Keep reading:** [Mastering Abseiling Techniques & Rope Skills](/mastering-abseiling-techniques-and-rope-skills/)

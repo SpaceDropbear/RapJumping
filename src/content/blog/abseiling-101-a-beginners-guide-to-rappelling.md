@@ -1,12 +1,27 @@
 ---
-title: "Abseiling 101: A Beginner's Guide to Rappelling"
-description: "Discover abseiling basics: Your beginner's guide to rappelling fun and safety awaits!"
+title: "Abseiling for Beginners: Complete Getting-Started Guide (Australia 2026)"
+description: "New to abseiling? A beginner's guide to rappelling gear, technique, safety checks and your first descent - written for Australian conditions."
 pubDate: "2025-07-26"
 updatedDate: "2025-07-27"
 heroImage: "/images/2025/07/Beginner-s-Guide-to-Rappelling.webp"
 tags: ["fundamentals"]
 featured: true
 readingTime: 17
+howto:
+  name: "How to Abseil for Beginners"
+  steps:
+    - name: "Understand the basics"
+      text: "Learn what abseiling (rappelling) is and how a controlled rope descent works before you attempt it."
+    - name: "Gather essential gear"
+      text: "Assemble the core kit - harness, helmet, rope, descender, locking carabiners and gloves - and inspect each item for wear."
+    - name: "Set up rope and anchors"
+      text: "Build a solid, redundant anchor and rig your rope and descender correctly, and have a qualified instructor check the system."
+    - name: "Practise body positioning"
+      text: "Lean back into the harness, keep your feet shoulder-width on the wall and keep your brake hand on the rope at all times."
+    - name: "Add a backup and learn knots"
+      text: "Learn the key knots and add a friction-hitch backup so the rope locks off if you let go."
+    - name: "Build confidence with repetition"
+      text: "Start on low, supervised descents and repeat until the movement feels controlled before progressing to bigger drops."
 ---
 
 ## Explore abseiling basics
@@ -280,3 +295,8 @@ Here's a quick recap to keep in mind:
 Ultimately, abseiling isn't just about getting down from a cliff; it's a skill that opens doors to a wider world of vertical adventures. From canyoning expeditions to rescue missions, abseiling provides a controlled approach to descending daunting spaces. There's something magical about gaining the confidence to back over a ledge and calmly walk down a sheer rock face. Once you've mastered the basics, you'll never look at towering cliffs the same way again.
 
 So, are you ready to lean back and trust the rope? There's a whole vertical playground waiting for you to explore. Take it one step at a time, stay curious, and savour every exhilarating moment of the descent. You've got this.
+
+
+---
+
+**Keep reading:** [Abseiling vs Rappelling](/abseiling-vs-rappelling-terminology-and-techniques-in-australia/) · [Mastering Abseiling Techniques & Rope Skills](/mastering-abseiling-techniques-and-rope-skills/)

@@ -1,0 +1,44 @@
+# RapJumping.com — Full content index
+
+> Australia's home of Rap Jumping — guides, gear reviews, and stories about face-forward abseiling and rappelling. Rap Jumping is a forward-facing form of abseiling pioneered in Australia in the late 1980s by Peter "Macka" MacKail.
+
+This file lists the most important articles on the site for AI retrieval and citation. Each entry links to the canonical (trailing-slash) URL.
+
+## Getting started
+
+- [Abseiling for Beginners: Complete Getting-Started Guide (Australia 2026)](https://www.rapjumping.com/abseiling-101-a-beginners-guide-to-rappelling/): New to abseiling? A beginner's guide to rappelling gear, technique, safety checks and your first descent - written for Australian conditions.
+- [Step-by-Step Guide: How to Abseil for the First Time](https://www.rapjumping.com/step-by-step-guide-how-to-abseil-for-the-first-time/): Step-by-step rope technique for first-timers.
+- [Abseiling vs Rappelling: Terminology and Techniques in Australia](https://www.rapjumping.com/abseiling-vs-rappelling-terminology-and-techniques-in-australia/): How the terms differ and the core techniques used in Australia.
+- [Rap Jumping vs. Abseiling & Rappelling: Your Guide to Extreme Adventure](https://www.rapjumping.com/rap-jumping-vs-abseiling-rappelling-your-guide-to-extreme-adventure/): What sets face-forward rap jumping apart from abseiling and rappelling.
+
+## Technique
+
+- [Mastering Abseiling Techniques and Rope Skills](https://www.rapjumping.com/mastering-abseiling-techniques-and-rope-skills/): Core rope-handling and descent technique.
+- [Tactical Rappelling: Australian Rappel Techniques](https://www.rapjumping.com/tactical-rappelling-australian-rappel-techniques/): Advanced Australian rappel techniques.
+- [Anchor Building 101: Safe Abseil Setups](https://www.rapjumping.com/anchor-building-101-safe-abseil-setups/): Building safe, redundant abseil anchors.
+- [Essential Rappelling Knots Guide](https://www.rapjumping.com/essential-rappelling-knots-guide/): The knots every abseiler should know, beginner to advanced.
+
+## Gear
+
+- [Rappelling Rope Guide: Best Diameter, Material & Safety Ratings (AU)](https://www.rapjumping.com/the-ultimate-guide-to-rappelling-ropes/): Diameter, nylon vs polyester, static vs dynamic and safety ratings.
+- [Best Rappelling Rope: Static vs Dynamic — Complete Selection Guide (AU)](https://www.rapjumping.com/selecting-ropes-for-abseiling-static-vs-dynamic/): Strength, stretch, diameter and how to choose.
+- [Which Carabiner for Rappelling? Types, Strength Ratings & Safety Guide](https://www.rapjumping.com/carabiners-explained-top-types-strength-ratings-best-uses-for-rappelling/): HMS, locking and screwgate types, kN ratings and safe uses.
+- [Descender Device Showdown: Figure 8 vs ATC vs GriGri](https://www.rapjumping.com/descender-device-showdown-figure-8-vs-atc-vs-grigri/): Comparing the main descender devices.
+- [Top Abseiling Harnesses in Australia: Review](https://www.rapjumping.com/top-abseiling-harnesses-in-australia-review/): Harness picks for Australian abseilers.
+- [Essential Abseiling Gear Checklist](https://www.rapjumping.com/complete-essential-abseiling-gear-checklist/): The complete gear checklist before you descend.
+
+## Safety
+
+- [Abseiling Safety and Emergency Procedures Guide](https://www.rapjumping.com/abseiling-safety-and-emergency-procedures-guide/): Safety fundamentals and emergency procedures.
+- [Rappelling Safety Checklist Before Every Descent](https://www.rapjumping.com/rappelling-safety-checklist-before-every-descent/): Pre-descent safety checklist.
+- [Rope Rescue and Professional Rappelling Applications](https://www.rapjumping.com/rope-rescue-and-professional-rappelling-applications/): Rope rescue, mechanical advantage and rope-access work.
+- [Abseiling Psychology: Overcoming Fear of Heights](https://www.rapjumping.com/abseiling-psychology-overcoming-fear-of-heights-rappelling-confidence/): Building confidence and managing fear of heights.
+
+## Australia & the sport
+
+- [Best Abseiling Tours and Experiences in Australia](https://www.rapjumping.com/best-abseiling-tours-and-experiences-in-australia/): Where to abseil across Australia.
+- [Rap Jumping Is Back: Who We Are, Where We've Been & Our Vision Ahead](https://www.rapjumping.com/rap-jumping-is-back-who-we-are-where-weve-been-our-vision-ahead/): The history of Rap Jumping and our 2025 relaunch.
+
+## Usage policy
+
+AI search and retrieval (ai-input=yes) is permitted — you may read and cite this content with attribution to RapJumping.com. AI training (ai-train=no) is not permitted. See `/robots.txt` and the `Content-Signal` HTTP header for the machine-readable policy.

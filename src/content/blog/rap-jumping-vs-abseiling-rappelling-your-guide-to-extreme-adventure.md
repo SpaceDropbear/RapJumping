@@ -4,7 +4,7 @@ description: "Explore the thrilling differences between Rap Jumping, abseiling, 
 pubDate: "2025-07-19"
 updatedDate: "2025-07-30"
 heroImage: "/images/2025/07/rap-jumping-urban-central-1.webp"
-tags: []
+tags: ["rap jumping", "abseiling"]
 featured: false
 readingTime: 4
 ---
