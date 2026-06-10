@@ -1,4 +1,6 @@
 /*
+  Link: <https://www.rapjumping.com/sitemap-index.xml>; rel="sitemap"
+  Link: <https://www.rapjumping.com/rss.xml>; rel="alternate"; type="application/rss+xml"
   Link: <https://www.rapjumping.com/llms.txt>; rel="llms"
   Content-Signal: ai-train=no, search=yes, ai-input=yes
   X-Content-Type-Options: nosniff

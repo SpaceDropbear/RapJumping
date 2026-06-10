@@ -1,4 +1,5 @@
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
 Sitemap: https://www.rapjumping.com/sitemap-index.xml
 
@@ -49,5 +50,5 @@ Allow: /
 User-agent: DuckAssistant
 Allow: /
 
-# Content usage preferences are delivered via the Content-Signal HTTP header
-# (see public/_headers and https://contentsignals.org)
+# Content usage preferences (Content-Signal, above) are also sent as an HTTP
+# response header — see public/_headers and https://contentsignals.org

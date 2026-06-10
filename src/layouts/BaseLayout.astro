@@ -29,6 +29,12 @@ const publisher = {
   logo: { '@type': 'ImageObject', url: siteBase + '/apple-touch-icon.png' },
 };
 
+const author = {
+  '@type': 'Person',
+  name: 'Derek Whittingham',
+  url: siteBase + '/about/',
+};
+
 const schemas: Record<string, unknown>[] = [];
 schemas.push({
   '@context': 'https://schema.org',
@@ -47,7 +53,7 @@ if (type === 'article') {
     image: ogImage,
     datePublished: pubISO,
     dateModified: modISO,
-    author: { '@type': 'Organization', name: 'Rap Jumping', url: siteBase + '/' },
+    author,
     publisher,
     mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
   });
@@ -87,7 +93,7 @@ for (const s of jsonLd) schemas.push({ '@context': 'https://schema.org', ...s })
     <meta property="og:site_name" content="Rap Jumping" />
     {type === 'article' && pubISO && <meta property="article:published_time" content={pubISO} />}
     {type === 'article' && modISO && <meta property="article:modified_time" content={modISO} />}
-    {type === 'article' && <meta property="article:author" content="Rap Jumping" />}
+    {type === 'article' && <meta property="article:author" content="Derek Whittingham" />}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />

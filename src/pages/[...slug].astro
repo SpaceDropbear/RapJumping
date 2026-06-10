@@ -72,7 +72,8 @@ if (isPost) {
       <h1>{d.title}</h1>
       {kind === 'post' && (
         <div class="article-meta">
-          <span>{formatDate(d.pubDate)}</span>
+          <span>By <a href="/about/" style="color:inherit;">Derek Whittingham</a></span>
+          <span>· {formatDate(d.pubDate)}</span>
           {d.readingTime && <span>· {d.readingTime} min read</span>}
         </div>
       )}
