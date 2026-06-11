@@ -1,5 +1,5 @@
 ---
-title: "Which Carabiner for Rappelling? Types, Strength Ratings & Safety Guide"
+title: "Carabiners for Abseiling: Types, Strength & Safety"
 description: "Which carabiner is best for rappelling? Compare HMS, locking and screwgate types, kN strength ratings and safe uses for abseiling, climbing and rigging."
 pubDate: "2025-07-22"
 updatedDate: "2025-07-25"
@@ -16,6 +16,18 @@ faq:
     answer: "A screwgate locks manually by turning a sleeve, while an auto-locking carabiner closes itself automatically; auto-locking reduces the risk of forgetting to lock the gate."
   - question: "Can I use a non-locking carabiner for rappelling?"
     answer: "No - non-locking carabiners can open under movement or rope friction and should never be used in the critical connections of a rappel system."
+---
+
+---
+
+### TL;DR
+
+- For abseiling, always use a locking carabiner — a screw-lock or auto-locking gate is essential to stop it opening accidentally under load.
+- Choose the shape for the job: D-shaped carabiners are strongest and most efficient for rappel/belay devices, while pear-shaped HMS carabiners suit Münter hitches and multiple rope strands.
+- Check the strength rating — aim for at least 22–24kN on the major axis, and look for UIAA or CE marks stamped on the spine.
+- Pick the material to match: lightweight aluminium for recreational abseiling, stronger steel for rescue or industrial use.
+- Inspect before every descent for cracks, grooves or corrosion and a smooth, secure-locking gate, and never cross-load the carabiner.
+
 ---
 
 ## **1. Introduction to Carabiners for Rappelling**

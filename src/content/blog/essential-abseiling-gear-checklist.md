@@ -9,6 +9,18 @@ featured: false
 readingTime: 3
 ---
 
+---
+
+### TL;DR
+
+- The core beginner abseiling kit is a snug harness, a 9–10mm rope, a belay/descender device, locking carabiners, a helmet and gloves.
+- Fit matters: the harness waistbelt should sit above your hips with snug leg loops, and the helmet should sit comfortably without wobbling.
+- Use locking (screw-gate or auto-locking) carabiners and a lightweight tube-style descender like an ATC, practising your friction control first.
+- Wear gloves to prevent rope burn and grippy, supportive footwear for stable footing on the cliff top.
+- Pack the extras — chalk bag, small first-aid kit, prusik loop or backup sling, and a headlamp — and inspect every item for wear before each descent.
+
+---
+
 Ever wondered what gear you really need to make your first descent smooth and safe? Abseiling for beginners can feel daunting, but trust me, once you've got the basics locked in, it's pure adrenaline and fun. Below is a gear checklist to help you prepare for that vertical journey.
 
 ## Gather a sturdy harness

@@ -54,7 +54,7 @@ if (isPost) {
 }
 ---
 <BaseLayout
-  title={`${d.title} | Rap Jumping`}
+  title={isPost ? d.title : `${d.title} | Rap Jumping`}
   description={d.description}
   image={d.heroImage || undefined}
   type={isPost ? 'article' : 'website'}

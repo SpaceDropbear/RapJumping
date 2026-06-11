@@ -18,6 +18,18 @@ faq:
     answer: "Yes - a friction-hitch backup such as a prusik or autoblock is strongly recommended so the rope locks off if you lose control, whatever device you use."
 ---
 
+---
+
+### TL;DR
+
+- No single descender wins outright — the best choice depends on your experience, rope and terrain, balancing safety, speed and control.
+- The ATC is a lightweight, affordable, versatile tube device, but it relies on manual braking and can get hot on long descents.
+- The Figure 8 dissipates heat best and handles thick ropes for rescue work, but it can twist the rope and needs more skill.
+- The Grigri's assisted braking auto-locks if you let go — great for beginners, solo or long descents — but it's single-rope only.
+- Whatever device you choose, pair it with a locking carabiner and add a friction-hitch backup (prusik or autoblock) for safety.
+
+---
+
 ## **1. Introduction to Rappel Devices**
 
 Rappelling devices-commonly called **descenders**-are essential tools for controlling your descent on a rope. Whether you're canyoneering, rock climbing, or performing a tactical rescue, the right device can make the difference between a smooth rappel and a dangerous mishap.

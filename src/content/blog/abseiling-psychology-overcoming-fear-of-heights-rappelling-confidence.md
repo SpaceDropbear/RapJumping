@@ -9,6 +9,18 @@ featured: false
 readingTime: 4
 ---
 
+---
+
+### TL;DR
+
+- You can overcome a fear of heights and build abseiling confidence by facing it in small, steady increments rather than all at once.
+- Start by mapping your mindset — pinpoint your triggers and set a measurable goal, like completing a three-metre abseil in your first session.
+- Build trust in reliable gear that meets Australian safety standards (harness, ropes, gloves, helmet), and have a qualified instructor check it.
+- Practise short drills in a controlled spot like a rock gym or gentle cliff — begin with mini drops, keep knees bent, breathe deeply and visualise a calm descent.
+- Track your confidence after each session, celebrate every checkpoint, then step up to guided adventures with a local instructor.
+
+---
+
 Got a fear of heights but still keen to try abseiling in Australia? You’re not alone. Many new adventurers feel that twinge of anxiety when looking over a cliff edge. Your mission now is to channel that energy into focus, build your confidence step by step, and discover the sheer thrill of lowering yourself down a scenic rock face.
 
 ## Map your mindset

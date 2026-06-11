@@ -1,5 +1,5 @@
 ---
-title: "Rappelling Rope Guide: Best Diameter, Material & Safety Ratings for Abseiling (AU)"
+title: "Abseiling Rope Guide: Diameter, Material & Safety (AU)"
 description: "Choosing a rappelling rope? Compare diameter, nylon vs polyester, static vs dynamic and safety ratings to pick the right abseiling rope in Australia."
 pubDate: "2025-07-21"
 updatedDate: "2025-07-26"
@@ -18,6 +18,18 @@ faq:
     answer: "Retire it if you notice fraying, flat spots, fuzziness, glazing, or any chemical exposure."
   - question: "Can I use a climbing rope for rappelling?"
     answer: "Yes, if it is certified and undamaged - but know whether it is static or dynamic, as that affects control."
+---
+
+---
+
+### TL;DR
+
+- The best abseiling rope is a certified, low-stretch static rope (under 5% stretch) for a controlled descent — dynamic ropes stretch up to 30% and are better suited to absorbing climbing falls.
+- Match material to conditions: nylon gives high stretch and shock absorption, while polyester is less stretchy and more UV-, water- and abrasion-resistant.
+- Diameter affects control — 9.5–10.5mm is the standard range, with 10–10.5mm best for beginners; 60m is the most versatile length.
+- Always check for UIAA or CE certification and confirm the rope's diameter suits your descender.
+- Retire any rope showing fraying, flat spots, fuzziness, glazing or chemical exposure, and store it in a cool, dark, chemical-free place.
+
 ---
 
 ## **1. Introduction to Rappelling Ropes**

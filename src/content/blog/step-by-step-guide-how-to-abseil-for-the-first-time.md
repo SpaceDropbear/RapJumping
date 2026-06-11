@@ -22,6 +22,18 @@ howto:
       text: "Inspect, clean and store your rope correctly so it stays safe for the next descent."
 ---
 
+---
+
+### TL;DR
+
+- Abseiling for the first time comes down to five steps: gather your gear, set a solid anchor, practise the technique, prevent rope snags and maintain your rope.
+- Choose a static rope (around 9–10mm) for minimal stretch and a stable descent, and check for certifications like CE EN 1891.
+- Rig a secure, double-checked anchor to a tree, bolt or rock protection, inspect your harness and lock your carabiners.
+- Use the basic stance — lean back, feet shoulder-width, brake hand near your hip — and descend slowly and smoothly under control.
+- Keep the rope running freely to avoid snags, then clean, inspect and store it dry so it's safe for next time.
+
+---
+
 Whether you call it abseiling or rappelling, you're essentially lowering yourself down a rope in a controlled descent. If it's your first time, “controlled” might not be the first word on your mind. Don't worry. In this guide, you'll walk through abseiling rope techniques so you can descend with confidence and keep your nerves in check.
 
 Before we dive in, it helps to understand that abseiling involves a rope setup, an anchor, and a solid body position. Once you get the hang of it, it feels as natural as walking down stairs (though with a bit more adrenaline). Ready to get started?

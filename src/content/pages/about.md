@@ -15,4 +15,8 @@ This site is independently run and supported through affiliate partnerships. Whe
 
 Start your next descent with confidence.
 
+## Contact
+
+Rap Jumping is based in Melbourne, Victoria, Australia. For enquiries, email [info@rapjumping.com](mailto:info@rapjumping.com).
+
 ![](/images/2025/08/Logo.webp)
