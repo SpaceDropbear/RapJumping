@@ -2,7 +2,7 @@
 title: "Rap Jumping Is Back: Who We Are, Where We've Been & Our Vision Ahead"
 description: "Rap Jumping is back. Meet Australia's original face-forward abseiling pioneers, founded in 1989, and our 2025 relaunch as your hub for vertical adventure."
 pubDate: "2025-07-15"
-updatedDate: "2025-07-27"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Our-Vision-Ahead.webp"
 tags: ["rap jumping", "stories"]
 featured: true
@@ -49,13 +49,3 @@ The global pandemic didn't just shutter sites; it reshaped travel and gatherings
 We're more than a blog-we're a community built on decades of vertical expertise. Whether you're chasing your first rappel or your hundredth, Rap Jumping's relaunch is your passport to safer, smarter, and more affordable thrills across Australia.
 
 **Ready to reignite your sense of adventure?** Let’s descend into excitement together!
-
-## Sign up for Rap Jumping
-
-Discover the best places to abseil, climb, jump, and explore across Australia - expert tips and trusted links.
-
-Subscribe
-
-Email sent! Check your inbox to complete your signup.
-
-No spam. Unsubscribe anytime.
