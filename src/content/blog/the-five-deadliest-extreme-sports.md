@@ -2,11 +2,21 @@
 title: "The Five Deadliest Extreme Sports"
 description: "Explore the 5 deadliest extreme sports-FREE SOLO climbing, BASE jumping, big‑wave surfing & more"
 pubDate: "2025-07-18"
-updatedDate: "2025-07-26"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Deadliest-Extreme-Sports.webp"
 tags: ["abseiling"]
 featured: false
 readingTime: 2
+---
+
+### TL;DR
+
+- The five deadliest extreme sports are free solo climbing, BASE jumping, big-wave surfing, creeking (white-water kayaking) and bull riding.
+- BASE jumping carries roughly one fatality per 60 jumps, with 28 recorded deaths in 2023 - the highest since 2018 - and 118 deaths at Lauterbrunnen, Switzerland since 1994.
+- Free soloing is estimated at one death per 1,000 climbers annually, while big-wave surfers suffer about one death per 12,000 waves.
+- Bull riding logs 28-48 injuries per 1,000 rides - double other rodeo events - and creeking registers around one fatality per 2,500 paddlers per year.
+- For a controlled adrenaline experience instead, Rap Jumping offers all the thrills with none of the documented body count.
+
 ---
 
 Craving adrenaline? These five extreme sports deliver thrills-plus serious risk. Here's how nasty things can really get.

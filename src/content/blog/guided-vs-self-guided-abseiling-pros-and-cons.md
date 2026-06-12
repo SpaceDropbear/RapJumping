@@ -2,11 +2,28 @@
 title: "Guided vs Self Guided Abseiling Pros and Cons"
 description: "Discover the pros and cons of guided abseiling! Choose between expert-led thrills or adventurous independence!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Guided-vs-Self-Guided-Abseiling.webp"
 tags: ["australia", "abseiling"]
 featured: false
 readingTime: 11
+faq:
+  - question: "Do I need experience for guided abseiling?"
+    answer: "No. A good guide fits gear, teaches brake control and posture, and supervises every step."
+  - question: "Who should consider self guided abseiling?"
+    answer: "Climbers who can build and evaluate anchors, size friction correctly, run backups, and solve problems without supervision."
+  - question: "What equipment is essential?"
+    answer: "Rated rope, harness, belay/descender device, locking carabiner(s), helmet; many add gloves and a prusik/autoblock backup."
+  - question: "How do I choose between guided and self guided?"
+    answer: "Pick guided if you want coaching, simplicity, or a social/group day. Choose self guided if you already have strong rope/anchor skills and prefer flexibility."
+  - question: "What's the biggest risk in self guided days?"
+    answer: "Anchor or rope-length misjudgment. Use redundancy, equalise, keep angles ≤60°, and confirm rope reaches a safe stance/ground."
+  - question: "Can I bring kids or beginners?"
+    answer: "Yes-guided days are ideal. Instructors scale the drop and pace to each person's confidence."
+  - question: "What backup should I use on rappel?"
+    answer: "An autoblock/prusik below the device on the brake strand, clipped to your leg loop, tested before committing."
+  - question: "Any prep before the day?"
+    answer: "Practise knots and device setup at ground level, check weather, hydrate, and wear closed shoes and sun protection."
 ---
 
 ---

@@ -2,11 +2,20 @@
 title: "Mothers Day Adventure Experiences"
 description: "Give the gift of adventure this Mother's Day! Unforgettable experiences for the special mums in your life."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/mothers-day-adventure.webp"
 tags: ["mothers day"]
 featured: false
 readingTime: 11
+faq:
+  - question: "She's never done adventure sports - will abseiling be too much?"
+    answer: "Not if you book a beginner-friendly, guided session. Start with a low practice wall, go at her pace, and focus on comfort (good shoes, layers, water)."
+  - question: "We're on a budget - what's still special?"
+    answer: "Backyard campout, DIY home spa, a nature scavenger hunt, or a scenic stroll with a picnic. Personal touches beat price tags."
+  - question: "What should we pack for outdoor plans?"
+    answer: "Water, snacks, sunscreen, hats, layers, closed-toe shoes, small first-aid kit, and a phone power bank. For water or spa ideas: towels and a dry bag."
+  - question: "How do I tailor the day to Mum's personality?"
+    answer: "Match the plan to her style: thrill (abseil/theme park), nourish (cooking class/gourmet meal), unwind (spa day/Club Med), or connect (walk/garden visit)."
 ---
 
 ---

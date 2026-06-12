@@ -2,11 +2,22 @@
 title: "Rappelling and Fall Factor Understanding the Risks"
 description: "Discover the fall factor in rappelling - essential knowledge for safe descents!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-and-Fall-Factor-Understanding-the-Risks.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 9
+faq:
+  - question: "What is fall factor in rappelling?"
+    answer: "A measure of the force generated in a fall, calculated by dividing the fall distance by the rope length available to absorb the impact."
+  - question: "What is the maximum fall factor?"
+    answer: "A fall factor of 2, which happens if you fall twice the rope length available-usually in climbing above an anchor, not typical rappelling."
+  - question: "Why does rope length matter for fall factor?"
+    answer: "Longer rope stretches more, absorbing more energy and reducing the force of a fall."
+  - question: "How does friction affect fall factor?"
+    answer: "Rope running over edges or through carabiners can shorten the effective length that stretches, increasing fall factor."
+  - question: "How can I reduce fall factor risk while rappelling?"
+    answer: "Keep slack minimal, use smooth rope paths to reduce friction, secure anchors, and perform thorough gear checks."
 ---
 
 ---

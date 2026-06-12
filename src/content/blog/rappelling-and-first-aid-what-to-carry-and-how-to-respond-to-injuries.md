@@ -2,11 +2,22 @@
 title: "Rappelling and First Aid What to Carry and How to Respond to Injuries"
 description: "Discover crucial rappelling first aid tips! Be prepared to handle injuries like a pro on your next adventure!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-and-First-Aid-What-to-Carry-and-How-to-Respond-to-Injuries.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 12
+faq:
+  - question: "Why is first aid important for rappelling?"
+    answer: "Because even minor injuries can escalate in remote, vertical environments where help may be far away."
+  - question: "What should be in a rappelling first aid kit?"
+    answer: "Bleeding control items, medications, splinting supplies, and tools like tweezers, tape, and antiseptic wipes."
+  - question: "What's the most common rappelling injury?"
+    answer: "Blisters, ankle sprains, rope burns, and minor cuts are frequent; falls and fractures are less common but more serious."
+  - question: "How can I rescue an injured partner while rappelling?"
+    answer: "Use a buddy rappel (tandem) with an extended device and friction hitch for control, ensuring secure weight transfer."
+  - question: "How do I prepare for emergencies in remote climbing areas?"
+    answer: "Train in wilderness medicine, carry communication devices, know your location, and designate a first aid lead in your group."
 ---
 
 ---

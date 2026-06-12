@@ -2,11 +2,21 @@
 title: "How to Enhance Your Extreme Sports Experience with a Drone in Australia"
 description: "Take your extreme sports to the next level with drone footage. Learn how to plan, film, and share stunning aerial content legally in Australia."
 pubDate: "2025-07-19"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Enhance-Your-Extreme-Sports-Experience-with-a-Drone.webp"
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 4
+---
+
+### TL;DR
+
+- Drones enhance your extreme sports experience in three ways: scouting and previewing locations, capturing cinematic aerial footage during the event, and sharing content to build an audience.
+- A drone fly-through doubles as route recon and a promo teaser for Instagram Reels, TikTok or YouTube Shorts before your event.
+- Drone footage of an inner-city Rap Jumping challenge reached over 15,000 views in three weeks and even drew interest from tourism boards.
+- CASA rules apply: keep your drone within visual line of sight, below 120 metres, at least 30 metres from uninvolved people, and register drones over 250 grams.
+- The DJI Air 3 and DJI Mini 4 Pro balance camera quality with portability while remaining compliant with CASA drone regulations.
+
 ---
 
 If you're into extreme sports, you already know the thrill of pushing your limits - but are you capturing those moments the way they deserve? Whether you're into **Rap Jumping, base jumping, mountain biking, cliff diving, or parkour**, drones offer a game-changing way to **plan, film, and share** your adrenaline-filled adventures.

@@ -2,11 +2,28 @@
 title: "Rappelling in Winter Conditions Ice Snow and Cold Weather Gear"
 description: "Gear up for winter rappelling! Discover essential ice, snow, and cold weather equipment for your next adventure."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/winter-rappelling.webp"
 tags: ["abseiling"]
 featured: false
 readingTime: 13
+faq:
+  - question: "How do I know if the ice at the edge is trustworthy?"
+    answer: "Clear snow, tap-test for hollow sounds, look for blue, dense ice, and avoid sun-rotted “candles.” If unsure, rig off rock or equalise multiple screws and back up with rock gear."
+  - question: "Dry-treated rope-worth it?"
+    answer: "Yes. It resists wetting/freezing, stays supple, feeds better through devices, and reduces icing that can jam descents."
+  - question: "Where should I place my autoblock in winter?"
+    answer: "Below the descender on the brake strand, clipped to your leg loop. It remains reachable with gloves and won't jam above an icy device."
+  - question: "My device is icing up-what now?"
+    answer: "Stop on the autoblock, unweight slightly, knock off ice, warm the section of rope under your jacket or gloves, and continue slowly. Switch to higher-friction mode or add a second locker if supported."
+  - question: "Best gloves for rappelling in the cold?"
+    answer: "A thin, grippy liner for rope work plus a warm overmitt for belay/pauses. Rotate pairs to keep one dry; stash chemical warmers."
+  - question: "Can I rappel off ice screws or a V-thread (Abalakov)?"
+    answer: "Yes-only in sound, thick ice. Use two screws or a redundant V-thread, equalise, and back up for the first person. Inspect for fractures/white, airy ice."
+  - question: "Any anchor angle rules in winter?"
+    answer: "Same as summer: keep legs ≤60°. Wider angles magnify force and can blow marginal placements in brittle rock/ice."
+  - question: "How do I keep the rope from freezing?"
+    answer: "Use a rope bag, keep coils off snow, feed from the bag at the edge, and tuck sections inside your jacket between rappels. Avoid soaking the rope near spray."
 ---
 
 ---
@@ -63,7 +80,7 @@ In colder conditions, you will likely be wearing thicker trousers or multiple la
 
 ### Rope selection
 
-A static rope between 60 and 70 meters (around 190 to 225 feet) is a common recommendation for rappelling. Winter conditions often demand a rope with a dry treatment, because a damp rope can freeze, stiffen, and become much harder to handle. Dry-treated ropes repel moisture longer than standard ropes, making them invaluable when ice or snow is involved. Costs range from about $150 to $250, but investing in a durable rope might save you headaches in freezing weather.
+A static rope between 60 and 70 metres (around 190 to 225 feet) is a common recommendation for rappelling. Winter conditions often demand a rope with a dry treatment, because a damp rope can freeze, stiffen, and become much harder to handle. Dry-treated ropes repel moisture longer than standard ropes, making them invaluable when ice or snow is involved. Costs range from about $150 to $250, but investing in a durable rope might save you headaches in freezing weather.
 
 ### Helmet perks
 
@@ -81,7 +98,7 @@ Placing anchors in frozen or near-frozen surfaces is different from anchoring in
 
 ### Rock, ice, or a mix?
 
-If you have solid rock placements, that is usually the best bet. But sometimes your anchor might rely on ice screws or a combination of gear. If you are not entirely confident in the ice's solidity, use multiple, redundant points and consider equalizing your anchor with multiple screws, cams, or nuts.
+If you have solid rock placements, that is usually the best bet. But sometimes your anchor might rely on ice screws or a combination of gear. If you are not entirely confident in the ice's solidity, use multiple, redundant points and consider equalising your anchor with multiple screws, cams, or nuts.
 
 - Look for cracks in rock that remain unaffected by the freeze-thaw cycle
 - Inspect pre-existing bolts to ensure they are not compromised by rust or ice expansion
@@ -115,7 +132,7 @@ If the ice looks suspect, some climbers lower themselves gradually without fully
 
 ### Reference abseiling fundamentals
 
-Even though you might have plenty of experience in fair weather, covering the basics again can help. Double-check your knowledge of abseiling techniques to refresh your memory on anchor equalization, rope coiling, and safety calls. Those fundamentals matter even more when conditions are harsh.
+Even though you might have plenty of experience in fair weather, covering the basics again can help. Double-check your knowledge of abseiling techniques to refresh your memory on anchor equalisation, rope coiling, and safety calls. Those fundamentals matter even more when conditions are harsh.
 
 ## Stay safe and confident
 
@@ -149,7 +166,7 @@ It is also worth seeking out workshop-style sessions or mountaineering classes t
 
 Since winter can be prime time for certain climbing styles, you might be curious about venues that thrive in the cold.
 
-- Cody, Wyoming: Famed for long frozen waterfalls (WI3 to WI6). You can test your descent abilities on routes ranging from 100 to 300+ meters.
+- Cody, Wyoming: Famed for long frozen waterfalls (WI3 to WI6). You can test your descent abilities on routes ranging from 100 to 300+ metres.
 - Cairngorms, Scotland: Offers a variety of winter climbs, from straightforward to advanced mixed routes. The area is known for complex weather but also a rewarding winter atmosphere.
 - El Cajon Mountain, Southern California: Perfect for sunny winter climbs on granite. You get abundant sunlight with cooler temps that keep you from overheating as you rappel.
 

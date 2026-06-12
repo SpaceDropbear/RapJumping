@@ -2,11 +2,22 @@
 title: "Harness Choices Sit vs Full Body"
 description: "Choose your abseiling companion: sit harness vs. full body. Unveil the perfect gear match for your next descent!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Harness-Choices-Sit-vs-Full-Body.webp"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 10
+faq:
+  - question: "Which harness type is best for general abseiling?"
+    answer: "A sit harness-lightweight, comfortable, and offers high mobility."
+  - question: "When should I choose a full-body harness?"
+    answer: "For rescue work, industrial tasks, heavier climbers, children, or when carrying heavy packs."
+  - question: "How do I know if my harness fits correctly?"
+    answer: "Waistbelt above hips, snug leg loops (one flat hand space), and properly secured buckles."
+  - question: "How long does a harness last?"
+    answer: "Up to 10 years with light use, but high wear, UV exposure, or damage shortens lifespan."
+  - question: "What's the purpose of a chest harness?"
+    answer: "It prevents inversion during a fall and improves load distribution when used with a sit harness."
 ---
 
 ---
@@ -98,9 +109,9 @@ A harness might last up to 10 years, but it depends on how often you use it and 
 - Pay attention to any changes in thickness or texture of the webbing-it could indicate weakening.
 - Read the manufacturer's instructions for recommended retirement conditions, and do not push your harness beyond its safe limit.
 
-When you store your harness, keep it away from direct sunlight, chemicals, or sharp edges that might degrade the material. Traveling to a crag? Don't just toss your harness in the trunk with leaky fuel cans or toss it in the corner of a shed. Cleanliness and dryness extend your harness' life significantly.
+When you store your harness, keep it away from direct sunlight, chemicals, or sharp edges that might degrade the material. Travelling to a crag? Don't just toss your harness in the trunk with leaky fuel cans or toss it in the corner of a shed. Cleanliness and dryness extend your harness' life significantly.
 
-Once you're confident your harness is in good shape, look for UIAA and CE labels, which signal it has met rigorous industry standards. It's great extra peace of mind knowing your harness has gone through tests under recognized safety bodies.
+Once you're confident your harness is in good shape, look for UIAA and CE labels, which signal it has met rigorous industry standards. It's great extra peace of mind knowing your harness has gone through tests under recognised safety bodies.
 
 ## Practical tips for harness selection
 
@@ -154,4 +165,4 @@ A: It prevents inversion during a fall and improves load distribution when used 
 
 You can't go wrong with a reliable sit harness if standard abseiling and climbing are your norms. It's the do-it-all option that's easy to put on, comfortable to hang in, and widely available in different fits for men, women, and children. On the other hand, if your abseiling ops get technical-or if you're new and keen on a harness that offers more coverage-then a full-body harness has you covered. Always do a hang test, check your harness after each climb, and retire it once it shows signs of damage or hits its age limit.
 
-If you're still fine-tuning the rest of your kit, check out our abseiling gear to find everything else you need for a safe drop. Here's the bottom line: whichever harness you choose, the key is practicing good fit, thorough inspections, and correct usage every single time. Stay safe out there, and enjoy those descents!
+If you're still fine-tuning the rest of your kit, check out our abseiling gear to find everything else you need for a safe drop. Here's the bottom line: whichever harness you choose, the key is practising good fit, thorough inspections, and correct usage every single time. Stay safe out there, and enjoy those descents!

@@ -2,7 +2,7 @@
 title: "Rappel Devices Compared: Best Descenders for Safety, Speed & Control (ATC, Figure 8, Grigri)"
 description: "Explore top rappel devices like the ATC, Figure 8, and Grigri. Learn the pros, cons, and best use cases for each rappelling descender in this expert gear review."
 pubDate: "2025-07-23"
-updatedDate: "2025-07-25"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Introduction-to-Rappel-Devices.webp"
 tags: ["equipment"]
 featured: false
@@ -233,7 +233,7 @@ All offer excellent control and ease of learning.
 
 ## **13. Lightweight and Compact Descenders for Travel**
 
-Traveling light? Choose ultralight devices:
+Travelling light? Choose ultralight devices:
 
 - **ATC Alpine Guide** - Perfect for alpine routes
 - **CT Alpine Up** - Versatile and light
@@ -294,7 +294,7 @@ It's simple but requires more skill to control descent and avoid rope twist. Bet
 The **Grigri+** or **Petzl I'D** offers the most fail-safe features, including assisted braking and panic stops.
 
 **Q4. How do I choose between ATC and Grigri?**  
-Choose an ATC for versatility and affordability. Go with a Grigri if you prioritize automatic safety and one-handed use.
+Choose an ATC for versatility and affordability. Go with a Grigri if you prioritise automatic safety and one-handed use.
 
 **Q5. Do all devices work with every rope?**  
 No. Always check your device's supported **rope diameter** and type (static vs dynamic).
@@ -306,4 +306,4 @@ Check before each use for wear, cracks, or corrosion. Clean regularly and store 
 
 ## **18. Conclusion: Choosing the Right Rappelling Device**
 
-Whether you're rappelling a short cliff or descending into a deep canyon, your **descender** must match your environment, rope, and skill level. From the **versatile ATC** to the **fail-safe Grigri**, each device offers unique benefits. Choose wisely, prioritize safety, and always test your setup before going over the edge.
+Whether you're rappelling a short cliff or descending into a deep canyon, your **descender** must match your environment, rope, and skill level. From the **versatile ATC** to the **fail-safe Grigri**, each device offers unique benefits. Choose wisely, prioritise safety, and always test your setup before going over the edge.

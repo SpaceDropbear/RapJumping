@@ -2,11 +2,22 @@
 title: "Helmets for Abseiling Safety First"
 description: "Gear up for abseiling safely with the essential climbing helmet! Your head protection matters most."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/climbing-helmet.webp"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 8
+faq:
+  - question: "Do I really need a helmet for abseiling?"
+    answer: "Yes-protects against rockfall, dropped gear, and accidental head bumps."
+  - question: "What certifications should my helmet have?"
+    answer: "Look for CE EN 12492 and/or UIAA 106 labels for climbing-standard safety."
+  - question: "Which helmet type is best for abseiling?"
+    answer: "Depends on priorities-hard shell for durability, foam shell for lightweight comfort, hybrid for balance."
+  - question: "How should a climbing helmet fit?"
+    answer: "Rim just above eyebrows, snug chinstrap, stable when shaken, adjustable for hair or layers."
+  - question: "When should I replace my helmet?"
+    answer: "After a big impact, visible damage, or every 10 years even without visible wear."
 ---
 
 ---
@@ -41,7 +52,7 @@ A well-chosen helmet doesn't feel like a burden. Modern designs balance sturdy c
 
 ## Examine certification standards
 
-Before you head out to test new descents, it's worth taking a closer look at how climbing helmets are certified. When you see labels like “UIAA” or “CE,” you're getting a promise that your helmet meets widely recognized safety benchmarks.
+Before you head out to test new descents, it's worth taking a closer look at how climbing helmets are certified. When you see labels like “UIAA” or “CE,” you're getting a promise that your helmet meets widely recognised safety benchmarks.
 
 - CE EN 12492: This is the European standard confirming your helmet has passed tests for impact absorption, retention (chinstrap strength), and penetration resistance.
 - UIAA 106: This certification from the International Climbing and Mountaineering Federation (UIAA) largely mirrors the EN 12492 standard. A UIAA label tells you the helmet's been through rigorous testing specifically geared toward climbing situations.

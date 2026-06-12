@@ -2,11 +2,21 @@
 title: "Outdoor gear: What to Wear Abseiling in Australia"
 description: "Discover top abseiling clothing tips for your thrilling Australian adventure! Stay safe, stylish, and geared up!"
 pubDate: "2025-08-02"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/outdoor-clothing.webp"
 tags: ["fundamentals"]
 featured: false
 readingTime: 3
+---
+
+### TL;DR
+
+- For abseiling in Australia, dress in layers: a breathable moisture-wicking base, an insulating mid-layer for cooler conditions, and a water-resistant, windproof outer shell.
+- Supportive hiking boots or shoes with sturdy soles, good grip and a secure fit suit general abseiling day trips.
+- Abseiling gloves in leather or tough synthetic reduce rope friction - snug work gloves with good grip can do the trick at first.
+- Australia's sun is intense even on cooler days, so pack a hat, sunscreen and light-coloured long sleeves for hours at the crag.
+- Before stepping off: double-check your harness fit, tie back long hair and keep an eye on the weather forecast.
+
 ---
 
 If you're planning your first descent, choosing the right abseiling clothing can make all the difference. You want to feel comfortable, stay safe, and still have plenty of room to move. Let's explore how to dress for abseiling in Australia so you can focus on conquering cliffs and enjoying the view.

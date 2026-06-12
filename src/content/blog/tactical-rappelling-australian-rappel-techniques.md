@@ -2,7 +2,7 @@
 title: "Tactical Rappelling Australian Rappel Techniques"
 description: "Master Australian rappel techniques for a safe and thrilling descent! Your ultimate guide awaits."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Tactical-Rappelling-Australian-Rappel-Techniques.webp"
 tags: ["abseiling", "safety"]
 featured: false
@@ -20,6 +20,17 @@ howto:
       text: "Face downhill, control your speed with the brake hand and keep your body square to the slope."
     - name: "Practise rescue and emergency skills"
       text: "Rehearse self-arrest and rescue procedures with a trained professional before any live descent."
+faq:
+  - question: "What is the Australian rappel?"
+    answer: "A face-forward abseiling method where you descend standing and looking straight down, with the rope behind your back."
+  - question: "Why choose this technique?"
+    answer: "It gives you maximum visibility of your path, allows hands-free operation for tools or rescue, and can add to the adrenaline factor."
+  - question: "What gear changes are needed?"
+    answer: "Either reverse your harness or thread the belay device behind you. Add lumbar padding for comfort and ensure redundant anchors."
+  - question: "Is it riskier than standard abseiling?"
+    answer: "Yes-harness orientation changes load distribution, and the rope position makes anchor checks trickier, so thorough safety checks are vital."
+  - question: "How should beginners start?"
+    answer: "Practise on low, controlled drops, master brake-hand control, and learn lock-off and self-rescue techniques before bigger descents."
 ---
 
 ---
@@ -98,7 +109,7 @@ If you're curious about more in-depth guidelines on anchor building, rope manage
 - Forgetting to knot rope ends.
 - Wearing an ill-fitting or backward harness incorrectly.
 
-Familiarity breeds confidence. If you're new to Australian rappels, practicing on small pitches or a climbing gym's practice wall can help you master the movements in a lower-stakes setting.
+Familiarity breeds confidence. If you're new to Australian rappels, practising on small pitches or a climbing gym's practice wall can help you master the movements in a lower-stakes setting.
 
 ## Follow the step-by-step technique
 
@@ -150,7 +161,7 @@ Part of what keeps you safe in an Australian rappel is your knowledge of rescue 
 - Practise “locking off” your device mid-descent.
 - Understand how to attach a spare rope or tie off if you find yourself stranded partway.
 
-If you're going to push your comfort zone, do it in small increments. Try practicing a mid-wall stop and anchor switch-out, so you're ready if your main rope gets stuck or you need to pass a knot.
+If you're going to push your comfort zone, do it in small increments. Try practising a mid-wall stop and anchor switch-out, so you're ready if your main rope gets stuck or you need to pass a knot.
 
 ## Guard against common pitfalls
 

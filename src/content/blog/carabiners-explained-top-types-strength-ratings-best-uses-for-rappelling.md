@@ -2,7 +2,7 @@
 title: "Carabiners for Abseiling: Types, Strength & Safety"
 description: "Which carabiner is best for rappelling? Compare HMS, locking and screwgate types, kN strength ratings and safe uses for abseiling, climbing and rigging."
 pubDate: "2025-07-22"
-updatedDate: "2025-07-25"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Carabiners-Explained.webp"
 tags: ["equipment"]
 featured: false
@@ -147,7 +147,7 @@ They're the go-to option when using a figure-eight or tube-style rappel device.
 
 ---
 
-## **8. Specialized Carabiners for Rappelling**
+## **8. Specialised Carabiners for Rappelling**
 
 Beyond traditional shapes, there are innovative options for enhanced performance:
 

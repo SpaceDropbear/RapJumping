@@ -31,7 +31,7 @@ Abseiling (sometimes called rappelling) already carries an adrenaline rush you c
 
 ### Why it matters
 
-Abseiling gear, especially ropes, can have a notable environmental impact. According to various studies, the manufacturing of a single climbing rope can contribute between 10.5 and 25 kg of CO₂e, with an average of about 17.75 kg CO₂e. Synthetic fibers like nylon account for a large portion of these emissions, which is why selecting a rope from eco-friendly brands or focusing on recycled materials can make a positive difference. On top of that, you'll want to stay mindful of how you use, store, and eventually retire your rope to minimise waste.
+Abseiling gear, especially ropes, can have a notable environmental impact. According to various studies, the manufacturing of a single climbing rope can contribute between 10.5 and 25 kg of CO₂e, with an average of about 17.75 kg CO₂e. Synthetic fibres like nylon account for a large portion of these emissions, which is why selecting a rope from eco-friendly brands or focusing on recycled materials can make a positive difference. On top of that, you'll want to stay mindful of how you use, store, and eventually retire your rope to minimise waste.
 
 ### Quick look at rope footprints
 
@@ -39,7 +39,7 @@ A rope's carbon footprint comes from multiple sources. Here's a snapshot:
 
 | Carbon Footprint (kg CO₂e) | Main Source |
 | --- | --- |
-| 10.5-25 | Manufacturing & fibers |
+| 10.5-25 | Manufacturing & fibres |
 | ~17.75 (average) | Typical rope emissions |
 
 If you stick to rope brands committed to reducing emissions, you'll cut back on the environmental toll. Look for labels from certifiers such as bluesign technologies, which evaluate a brand's supply chain for sustainability.
@@ -130,7 +130,7 @@ Rope management techniques do more than just ensure a smooth rappel. They also h
 
 - Coil properly: Neatly coiled ropes are easier to carry and less likely to tangle in nearby plants.
 - Avoid friction points: If you see rope rub on sharp edges, redirect or pad those edges to prevent rope damage and rock scarring.
-- Secure unused rope: Excess rope can snag on plants or get stepped on, fraying the fibers and harming the environment.
+- Secure unused rope: Excess rope can snag on plants or get stepped on, fraying the fibres and harming the environment.
 
 Mindful rope handling also prolongs your gear's life, enhancing both safety and sustainability.
 

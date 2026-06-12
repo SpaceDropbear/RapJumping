@@ -2,11 +2,28 @@
 title: "The Physics of Abseiling Friction and Force"
 description: "Discover the magic of abseiling physics! Master friction and force like a pro climber in this captivating journey!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-physics.webp"
 tags: ["abseiling"]
 featured: false
 readingTime: 12
+faq:
+  - question: "What's the difference between static and dynamic friction when abseiling?"
+    answer: "Static friction holds you when stopped; dynamic friction applies once you're sliding. Your device and brake hand regulate the switch between the two."
+  - question: "Which rope is best for abseiling-static or dynamic?"
+    answer: "Static for pure descents (low stretch, predictable control). Dynamic works on retreats/multipitch but feels springier and can run faster through devices."
+  - question: "How do temperature and conditions affect friction?"
+    answer: "Cold stiffens ropes (less bend, different feel); heat and wet ropes change sheath behaviour. Test your setup in similar conditions before committing."
+  - question: "Can I add a second carabiner to increase friction?"
+    answer: "Sometimes-if your device supports it and you can avoid cross-loading or nose snagging. Use rated lockers and keep the carabiners aligned."
+  - question: "Should I extend my device?"
+    answer: "Yes, often helpful. An extension keeps the device away from your harness and your autoblock clear and effective."
+  - question: "Where does the prusik/autoblock go?"
+    answer: "Below the device on the brake strand, clipped to your leg loop-keeps it reachable if you need a hands-free lock."
+  - question: "How do anchor angles affect load?"
+    answer: "Wider angles multiply force on each leg. Aim ≤60° between anchor legs; smaller is better for marginal placements."
+  - question: "How much force does a “smooth” rappel generate?"
+    answer: "Typically well under bodyweight at the anchor; sudden jerks can spike loads. Keep movements smooth to avoid shock."
 ---
 
 ---
@@ -189,7 +206,7 @@ A. Static friction holds you when stopped; dynamic friction applies once you're 
 A. Static for pure descents (low stretch, predictable control). Dynamic works on retreats/multipitch but feels springier and can run faster through devices.
 
 **Q. How do temperature and conditions affect friction?**  
-A. Cold stiffens ropes (less bend, different feel); heat and wet ropes change sheath behavior. Test your setup in similar conditions before committing.
+A. Cold stiffens ropes (less bend, different feel); heat and wet ropes change sheath behaviour. Test your setup in similar conditions before committing.
 
 **Q. Can I add a second carabiner to increase friction?**  
 A. Sometimes-if your device supports it and you can avoid cross-loading or nose snagging. Use rated lockers and keep the carabiners aligned.

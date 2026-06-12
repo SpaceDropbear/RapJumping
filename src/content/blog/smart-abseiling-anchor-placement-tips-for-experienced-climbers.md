@@ -2,7 +2,7 @@
 title: "Smart Abseiling Anchor Placement Tips for Experienced Climbers"
 description: "Master abseiling anchor placement with expert tips for experienced climbers. Elevate your safety game now!"
 pubDate: "2025-08-11"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Smart-Abseiling-Anchor-Placement.webp"
 tags: ["safety"]
 featured: false
@@ -34,7 +34,7 @@ Abseiling anchor placement tips can help you tackle steep descents with greater 
 
 ### Why anchors matter
 
-Anchors are the foundation of your safety. When you're abseiling off a cliff or lowering mates on a multi-pitch route, your rope and hardware rely on an anchor that must withstand major forces. During a fall or sudden load shift, up to 10 kN of impact can pull on the anchor, according to studies on worst-case factor 2 falls ([Trail and Crag](https://trailandcrag.com/rock-climbing/better-way-to-assess-climbing-anchors)). If your anchor setup isn't robust enough, the consequences are serious.
+Anchors are the foundation of your safety. When you're abseiling off a cliff or lowering mates on a multi-pitch route, your rope and hardware rely on an anchor that must withstand major forces. During a fall or sudden load shift, up to 10 kN of impact can pull on the anchor, according to studies on worst-case factor 2 falls (Trail and Crag). If your anchor setup isn't robust enough, the consequences are serious.
 
 Whether you're simply cleaning a route in the Grampians or descending a deep canyon in the Blue Mountains, the goal is always the same: avoid anchor failure. That means picking strong connection points, using the right gear, and distributing the load securely so no single component is overloaded.
 
@@ -46,11 +46,11 @@ When you combine multiple anchor points, you're building redundancy and sharing 
 
 ## Assess potential anchor points
 
-Even if you've been abseiling for years, a quick anchor assessment can be the difference between a smooth descent and a hairy close call. You'll find anchor opportunities all over the place-from big gum trees in the Blue Mountains to sturdy metal bollards atop well-traveled routes in Victoria. The key is choosing an anchor point or network of points that handle anticipated forces in the exact direction of pull.
+Even if you've been abseiling for years, a quick anchor assessment can be the difference between a smooth descent and a hairy close call. You'll find anchor opportunities all over the place-from big gum trees in the Blue Mountains to sturdy metal bollards atop well-travelled routes in Victoria. The key is choosing an anchor point or network of points that handle anticipated forces in the exact direction of pull.
 
 ### Natural vs. artificial anchors
 
-Natural anchors include trees, boulders, and rock protrusions. If you're eyeing a tree, look for one with a trunk at least 20 cm thick, or about the diameter of your thigh ([Straight Up Adventures](https://www.straightupadventures.co.uk/abseil-anchors)). Make sure it's healthy, deeply rooted, and stable when you tug in the direction of load. Rocks also serve as good single point anchors when shaped like spikes or horns. Use 6 mm or thicker accessory cord around them, taking care to pad any sharp edges that might cut into your rope.
+Natural anchors include trees, boulders, and rock protrusions. If you're eyeing a tree, look for one with a trunk at least 20 cm thick, or about the diameter of your thigh (Straight Up Adventures). Make sure it's healthy, deeply rooted, and stable when you tug in the direction of load. Rocks also serve as good single point anchors when shaped like spikes or horns. Use 6 mm or thicker accessory cord around them, taking care to pad any sharp edges that might cut into your rope.
 
 Artificial anchors range from bolts and pitons to steel carabiners or maillons left at popular abseil points. Even if a bolt looks new, give it a firm check-look for corrosion, cracks, or movement in any direction ([REI](https://www.rei.com/learn/expert-advice/climbing-anchors.html)). Glue-in bolts are often preferred for Australian rock types, since they deliver strong performance over time ([Climbing Bolt Supplies](https://climbingboltsupplies.com/anchor-selection/)). Whenever possible, ask locals or consult local route listings for up-to-date anchor conditions.
 

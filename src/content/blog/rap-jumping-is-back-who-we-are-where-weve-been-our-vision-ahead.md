@@ -9,6 +9,14 @@ featured: true
 readingTime: 2
 ---
 
+### TL;DR
+
+- Rap Jumping is back: after a five-year hiatus forced by the March 2020 COVID-19 lockdowns, the site relaunches in 2025 as an affiliate hub for adventure activities across Australia.
+- Founded in 1989 by Peter "Macka" Mackail as one of Australia's first commercial rappelling operators, the business passed to his senior instructor when Macka died in June 2014.
+- Year one focuses on abseiling guides, gear tips and vetted partner experiences, with canyoning, via ferrata and zip-lining to follow in year two.
+
+---
+
 Welcome back to Rap Jumping! We're the original Aussie abseiling pioneers-founded in 1989 by Peter “Macka” Mackail-and after a five‑year hiatus, we're relaunching our site in 2025 as your go‑to hub for affiliate‑marketed adventure activities across Australia.
 
 ## Our Roots & Rough History

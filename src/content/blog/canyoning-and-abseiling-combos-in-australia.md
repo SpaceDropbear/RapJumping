@@ -2,11 +2,28 @@
 title: "Canyoning and Abseiling Combos in Australia"
 description: "Experience heart-pumping canyoning and abseiling combos in Australia for the ultimate thrill-seekers like you!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/canyoning-abseiling.webp"
 tags: ["abseiling", "canyoning"]
 featured: false
 readingTime: 14
+faq:
+  - question: "What rope should I use for canyoning abseils?"
+    answer: "A low-stretch (semi-static) canyoning rope ~8-10 mm with good water treatment. Carry enough length for the longest drop (often two ropes to join)."
+  - question: "Do I need a special descender? Canyoning descenders (e.g., with multiple friction settings) make wet-rope control easier and allow quick lock-offs. Q. Harness: climbing or canyoning?"
+    answer: "Canyoning harnesses have reinforced seats (“culera”) and drain better; they last longer and slide more safely over wet rock."
+  - question: "How do I manage friction on wet ropes?"
+    answer: "Practise different friction modes on your device, test on low-angle ground first, and know a reliable lock-off you can apply mid-rappel."
+  - question: "Are natural anchors OK, or should I only use bolts?"
+    answer: "Use what's safest and allowed. Many canyons are bolted, but you should be competent with natural anchors (trees, chockstones) and always build redundancy and equalisation."
+  - question: "How do I reduce flood risk?"
+    answer: "Check detailed weather/river info, watch the sky/water level, set conservative turn-around times, and identify escape routes before committing to narrow sections."
+  - question: "How much water should I carry?"
+    answer: "Plan ~4 L per person per day in warm weather, plus electrolytes. Start early to avoid peak heat."
+  - question: "Do I need permits or to follow special rules?"
+    answer: "Many parks (e.g., Blue Mountains) have rules on group size, fixed anchors, and closures. Check current guidance before you go."
+  - question: "What comms work around waterfalls?"
+    answer: "Agree on rope signals/hand signals and short, clear verbal calls; waterfalls will drown out normal conversation."
 ---
 
 ---
@@ -138,7 +155,7 @@ Below is a simple checklist to help you prep before stepping into your harness:
 - Research local regulations. Some national parks have specific rules about bolt placement, group sizes, or canyon closures.
 - Check weather and water levels. Local guides or park rangers often post alerts about sudden storms or high-flow conditions.
 - Pack your gear, test it. Don't leave harness inspections or rope checks until the last minute. Look for worn spots on your rope and harness straps.
-- Build a group plan. Even if you're confident in your skills, traveling in pairs or small teams is safest. Agree on signals for communication in noisy canyon sections where waterfalls drown out your voice.
+- Build a group plan. Even if you're confident in your skills, travelling in pairs or small teams is safest. Agree on signals for communication in noisy canyon sections where waterfalls drown out your voice.
 - Share your itinerary. Let a family member, friend, or park official know where you'll be and when you plan to return.
 
 ### Sample day plan

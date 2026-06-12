@@ -2,11 +2,28 @@
 title: "Rappelling for Search and Rescue Essential Skills and Drills"
 description: "Master SAR rappelling with essential skills and drills. Elevate your rescue game with expert techniques!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-15"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/sar-rappelling.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 12
+faq:
+  - question: "What makes water rescue rappelling different from standard rappelling?"
+    answer: "It combines rope skills with the added hazards of currents, debris, and reduced visibility, requiring specialised gear and techniques."
+  - question: "Which ropes are best for swift water rappelling?"
+    answer: "Water-resistant, buoyant ropes with strong wet grip, designed to maintain core strength when saturated."
+  - question: "Why use a quick-release descender?"
+    answer: "It allows rapid disconnection if pinned in a hydraulic or strong current, reducing entrapment risk."
+  - question: "How should I position my body in heavy water flow?"
+    answer: "Turn sideways to reduce surface area against the current and lower your head to create an air pocket under your helmet."
+  - question: "What's the safest belay method in swift water?"
+    answer: "Bottom belay (fireman's belay) is common, but some scenarios require self-belay or alternate systems depending on current strength."
+  - question: "Should I tie knots at the rope ends?"
+    answer: "Not always-end knots can trap you underwater; skip them if the rappel ends in shallow water or you have a clear exit."
+  - question: "How should gear be managed during descent?"
+    answer: "Keep essentials on your harness and send heavier or bulky gear separately via zipline or rope transfer."
+  - question: "What training is recommended for water rescue rappelling?"
+    answer: "Courses like Flood & Swiftwater Awareness for basics and FAST 1 for advanced hands-on rescue and hydrology skills."
 ---
 
 ---
@@ -48,7 +65,7 @@ Your equipment is your lifeline. You want gear specifically designed to handle w
 
 ### Focus on ropes
 
-Ropes in swift water must balance strength, buoyancy, and resistance to water absorption. You might encounter rope options like the Redi-Line Throwline or Water Rescue Tether, which are engineered not to bog down when wet. They're also flexible enough to tie specialized knots on the fly.
+Ropes in swift water must balance strength, buoyancy, and resistance to water absorption. You might encounter rope options like the Redi-Line Throwline or Water Rescue Tether, which are engineered not to bog down when wet. They're also flexible enough to tie specialised knots on the fly.
 
 - Look for ropes that repel water so they maintain their core strength.
 - Choose ropes with a reliable grip when wet-slippery ropes are the last thing you need during a crucial rescue.
@@ -123,7 +140,7 @@ Leaving your pack on isn't ideal in strong currents. If water catches your backp
 
 ## Consider formal training
 
-Even if you have abundant field experience, specialized water rescue training provides a deeper layer of confidence. Courses focus not only on rope and boat operations but also on hydrology (the study of water movement), advanced rigging, and decision-making under pressure.
+Even if you have abundant field experience, specialised water rescue training provides a deeper layer of confidence. Courses focus not only on rope and boat operations but also on hydrology (the study of water movement), advanced rigging, and decision-making under pressure.
 
 ### Flood & Swiftwater Awareness
 
@@ -196,4 +213,4 @@ Finally, remember that confidence isn't the same as complacency. You want to fee
 
 ---
 
-You don't need to rappel into rapids every day to perfect these skills, but consistent practice goes a long way. The time you spend familiarizing yourself with specialized ropes, practicing sideways body positioning, and learning to lower your head under rushing water can truly make or break a rescue. Stay safe out there, keep honing your technique, and trust in your training. If you've got more questions or tips to share, don't hesitate to pass them along to your team. After all, the best rescues happen when everyone is informed, prepared, and looking out for each other.
+You don't need to rappel into rapids every day to perfect these skills, but consistent practice goes a long way. The time you spend familiarising yourself with specialised ropes, practising sideways body positioning, and learning to lower your head under rushing water can truly make or break a rescue. Stay safe out there, keep honing your technique, and trust in your training. If you've got more questions or tips to share, don't hesitate to pass them along to your team. After all, the best rescues happen when everyone is informed, prepared, and looking out for each other.

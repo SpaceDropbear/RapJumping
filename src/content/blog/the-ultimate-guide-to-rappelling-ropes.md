@@ -2,7 +2,7 @@
 title: "Abseiling Rope Guide: Diameter, Material & Safety (AU)"
 description: "Choosing a rappelling rope? Compare diameter, nylon vs polyester, static vs dynamic and safety ratings to pick the right abseiling rope in Australia."
 pubDate: "2025-07-21"
-updatedDate: "2025-07-26"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Ultimate-Guide-to-Rappelling.webp"
 tags: ["equipment"]
 featured: false
@@ -74,7 +74,7 @@ Polyester ropes are:
 - Better in wet conditions
 - More UV resistant
 
-### **Aramid Fibers (Optional Use Cases)**
+### **Aramid Fibres (Optional Use Cases)**
 
 Ropes made from **Kevlar or Technora** offer extreme heat resistance but are not commonly used for rappelling due to stiffness and cost.
 
@@ -195,7 +195,7 @@ Ropes are rated for **impact force** and **number of falls**. Avoid pushing a ro
 
 ### **Avoiding UV Damage**
 
-Sunlight degrades fibers over time. Always store your rope in a cool, dark place.
+Sunlight degrades fibres over time. Always store your rope in a cool, dark place.
 
 ### **Rope Washing and Drying**
 
@@ -240,7 +240,7 @@ Expensive ropes often mean better materials, tighter weaves, and longer lifespan
 - **Budget:** Great for beginners and indoor rappels
 - **Premium:** Best for frequent or pro-level use
 
-Prioritize **safety certifications, weight, and type** over brand name alone.
+Prioritise **safety certifications, weight, and type** over brand name alone.
 
 ---
 
@@ -253,7 +253,7 @@ Yes, but it will stretch more during descent. Only recommended when no static ro
 A rope between 10mm-10.5mm offers excellent control and durability.
 
 **Q3. How long should a rappelling rope be?**  
-60 meters is the most versatile length for most rappel setups.
+60 metres is the most versatile length for most rappel setups.
 
 **Q4. How do I know when to retire a rope?**  
 Fraying, flat spots, fuzziness, or chemical exposure are all signs to retire your rope.

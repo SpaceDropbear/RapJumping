@@ -2,11 +2,28 @@
 title: "The Art of Rope Management Coiling Flaking and Tossing"
 description: "Master rope management techniques for abseiling like a pro! Elevate your skills with coiling, flaking, and tossing expertise."
 pubDate: "2025-08-14"
-updatedDate: "2026-02-12"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/rope-management.webp"
 tags: ["abseiling", "equipment"]
 featured: false
 readingTime: 11
+faq:
+  - question: "Dynamic vs static-when should I use each?"
+    answer: "Dynamic for lead/top-rope (absorbs falls). Static for hauling, rope access, and many abseils where low stretch = precise control."
+  - question: "What diameter works best with common tube devices?"
+    answer: "Most handle ~8.9-10.2 mm well. Thin ropes run faster and may need high-friction mode; always check your device's spec."
+  - question: "Best coil for hiking in?"
+    answer: "Butterfly coil-weight sits comfortably across the shoulders and sheds twists when you deploy it."
+  - question: "Do I still need to flake a brand-new rope?"
+    answer: "Yes. Factory twists and packaging kinks cause snags; a full flake catches defects and speeds your first pitch."
+  - question: "How do I toss the rope on a windy day?"
+    answer: "Feed it out gradually from a rope bag or throw in shorter “bundles” to keep it close to the wall. Avoid full-arm “sails.”"
+  - question: "What's the quick checklist before abseiling?"
+    answer: "Redundant anchor; device oriented; autoblock below device; knots in rope ends; rope length confirmed; clear comms."
+  - question: "How do I clean and store my rope?"
+    answer: "Lukewarm water, mild rope-safe wash if needed; air-dry out of sun/heat; store cool/dry in a bag-no chemicals/fuel nearby."
+  - question: "When should I retire a rope?"
+    answer: "Core shot, deep sheath cuts, glazed/melted areas, big fall history, chemical contamination, or manufacturer's end-of-life guidance-retire immediately."
 ---
 
 ---
@@ -37,7 +54,7 @@ Having separate ropes for different tasks makes your entire setup more manageabl
 
 ## Conduct a pre-check
 
-Now that your rope is selected, inspect it thoroughly before heading off. Even new ropes should be checked. Look for cuts, fraying strands, flat spots in the core, or any unusual lumps. Synthetic fiber technology has come a long way, and modern ropes from renowned brands (like those produced by Renco Nets or Samson Rope) are tough. Nonetheless, you can't rely solely on factory quality control to keep you safe.
+Now that your rope is selected, inspect it thoroughly before heading off. Even new ropes should be checked. Look for cuts, fraying strands, flat spots in the core, or any unusual lumps. Synthetic fibre technology has come a long way, and modern ropes from renowned brands (like those produced by Renco Nets or Samson Rope) are tough. Nonetheless, you can't rely solely on factory quality control to keep you safe.
 
 - Look at the outer sheath for fuzziness or torn patches. If you see the core peeking through, that's a big red flag.
 - Run the rope between your fingers, feeling for inconsistencies such as soft or stiff sections.
@@ -101,7 +118,7 @@ If you want your rope to last, storage and maintenance should never be an aftert
 Moisture is the enemy of both natural and synthetic ropes. Even top-tier synthetic lines can develop hidden weaknesses if they're constantly damp.
 
 - Store your rope in a location away from direct sunlight or extreme heat. UV rays degrade fibres over time.
-- If it gets wet, lay it out loosely so it can dry completely. Mold or mildew can form if water lingers in the rope's core.
+- If it gets wet, lay it out loosely so it can dry completely. Mould or mildew can form if water lingers in the rope's core.
 
 ### Record and retire when needed
 

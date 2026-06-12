@@ -2,11 +2,22 @@
 title: "Double Rope DdRT Technique Explained"
 description: "Master double rope rappelling with our friendly guide! Elevate your climbing skills to new heights!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/double-rope-rappelling.webp"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 10
+faq:
+  - question: "What is double rope rappelling?"
+    answer: "A technique where two ropes are tied together to descend the full combined length, useful for tall routes or fewer rappel stations."
+  - question: "Do both ropes need to be the same diameter?"
+    answer: "No, but mismatched diameters require careful knot placement to prevent uneven sliding-keep the thinner rope on the pull side."
+  - question: "What knot should I use to join two ropes?"
+    answer: "Common choices include the double fisherman's knot or the flat overhand (with long tails and a stopper knot)."
+  - question: "How do I avoid tangled ropes during descent?"
+    answer: "Flake ropes before throwing, drop them gently in windy conditions, or feed them from a rope bag to prevent snags."
+  - question: "How do I retrieve ropes without getting them stuck?"
+    answer: "Always pull the correct strand (skinny rope if diameters differ), feed the rope smoothly, and avoid pulling at sharp angles to the anchor."
 ---
 
 ---

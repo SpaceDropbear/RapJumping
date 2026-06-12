@@ -2,11 +2,19 @@
 title: "WIN News Cairns RAP Jumping 15-01-2014"
 description: "Former SAS soldier Macka MacKail brings Rap Jumping back to Cairns, the birthplace of his extreme sport legacy. From skyscrapers to cliffs, this adrenaline-fueled return is about facing fears head-on."
 pubDate: "2025-07-18"
-updatedDate: "2025-07-26"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Macka-MacKail-Cairns.webp"
 tags: ["stories"]
 featured: false
 readingTime: 1
+---
+
+### TL;DR
+
+- WIN News Cairns (aired 15 January 2014) covered former SAS soldier Macka MacKail's return to Cairns - the town where he pioneered Rap Jumping - jumping off the Rydges Tower in the CBD.
+- Macka had been operating for about 21 years, starting at Cairns' Pacific Hotel, and even has a cliff named after him at Barron Gorge.
+- Now based in Melbourne and taking up to seventy people a day off buildings, Macka hopes to make Rap Jumping a permanent fixture in far north Queensland.
+
 ---
 
 <div class="yt-embed"><iframe src="https://www.youtube.com/embed/PgNbD_pFHdI" title="WIN News Cairns RAP Jumping 15-01-2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

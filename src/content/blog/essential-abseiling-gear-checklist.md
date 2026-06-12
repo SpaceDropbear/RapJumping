@@ -2,7 +2,7 @@
 title: "Essential Abseiling Gear Checklist"
 description: "Your ultimate abseiling gear checklist for beginners - gear up and conquer new heights safely!"
 pubDate: "2025-07-26"
-updatedDate: "2025-07-26"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Essential-Abseiling-Gear-Checklist.webp"
 tags: ["fundamentals"]
 featured: false
@@ -41,7 +41,7 @@ Your rope is your lifeline. In abseiling, you rely on friction between you and t
 
 ## Get a belay device
 
-A belay device, often called a descender, provides the friction you need while lowering yourself. For abseiling, tube-style devices like the ATC are simple and effective ([Denver Climbing Company LLC](https://denverclimbingcompany.com/rock-climbing-equipment-a-beginners-guide/?srsltid=AfmBOopn9eH9WpuaDlUPQDM861HYyOLUr-T6geztQXP98n79vKqluNUB)).
+A belay device, often called a descender, provides the friction you need while lowering yourself. For abseiling, tube-style devices like the ATC are simple and effective (Denver Climbing Company LLC).
 
 - Opt for a lightweight design that handles a range of rope diameters.
 - Practise feeding the rope through to find your preferred friction level.

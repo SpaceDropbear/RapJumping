@@ -2,11 +2,22 @@
 title: "Rappelling Lanyards and Slings Types Uses and Inspection"
 description: "Discover the essential guide to rappelling lanyards! From types to inspection, gear up for safe adventures!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-Lanyards.webp"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 11
+faq:
+  - question: "What's the difference between WLL and MBS?"
+    answer: "WLL is the maximum safe working load, often on hardware like rapides; MBS is the breaking strength for gear like lanyards, showing the force at which it will fail."
+  - question: "Should I choose dynamic or static lanyards for abseiling?"
+    answer: "Dynamic lanyards absorb force and are safer for potential falls; static lanyards are better for stable positioning or anchor building."
+  - question: "Can a sling replace a lanyard?"
+    answer: "Yes, but most slings are static and won't absorb much shock in a fall. They're best for anchors or short, low-risk attachments."
+  - question: "How often should lanyards or slings be replaced?"
+    answer: "Replace immediately if damaged or after a major fall; typically every 2-5 years with regular use, or 10 years max if unused."
+  - question: "What's the safest option for moving between anchors?"
+    answer: "A double lanyard or a chain-style PAS lets you stay clipped to at least one point while moving between anchors."
 ---
 
 ---
@@ -90,7 +101,7 @@ Rope lanyards, especially adjustable ones like the Petzl Connect Adjust, are bec
 
 ### Custom cord setups
 
-Using cord (5 to 8mm) tied in a loop with a double fisherman's knot has been a classic approach. This loop can serve multiple roles: a friction hitch backup for rappelling, a basic tether at a belay, or an emergency sling in rescue scenarios. It's cheaper than a specialized lanyard and easy to replace.
+Using cord (5 to 8mm) tied in a loop with a double fisherman's knot has been a classic approach. This loop can serve multiple roles: a friction hitch backup for rappelling, a basic tether at a belay, or an emergency sling in rescue scenarios. It's cheaper than a specialised lanyard and easy to replace.
 
 - Pros: Versatile, cost-effective, can be cut to any desired length.
 - Cons: Might not be CE certified if you simply buy cord separately, and the dynamic properties may vary.
@@ -104,14 +115,14 @@ Your gear is your lifeline, so you want to keep it in prime condition. Regular i
 Before each outing, run through a quick list:
 
 1. Inspect stitching: Check if any thread is loose or damaged on sewn slings or lanyards.
-2. Examine webbing or rope: Look for frayed fibers, cuts, glaze marks from heat, or discoloration indicating sun damage.
+2. Examine webbing or rope: Look for frayed fibres, cuts, glaze marks from heat, or discoloration indicating sun damage.
 3. Test connectors: Carabiners, snaphooks, or D-rings must have gates in good shape-no cracks, and they must spring back properly.
 4. Confirm hardware ratings: If you see WLL or MBS markings rubbed off or unreadable, think about replacing the item.
 5. Feel for stiffness: Rope-based lanyards might stiffen after repeated falls or dirt exposure, so gently flex them to spot damage.
 
 ### Retirement guidelines
 
-Even with minimal use, most sling manufacturers recommend you replace slings after around 10 years. Realistically, if you're abseiling every weekend or took a big fall on your gear, you should retire it sooner. A severe fall can compromise internal fibers, so if you have any doubts about its condition, it's better to retire it. This principle also applies to dynamic rope lanyards and chain style PAS devices.
+Even with minimal use, most sling manufacturers recommend you replace slings after around 10 years. Realistically, if you're abseiling every weekend or took a big fall on your gear, you should retire it sooner. A severe fall can compromise internal fibres, so if you have any doubts about its condition, it's better to retire it. This principle also applies to dynamic rope lanyards and chain style PAS devices.
 
 Use this rough timeline as a guide:
 

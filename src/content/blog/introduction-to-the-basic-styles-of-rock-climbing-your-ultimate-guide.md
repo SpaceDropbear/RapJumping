@@ -2,11 +2,21 @@
 title: "Introduction to the Basic Styles of Rock Climbing: Your Ultimate Guide"
 description: "Discover the basic styles of rock climbing, from top-roping and bouldering to sport climbing. Learn where to start your climbing journey safely and effectively."
 pubDate: "2025-07-15"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 4
+---
+
+### TL;DR
+
+- The five basic styles of rock climbing are top-roping, sport climbing, traditional (trad) climbing, bouldering and free soloing.
+- Top-roping is the safest, most beginner-friendly style - a belayer keeps the rope taut so any falls are short and controlled.
+- Sport climbing clips into pre-placed bolts, while trad climbers place and remove their own protection, leaving no trace on the rock.
+- Bouldering swaps ropes for short, intense "problems" no higher than about 20 feet, protected by crash pads and spotters.
+- Free soloing - climbing with no ropes, harnesses or protection - is the most extreme and dangerous style, attempted only by a tiny handful of elite climbers.
+
 ---
 
 Think rock climbing is just "climbing rocks"? While the name is straightforward, the sport itself is anything but simple! For newcomers, diving into the world of rock climbing can feel overwhelming. What gear do you need? Where do you even begin? This guide breaks down the five most common and popular styles of rock climbing, offering a clear path for anyone just getting started in this exciting sport.  

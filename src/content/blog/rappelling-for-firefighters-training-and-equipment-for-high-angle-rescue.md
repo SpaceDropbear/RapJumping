@@ -2,11 +2,28 @@
 title: "Rappelling for Firefighters Training and Equipment for High Angle Rescue"
 description: "Gear up for firefighter rappelling! Unleash your high-angle rescue skills with top training and equipment."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-14"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/firefighter-rappelling.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 10
+faq:
+  - question: "What is firefighter rappelling?"
+    answer: "It's a high-angle rescue technique allowing firefighters to descend safely from heights during emergencies, often to reach victims or evacuate from hazardous zones."
+  - question: "What training is needed for firefighter rappelling?"
+    answer: "Rope rescue courses, ongoing team drills, and maintaining high physical fitness are essential for safe and efficient rappelling."
+  - question: "Which harnesses are best for firefighter rappelling?"
+    answer: "Class II harnesses are lightweight and mobile; Class III harnesses offer maximum safety. In emergencies, a Swiss Seat or rigger's belt can be improvised."
+  - question: "What gear should I carry?"
+    answer: "Locking carabiners, rigging plates, pulleys, rescue-rated ropes, descenders, and devices like the Petzl eXo Escape System for rapid building evacuation."
+  - question: "What are common rappelling techniques used by firefighters?"
+    answer: "Swiss Seat with carabiner brake, Dülfersitz body-wrap, and controlled ladder bail are widely taught."
+  - question: "How do firefighters ensure anchor safety?"
+    answer: "By selecting secure anchor points (steel beams, trees, bolts), using rescue-rated webbing, and double-checking integrity before loading the rope."
+  - question: "What rope types are used in rescue scenarios?"
+    answer: "Static ropes for predictable hauling/lowering and dynamic ropes for shock absorption; both should be rescue-rated."
+  - question: "How do firefighters rescue patients during rappelling operations?"
+    answer: "Using rescue litters or Class III harnesses, secured with locking carabiners, to ensure patient stability and fall prevention."
 ---
 
 ---
@@ -109,7 +126,7 @@ Rappelling techniques continue to evolve, and staying current means you can resp
 - Forest Fire Management Victoria (FFMVic)  
   Rappel firefighters here undergo about four weeks of specialist training, first learning on a tower, then refining their skills from a helicopter. If remote firefighting and abseiling into challenging terrains appeal to you, keep an eye on next season's recruitment. Candidates typically need high levels of fitness, plus a calm head under pressure.
 - Fort McCoy's Ongoing Training  
-  After completing Ropes Rescue I, many firefighters move on to Rope Rescue II, covering more advanced scenarios. Training at places like the Regional Emergency All-Climate Training (REACT) Center expands your abilities well beyond standard firefighting practises, getting you comfortable with confined space rescue, trench and excavation rescue, and more.
+  After completing Ropes Rescue I, many firefighters move on to Rope Rescue II, covering more advanced scenarios. Training at places like the Regional Emergency All-Climate Training (REACT) Centre expands your abilities well beyond standard firefighting practises, getting you comfortable with confined space rescue, trench and excavation rescue, and more.
 - Urban Post-Disaster Environments  
   In city environments, you may deal with concrete walls, tight alleyways, and unstable structures. Improvised systems become crucial, whether that's using a Swiss Seat or a rigger's belt for a quick drop. Tests by some ISG teams found gear like the Petzl eXo especially handy for short, urgent descents in battered urban landscapes.
 

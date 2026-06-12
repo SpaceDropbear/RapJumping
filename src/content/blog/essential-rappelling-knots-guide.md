@@ -2,11 +2,22 @@
 title: "Essential Rappelling Knots Guide"
 description: "Master essential rappelling knots from beginner to advanced levels with our friendly guide!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Essential-Rappelling-Knots-.webp"
 tags: ["knots", "techniques"]
 featured: false
 readingTime: 11
+faq:
+  - question: "What is the safest knot for joining two ropes when rappelling?"
+    answer: "The Offset Overhand Bend (Flat Overhand) is widely used for its low snag risk and reliability when properly tied and dressed."
+  - question: "Why use a Double Fisherman's Knot?"
+    answer: "It's extremely secure for joining ropes or creating friction hitch loops, though bulkier than an overhand knot."
+  - question: "Should I always knot the ends of my rope?"
+    answer: "It's safer to use a stopper knot like a Triple Barrel to prevent rappelling off the ends, but assess based on rappel length and retrieval needs."
+  - question: "How do I keep my friction hitch from jamming my rappel device?"
+    answer: "Extend your rappel device with a sling or PAS so the hitch sits below it without interfering."
+  - question: "Do different rope diameters affect knot choice?"
+    answer: "Yes-when joining ropes of similar diameter, a Flat Overhand works well; for ropes with larger diameter differences, use a more secure option like a Double Fisherman's."
 ---
 
 ---

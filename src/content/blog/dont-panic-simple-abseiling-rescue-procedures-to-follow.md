@@ -2,11 +2,22 @@
 title: "Don't Panic! Simple Abseiling Rescue Procedures to Follow"
 description: "Master abseiling rescue procedures like a pro! Stay calm, follow the steps, and ensure safety on the ropes!"
 pubDate: "2025-08-11"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Simple-Abseiling-Rescue-Procedures.webp"
 tags: ["safety"]
 featured: false
 readingTime: 15
+faq:
+  - question: "Why is mindset so important in abseiling rescues?"
+    answer: "Calm, deliberate actions prevent errors, keep communication clear, and reduce the chance of escalating the situation."
+  - question: "What's the minimum gear for a safe abseil rescue?"
+    answer: "Harness, helmet, ropes (main + backup), descender, prusik/autobloc, slings, locking carabiners, and edge protection."
+  - question: "How should I set up anchors in a rescue?"
+    answer: "Use at least two independent, solid points; equalise the load; avoid nylon-on-nylon contact; and inspect for wear or instability."
+  - question: "Why use two ropes in a rescue?"
+    answer: "A backup rope provides redundancy if the main rope is cut, jammed, or compromised, and allows for longer single-stage descents."
+  - question: "How often should I train rescue techniques?"
+    answer: "Practise regularly-ideally every few months-in controlled conditions to keep skills sharp and reduce hesitation in real emergencies."
 ---
 
 ---

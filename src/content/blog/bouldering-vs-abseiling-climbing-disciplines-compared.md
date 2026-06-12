@@ -2,11 +2,22 @@
 title: "Bouldering vs Abseiling Climbing Disciplines Compared"
 description: "Bouldering vs abseiling: Your guide to thrilling climbs! Compare the adventure, choose your climb!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/bouldering-vs-rappelling.webp"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 11
+faq:
+  - question: "What's the main difference between bouldering and rappelling?"
+    answer: "Bouldering is rope-free climbing on low walls or boulders with crash pads; rappelling is a rope-controlled descent from higher cliffs or vertical drops."
+  - question: "Which is more beginner-friendly?"
+    answer: "Bouldering is easier to start, especially indoors; rappelling is also accessible but requires rope handling skills and safety instruction."
+  - question: "What gear do I need for each?"
+    answer: "Bouldering: climbing shoes, chalk, crash pads. Rappelling: rope, harness, belay/rappel device, carabiners, helmet."
+  - question: "How do the fitness benefits compare?"
+    answer: "Bouldering builds whole-body strength, flexibility, and problem-solving skills; rappelling develops rope control, core stability, and confidence with heights."
+  - question: "Where can I try them in Australia?"
+    answer: "Bouldering: Grampians (VIC), Mt Coolum (QLD), indoor gyms in major cities. Rappelling: Blue Mountains (NSW), Glass House Mountains (QLD), Morialta Conservation Park (SA)."
 ---
 
 ---

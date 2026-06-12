@@ -2,11 +2,22 @@
 title: "Rappelling and Self Arrest Emergency Braking Techniques"
 description: "Master self-arrest rappelling with expert braking techniques and stay safe while exploring the heights!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-and-Self-Arrest-Emergency-Braking-Techniques.webp"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 11
+faq:
+  - question: "What is self arrest rappelling?"
+    answer: "A combination of controlled rappelling techniques and emergency braking methods-such as ice axe self-arrest-to stop a slide or fall."
+  - question: "When should I use self-arrest techniques?"
+    answer: "In snowy, icy, or mixed terrain where there's a risk of slipping and sliding after or during a rappel."
+  - question: "What gear is essential for self arrest rappelling?"
+    answer: "Helmet, harness, rappel device, rope, gloves, and ice axe in snow/ice conditions."
+  - question: "How do I perform an ice axe self-arrest?"
+    answer: "Roll onto your stomach, feet downhill, drive the pick into the snow diagonally across your chest, widen knees, and control deceleration before digging in toes."
+  - question: "Can self-arrest stop a slide on steep icy slopes?"
+    answer: "It's less effective on very steep or hard ice; belays, crampons, or alternative descent strategies may be safer."
 ---
 
 ---

@@ -88,11 +88,11 @@ Your anchor point could be a sturdy tree, a large boulder, or a solid structural
 
 If a single anchor point isn't strong enough or you want extra redundancy, combine multiple points into one anchor system.
 
-### Ways to equalize anchors
+### Ways to equalise anchors
 
-Rescue teams often use the ERNEST acronym to remember the essentials of a solid anchor system: Equalized, Redundant, Non-Extending, Solid, and Timely. Two popular equalization techniques include:
+Rescue teams often use the ERNEST acronym to remember the essentials of a solid anchor system: Equalised, Redundant, Non-Extending, Solid, and Timely. Two popular equalisation techniques include:
 
-1. Two-point self-equalizing system: A piece of webbing or cord is connected to two anchor points, creating a central master point that adjusts as the load moves.
+1. Two-point self-equalising system: A piece of webbing or cord is connected to two anchor points, creating a central master point that adjusts as the load moves.
 2. Sliding X: A simpler design that can self-adjust to load shifts, but be careful if one anchor leg fails, as it can shock-load the system.
 
 Make sure each anchor leg has a minimal angle between them. Think about the forces at play. A wide angle can significantly increase tension on each anchor, reducing overall safety.

@@ -2,7 +2,7 @@
 title: "Abseiling for Beginners: Complete Getting-Started Guide (Australia 2026)"
 description: "New to abseiling? A beginner's guide to rappelling gear, technique, safety checks and your first descent - written for Australian conditions."
 pubDate: "2025-07-26"
-updatedDate: "2025-07-27"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Beginner-s-Guide-to-Rappelling.webp"
 tags: ["fundamentals"]
 featured: true
@@ -68,7 +68,7 @@ Below is a quick look at how the words overlap:
 | Abseiling | UK, Europe, Australia | From German "abseilen" (to rope down) |
 | Rappelling | US, Canada | From French "rappeler" (to pull through) |
 
-According to one source, historical references to the word “abseil” can be traced to rope-lowering tactics in military operations. Meanwhile, “rappelling” picked up steam in North America around the climbing boom of the 1980s ([Super Sherpas](https://supersherpas.com/rappelling-vs-abseiling-whats-the-difference/)). Regardless of the word you choose, you'll likely encounter the same techniques, equipment, and style of descent.
+According to one source, historical references to the word “abseil” can be traced to rope-lowering tactics in military operations. Meanwhile, “rappelling” picked up steam in North America around the climbing boom of the 1980s (Super Sherpas). Regardless of the word you choose, you'll likely encounter the same techniques, equipment, and style of descent.
 
 ### Why terminology can matter
 

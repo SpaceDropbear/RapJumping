@@ -2,11 +2,28 @@
 title: "Using Backup Friction Hitches in Abseiling"
 description: "Enhance your abseiling safety with backup friction hitches - master the art of prusik backup today!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Backup-Friction-Hitches.webp"
 tags: ["safety", "techniques"]
 featured: false
-readingTime: 14
+readingTime: 15
+faq:
+  - question: "What is a prusik backup in abseiling?"
+    answer: "It's a friction hitch tied on the rope below your descender that grips automatically if you lose brake-hand control."
+  - question: "Why place the prusik hitch below the descender?"
+    answer: "Below the device, the prusik only holds brake-hand load, making it easier to release than if it's above."
+  - question: "How long should the prusik cord be?"
+    answer: "Around 1.5 m of 6 mm cord is common, tied into a closed loop with a double fisherman's knot."
+  - question: "What if my prusik won't grip?"
+    answer: "Use a thinner cord relative to your main rope or add extra wraps for more friction."
+  - question: "Are there alternatives to the prusik hitch?"
+    answer: "Yes - autoblock and klemheist knots are also popular, each with different grip and release characteristics. Blake's and Distel hitches suit specific rope setups."
+  - question: "How many wraps do I need?"
+    answer: "Start with 3 wraps on dry, mid-diameter ropes; add a wrap for skinny, wet or icy ropes until it grips reliably."
+  - question: "Nylon, aramid, or Dyneema for hitch cord?"
+    answer: "Nylon/polyester or heat-resistant aramids (e.g., Technora) grip well. Dyneema is slick with a low melting point - avoid it for friction hitches."
+  - question: "Can I use the Farrimond hitch for abseiling backup?"
+    answer: "No - treat it as a utility/quick-release hitch for guys or haul control. Use prusik, klemheist or Distel for life-support backups."
 ---
 
 ---
@@ -130,6 +147,18 @@ Although a prusik hitch is a popular choice, you can also consider autoblock or 
 
 No matter which friction hitch you choose, the goal is the same: catch your fall if the brake hand fails. All these methods are considered a type of “third hand” that you can rely on when unexpected slips occur.
 
+## Expand your hitch repertoire
+
+Beyond the prusik, autoblock and klemheist, three more hitches earn a place in your toolkit - each with a different grip-and-release personality:
+
+- **Blake's Hitch** works with a single cord end and tolerates ropes of similar diameter: form about four wraps upward around the rope, bring the cord back down through the top two wraps, and set. A favourite for quick descents or as an emergency stand-in.
+- **Distel Hitch** offers the smoothest release for its grip: loop behind the rope, three to four upward wraps, exit between the topmost wrap and the rest, dress and tighten. Consistent across varied rope diameters.
+- **Farrimond friction hitch** is the quick-release option - a prusik-style wrap with an extra slip-loop pass that frees with a tug on the trigger loop. Treat it as a utility hitch (guy lines, haul control), **not** a primary life-support backup.
+
+Two gear notes worth knowing. Stitched-eye hitch cords are increasingly the standard - the compact eye keeps the stiff section short so the hitch sits neatly on the rope. And material matters: nylon, polyester or heat-resistant aramids (e.g., Technora) grip well, while Dyneema is slick with a low melting point - avoid it for friction hitches.
+
+**Bottom line: master the prusik first, then add Blake's for one-ended versatility and the Distel for smooth release - and keep the Farrimond for utility work only.**
+
 ## Troubleshoot common pitfalls
 
 Even with a solid prusik backup, some issues might pop up. Here's how to tackle them.
@@ -233,7 +262,16 @@ A. Around 1.5 m of 6 mm cord is common, tied into a closed loop with a double fi
 A. Use a thinner cord relative to your main rope or add extra wraps for more friction.
 
 **Q. Are there alternatives to the prusik hitch?**  
-A. Yes-autoblock and klemheist knots are also popular, each with different grip and release characteristics.
+A. Yes-autoblock and klemheist knots are also popular, each with different grip and release characteristics. Blake's and Distel hitches suit specific rope setups.
+
+**Q. How many wraps do I need?**  
+A. Start with 3 wraps on dry, mid-diameter ropes; add a wrap for skinny, wet or icy ropes until it grips reliably.
+
+**Q. Nylon, aramid, or Dyneema for hitch cord?**  
+A. Nylon/polyester or heat-resistant aramids (e.g., Technora) grip well. Dyneema is slick with a low melting point-avoid it for friction hitches.
+
+**Q. Can I use the Farrimond hitch for abseiling backup?**  
+A. No-treat it as a utility/quick-release hitch for guys or haul control. Use prusik, klemheist or Distel for life-support backups.
 
 ---
 

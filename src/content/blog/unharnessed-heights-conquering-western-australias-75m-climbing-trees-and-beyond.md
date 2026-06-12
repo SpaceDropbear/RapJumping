@@ -2,11 +2,20 @@
 title: "Unharnessed Heights: Conquering Western Australia's 75m Climbing Trees (and Beyond!)"
 description: "Discover the legendary Dave Evans Bicentennial Tree in WA - a 75m unharnessed climb! Get your adrenaline fix!"
 pubDate: "2025-07-18"
-updatedDate: "2025-07-18"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Dave-Evans-Bicentennial-Tree.webp"
 tags: ["abseiling", "western australia"]
 featured: false
 readingTime: 4
+---
+
+### TL;DR
+
+- The Dave Evans Bicentennial Tree in Warren National Park near Pemberton, Western Australia, is a 75-metre Karri you climb completely unharnessed via 165 metal pegs.
+- Pegged in 1988 for Australia's Bicentennial celebrations, it forms a trilogy with the 61-metre Gloucester Tree and 51-metre Diamond Tree, original 1940s fire lookout trees.
+- Climbing is free beyond the $12-per-vehicle national park entry, and the trees have recorded no reported fatalities directly from a fall while climbing the pegs.
+- The reward is 360-degree views over old-growth Karri forest - and testing your fear of heights first with backward abseiling or Aussie-style rappelling is a wise idea.
+
 ---
 
 ## **Where on Earth Can You Climb a 75m Tree Unharnessed?**

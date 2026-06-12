@@ -2,11 +2,28 @@
 title: "Understanding EN Standards for Rappelling Gear"
 description: "Unlock the world of EN standards for rappelling gear! Elevate your safety game with expert guidance."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/en-standards-rappelling.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 15
+faq:
+  - question: "Why are abseiling safety standards important?"
+    answer: "They ensure gear and techniques meet tested performance levels, reducing the risk of accidents."
+  - question: "Who sets abseiling safety standards?"
+    answer: "UIAA, CEN (EN standards), OSHA, ANSI, ASTM, and regional bodies like JMSCA."
+  - question: "What certifications should I look for in harnesses and helmets?"
+    answer: "UIAA 105 or EN 12277 for harnesses; UIAA 106 or EN 12492 for helmets."
+  - question: "Which rope type is best for abseiling?"
+    answer: "Static ropes for minimal stretch; dynamic ropes can be used but have more elongation."
+  - question: "How often should I inspect my rope?"
+    answer: "After every session-check for frays, core damage, and sheath wear."
+  - question: "What legal requirements apply to abseiling?"
+    answer: "Varies by country; may include OSHA regulations in the US, EN standards in Europe, or local guidelines."
+  - question: "What are some key safe-technique tips?"
+    answer: "Check anchors, knot rope ends, use a backup friction hitch, manage devices correctly, and communicate clearly."
+  - question: "How can I train professionally for rope work?"
+    answer: "Gain IRATA or SPRAT certification through multi-day courses and logged hours."
 ---
 
 ---
@@ -63,7 +80,7 @@ A number of bodies set standards or regulations that affect abseiling safety. Ea
 
 ### UIAA: Setting global benchmarks
 
-The UIAA has been at the heart of climbing and mountaineering standards since the 1960s. It started with rope testing and expanded to cover helmets, harnesses, crampons, ice anchors, and more. Though the UIAA collaborates with CEN (the European Committee for Standardization) for harmonising rules, the UIAA sometimes adds extra tests, making its standards more stringent in some cases.
+The UIAA has been at the heart of climbing and mountaineering standards since the 1960s. It started with rope testing and expanded to cover helmets, harnesses, crampons, ice anchors, and more. Though the UIAA collaborates with CEN (the European Committee for Standardisation) for harmonising rules, the UIAA sometimes adds extra tests, making its standards more stringent in some cases.
 
 The UIAA Safety Commission also revises these requirements regularly. By reacting to real-world accidents, they keep pace with climbing's changing nature. So when you see the UIAA symbol on a piece of kit, you can rest assured it's been through a rigorous approval process.
 

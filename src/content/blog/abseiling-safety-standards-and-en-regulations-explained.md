@@ -2,11 +2,28 @@
 title: "Abseiling Safety Standards: EN Regulations & Gear Compliance Guide (Australia)"
 description: "Which safety standards must your abseiling harness, rope and gear meet? A plain-English guide to EN/UIAA ratings and how to check compliance in Australia."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-safety-standards.webp"
 tags: ["abseiling"]
 featured: false
 readingTime: 12
+faq:
+  - question: "What are EN standards in climbing and abseiling?"
+    answer: "They are European Norm benchmarks ensuring gear meets strict safety and performance criteria."
+  - question: "What does EN 892 mean for ropes?"
+    answer: "It's the standard for dynamic climbing ropes, specifying fall ratings, elongation, and impact force limits."
+  - question: "How do CE and UIAA certifications differ?"
+    answer: "CE shows European conformity; UIAA adds more rigorous mountaineering-specific testing."
+  - question: "Why does sheath percentage matter?"
+    answer: "A higher sheath percentage improves abrasion resistance and rope lifespan."
+  - question: "Are EN standards relevant outside Europe?"
+    answer: "Yes-many products meet EN, CE, and UIAA standards for global acceptance and safety."
+  - question: "What US standards apply to climbing gear?"
+    answer: "OSHA regulations plus ANSI Z89.1 (helmets) and ASTM F887 (harnesses) outline safety requirements."
+  - question: "How do I read climbing gear labels?"
+    answer: "Look for standard numbers (e.g., EN 892), certification marks, fall ratings, elongation, and impact force data."
+  - question: "How often should I replace climbing gear?"
+    answer: "Follow manufacturer guidelines-retire ropes, harnesses, and helmets sooner if damaged or expired."
 ---
 
 ---

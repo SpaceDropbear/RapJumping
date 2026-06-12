@@ -2,11 +2,22 @@
 title: "Insurance and Safety Measures for Abseiling"
 description: "Discover abseiling insurance tips for a worry-free descent! Stay safe and secure on every adventure!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Insurance-and-Safety-Measures-for-Abseiling.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 10
+faq:
+  - question: "Why do I need abseiling-specific insurance?"
+    answer: "Standard travel or sports insurance often excludes high-risk activities like abseiling. Specific cover ensures you're protected for medical, rescue, and liability costs."
+  - question: "What should I look for in a policy?"
+    answer: "Key factors include altitude limits, coverage area, medical evacuation, search-and-rescue inclusion, and gear protection."
+  - question: "Does using old gear affect my coverage?"
+    answer: "Yes. Some insurers may reduce or deny claims if you use worn or unsafe equipment, citing contributory negligence."
+  - question: "Are there common exclusions I should know?"
+    answer: "Common exclusions include solo abseiling without supervision, exceeding height limits, using unapproved gear, or being under the influence."
+  - question: "Can training or professional supervision lower my insurance costs?"
+    answer: "Sometimes. Some insurers offer discounts if you prove you're trained or abseiling under certified supervision."
 ---
 
 ---

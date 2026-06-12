@@ -2,11 +2,28 @@
 title: "Rescue Rappelling Techniques and Equipment"
 description: "Master rescue rappelling with expert techniques and gear to tackle any mission with confidence!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-14"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/rescue-rappelling.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 12
+faq:
+  - question: "What is rescue rappelling?"
+    answer: "Rescue rappelling is a rope-based technique for controlled descents in emergencies, allowing rescuers to quickly reach people in high or confined locations."
+  - question: "Which ropes are best for rescue rappelling?"
+    answer: "Static Kernmantle ropes, typically 10-12.5 mm, meeting NFPA 1983 or IRATA standards for strength, low stretch, and durability."
+  - question: "What harness features are important for rescue work?"
+    answer: "Multiple attachment points, padded support, adjustability for PPE layers, and gear loops for quick equipment access."
+  - question: "Which descent control devices work for rescue rappelling?"
+    answer: "Devices like the Rescue 8, Petzl I'D, CMC MPD, or similar, chosen for load control, braking capability, and ease of use under stress."
+  - question: "How do I set a safe anchor?"
+    answer: "Use strong, stable natural or engineered points, with redundancy, proper load distribution, and regular inspection for wear or damage."
+  - question: "What belay options are available?"
+    answer: "Independent belay lines, bottom belays, or a friction hitch “third hand” as a backup to the main system."
+  - question: "How do you handle night rescues?"
+    answer: "Use headlamps, reflective gear, marked anchors/edges, and slow, deliberate movement to offset reduced visibility."
+  - question: "What are highline systems?"
+    answer: "Tensioned rope setups that allow lateral movement of victims or gear across gaps, often combined with rappelling for access."
 ---
 
 ---
@@ -48,7 +65,7 @@ In rescue teams, you'll also encounter times when lowering a rescuer might be mo
 
 ### Essential rope choices
 
-When it comes to ropes, your priority is strength and minimal stretch. Static ropes (often Kernmantle construction) are commonly chosen since they hold shape under heavy loads and reduce bounce. You may also see specialized materials like Technora or Nylon 6.6 for added heat resistance and abrasion tolerance.
+When it comes to ropes, your priority is strength and minimal stretch. Static ropes (often Kernmantle construction) are commonly chosen since they hold shape under heavy loads and reduce bounce. You may also see specialised materials like Technora or Nylon 6.6 for added heat resistance and abrasion tolerance.
 
 Key rope factors include:
 
@@ -106,7 +123,7 @@ At this point, communicate clearly with your team. If you're the one going over,
 
 One of the trickiest parts of rescue rappelling is the transition from standing to a seated position. A higher anchor point can make this step smoother, as you'll have more rope clearance to settle into your harness. With a low anchor, you may have to scoot over the edge, which can feel more precarious.
 
-Maintain a hand on the brake strand while guiding your body weight onto the rope. If you're carrying extra gear, try to balance it out so you can keep your center of gravity under control. Gently ease your weight onto the DCD, and once you're stable, you're ready to descend.
+Maintain a hand on the brake strand while guiding your body weight onto the rope. If you're carrying extra gear, try to balance it out so you can keep your centre of gravity under control. Gently ease your weight onto the DCD, and once you're stable, you're ready to descend.
 
 ### Overcoming common pitfalls
 
@@ -128,7 +145,7 @@ Sometimes vertical descent isn't the only challenge. You may need to transfer vi
 
 In industrial or urban settings, confined spaces such as narrow shafts and tunnels demand extra care. Oxygen levels might be low, and there's limited room for standard maneuvers. Communication is trickier, because echoes can distort sound. Always verify that the environment is stable enough for entry, and bring proper ventilation if air quality is in doubt.
 
-Rescue rappelling in such cramped zones can feel claustrophobic, so it helps to rehearse these operations with your team beforehand. You might opt for a smaller DCD or specialized harness to navigate tight corners.
+Rescue rappelling in such cramped zones can feel claustrophobic, so it helps to rehearse these operations with your team beforehand. You might opt for a smaller DCD or specialised harness to navigate tight corners.
 
 ## Continuous training for success
 

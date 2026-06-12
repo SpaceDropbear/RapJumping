@@ -2,11 +2,21 @@
 title: "Beyond the Edge: 7 Jaw-Dropping Abseiling Feats That Inspire Adventure"
 description: "Explore 7 incredible abseiling and rappelling feats, from record-breaking descents to daring vertical challenges. Get your adrenaline pumping and find your next adventure!"
 pubDate: "2025-07-18"
-updatedDate: "2025-07-26"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Abseiling-Feats-That-Inspire-Adventure.webp"
 tags: ["abseiling", "stories"]
 featured: false
 readingTime: 7
+---
+
+### TL;DR
+
+- The seven feats: Doris Long's record abseil at age 101, a continuous SRT descent of El Capitan, Maletsunyane Falls' world-record commercial abseil, Steve Truglia's 8.99-second 100-metre descent, Philadelphia mascots rappelling a skyscraper, a 42-person waterfall rappel in India, and Bear Grylls abseiling a Shanghai tower.
+- "Daring Doris" Long broke her own world record in July 2015, abseiling the 170-metre Spinnaker Tower in Portsmouth at the age of 101.
+- Maletsunyane Falls in Lesotho is the Guinness-recognised highest commercially operated abseil in the world - a 204-metre drop requiring two days of training, with the rappel taking around 40 minutes.
+- Steve Truglia's 8.99-second 100-metre abseil down London's Centre Point tower in 2004 was faster than Usain Bolt's 9.58-second sprint world record.
+- Inspired? Abseiling and forward-facing Rap Jumping can be tackled on a smaller, controlled scale through trusted partners, including in Melbourne's CBD.
+
 ---
 
 For those with a true love of **adventure** and an insatiable craving for **adrenaline, abseiling** (or **rappelling** as it's often known globally) offers one of the most exhilarating ways to interact with gravity. From the sheer faces of monolithic cliffs and the misty spray of breathtaking waterfalls, to the dizzying heights of the tallest buildings in the urban jungle, **extreme sports** enthusiasts are always looking for ways to push their limits and conquer new vertical challenges.
@@ -29,7 +39,7 @@ What's your excuse for not seeking out your next personal challenge?
 
 ## #2 Conquering El Capitan: A Terrifying SRT Descent
 
-**El Capitan**, a colossal granite monolith rising 3,000 feet (915 metres) from the valley floor in **Yosemite National Park**, USA, is legendary in the climbing world. While often ascended, [rappelling its entire face is a feat](https://www.ukclimbing.com/news/2024/05/alex_honnold_breaks_salathe_wall_rope-solo_speed_record-73690) of immense scale and technical skill.
+**El Capitan**, a colossal granite monolith rising 3,000 feet (915 metres) from the valley floor in **Yosemite National Park**, USA, is legendary in the climbing world. While often ascended, rappelling its entire face is a feat of immense scale and technical skill.
 
 In 2013, a group of daredevils embarked on a terrifying descent of El Capitan using what is known in the **rappel** world as the "Single Rope Technique" (SRT) for a continuous descent. This highly advanced method requires meticulous rigging and a deep understanding of rope dynamics to manage the immense length of rope over such a vast vertical distance. The descent, which began from a high rock overhang and concluded on the peaceful valley floor, is often compared to the challenge of climbing Mount Everest due to its sheer scale and the precision required. Indeed, fewer people have completed a continuous SRT descent of El Capitan than the total number of individuals who reach the summit of Everest each year, highlighting its unique and formidable nature. This **abseiling** feat truly embodies the spirit of **extreme sports**.
 
@@ -47,7 +57,7 @@ The falls, the highest single-drop falls in Southern Africa, plunge a dizzying 6
 
 Hollywood stuntman and ultimate daredevil Steve Truglia once held a [world record](https://www.guinnessworldrecords.com/world-records/fastest-100-m-abseil) that defied belief: the fastest 100-metre **abseil** descent. In September 2004, Truglia raced down the side of London's Centre Point tower, reaching the ground in an astonishing 8.99 seconds.
 
-To put that into perspective, this vertical sprint was faster than Usain Bolt's 100-metre sprint world record of 9.58 seconds - a truly mind-boggling comparison for a feat involving a controlled descent! While experts from organizations like ITS Tactical (an authority on tactical skills) have pointed out some interesting safety considerations visible in footage of his extreme feat, such as the use of a single carabiner, it undeniably showcased Truglia's unparalleled skill and willingness to push the boundaries of what's possible in **rappelling**. He was, after all, a genuine daredevil who lived life on the edge.
+To put that into perspective, this vertical sprint was faster than Usain Bolt's 100-metre sprint world record of 9.58 seconds - a truly mind-boggling comparison for a feat involving a controlled descent! While experts from organisations like ITS Tactical (an authority on tactical skills) have pointed out some interesting safety considerations visible in footage of his extreme feat, such as the use of a single carabiner, it undeniably showcased Truglia's unparalleled skill and willingness to push the boundaries of what's possible in **rappelling**. He was, after all, a genuine daredevil who lived life on the edge.
 
 ---
 
@@ -71,7 +81,7 @@ Led by the then 64-year-old Sreenivasa Prasad, the large team completed the desc
 
 ## #7 Publicity Stunt: Bear Grylls in Shanghai
 
-In September 2015, reality TV star and survival expert Bear Grylls showcased his signature daring by **abseiling** down the side of one of **Shanghai's tallest buildings**. This high-profile stunt was a dramatic prelude to the launch of his [own brand of survival television](https://beargryllssurvivalacademy.com/team-building/events/charity-team-abseils) in China.
+In September 2015, reality TV star and survival expert Bear Grylls showcased his signature daring by **abseiling** down the side of one of **Shanghai's tallest buildings**. This high-profile stunt was a dramatic prelude to the launch of his [own brand of survival television](https://beargryllssurvivalacademy.com/) in China.
 
 The building, which served as the base for Shanghai Media Group, presented a formidable vertical challenge. Grylls, known for his extraordinary feats of survival, made the descent with his usual unflappable demeanour, seemingly barely raising a sweat. The publicity stunt, which closely resembled a scene ripped straight from a Mission Impossible film, certainly didn't go unnoticed. It drew immense attention from both passers-by on the bustling streets below and prominent Chinese media outlets, solidifying his image as the ultimate **adrenaline** junkie and master of **extreme sports**.
 

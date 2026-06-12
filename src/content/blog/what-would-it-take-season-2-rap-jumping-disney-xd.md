@@ -2,11 +2,19 @@
 title: "What Would It Take - Season 2 - RAP JUMPING - Disney XD"
 description: "Join pro skateboarder Mikey Mendoza as he tackles Rap Jumping in Melbourne-face-first down a building like Spider-Man. Powered by adrenaline, guided by experts, and packed with superhero vibes!"
 pubDate: "2025-07-18"
-updatedDate: "2025-07-26"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/spiderman.webp"
 tags: ["stories"]
 featured: false
 readingTime: 2
+---
+
+### TL;DR
+
+- Disney XD's What Would It Take (Season 2) sent professional skateboarder Mikey Mendoza Rap Jumping face-first down a Melbourne building, Spider-Man style.
+- Rap Jumping expert Damien rigged a standard rock climbing harness back to front so Mikey could descend forwards, naming fitness, strength and fearlessness as the key skills.
+- Recorded 8 August 2015 and aired 4 August 2016, the segment ends with Mikey declaring that flying down the building made him feel just like Spider-Man.
+
 ---
 
 <div class="yt-embed"><iframe src="https://www.youtube.com/embed/bAZdPwI3jww" title="What Would It Take - Season 2 - RAP JUMPING - Disney XD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

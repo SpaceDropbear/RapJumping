@@ -2,11 +2,22 @@
 title: "Capturing Your Abseil Photography and Video Tips"
 description: "Get ready to snap your abseiling adventures with pro photography & video tips for stunning shots!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-14"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-photography.webp"
 tags: ["abseiling", "photography"]
 featured: false
 readingTime: 12
+faq:
+  - question: "What rope setup is best for abseiling photography?"
+    answer: "Use a static line for stability, build redundant/equalised anchors, knot rope ends, and add redirects if you need side-on angles."
+  - question: "How do I keep my camera safe on the rope?"
+    answer: "Tether it to your harness (wrist or chest leash), use a protective filter, and stash spares in a small, reachable gear sling/rope bag."
+  - question: "What lighting works best on cliffs?"
+    answer: "Overcast = soft, even faces; golden hour adds drama. Watch for harsh midday shadows and reposition or wait for cloud cover."
+  - question: "Any shooting tips while suspended?"
+    answer: "Vary perspective (wide scene, mid, detail), use leading lines, keep backgrounds clean, and capture expressions for story."
+  - question: "How do I pause safely to shoot?"
+    answer: "Descend slowly and use your device's lock-off/assisted-brake; keep a hand on the brake strand and confirm you're stable before composing."
 ---
 
 ---
@@ -21,7 +32,7 @@ readingTime: 12
 
 ---
 
-Abseiling photography can feel like an incredible adventure. You're dangling off a cliff (or a bridge, or a rocky outcrop), camera in hand, ready to capture moments most travelers only dream about. It's thrilling, it's challenging, and it can give you those once-in-a-lifetime images of Australia's jaw-dropping landscapes.
+Abseiling photography can feel like an incredible adventure. You're dangling off a cliff (or a bridge, or a rocky outcrop), camera in hand, ready to capture moments most travellers only dream about. It's thrilling, it's challenging, and it can give you those once-in-a-lifetime images of Australia's jaw-dropping landscapes.
 
 But how do you actually get started? Maybe you've tried snapping pictures on a hike or from a lookout platform, and you're curious what it's like to dangle on ropes and shoot photos at the same time. In this step-by-step tutorial, you'll discover how to pick an ideal location, set up your rope system, and balance the excitement of a descent with taking great pictures. Let's dive right in!
 
@@ -76,7 +87,7 @@ Now that your rope is set, it's time to lower yourself gradually and pick that w
    Lower yourself with a calm, controlled pace. If you're using a Grigri, keep one hand on the brake strand at all times. If you need to pause, you can let the device's cam engage (auto-braking function). This basically leaves you “hanging” hands-free, so you can focus on the camera.
 3. Scout your frame  
    A big part of capturing dynamic climbing shots is angle variety. Once you're securely in position, rotate your body or lookout for possible vantage points:
-   - Wide shot: Show the entire scene around the climber, emphasizing how small they are against the vast landscape.
+   - Wide shot: Show the entire scene around the climber, emphasising how small they are against the vast landscape.
    - Mid-range: Focus on the climber's figure, the rope line, and a bit of surrounding rock.
    - Detail shot: Zoom in on the climber's facial expression or chalky hands gripping a hold.
 4. Make use of natural lines  
@@ -100,7 +111,7 @@ Safety is everything, especially while hanging dozens of metres off the ground. 
 With so many moving pieces, it's handy to have a strategy for getting the images you want. Here's where you bring everything together, from the gear you set up to the vantage point you scouted.
 
 1. Compose deliberately  
-   Resist the urge to snap constantly without thinking. Instead, compose a few well-thought-out frames. Place the climber off-center so if your image ends up in a magazine spread, they aren't lost in the page gutter. Watch that you don't accidentally chop off a toe or hand, which can be the difference between a keeper shot and a discard.
+   Resist the urge to snap constantly without thinking. Instead, compose a few well-thought-out frames. Place the climber off-centre so if your image ends up in a magazine spread, they aren't lost in the page gutter. Watch that you don't accidentally chop off a toe or hand, which can be the difference between a keeper shot and a discard.
 2. Vary your perspective
    - Top-down: Show a dramatic view of the climber's progress, plus a sense of height.
    - Eye-level: If you can position yourself just above or to the side, you'll capture the moment they look up or out at the horizon.

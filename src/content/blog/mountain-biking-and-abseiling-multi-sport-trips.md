@@ -2,11 +2,22 @@
 title: "Mountain Biking and Abseiling Multi Sport Trips"
 description: "Experience thrill like never before with MTB and abseiling adventures - the ultimate multi-sport adrenaline rush awaits you!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/mtb-abseiling.webp"
 tags: ["abseiling", "mountain biking", "australia"]
 featured: false
 readingTime: 12
+faq:
+  - question: "What is MTB abseiling?"
+    answer: "It's an adventure combining mountain biking on trails with abseiling (rappelling) down cliffs, often in the same outing."
+  - question: "What skills do I need for MTB abseiling?"
+    answer: "Confident mountain biking ability, basic to intermediate abseiling skills, and comfort with heights."
+  - question: "What gear is required?"
+    answer: "MTB with suspension, helmet, pads, gloves, hydration pack; for abseiling-rope, harness, descender, helmet, gloves, carabiners, and backups."
+  - question: "Where can I do MTB abseiling in Australia?"
+    answer: "Blue Mountains (NSW), You Yangs (VIC), Kangaroo Point (QLD), and tropical QLD rainforest waterfall sites."
+  - question: "How do I stay safe during MTB abseiling?"
+    answer: "Wear helmets for both sports, double-check anchors, tie stopper knots, scout trails before riding, and pace the day to avoid fatigue."
 ---
 
 ---
@@ -59,7 +70,7 @@ Anchors, the gear that fixes your rope to the cliff, must be strong and well-cho
 - Gloves: Helpful for gripping and controlling the rope without risking rope burn.
 - Carabiners: Metal clips that secure the rope and connect to your harness.
 
-You might also see specialized accessories like prusiks or mechanical backups that add an extra layer of security. In group scenarios, an instructor may handle a safety rope from above to catch you if you lose control.
+You might also see specialised accessories like prusiks or mechanical backups that add an extra layer of security. In group scenarios, an instructor may handle a safety rope from above to catch you if you lose control.
 
 ### Common pitfalls
 
@@ -110,7 +121,7 @@ Pay attention to weather forecasts, because storms can transform a friendly trai
 
 ### Budget considerations
 
-Gear rental can be pricey, especially when you factor in both bike equipment and abseiling devices, so plan accordingly. If you're traveling somewhere new, research local rental shops that offer bulk deals or packages. Consider investing in your own helmet, gloves, or harness if you anticipate frequent use.
+Gear rental can be pricey, especially when you factor in both bike equipment and abseiling devices, so plan accordingly. If you're travelling somewhere new, research local rental shops that offer bulk deals or packages. Consider investing in your own helmet, gloves, or harness if you anticipate frequent use.
 
 ## Find Australian adrenaline hotspots
 

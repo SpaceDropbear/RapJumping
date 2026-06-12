@@ -2,11 +2,21 @@
 title: "Melbourne School Holidays 2025/2026: 8 Awesome Activities for Kids (and Parents!)"
 description: "Planning the Victorian summer school holidays (Dec 2025 - Jan 2026)? Discover 8 incredible Melbourne activities for kids, from stargazing to climbing! Find adventure and fun for the whole family."
 pubDate: "2025-07-18"
-updatedDate: "2025-07-27"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/playground.webp"
 tags: ["school holidays", "melbourne", "victoria"]
 featured: true
 readingTime: 6
+---
+
+### TL;DR
+
+- Eight Melbourne school-holiday picks: stargazing at Melbourne Observatory, O'Brien Icehouse, The Wind in the Willows at the Royal Botanic Gardens, ACMI, Clip 'n Climb Berwick, SEA LIFE Melbourne Aquarium, Trees Adventure and Gumbuya World.
+- Victorian summer holidays start Friday 19 December 2025, with Term 1 of 2026 beginning on 28 January.
+- Indoor options like ACMI at Federation Square and SEA LIFE Melbourne Aquarium are perfect for hot days, while Clip 'n Climb Berwick and Trees Adventure (including Belgrave, near the CBD) deliver climbing thrills.
+- O'Brien Icehouse in Docklands runs public skating daily from 9 am until late, with 'Bumperballs on Ice' for kids 12 and up.
+- Book ahead - observatory tours, theatre performances and aquarium tickets all benefit from advance bookings during peak holiday periods.
+
 ---
 
 The Victorian summer school holidays officially begin on Friday, December 19th, 2025, just a few days before Christmas. While the kids are sure to be preoccupied with the imminent arrival of everyone's favourite jolly man, post-Christmas is another story!

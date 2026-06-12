@@ -2,11 +2,28 @@
 title: "Rappelling and Load Management Understanding Weight Limits and Systems"
 description: "Master load management in rappelling! Discover weight limits and systems for a safe descent."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/load-management-rappelling.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 15
+faq:
+  - question: "What is load management in rappelling?"
+    answer: "It's the practice of controlling the forces on ropes, anchors, and descent devices to ensure safety, reduce gear wear, and maintain control during descent."
+  - question: "Why is load management important in rescue operations?"
+    answer: "It prevents anchor failures, uncontrolled descents, and gear damage, especially when carrying extra weight like a patient or equipment."
+  - question: "What gear is best for load management rappelling?"
+    answer: "Reliable static ropes, figure 8 or brake-assisted devices, locking carabiners, and a tested friction hitch backup are key."
+  - question: "Should I use static or dynamic rope for rescue rappelling?"
+    answer: "Static ropes are preferred because they limit stretch, making lowering and hauling more predictable."
+  - question: "How do I avoid rope tangles before rappelling?"
+    answer: "Flake the rope into a bag or onto a clean surface before deployment and control the feed during descent."
+  - question: "What is a friction hitch backup and why use one?"
+    answer: "It's a knot like a Prusik or Autoblock placed below the device to catch you if you lose control of the rope."
+  - question: "How can I reduce heat and wear on my descent device?"
+    answer: "Maintain a slow, steady speed, avoid sudden stops, and use extra friction wraps if needed."
+  - question: "When should I retire a rope?"
+    answer: "Retire it if it has cuts, severe sheath damage, internal weakness, contamination, or has exceeded the manufacturer's lifespan."
 ---
 
 ---
@@ -152,7 +169,7 @@ Remember that simul-rappelling-where two people rappel at once on opposite ends 
 
 ### Rope loads and safe working loads
 
-Every rope has a safe working load determined by the manufacturer's specifications. When you're involved in rescue or tactical situations, you might exceed the typical one-person body weight by adding gear, a patient, or specialized equipment. That's why you want to stay aware of your rope's rating and the total load you're placing on it.
+Every rope has a safe working load determined by the manufacturer's specifications. When you're involved in rescue or tactical situations, you might exceed the typical one-person body weight by adding gear, a patient, or specialised equipment. That's why you want to stay aware of your rope's rating and the total load you're placing on it.
 
 For single-person rescue rappels, a strong static rope (like one with a 32kN rating) is generally robust enough, provided it's in good shape. Still, ropes can wear down from edges, abrasion, and repeated intense use. If you see fuzziness, discolouration, or flat spots, it may be time to retire that rope.
 
@@ -188,7 +205,7 @@ Sometimes, you might find yourself without a purpose-built device. Perhaps your 
 
 ### Australian rappel technique
 
-The Australian rappel (harness worn backwards) lets you descend facing forward. While this can help you see directly below for rescue work, it carries unique risks-your harness isn't designed for backward loads, and a sudden jolt might jarringly compress your spine. It's generally not recommended in standard rescue ops, but you could encounter it in tactical or specialized contexts. If you ever try it, proceed with caution and test under controlled conditions first.
+The Australian rappel (harness worn backwards) lets you descend facing forward. While this can help you see directly below for rescue work, it carries unique risks-your harness isn't designed for backward loads, and a sudden jolt might jarringly compress your spine. It's generally not recommended in standard rescue ops, but you could encounter it in tactical or specialised contexts. If you ever try it, proceed with caution and test under controlled conditions first.
 
 ## Put it all together
 

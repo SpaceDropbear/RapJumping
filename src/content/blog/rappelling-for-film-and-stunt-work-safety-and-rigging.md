@@ -2,11 +2,22 @@
 title: "Rappelling for Film and Stunt Work Safety and Rigging"
 description: "Discover the art of stunt rappelling! Elevate your adventure game with safety tips and rigging insights."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/stunt-rappelling.webp"
 tags: ["abseiling"]
 featured: false
 readingTime: 9
+faq:
+  - question: "What is stunt rappelling?"
+    answer: "Stunt rappelling is a performance-driven rope descent technique used in films and live shows, combining traditional abseiling skills with dramatic movements and controlled safety systems."
+  - question: "How is stunt rappelling different from abseiling?"
+    answer: "Both use similar gear and rope systems, but abseiling focuses on steady, controlled descent, while stunt rappelling emphasises visual flair, speed, and camera-friendly moves."
+  - question: "What gear do I need for stunt rappelling?"
+    answer: "A well-fitted harness, static or dynamic rope, rappel device (figure-eight or ATC), backup friction hitch (prusik/autoblock), extension system, and a secure anchor setup."
+  - question: "Is stunt rappelling safe for beginners?"
+    answer: "It can be, if done under professional supervision. Beginners should start with standard abseiling to learn rope control before adding stunt elements."
+  - question: "Where can I try stunt rappelling in Australia?"
+    answer: "Guided experiences may be available in the Blue Mountains, select coastal cliffs, and urban locations offering controlled building descents."
 ---
 
 ---

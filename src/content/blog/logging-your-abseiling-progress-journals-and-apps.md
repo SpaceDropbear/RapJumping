@@ -2,11 +2,28 @@
 title: "Logging Your Abseiling Progress Journals and Apps"
 description: "Track your abseiling progress with the best climbing logbook apps! Elevate your skills and reach new heights effortlessly!"
 pubDate: "2025-08-14"
-updatedDate: "2026-02-13"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/climbing-logbook-app.webp"
 tags: ["abseiling"]
 featured: false
 readingTime: 11
+faq:
+  - question: "Why use a digital logbook for abseiling/climbing?"
+    answer: "It makes sessions searchable, auto‑backs up your history, shows progress charts, and keeps you motivated over time."
+  - question: "What should I record after each session?"
+    answer: "Date, location, route/problem, style (e.g., abseil, boulder, top‑rope), grade/difficulty, gear setup, conditions, how you felt, wins, and lessons."
+  - question: "Do these apps work for abseiling as well as climbing?"
+    answer: "Yes-many general climbing log apps let you tag or categorise abseiling sessions alongside other styles."
+  - question: "How does logging improve accountability and progress?"
+    answer: "A consistent record highlights strengths and weaknesses, reveals patterns (e.g., time of day or gear choices), and makes goal‑setting easier."
+  - question: "Do I need an internet connection to log?"
+    answer: "Some apps support offline logging and sync later; check the app's features before you choose."
+  - question: "Can I export my data if I switch apps?"
+    answer: "Many apps offer CSV or similar exports so you can keep or migrate your history."
+  - question: "How can logs make me safer?"
+    answer: "Reviewing notes on anchors, rope length, friction control, and conditions helps you refine systems, avoid repeat mistakes, and plan better."
+  - question: "How do I choose the right app?"
+    answer: "Decide if you want pure logging, training plans, or social/community features-then pick the option that prioritises those needs."
 ---
 
 ---

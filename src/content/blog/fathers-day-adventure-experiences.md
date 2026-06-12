@@ -2,11 +2,22 @@
 title: "Fathers Day Adventure Experiences"
 description: "Celebrate Father's Day with thrilling adventure experiences for all! Perfect gifts for dads and families alike."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/fathers-day-adventure.webp"
 tags: ["fathers day", "gifts"]
 featured: false
 readingTime: 9
+faq:
+  - question: "What if Dad's not a thrill-seeker?"
+    answer: "Go low-key: scenic walk, museum + picnic, gentle paddle, or a lazy river float. Keep the abseiling and shark dives for another year."
+  - question: "How do we plan on a budget?"
+    answer: "Mix free or low-cost options (local hikes, festivals, free-admission museums) with a homemade picnic. Experience vouchers let him choose later without committing now."
+  - question: "What should we pack for outdoor plans?"
+    answer: "Water, snacks, sun protection, layers, closed-toe shoes, basic first aid, and a power bank. For water days: towel, dry bag, spare socks."
+  - question: "How do we include different ages or fitness levels?"
+    answer: "Choose venues with multiple difficulty options (short trails + scenic lookouts, tandem kayaks, beginner abseil routes) and assign roles (navigator, DJ, photographer)."
+  - question: "We're celebrating from afar-ideas?"
+    answer: "Send an experience voucher, schedule a video call “toast,” ship a small gear gift (daypack, hat), and plan a rain-check adventure together."
 ---
 
 ---
@@ -59,7 +70,7 @@ Just remember to book in advance. Slots on guided tours can fill up fast, partic
 
 Got a dad who devours documentaries or can't resist a roadside museum? Plan a mini-history tour. Eastern Tennessee brims with Civil War battlegrounds and rail museums, blending education and entertainment.
 
-- Check out the Tennessee Valley Railroad Museum in Chattanooga, where you can climb aboard restored train cars and discover how folks traveled decades ago.
+- Check out the Tennessee Valley Railroad Museum in Chattanooga, where you can climb aboard restored train cars and discover how folks travelled decades ago.
 - Want a deeper dive? Visit Point Park at Lookout Mountain, famous for its Civil War history. Stroll around, read the plaques, and imagine what life was like in 1863.
 
 Natural conversation starters pop up everywhere. You can quiz Dad on his favourite bit of trivia or ask him what era of history fascinates him most. The day is bound to spark a few stories of his own.

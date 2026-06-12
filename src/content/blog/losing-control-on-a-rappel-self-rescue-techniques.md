@@ -2,11 +2,22 @@
 title: "Losing Control on a Rappel Self Rescue Techniques"
 description: "Master rappelling self-rescue techniques and stay in control with this friendly guide for abseiling adventurers!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Losing-Control-on-a-Rappel-Self-Rescue-Techniques.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 12
+faq:
+  - question: "What is rappelling self rescue?"
+    answer: "It's the set of techniques used to regain control and safely continue a rappel if something goes wrong mid-descent."
+  - question: "Why use a friction hitch backup?"
+    answer: "It automatically grips the rope if your brake hand slips, preventing a free fall."
+  - question: "How can I ascend the rope during a rescue?"
+    answer: "Use two prusiks-one on your harness and one as a foot loop-alternating between sitting and standing to inch up."
+  - question: "What's the first step in a rappel slip emergency?"
+    answer: "Stop your descent by letting your friction hitch lock or manually securing the rope, then regain brake control."
+  - question: "Where should I practice self rescue?"
+    answer: "In safe, controlled environments like climbing gyms or short familiar crags before applying skills on big routes."
 ---
 
 ---
@@ -95,7 +106,7 @@ At times, a slip can begin a cascade of trouble. Maybe your rope has become twis
 
 ### Step 1: Stop your descent
 
-If your friction hitch is locked off, that's your first line of defense. If not, manually secure the rope. In some advanced cases, you might tie off your belay device by looping a bight of rope around it and locking it with a mule hitch (then a backup overhand knot).
+If your friction hitch is locked off, that's your first line of defence. If not, manually secure the rope. In some advanced cases, you might tie off your belay device by looping a bight of rope around it and locking it with a mule hitch (then a backup overhand knot).
 
 ### Step 2: Evaluate your position
 

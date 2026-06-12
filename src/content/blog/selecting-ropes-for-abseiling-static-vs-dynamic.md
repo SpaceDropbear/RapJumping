@@ -2,7 +2,7 @@
 title: "Static vs Dynamic Rope for Abseiling: How to Choose (AU)"
 description: "Static vs dynamic rope for rappelling? Compare strength, stretch, diameter and safety ratings to choose the best abseiling rope for Australian conditions."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Ropes-for-Abseiling-Static-vs-Dynamic.webp"
 tags: ["safety", "equipment"]
 featured: false
@@ -121,7 +121,7 @@ Rope lengths vary widely, but 50 to 70 metres is a common sweet spot for many ab
 
 Ropes sold for technical activities typically meet rigorous industry standards.
 
-- European Committee for Standardization (CEN): Certifies ropes for dependable safety requirements.
+- European Committee for Standardisation (CEN): Certifies ropes for dependable safety requirements.
 - UIAA (International Climbing and Mountaineering Federation): Tests dynamic ropes for impact force, number of rated falls, and more.
 - NFPA (National Fire Protection Association): Sets guidelines mainly for rescue gear in North America.
 
@@ -190,7 +190,7 @@ Still not sure whether to go static or dynamic? Here are some personal questions
 - Are you primarily abseiling with minimal risk of falling?
 - Do you occasionally climb sport routes or multi-pitch lines?
 - Will you frequently lift or lower gear where a steady rope is a must?
-- Are you traveling in areas where an unexpected fall could happen?
+- Are you travelling in areas where an unexpected fall could happen?
 
 If you mainly answer “yes” to abseiling and rescue tasks, a dedicated static rope is the way to go. If you foresee climbing or want a rope that can double for top-roping, a dynamic one might fit better.
 

@@ -2,14 +2,22 @@
 title: "The Ultimate Christmas Thrill: Give the Gift of Rappelling & Rap Jumping"
 description: "Skip the ordinary! Discover why rappelling and Rap Jumping are the perfect adrenaline-fueled Christmas presents. Give the adventure of a lifetime through our trusted partners."
 pubDate: "2025-07-18"
-updatedDate: "2025-07-26"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Christmas-Rappelling.webp"
 tags: ["christmas"]
 featured: false
 readingTime: 4
 ---
 
-With Christmas fast approaching, the spirit of gift-giving is in the air. Unless you've been super organized this year and already ticked off everyone on your list, chances are you still have a few tricky presents to find!
+### TL;DR
+
+- A Rap Jumping, abseiling or rappelling experience is the ultimate Christmas gift for people who seem to have everything - an experience never ends up on the scrap heap.
+- Rap Jumping is forward-facing 'Aussie Rappel' abseiling, originally developed by the Australian SAS, and beginner courses start with the less intimidating backwards descent.
+- Partner experiences run at central venues like Melbourne's Urban Central, with rooftop decks where friends and family can watch the gift in action - some even include HD video and accommodation discounts in Southbank.
+
+---
+
+With Christmas fast approaching, the spirit of gift-giving is in the air. Unless you've been super organised this year and already ticked off everyone on your list, chances are you still have a few tricky presents to find!
 
 More often than not, those last few gifts are the hardest to buy - especially for those friends and family members who seem to have everything. Rather than endlessly searching until Christmas Eve, only to give up and purchase a trusty gift card or classic socks, why not give a present with a difference?
 
@@ -29,7 +37,7 @@ You may never have heard of it before - and perhaps that's part of its appeal as
 
 So, when it comes to buying **Rap Jumping** as a Christmas present, who is it suitable for? The truth is, almost anyone! Our network of trusted partners offers diverse experiences designed to cater to a wide spectrum of participants - from complete beginners who might be grappling with a **fear of heights**, through to seasoned **adrenaline** seekers with a love of **extreme sports**.
 
-Many of our partners provide an introductory experience designed to teach the basic skills and procedures involved in learning how to **abseil**. Here, they often utilize the traditional backwards descent, which is less intimidating and ideally suited to those taking their first step into the vertical world. This beginner's **abseil** course makes a fantastic present for all ages and can serve as a thrilling stepping stone to try out the face-first **Rap Jumping** - who knows, if they complete the beginner's course and want to step up to the next challenge, you might have their next birthday present sorted as well!
+Many of our partners provide an introductory experience designed to teach the basic skills and procedures involved in learning how to **abseil**. Here, they often utilise the traditional backwards descent, which is less intimidating and ideally suited to those taking their first step into the vertical world. This beginner's **abseil** course makes a fantastic present for all ages and can serve as a thrilling stepping stone to try out the face-first **Rap Jumping** - who knows, if they complete the beginner's course and want to step up to the next challenge, you might have their next birthday present sorted as well!
 
 For that friend or family member with a keen eye for **adventure** and a distinct penchant for **adrenaline**, our partners also offer ultimate **rappelling** experiences. Here, they'll be treated to the full **'Aussie Rappel'** (forward-facing) style descent, complete with expert training by qualified instructors. Many of these experiences also include high-definition video recording, so they'll be able to relive the moment they leapt face-first off a seven-story building for many years to come!
 

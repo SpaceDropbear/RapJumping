@@ -2,11 +2,28 @@
 title: "Setting Abseiling Goals Progress and Milestones"
 description: "Set and smash your abseiling goals! Whether you're a newbie or a pro, reach new heights with our progress tips."
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-goals.webp"
 tags: ["abseiling"]
 featured: false
 readingTime: 10
+faq:
+  - question: "I'm new-what's a sensible first goal?"
+    answer: "“Complete two supervised abseils on ≤30 m routes using proper edge transitions and an autoblock backup within 4-6 weeks.”"
+  - question: "How do I make my goal SMART for abseiling?"
+    answer: "Be concrete about height/terrain, technique (e.g., autoblock), location/window, and evidence (log entries, video)."
+  - question: "Process vs performance vs outcome-what should I use?"
+    answer: "Prioritise process (e.g., smooth brake-hand discipline) to unlock performance (time/height benchmarks); treat outcomes as bonuses."
+  - question: "I freeze at the edge-how can I manage nerves?"
+    answer: "Rehearse a three-step script: breathe-count-cue (“lean, lock, look”), visualise the first 5 m, then commit to micro-moves."
+  - question: "What does a simple weekly routine look like?"
+    answer: "1 skill session (rigging/edge work), 1 descent day, 1-2 cross-training blocks (grip, core, balance), 1 rest day minimum."
+  - question: "How should I track progress?"
+    answer: "Keep a log (route, height, device, weather, lessons); add 30-second clips of starts/edge transitions for form checks."
+  - question: "When should I level up to multi-pitch, waterfalls, or thinner ropes?"
+    answer: "After 8-10 clean single-pitch descents with consistent brake-hand discipline, anchor competence, and controlled downslope resets-then progress under supervision."
+  - question: "What safety goals belong on my list?"
+    answer: "“Zero unverified anchors,” “verbal partner checks every pitch,” “knot in rope ends,” and “pre-rigged contingency/haul where appropriate.”"
 ---
 
 ---
@@ -107,7 +124,7 @@ Below is a simple table showing how you can categorise your abseiling objectives
 | --- | --- | --- |
 | Outcome | Focuses on a final result, often outside your control | “Win a local abseiling contest” |
 | Performance | Targets beating your personal best | “Abseil a 50m cliff in under 2 min” |
-| Process | Centers on technique and controllable actions | “Use smoother friction control” |
+| Process | Centres on technique and controllable actions | “Use smoother friction control” |
 
 Each type has its upsides. Outcome goals can be very motivating, but they might trigger anxiety since factors beyond your control-like weather or competition-will influence the result. Performance goals are great for measurable improvements, though missing a benchmark might disappoint you. Process goals help you hone specific skills within your command, creating a solid base for both performance and outcome success.
 

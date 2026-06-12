@@ -2,11 +2,28 @@
 title: "Rappelling Ethics Leave No Trace Principles for Descents"
 description: "Discover abseiling ethics for responsible descents with Leave No Trace principles. Keep it green and clean!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-ethics.webp"
 tags: ["abseiling"]
 featured: false
 readingTime: 17
+faq:
+  - question: "What does abseiling ethics mean?"
+    answer: "It's a code of conduct that balances safety, environmental care, and respect for other climbers and regulations."
+  - question: "Why are legal standards important in abseiling?"
+    answer: "They ensure your gear meets tested safety benchmarks and that you follow laws protecting people, wildlife, and access rights."
+  - question: "How can I minimise my environmental impact while abseiling?"
+    answer: "Stick to established routes, avoid sensitive habitats, use tree-friendly anchors, and leave no trace."
+  - question: "What gear standards should I follow?"
+    answer: "Look for CE or UIAA certification on ropes, harnesses, and hardware, and replace gear according to manufacturer or legal guidelines."
+  - question: "How do I protect wildlife when abseiling?"
+    answer: "Avoid nesting areas, keep group sizes small, reduce noise, and follow local wildlife distance rules."
+  - question: "What's the safest way to set anchors?"
+    answer: "Use redundancy, inspect for wear, avoid damaging rock or trees, and pad anchor points when needed."
+  - question: "Why use backups in abseiling?"
+    answer: "Devices like prusik knots or a Fireman's Belay add an extra safety layer in case of human error or equipment failure."
+  - question: "What does leave no trace mean in climbing?"
+    answer: "Take all rubbish (including organics) with you, avoid damaging vegetation, and keep chalk marks minimal."
 ---
 
 ---
@@ -78,7 +95,7 @@ Another backup strategy is the Fireman's Belay, where a climber or partner stand
 
 You might wonder: isn't that too much after you've already checked your anchor and rope? In reality, backups aren't just for novices. Many seasoned climbers use them as a matter of habit, especially during multi-pitch routes where a long descent increases the risk of hazards like rockfall or rope tangles. Even experts sometimes forget to tie knots in the rope ends or clip their harness loop correctly. Abseiling accidents can happen in a split second, so backups provide a safety net against the little lapses that pop up when you're tired or distracted.
 
-If you're new to these techniques or want to sharpen your skills, consider practicing on a small drop with an experienced mentor. You can also review official guides online or check with local climbing clubs to see if anyone offers abseil training sessions. Once you get comfortable, backups will feel second nature. It's a small investment of time that could literally save a life-yours or someone else's.
+If you're new to these techniques or want to sharpen your skills, consider practising on a small drop with an experienced mentor. You can also review official guides online or check with local climbing clubs to see if anyone offers abseil training sessions. Once you get comfortable, backups will feel second nature. It's a small investment of time that could literally save a life-yours or someone else's.
 
 ## Leave no trace behind
 

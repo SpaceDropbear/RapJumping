@@ -2,11 +2,28 @@
 title: "Descender Device Showdown Figure 8 vs ATC vs GriGri"
 description: "Master abseiling with our Descender Device Showdown: Figure 8 vs ATC vs GriGri. Choose your climbing companion!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/descender-device.webp"
 tags: ["abseiling", "equipment"]
 featured: false
 readingTime: 8
+faq:
+  - question: "Is a GriGri “safer” than an ATC or Figure 8?"
+    answer: "It offers assisted braking, which adds a margin of safety, but misuse still causes accidents. Training and brake-hand discipline are mandatory."
+  - question: "Can I rappel on a GriGri?"
+    answer: "In specific single-rope setups with proper technique/training, yes. It's not for double-rope rappels and won't fix poor systems."
+  - question: "Which device is best for beginners?"
+    answer: "An ATC-versatile for gym/crag belays and basic abseils. Learn with a prusik/autoblock backup."
+  - question: "When should I choose a Figure 8?"
+    answer: "When you want the lightest, simplest rappel device and you're confident managing manual friction."
+  - question: "What about canyoning?"
+    answer: "ATC or Figure 8 can work, but canyon-specific descenders with multiple friction modes are often better on wet ropes."
+  - question: "Double-rope rappels-what works?"
+    answer: "ATC and Figure 8 handle doubles. GriGri is single-rope only."
+  - question: "What backup should I use?"
+    answer: "An autoblock/prusik below the device on the brake strand, clipped to your leg loop."
+  - question: "Rope diameter compatibility?"
+    answer: "Always check the manufacturer's range for both the device and rope; thin or wet ropes reduce friction."
 ---
 
 ---
@@ -22,7 +39,7 @@ readingTime: 8
 
 ---
 
-If you've done a fair bit of climbing or advanced abseiling, you've probably heard of a descender device. This handy piece of gear helps regulate your speed as you move down a rope, giving you more confidence and control. Whether you're heading out for a canyon adventure or practicing complex rescue techniques, choosing the right descender can make all the difference. In this comparison, we'll look at three popular options-the Figure 8, the ATC, and the GriGri-to help you decide which one best fits your style.
+If you've done a fair bit of climbing or advanced abseiling, you've probably heard of a descender device. This handy piece of gear helps regulate your speed as you move down a rope, giving you more confidence and control. Whether you're heading out for a canyon adventure or practising complex rescue techniques, choosing the right descender can make all the difference. In this comparison, we'll look at three popular options-the Figure 8, the ATC, and the GriGri-to help you decide which one best fits your style.
 
 ## Get to know your descender device
 

@@ -2,11 +2,22 @@
 title: "Rappelling Safety Checklist Before Every Descent"
 description: "Your essential rappelling safety checklist for a worry-free descent. Stay safe and enjoy every rappelling adventure!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-Safety-Checklist-Before-Every-Descent.webp"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 9
+faq:
+  - question: "Why is a rappelling checklist important?"
+    answer: "Most climbing accidents occur during rappels, and a checklist helps catch overlooked errors before they become dangerous."
+  - question: "What's the most common rappel accident cause?"
+    answer: "Rappelling off the end of the rope without stopper knots, or anchor failure due to poor inspection."
+  - question: "Should I always use a friction hitch backup?"
+    answer: "Yes - devices like a prusik or autoblock add a vital safety margin if you lose control of the rope."
+  - question: "Is a walk-off safer than rappelling?"
+    answer: "Often yes. If a safe scramble or walk-off route exists, it reduces rope-handling risks entirely."
+  - question: "What's a buddy check?"
+    answer: "A final gear and knot inspection done by a partner before descent to catch any mistakes you may have missed."
 ---
 
 ---

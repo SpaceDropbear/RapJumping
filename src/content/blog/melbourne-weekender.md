@@ -2,11 +2,19 @@
 title: "Melbourne Weekender"
 description: "Join Jade as she faces her fears with rap jumping in Melbourne's CBD. From rooftop nerves to adrenaline-fueled fun-this is urban adventure at its best."
 pubDate: "2025-07-21"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/melbourne-weekender-logo.webp"
 tags: ["stories"]
 featured: false
 readingTime: 2
+---
+
+### TL;DR
+
+- Melbourne Weekender's Jade took on Rap Jumping - face-forward abseiling "with a pulse" - at Urban Central in Melbourne's CBD, in a story aired 26 April 2016.
+- Head instructor Derek says anyone from 7 years old to your 80-year-old grandmother can do it, and the operation's most important credential is its 100% safety rating.
+- Jade went from "absolutely petrified" - calling it scarier than jumping out of a plane - to "so much fun", finding each jump easier than the last.
+
 ---
 
 <div class="yt-embed"><iframe src="https://www.youtube.com/embed/m9hwxkj7Bc8" title="Melbourne Weekender - Rap Jumping" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

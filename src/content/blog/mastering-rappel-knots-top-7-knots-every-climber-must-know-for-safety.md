@@ -2,7 +2,7 @@
 title: "Mastering Rappel Knots: Top 7 Knots Every Climber Must Know for Safety"
 description: "Learn the most essential rappel knots for safe and efficient rappelling. Step-by-step guides to tying the double fisherman's, overhand knot, and other vital safety hitches."
 pubDate: "2025-07-24"
-updatedDate: "2025-07-25"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/figure-8-knot.webp"
 tags: ["safety"]
 featured: false

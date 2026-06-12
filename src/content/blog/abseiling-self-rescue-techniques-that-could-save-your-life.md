@@ -2,11 +2,22 @@
 title: "Abseiling Self-Rescue Techniques That Could Save Your Life"
 description: "Master abseiling self-rescue techniques: essential skills for your safety and confidence!"
 pubDate: "2025-08-11"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Abseiling-Self-Rescue-Techniques-That-Could-Save-Your-Life.webp"
 tags: ["safety"]
 featured: false
 readingTime: 11
+faq:
+  - question: "Why carry two prussic loops?"
+    answer: "One for your waist connection and one for your foot loop, allowing efficient rope ascension."
+  - question: "When should I perform a tandem abseil?"
+    answer: "When a partner can't descend on their own due to injury, fear, or gear failure."
+  - question: "What's the purpose of a belay escape?"
+    answer: "It frees you from holding a partner's weight so you can set up another rescue system or assist differently."
+  - question: "How much gear should I leave behind for a bail anchor?"
+    answer: "Use older or spare gear-never compromise your primary safety kit for future pitches."
+  - question: "What's the benefit of a 3:1 hauling system?"
+    answer: "It triples your pulling force, making it easier to lift a partner or gear with less strain."
 ---
 
 ---
@@ -16,7 +27,7 @@ readingTime: 11
 Abseiling self-rescue skills let you solve problems like stuck ropes, injured partners, or failed anchors without panic.
 
 - **Gear:** Locking carabiners, slings, prussic loops (x2), belay device, knife, head torch, and spare gear for bail anchors.
-- **Anchors:** Build redundant, equalized systems; keep older gear to leave behind if retreating.
+- **Anchors:** Build redundant, equalised systems; keep older gear to leave behind if retreating.
 - **Prussic ascension:** Short (foot) and long (waist) loops to climb rope; use legs, not arms.
 - **Tandem abseils:** For injured partners; use prussic backup, separate screwgates, and chest harness if needed.
 - **Belay escape:** Use Munter-Mule-Overhand to go hands-free and transfer load to an anchor.
@@ -54,7 +65,7 @@ Chances are you already pack a small kit with a knife, head torch, and a couple 
 Before you pass any point of no return, ensure you have a bombproof anchor. If you want a deeper dive, explore [abseiling anchor systems](/improve-your-technique-with-these-abseiling-anchor-systems/). The anchor is the backbone of all abseiling self-rescue techniques. Multiple attachment points, redundant slings or bolts, and at least one backup connection keep you safe if a single piece fails.
 
 - Redundant anchor points: Attach two or more points together so if one fails, the other holds you.
-- Equalized slings: Distribute load across multiple anchor pieces. This keeps the force balanced, reducing the chance of anchor failure.
+- Equalised slings: Distribute load across multiple anchor pieces. This keeps the force balanced, reducing the chance of anchor failure.
 - Quick visual check: Is anything moving or sliding? Are your carabiners locked? A 10-second final scan can catch big mistakes.
 
 ### Bail options
@@ -87,7 +98,7 @@ You can improvise rope ascension with dedicated gear like micro-ascenders, but p
 
 ### When to tandem abseil
 
-Tandem abseiling means you and a partner descend on the same rope and device, often used if someone's injured or unable to descend on their own. According to [VDiff Climbing](https://www.vdiffclimbing.com/tandem-abseiling/), you attach both climbers to the same belay device, with a prussic backup for extra security.
+Tandem abseiling means you and a partner descend on the same rope and device, often used if someone's injured or unable to descend on their own. According to VDiff Climbing, you attach both climbers to the same belay device, with a prussic backup for extra security.
 
 This can save a life when speed is crucial, but it also doubles the load on your system. Certain friction devices, like tube-style belay devices, might require more friction-lowering techniques or a backup anchor to manage the extra weight safely.
 
@@ -96,7 +107,7 @@ This can save a life when speed is crucial, but it also doubles the load on your
 1. Fix the standard abseil rope through your belay device.
 2. Clip yourself and your partner into the belay device with separate screwgate carabiners.
 3. Use a prussic loop or friction hitch below the device as a backup.
-4. Consider an improvised chest harness for the injured climber, especially if they need help maintaining an upright posture. ([VDiff Climbing](https://www.vdiffclimbing.com/tandem-abseiling/))
+4. Consider an improvised chest harness for the injured climber, especially if they need help maintaining an upright posture. (VDiff Climbing)
 
 ### Releasable clips
 
@@ -124,7 +135,7 @@ Known as the MMO, this knot system is a lifesaver when you need a “hands-free�
 
 Hauling someone up a pitch is draining, but sometimes essential. Imagine a scenario where your partner can't continue climbing or needs to clear a roof section that they're stuck under. While descending is more common, a quick hoist might be your best bet. If the anchor and rope orientation allow for it, a haul system can save the day. ([Mountain Journeys](https://www.mountain-journeys.co.uk/advanced-climbing-techniques/))
 
-Hauling typically relies on a mechanical advantage system. Even a small 3:1 system can triple your pulling force. If your partner is only a meter or two below the ledge, that extra oomph can solve the problem fast.
+Hauling typically relies on a mechanical advantage system. Even a small 3:1 system can triple your pulling force. If your partner is only a metre or two below the ledge, that extra oomph can solve the problem fast.
 
 ### Basic assisted hoist
 
@@ -161,7 +172,7 @@ Nothing replaces hands-on practice. Set up mock scenarios where you build an anc
 If you prefer reading a comprehensive guide, “Down” by Andy Kirkpatrick is a recommended resource for deeper exploration of rope-rescue strategy. ([Mountain Journeys](https://www.mountain-journeys.co.uk/advanced-climbing-techniques/)) You might also check out the Australian Adventure Activity Standard for Abseiling & Climbing, which covers broad safety guidelines. ([Australian Adventure Activity Standard](https://australianaas.org.au/))
 
 - Consider a refresher on strong anchor building and rope maintenance. ([DMM Wales](https://dmmwales.com/blogs/knowledge))
-- Familiarize yourself with best practices from IRATA's safety bulletins if rope access is part of your professional work. ([IRATA](https://irata.org/publications))
+- Familiarise yourself with best practices from IRATA's safety bulletins if rope access is part of your professional work. ([IRATA](https://irata.org/publications))
 
 ---
 

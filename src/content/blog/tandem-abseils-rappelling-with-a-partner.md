@@ -2,11 +2,28 @@
 title: "Tandem Abseils Rappelling with a Partner"
 description: "Embark on a thrilling tandem abseil adventure - experience the adrenaline rush with your partner!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/tandem-abseil.webp"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 10
+faq:
+  - question: "Is tandem abseiling safe?"
+    answer: "As safe as your systems. Use a redundant anchor, high-friction device, and a prusik/autoblock backup every time."
+  - question: "Who should control the device?"
+    answer: "The more experienced/stronger climber. They manage braking, pace, and comms."
+  - question: "Tube or guide-mode device?"
+    answer: "Either works if it provides enough friction for two loads. Test before committing; add friction (extra turns) if needed."
+  - question: "Dynamic or static rope?"
+    answer: "Semi-static/static is preferred for descents; dynamic can work but will feel bouncy with two people."
+  - question: "Where does the prusik go-above or below?"
+    answer: "Below the device on the brake strand (autoblock style) so it remains reachable and won't jam out of reach."
+  - question: "How do we prevent going off the rope ends?"
+    answer: "Knot both rope ends and confirm rope length reaches the next stance."
+  - question: "What if our weights differ a lot?"
+    answer: "Put the heavier climber as the device controller, add friction, and keep the lighter climber slightly below/staggered on their sling."
+  - question: "How do I keep an injured partner upright?"
+    answer: "Use a makeshift chest harness (double sling with mid-knot) clipped to the abseil rope to stop tipping."
 ---
 
 ---
@@ -28,7 +45,7 @@ Natural light levels can shift dramatically on a mountain, but when you're perfo
 
 Tandem abseiling simply means you and a partner share one belay device and descend together. It's commonly used if a fellow climber is incapacitated, or you both want to save time on a multi-pitch route. Because this method involves two sets of hands and feet, there's an added layer of complexity.
 
-Abseiling itself can be risky, and different studies have reported that about 25% of climbing deaths occur during the descent stage, largely due to anchor failures or rope mishandling. Yet, tandem abseiling doesn't have to be more dangerous than a typical descent. What matters is your preparation and consistent use of safety backups. Wondering if you should try it? If you're comfortable with standard abseiling techniques, can build a reliable anchor, and have practiced with your partner on solid ground, you're in a good position to explore this intermediate skill.
+Abseiling itself can be risky, and different studies have reported that about 25% of climbing deaths occur during the descent stage, largely due to anchor failures or rope mishandling. Yet, tandem abseiling doesn't have to be more dangerous than a typical descent. What matters is your preparation and consistent use of safety backups. Wondering if you should try it? If you're comfortable with standard abseiling techniques, can build a reliable anchor, and have practised with your partner on solid ground, you're in a good position to explore this intermediate skill.
 
 ## Gather your gear
 
@@ -135,7 +152,7 @@ A. Yes, but expect snags. Keep calm and be ready to climb a little to free it if
 
 ## Wrap up with confidence
 
-Tandem abseiling is a powerful tool to have in your climbing repertoire. It opens the door to more complex adventures, especially if you're helping an injured partner or simply want a fast way to descend. The key is practicing on low-stakes terrain first. If you have access to a short cliff-such as the Kangaroo Point Cliffs in Brisbane or an easy abseil line near your home crag-run through the steps until you can do them in your sleep.
+Tandem abseiling is a powerful tool to have in your climbing repertoire. It opens the door to more complex adventures, especially if you're helping an injured partner or simply want a fast way to descend. The key is practising on low-stakes terrain first. If you have access to a short cliff-such as the Kangaroo Point Cliffs in Brisbane or an easy abseil line near your home crag-run through the steps until you can do them in your sleep.
 
 Don't forget to keep exploring higher-level rope-work so you can adapt to different scenarios. If you're keen to continue sharpening your know-how, check out other abseiling techniques that dive deeper into topics like mechanical advantage systems and self-rescue fundamentals. As you log more vertical descents, you'll discover that a calm mind-and a consistent safety routine-is the best safeguard you can bring on a climb.
 

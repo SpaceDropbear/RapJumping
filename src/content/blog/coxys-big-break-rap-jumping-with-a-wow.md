@@ -1,12 +1,20 @@
 ---
 title: "Coxys Big Break - Rap jumping with a WOW"
-description: "Join Coxy's Big Break reporter Rhys as he takes on rap jumping in Melbourne with instructor Derek Whittingham. 30 meters of adrenaline, laughs, and pure fear - watch the full video and read the full transcript now."
+description: "Join Coxy's Big Break reporter Rhys as he takes on rap jumping in Melbourne with instructor Derek Whittingham. 30 metres of adrenaline, laughs, and pure fear - watch the full video and read the full transcript now."
 pubDate: "2025-07-22"
-updatedDate: "2025-07-25"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Coxys-Big-Break.webp"
 tags: ["stories"]
 featured: false
 readingTime: 2
+---
+
+### TL;DR
+
+- Coxy's Big Break adventure reporter Rhys tried Rap Jumping - "a scary version of abseiling" - on top of the Urban Central building at Southbank, in an episode aired 2 November 2015.
+- Instructor Derek Whittingham, who'd been manning the ropes there for 10 years, talked a terrified Rhys through the 30-metre, face-forward descent - a challenge Derek calls "very mental".
+- Rhys conquered the jump twice, finishing with a verdict of "very scary... but fun" and declaring it a genuine adrenaline rush.
+
 ---
 
 <div class="yt-embed"><iframe src="https://www.youtube.com/embed/jdCikgiobQc" title="Coxys Big Break - Rap jumping with a WOW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -66,7 +74,7 @@ Now, I promised myself I wouldn't look before I started… but I had a peek befo
 How far down is that?
 
 **Derek:**  
-It's 30 meters, mate.
+It's 30 metres, mate.
 
 **Rhys:**  
 And it's a challenge more mental than physical?

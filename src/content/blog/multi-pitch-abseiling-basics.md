@@ -2,11 +2,22 @@
 title: "Multi Pitch Abseiling Basics"
 description: "Master multi-pitch rappelling like a pro with our friendly guide! Adventure awaits - let's abseil together!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Multi-Pitch-Abseiling-Basics.webp"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 11
+faq:
+  - question: "What is multi pitch rappelling?"
+    answer: "It's a method of descending long routes using multiple rappel stations when the route exceeds a single rope length."
+  - question: "Do I need two ropes for multi pitch rappelling?"
+    answer: "Not always-two ropes are used for longer rappels, but a single rope works if each pitch is shorter than half the rope length."
+  - question: "How do I stop ropes from tangling on a small stance?"
+    answer: "Use lap coils across your leg or harness to feed rope smoothly without it tangling in the wind."
+  - question: "What's the safest anchor setup for multi pitch rappels?"
+    answer: "A redundant, equalised anchor-quad anchor or cordelette on solid bolts/gear-minimises failure risk."
+  - question: "How can I avoid stuck ropes when pulling them?"
+    answer: "Flake ropes before tossing, drop them gently in windy conditions, and test the pull before leaving each station."
 ---
 
 ---

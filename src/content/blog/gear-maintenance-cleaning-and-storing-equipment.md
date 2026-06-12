@@ -2,11 +2,22 @@
 title: "Gear Maintenance Cleaning and Storing Equipment"
 description: "Explore climbing gear care essentials for beginners to pros - master the art of maintenance, cleaning, and storing equipment!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Gear-Maintenance.webp"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 9
+faq:
+  - question: "How often should I clean my climbing rope?"
+    answer: "Wash when it feels stiff, looks dirty, or after exposure to sand, grit, or salt. Regular light cleaning can extend its lifespan."
+  - question: "Can I use normal detergent to clean climbing gear?"
+    answer: "No-use mild soap or purpose-made rope/harness cleaners to avoid damaging fibres and coatings."
+  - question: "How long can I use my harness before replacing it?"
+    answer: "With light use, up to 7 years; heavy use or visible wear means replacing much sooner. Always retire it if you find structural damage."
+  - question: "What's the best way to store carabiners?"
+    answer: "Keep them clean, dry, and away from corrosive materials or extreme temperatures-ideally in a gear bag or bin."
+  - question: "Do I need to lubricate carabiners?"
+    answer: "Yes-apply a wax- or Teflon-based lubricant to gate and hinge points after cleaning to keep them smooth and free of grit."
 ---
 
 ---

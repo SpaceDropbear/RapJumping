@@ -2,11 +2,22 @@
 title: "Abseiling vs Rappelling: What's the Difference? (AU)"
 description: "Abseiling and rappelling are the same thing - here's why Australians use different terms, where each came from, and what it means for your gear and technique."
 pubDate: "2025-07-26"
-updatedDate: "2025-07-30"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Abseiling-vs-Rappelling.webp"
 tags: ["fundamentals"]
 featured: false
 readingTime: 5
+faq:
+  - question: "Is abseiling the same as rappelling?"
+    answer: "Yes. Abseiling and rappelling are the same rope-descent technique. In Australia, the UK, and most of the world it's called abseiling, while in the United States it's called rappelling."
+  - question: "Why do Australians say abseiling instead of rappelling?"
+    answer: "Australia follows British English climbing terminology, where 'abseiling' comes from the German word abseilen (meaning 'to rope down'). The US military popularised 'rappelling,' which stuck in North America."
+  - question: "Are there any technical differences between abseiling and rappelling?"
+    answer: "No - the technique, gear, and safety principles are identical. Both involve anchoring a rope, attaching a harness and descender, and controlling your speed during a vertical descent."
+  - question: "Which countries use the term rappelling?"
+    answer: "'Rappelling' is most common in the United States, Canada, and parts of Europe influenced by American climbing culture. Australia, New Zealand, the UK, and South Africa generally use 'abseiling.'"
+  - question: "Is abseiling safe for beginners?"
+    answer: "Yes, if done with proper gear, instruction, and safety checks. Many beginners start at indoor climbing gyms or guided outdoor abseiling tours to learn correct technique."
 ---
 
 If you're ready to explore Australia's adventurous cliffs or even just a local indoor climbing gym, mastering beginner abseiling techniques is a fantastic first step. In other parts of the world, you may hear friends call it “rappelling.” They're essentially the same thing. In Australia, however, you'll find that “abseiling” rolls off the tongue more often than not. Below, you'll learn how these two terms align, the gear you need, and a few pro tips for a safe descent.

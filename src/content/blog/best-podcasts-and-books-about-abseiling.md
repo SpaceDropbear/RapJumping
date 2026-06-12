@@ -2,11 +2,26 @@
 title: "Best Podcasts and Books About Abseiling"
 description: "Discover top abseiling podcasts and books to elevate your skills and adventures. Get hooked on abseiling tales now!"
 pubDate: "2025-08-14"
-updatedDate: "2026-02-13"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-podcast.webp"
 tags: ["abseiling", "stories"]
 featured: false
 readingTime: 9
+faq:
+  - question: "Why listen to abseiling podcasts?"
+    answer: "They deliver real experiences, safety lessons, and gear tips you can absorb on the go."
+  - question: "Are these resources useful for beginners?"
+    answer: "Yes-beginners and experienced climbers will find practical insights on technique, safety, and mindset."
+  - question: "How do books complement podcasts?"
+    answer: "Podcasts inspire and add context; books give structured, step‑by‑step methods and diagrams you can reference anytime."
+  - question: "Which books are recommended?"
+    answer: "Mountaineering: The Freedom of the Hills, Rock Climbing: Mastering Basic Skills, and Self‑Rescue for knots, anchors, rappelling, and problem‑solving."
+  - question: "What abseiling themes do the podcasts touch on?"
+    answer: "Rope management, controlling friction, anchor choices, descent planning, and lessons learned from mishaps."
+  - question: "How does joining a community help?"
+    answer: "You get partner checks, hands‑on feedback, workshops, and safer progression with experienced members."
+  - question: "Is the guidance relevant in Australia?"
+    answer: "Yes-the principles are universal, and local groups help you adapt to Australian conditions and venues."
 ---
 
 ---
@@ -61,7 +76,7 @@ Chris Kalous also hosts The Enormocast, a climbing-focused show frequently prais
 - Why it's great: You hear from professional climbers, route setters, and weekend warriors who share raw anecdotes-mistakes included.
 - Standout moments: In-depth discussions on technique, gear, and the joys (and miseries) of vertical life.
 
-If you're a future guide, club member, or frequent hobbyist, The Enormocast can help solidify the fundamental idea that abseiling technique is crucial, whether you're retreating off a climb or practicing at the crag.
+If you're a future guide, club member, or frequent hobbyist, The Enormocast can help solidify the fundamental idea that abseiling technique is crucial, whether you're retreating off a climb or practising at the crag.
 
 ## Check out these books
 

@@ -46,7 +46,7 @@ Nylon is a superstar for outdoor gear. It's relatively light, tough, and can be 
 
 ### Kevlar and Dyneema
 
-Planning some hardcore big-wall missions? Kevlar might intrigue you. It's famously strong and highly cut-resistant, but it can be heavier and more expensive. Dyneema, also known as Cuben Fiber, delivers remarkable strength with ultra-low weight. It's water-resistant too, making it ideal for intense conditions. Keep in mind that premium materials can bump up the price tag, so decide if you need that much firepower for your usual abseiling adventures.
+Planning some hardcore big-wall missions? Kevlar might intrigue you. It's famously strong and highly cut-resistant, but it can be heavier and more expensive. Dyneema, also known as Cuben Fibre, delivers remarkable strength with ultra-low weight. It's water-resistant too, making it ideal for intense conditions. Keep in mind that premium materials can bump up the price tag, so decide if you need that much firepower for your usual abseiling adventures.
 
 ## Check must-have features
 
@@ -58,7 +58,7 @@ Look for padded shoulder straps that distribute weight evenly. Back venting can 
 
 ### Reinforced bottom and drainage
 
-High-contact areas like the base of your pack should have extra reinforcement. Some specialized rope bags feature ventilation holes, which help wet ropes dry a bit faster and reduce mildew risk. For example, the Kong Rope Bag uses durable PVC with a reinforced bottom that includes slotted holes for breathability.
+High-contact areas like the base of your pack should have extra reinforcement. Some specialised rope bags feature ventilation holes, which help wet ropes dry a bit faster and reduce mildew risk. For example, the Kong Rope Bag uses durable PVC with a reinforced bottom that includes slotted holes for breathability.
 
 ### Interior organisation
 
@@ -124,7 +124,7 @@ Need more ideas for ropes, harnesses, and other gear? Check out our [abseiling g
 ---
 
 **FAQ's  
-Q. What size rappel backpack should I choose?**  
+**Q. What size rappel backpack should I choose?**  
 A. Pick 20-30L for single-rope day trips; 40L+ for multi-pitch or multi-day use.
 
 **Q. Which materials work best for abseiling backpacks?**  

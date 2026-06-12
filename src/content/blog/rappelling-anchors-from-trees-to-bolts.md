@@ -2,11 +2,28 @@
 title: "Rappelling Anchors From Trees to Bolts"
 description: "Master the art of rappelling anchors from trees to bolts and elevate your climbing game with natural anchors!"
 pubDate: "2025-08-14"
-updatedDate: "2025-08-16"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/natural-anchors.webp"
 tags: ["abseiling", "equipment"]
 featured: false
 readingTime: 14
+faq:
+  - question: "What's the quickest way to judge a tree for anchoring?"
+    answer: "Look for a healthy trunk you can't fully wrap your arms around, firm root base with no erosion, solid bark (no rot/hollows), and back it up if unsure. Use bark protection."
+  - question: "How tight should my anchor angles be?"
+    answer: "Aim for ≤60°. Wider angles multiply force on each leg and can overload marginal placements."
+  - question: "Do I need two bolts if there's a “bomber” single?"
+    answer: "Yes. Use two whenever possible and equalise to share load and add redundancy."
+  - question: "Sliding-X or quad?"
+    answer: "A quad limits extension better; a sliding-X is fast but must have limiting knots to reduce shock if one leg fails."
+  - question: "Where should my backup (prusik/autoblock) go when abseiling?"
+    answer: "Below the device on the brake strand, clipped to your leg loop-keeps it reachable for hands-free stops."
+  - question: "Can I anchor off a loose-looking boulder if it's big?"
+    answer: "No. Size ≠ security. Check for movement, fractures, and undercut bases; choose features keyed into the ground/bedrock and back them up."
+  - question: "Are pitons still acceptable?"
+    answer: "Only with skill and where appropriate (alpine/emergency). They can damage rock; cams/nuts are usually preferable for removable protection."
+  - question: "What's the most common anchor mistake?"
+    answer: "Single-point reliance and poor angle management. Close second: sun-fried or abraded slings left in place too long."
 ---
 
 ---

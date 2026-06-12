@@ -2,7 +2,7 @@
 title: "Step-by-Step Guide: How to Abseil for the First Time"
 description: "Discover abseiling rope techniques with our step-by-step guide for first-timers - conquer your fear, one rappel at a time!"
 pubDate: "2025-07-26"
-updatedDate: "2025-07-26"
+updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/How-to-Abseil-for-the-First-Time.webp"
 tags: ["fundamentals"]
 featured: false
@@ -71,7 +71,7 @@ Keep your body angled so your legs form a strong stance. Look where you're going
 
 Nothing ruins a good abseil like a rope stuck halfway down. Luckily, there are ways to minimise the chance of a jam.
 
-- Flick as you pull. When retrieving the rope, stand a step away from the wall and pull steadily. Flicking the rope helps guide the knot around corners ([VDiff Climbing](https://www.vdiffclimbing.com/stuck-ropes/)).
+- Flick as you pull. When retrieving the rope, stand a step away from the wall and pull steadily. Flicking the rope helps guide the knot around corners (VDiff Climbing).
 - Avoid sharp edges. If you spot ledges or cracks that could grab your rope, reposition your anchor or place a carabiner to redirect the line.
 - Go shorter. If an area is notorious for snags, do shorter abseils in multiple stages so the rope doesn't have as far to move when you pull it down.
 
