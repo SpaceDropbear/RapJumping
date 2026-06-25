@@ -121,13 +121,18 @@ In workplaces, a "competent person" (someone with the knowledge and experience t
 - This often involves specialist knowledge of regulations, equipment types, and testing procedures.
 - Records must be kept for the equipment's lifespan.
 
-[![CTA Image](/images/2025/07/mobile-test-n-cal.webp)](https://www.mobiletestncal.com.au/)
-
-Ensuring your workplace height safety equipment is regularly inspected and certified by a competent person isn't just good practice – it's a legal requirement. Don't leave safety to chance.
-
-For expert, on-site height safety equipment inspection and calibration services, trust the professionals. Learn more about ensuring your gear meets all Australian Standards and OHS regulations today at [www.mobiletestncal.com.au](https://www.mobiletestncal.com.au/).
-
-[Learn more](https://www.mobiletestncal.com.au/)
+<div style="border:1px solid var(--line);border-left:4px solid var(--brand);border-radius:var(--radius);background:var(--surface);padding:24px 28px;margin:2em 0;">
+  <div style="display:flex;align-items:center;gap:10px;margin-bottom:18px;">
+    <span style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--brand);background:var(--brand-tint);padding:3px 10px;border-radius:999px;">Partner</span>
+    <span style="font-size:12px;color:var(--muted);font-style:italic;">The author is affiliated with Mobile Test N Cal — no payment was received for this mention.</span>
+  </div>
+  <a href="https://www.mobiletestncal.com.au/" rel="noopener" target="_blank" style="display:block;margin-bottom:16px;">
+    <img src="/images/2025/07/mobile-test-n-cal.webp" alt="Mobile Test N Cal — Height Safety Equipment Inspection & Calibration" style="max-height:72px;width:auto;border-radius:6px;" />
+  </a>
+  <p style="margin:0 0 10px;color:var(--body);font-size:16px;line-height:1.65;">Ensuring your workplace height safety equipment is regularly inspected and certified by a competent person isn't just good practice — it's a legal requirement. Don't leave safety to chance.</p>
+  <p style="margin:0 0 20px;color:var(--body);font-size:16px;line-height:1.65;">For expert, on-site height safety equipment inspection and calibration services, learn more about ensuring your gear meets all Australian Standards and OHS regulations at <a href="https://www.mobiletestncal.com.au/" rel="noopener" style="color:var(--brand);font-weight:600;">mobiletestncal.com.au</a>.</p>
+  <a href="https://www.mobiletestncal.com.au/" rel="noopener" target="_blank" style="display:inline-block;background:var(--brand);color:#fff;font-weight:600;font-size:15px;padding:10px 24px;border-radius:8px;text-decoration:none;letter-spacing:-0.01em;">Learn more →</a>
+</div>
 
 ### **Key Things to Look For - A Quick Guide:**
 
