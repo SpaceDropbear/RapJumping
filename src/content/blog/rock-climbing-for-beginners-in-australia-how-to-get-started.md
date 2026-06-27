@@ -1,7 +1,7 @@
 ---
 title: "Rock Climbing for Beginners in Australia: How to Get Started"
 description: "A step-by-step beginner pathway into rock climbing in Australia — gym to crag, costs, gear, Ewbank grades, finding partners and qualified instruction."
-pubDate: "2026-07-01"
+pubDate: "2026-06-27"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
 draft: false
 tags: ["rock climbing", "fundamentals"]

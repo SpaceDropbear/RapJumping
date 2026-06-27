@@ -1,7 +1,7 @@
 ---
 title: "Kangaroo Point Cliffs Climbing: Brisbane's Urban Outdoor Gym"
 description: "Climbing Brisbane's Kangaroo Point Cliffs — heights, grades, named walls, free public access, floodlit night climbs, ferry and parking access, plus beginner and safety tips."
-pubDate: "2026-07-01"
+pubDate: "2026-06-27"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
 draft: false
 tags: ["rock climbing", "queensland", "brisbane"]
