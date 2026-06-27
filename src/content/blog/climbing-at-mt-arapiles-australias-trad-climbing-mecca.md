@@ -2,7 +2,7 @@
 title: "Climbing at Mt Arapiles: Australia's Trad Climbing Mecca"
 description: "Climbing at Mt Arapiles (Dyurrite) — why it's Australia's trad mecca, the main areas and classic routes, grades, The Pines and Natimuk logistics, the evolving cultural-landscape access situation and how to climb respectfully."
 pubDate: "2026-06-27"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
+heroImage: "/images/2026/06/mt-arapiles-trad-climbing.webp"
 draft: false
 tags: ["rock climbing", "victoria"]
 featured: false

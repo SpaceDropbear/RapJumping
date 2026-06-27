@@ -2,7 +2,7 @@
 title: "Rock Climbing in the Grampians: Access, Permits & Top Routes (2026)"
 description: "Rock climbing in the Grampians (Gariwerd) in 2026 — designated-area access, the new free permit, recent closures and how to climb respectfully."
 pubDate: "2026-06-27"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
+heroImage: "/images/2026/06/grampians-sport-climbing.webp"
 draft: false
 tags: ["rock climbing", "victoria"]
 featured: false
