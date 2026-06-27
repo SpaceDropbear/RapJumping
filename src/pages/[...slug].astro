@@ -5,7 +5,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { formatDate, tagSlug } from '../utils';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const posts = (await getCollection('blog')).filter((p) => !p.data.draft);
   const pages = await getCollection('pages');
   const postPaths = posts.map((entry) => ({
     params: { slug: entry.id },
