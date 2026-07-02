@@ -3,7 +3,7 @@ title: "Frog Buttress Rock Climbing: QLD's World-Class Rhyolite Crag"
 description: "Frog Buttress at Mount French is QLD's legendary rhyolite trad crag. History, grades, access via Moogerah Peaks National Park (QPWS), season and safety."
 pubDate: "2026-07-02"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-draft: true
+draft: false
 tags: ["rock climbing", "queensland"]
 featured: false
 readingTime: 9
@@ -85,15 +85,15 @@ Frog Buttress is a single, specific crag — but it sits within a much bigger cl
 
 | Guide | Focus | Status |
 |---|---|---|
-| [Rock Climbing in Queensland & Western Australia: The Complete Guide](/rock-climbing-in-queensland-western-australia-the-complete-guide/) | Broad regional overview companion to this crag deep-dive | Planned |
-| [Kangaroo Point Rock Climbing: The Complete Guide to Brisbane's Iconic Cliffs](/kangaroo-point-rock-climbing-the-complete-guide-to-brisbanes-iconic-cliffs/) | Brisbane's urban riverside crag | Planned |
-| [Rock Climbing at Girraween National Park: Granite Domes & Hidden Crags](/rock-climbing-at-girraween-national-park-granite-domes-hidden-crags/) | Granite climbing on the QLD/NSW border | Planned |
-| [Glass House Mountains Climbing Guide: What's Open & What's Not (2026)](/glass-house-mountains-climbing-guide-whats-open-whats-not-2026/) | Volcanic-plug trad and multi-pitch north of Brisbane | Planned |
-| [SE Queensland Bouldering: A Guide to the Best Problems Near Brisbane](/se-queensland-bouldering-a-guide-to-the-best-problems-near-brisbane/) | Bouldering circuits close to the capital | Planned |
-| [Wilyabrup Sea Cliffs: WA's Premier Granite-Gneiss Sport Climbing Destination](/wilyabrup-sea-cliffs-was-premier-granite-gneiss-sport-climbing-destination/) | WA's Margaret River region sport climbing | Planned |
-| [Rock Climbing in Perth: Churchman's Brook & the Perth Hills](/rock-climbing-in-perth-churchmans-brook-the-perth-hills/) | Crags close to Perth | Planned |
-| [WA Bouldering Guide: Best Problems in Western Australia](/wa-bouldering-guide-best-problems-in-western-australia/) | Bouldering across WA | Planned |
-| [The Kimberley & Northern WA: Adventure Climbing & Canyoning](/the-kimberley-northern-wa-adventure-climbing-canyoning/) | Remote adventure climbing and canyoning | Planned |
+| Rock Climbing in Queensland & Western Australia: The Complete Guide | Broad regional overview companion to this crag deep-dive | Planned |
+| Kangaroo Point Rock Climbing: The Complete Guide to Brisbane's Iconic Cliffs | Brisbane's urban riverside crag | Planned |
+| Rock Climbing at Girraween National Park: Granite Domes & Hidden Crags | Granite climbing on the QLD/NSW border | Planned |
+| Glass House Mountains Climbing Guide: What's Open & What's Not (2026) | Volcanic-plug trad and multi-pitch north of Brisbane | Planned |
+| SE Queensland Bouldering: A Guide to the Best Problems Near Brisbane | Bouldering circuits close to the capital | Planned |
+| Wilyabrup Sea Cliffs: WA's Premier Granite-Gneiss Sport Climbing Destination | WA's Margaret River region sport climbing | Planned |
+| Rock Climbing in Perth: Churchman's Brook & the Perth Hills | Crags close to Perth | Planned |
+| WA Bouldering Guide: Best Problems in Western Australia | Bouldering across WA | Planned |
+| The Kimberley & Northern WA: Adventure Climbing & Canyoning | Remote adventure climbing and canyoning | Planned |
 
 Together these guides will map out climbing and bouldering across two of Australia's most geographically varied climbing states — from Frog Buttress's rhyolite cracks and Brisbane's urban cliffs, through granite in Girraween and the Perth Hills, to the sport climbing of WA's south-west coast and the remote adventure terrain of the Kimberley. If you have found this page by searching for Frog Buttress specifically, bookmark this hub — it will be the index for the rest of the series as each guide is published.
 

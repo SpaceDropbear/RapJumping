@@ -3,7 +3,7 @@ title: "Abseiling in New Zealand: The Complete Guide"
 description: "A complete guide to abseiling in New Zealand — regions, DOC access rules, the Adventure Activities safety-audit system, gear standards and booking your first descent."
 pubDate: "2026-07-02"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-draft: true
+draft: false
 tags: ["abseiling", "new zealand"]
 featured: false
 readingTime: 9
@@ -74,23 +74,23 @@ The table below is a quick orientation to where each style of abseiling is conce
 
 ### Waitomo and the Waikato
 
-Waitomo's limestone cave country is the North Island's best-known abseiling entry point, thanks to cave systems where a rope drop through the ceiling is the way in, followed by hours underground among glow-worms, tubing runs and rock scrambles. Our forthcoming guide, [Waitomo Caves Abseiling: The Legendary 100m Underground Drop](/waitomo-caves-abseiling-the-legendary-100m-underground-drop/), will cover what to expect, how the different cave trips compare, and what a first-timer should know before they step off the edge. A little further into the wider region, geothermal country around Rotorua adds waterfall and gorge canyoning to the mix — see [Rotorua & Waikato Abseiling: Geothermal Gorges & Waterfall Descents](/rotorua-waikato-abseiling-geothermal-gorges-waterfall-descents/).
+Waitomo's limestone cave country is the North Island's best-known abseiling entry point, thanks to cave systems where a rope drop through the ceiling is the way in, followed by hours underground among glow-worms, tubing runs and rock scrambles. Our forthcoming guide, Waitomo Caves Abseiling: The Legendary 100m Underground Drop, will cover what to expect, how the different cave trips compare, and what a first-timer should know before they step off the edge. A little further into the wider region, geothermal country around Rotorua adds waterfall and gorge canyoning to the mix — see Rotorua & Waikato Abseiling: Geothermal Gorges & Waterfall Descents.
 
 ### Auckland
 
-New Zealand's largest city sits close to genuine sea-cliff and bush-canyon abseiling on its west coast, making it the easiest region to try abseiling without a long drive. Our upcoming [Auckland Abseiling: Sea Cliffs, Waterfalls & Urban Adventures](/auckland-abseiling-sea-cliffs-waterfalls-urban-adventures/) guide will map out the standout spots and how to combine a descent with the rest of a day trip.
+New Zealand's largest city sits close to genuine sea-cliff and bush-canyon abseiling on its west coast, making it the easiest region to try abseiling without a long drive. Our upcoming Auckland Abseiling: Sea Cliffs, Waterfalls & Urban Adventures guide will map out the standout spots and how to combine a descent with the rest of a day trip.
 
 ### Queenstown and the Coromandel — canyoning country
 
-Queenstown's reputation as New Zealand's adventure capital extends firmly into canyoning, with gorges in the Gibbston Valley delivering a mix of abseils, waterslides and down-climbs in a single guided trip. Our [Queenstown Abseiling & Canyoning: The Adventure Capital Delivers](/queenstown-abseiling-canyoning-the-adventure-capital-delivers/) guide will be the place to start. On the other side of the country, the Coromandel Coast is home to Sleeping God Canyon — a single, well-regarded canyon operated under its own DOC concession — which our [Sleeping God Canyon Abseiling](/sleeping-god-canyon-abseiling-queenstowns-best-kept-secret/) spoke guide will cover in detail, including exactly where it sits and how it's accessed. For the combo activity generally, our [Canyoning + Abseiling in New Zealand: The Complete Combo Guide](/canyoning-abseiling-in-new-zealand-the-complete-combo-guide/) will walk through how the two activities fit together nationwide.
+Queenstown's reputation as New Zealand's adventure capital extends firmly into canyoning, with gorges in the Gibbston Valley delivering a mix of abseils, waterslides and down-climbs in a single guided trip. Our Queenstown Abseiling & Canyoning: The Adventure Capital Delivers guide will be the place to start. On the other side of the country, the Coromandel Coast is home to Sleeping God Canyon — a single, well-regarded canyon operated under its own DOC concession — which our Sleeping God Canyon Abseiling spoke guide will cover in detail, including exactly where it sits and how it's accessed. For the combo activity generally, our Canyoning + Abseiling in New Zealand: The Complete Combo Guide will walk through how the two activities fit together nationwide.
 
 ### South Island wild country
 
-Fiordland, Mt Aspiring National Park and the peaks of the Southern Alps around Aoraki / Mount Cook are where abseiling becomes part of a bigger alpine or wilderness objective, on a short and weather-sensitive season. Our forthcoming [South Island Abseiling: Fiordland, Mt Cook & Wild Landscapes](/south-island-abseiling-fiordland-mt-cook-wild-landscapes/) guide will set out what's realistic for visiting climbers and where guided instruction is essential rather than optional.
+Fiordland, Mt Aspiring National Park and the peaks of the Southern Alps around Aoraki / Mount Cook are where abseiling becomes part of a bigger alpine or wilderness objective, on a short and weather-sensitive season. Our forthcoming South Island Abseiling: Fiordland, Mt Cook & Wild Landscapes guide will set out what's realistic for visiting climbers and where guided instruction is essential rather than optional.
 
 ### New to abseiling, or choosing an operator?
 
-Two spokes in this series are less about a place and more about getting started safely. [Abseiling for Beginners in New Zealand: First-Timer's Guide](/abseiling-for-beginners-in-new-zealand-first-timers-guide/) will walk through what a first session actually involves, and [Abseiling Tour Operators in New Zealand: How to Choose & Book](/abseiling-tour-operators-in-new-zealand-how-to-choose-book/) will explain exactly what to check — registration, safety audits and guiding qualifications — before you hand over a deposit.
+Two spokes in this series are less about a place and more about getting started safely. Abseiling for Beginners in New Zealand: First-Timer's Guide will walk through what a first session actually involves, and Abseiling Tour Operators in New Zealand: How to Choose & Book will explain exactly what to check — registration, safety audits and guiding qualifications — before you hand over a deposit.
 
 ## Who regulates adventure abseiling in NZ?
 

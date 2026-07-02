@@ -3,7 +3,7 @@ title: "Rock Climbing & Abseiling in the Pacific Islands: The Complete Guide"
 description: "Rock climbing & abseiling across Fiji, Vanuatu, New Caledonia, PNG, Tonga & the Solomons — an AU climber's guide to this emerging Pacific adventure region."
 pubDate: "2026-07-02"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-draft: true
+draft: false
 tags: ["rock climbing", "pacific islands"]
 featured: false
 readingTime: 9
@@ -59,27 +59,27 @@ Genuine rock climbing — bolted routes on real rock — is concentrated in two 
 
 ### Fiji — canyons, waterfalls and conservation partnerships
 
-Fiji's best-known adventure corridor is the Upper Navua Gorge on Viti Levu, protected as the Upper Navua Conservation Area — a public-private partnership between landowning clans, the Native Land Trust Board and a rafting operator, and recognised as a wetland of international importance. It's a rafting and gorge experience rather than a bolted climbing venue, but the canyon walls and waterfall count make it one of the most dramatic adventure landscapes in the country. On Taveuni, Bouma National Heritage Park protects roughly 80% of the island and includes the Tavoro (Bouma) Falls walking trail, with entry fees paid directly at the park visitor centre supporting park upkeep and the local community. Our dedicated Fiji guide (in development) will go deeper on both — see [Abseiling in Fiji: Upper Navua Gorge & Tavoro Falls Adventures](/abseiling-in-fiji-upper-navua-gorge-tavoro-falls-adventures/).
+Fiji's best-known adventure corridor is the Upper Navua Gorge on Viti Levu, protected as the Upper Navua Conservation Area — a public-private partnership between landowning clans, the Native Land Trust Board and a rafting operator, and recognised as a wetland of international importance. It's a rafting and gorge experience rather than a bolted climbing venue, but the canyon walls and waterfall count make it one of the most dramatic adventure landscapes in the country. On Taveuni, Bouma National Heritage Park protects roughly 80% of the island and includes the Tavoro (Bouma) Falls walking trail, with entry fees paid directly at the park visitor centre supporting park upkeep and the local community. Our dedicated Fiji guide (in development) will go deeper on both — see Abseiling in Fiji: Upper Navua Gorge & Tavoro Falls Adventures.
 
 ### Vanuatu — cascades, caves and canyoning
 
-Vanuatu's signature adventure sites are both community-run: Mele Cascades near Port Vila on Efate, a tiered limestone waterfall system with guided canyoning and hiking options, and the Millennium Cave experience on Espiritu Santo, which combines a rainforest trek, a cave crossing and a canyon scramble with abseiling-style descents past waterfalls. Both are run by local landowners and villages, with tourism revenue supporting the community directly. Full write-ups are planned — see [Vanuatu Abseiling: EDGE Cascades & Adventure Activities](/vanuatu-abseiling-edge-cascades-adventure-activities/) and [Canyoning & Abseiling in Vanuatu: Espiritu Santo's Millennium Cave](/canyoning-abseiling-in-vanuatu-espiritu-santos-millennium-cave/).
+Vanuatu's signature adventure sites are both community-run: Mele Cascades near Port Vila on Efate, a tiered limestone waterfall system with guided canyoning and hiking options, and the Millennium Cave experience on Espiritu Santo, which combines a rainforest trek, a cave crossing and a canyon scramble with abseiling-style descents past waterfalls. Both are run by local landowners and villages, with tourism revenue supporting the community directly. Full write-ups are planned — see Vanuatu Abseiling: EDGE Cascades & Adventure Activities and Canyoning & Abseiling in Vanuatu: Espiritu Santo's Millennium Cave.
 
 ### New Caledonia — the region's real limestone climbing
 
-Koumac, roughly 400 km north of Nouméa, is the closest thing the Pacific Islands have to a dedicated rock climbing destination, with limestone crags developed by a local climbing club with support from the French climbing federation and local tourism authorities. Expect single-pitch sport climbing on genuine rock rather than a canyoning substitute. We'll cover access, logistics and what to expect from the routes in [Rock Climbing in New Caledonia: Koumac Limestone & Roches de Notre Dame](/rock-climbing-in-new-caledonia-koumac-limestone-roches-de-notre-dame/).
+Koumac, roughly 400 km north of Nouméa, is the closest thing the Pacific Islands have to a dedicated rock climbing destination, with limestone crags developed by a local climbing club with support from the French climbing federation and local tourism authorities. Expect single-pitch sport climbing on genuine rock rather than a canyoning substitute. We'll cover access, logistics and what to expect from the routes in Rock Climbing in New Caledonia: Koumac Limestone & Roches de Notre Dame.
 
 ### Papua New Guinea — trekking to the highest point in the country
 
-Mt Wilhelm, at 4,509 m, is PNG's highest peak and a serious high-altitude trek rather than a technical climb — no ropes or climbing gear are required, but fitness, altitude tolerance and a good guide are essential over the typical three-to-four-day ascent. It's a different kind of adventure to the rest of this list, but it belongs on a Pacific Islands adventure-travel guide for climbers and abseilers who also enjoy serious trekking. More detail is coming in [Adventure Climbing & Abseiling in PNG: Mt Wilhelm & Beyond](/adventure-climbing-abseiling-in-png-mt-wilhelm-beyond/).
+Mt Wilhelm, at 4,509 m, is PNG's highest peak and a serious high-altitude trek rather than a technical climb — no ropes or climbing gear are required, but fitness, altitude tolerance and a good guide are essential over the typical three-to-four-day ascent. It's a different kind of adventure to the rest of this list, but it belongs on a Pacific Islands adventure-travel guide for climbers and abseilers who also enjoy serious trekking. More detail is coming in Adventure Climbing & Abseiling in PNG: Mt Wilhelm & Beyond.
 
 ### Tonga — 'Eua Island's limestone cliffs
 
-'Eua, part of the Tongatapu group, has steep coastal limestone cliffs and is home to Tonga's oldest national park. It's a small, remote sport-climbing scene rather than a large commercial one, and route information changes over time — we'll point you to what's verifiable rather than quoting specific grades here. See [Tonga Rock Climbing: 'Eua Island Limestone Grades 18-23](/tonga-rock-climbing-eua-island-limestone-grades-18-23/) for the deep dive once it's published.
+'Eua, part of the Tongatapu group, has steep coastal limestone cliffs and is home to Tonga's oldest national park. It's a small, remote sport-climbing scene rather than a large commercial one, and route information changes over time — we'll point you to what's verifiable rather than quoting specific grades here. See Tonga Rock Climbing: 'Eua Island Limestone Grades 18-23 for the deep dive once it's published.
 
 ### Solomon Islands — Kolombangara's volcano trek
 
-Kolombangara is a dormant volcano roughly 1,770 m high in the Western Province, with guided multi-day treks to the crater rim and the island's higher peaks. Like Mt Wilhelm, this is trekking territory rather than technical climbing, done with local guides and overnight stops in the rainforest. Full coverage is planned in [Solomon Islands Adventure: Kolombangara Volcano Climbing & Abseiling](/solomon-islands-adventure-kolombangara-volcano-climbing-abseiling/).
+Kolombangara is a dormant volcano roughly 1,770 m high in the Western Province, with guided multi-day treks to the crater rim and the island's higher peaks. Like Mt Wilhelm, this is trekking territory rather than technical climbing, done with local guides and overnight stops in the rainforest. Full coverage is planned in Solomon Islands Adventure: Kolombangara Volcano Climbing & Abseiling.
 
 ## Access, permits and respecting local communities
 
@@ -92,7 +92,7 @@ In practice, this means:
 - Formal, published permit regimes (the kind you'd find for an Australian national park) are inconsistent across the region. Some sites operate through conservation-area partnerships with clear structures; others are informal village arrangements. We haven't found — and won't invent — a single unified "Pacific Islands permit system," because it doesn't exist.
 - The safe and respectful approach is the same everywhere: book through a locally licensed or community-endorsed operator, follow their guidance on access and behaviour, and don't attempt to self-guide onto customary land.
 
-Our forthcoming [Safety & Permits for Adventure Activities in the Pacific Islands](/safety-permits-for-adventure-activities-in-the-pacific-islands/) spoke will go into this in more depth once we've done country-specific research for each destination.
+Our forthcoming Safety & Permits for Adventure Activities in the Pacific Islands spoke will go into this in more depth once we've done country-specific research for each destination.
 
 ## Gear, safety and choosing an operator
 
@@ -105,7 +105,7 @@ What you can't assume is consistent regulation of the operators themselves. Lice
 - Confirm that ropes, harnesses and helmets are inspected and replaced on a proper schedule — don't assume this happens by default in a lower-regulation market.
 - Favour operators connected to the landowning community or endorsed by the relevant national tourism office, since this usually indicates a more established, accountable operation.
 
-We're deliberately not naming or ranking specific tour operators in this hub guide — that's better handled destination-by-destination once we've done the research, and we don't think a generic list serves you well here. If you're after a broader comparison once our full cluster is live, that's what [Best Pacific Island Adventure Holidays for Climbers & Abseilers](/best-pacific-island-adventure-holidays-for-climbers-abseilers/) will be for.
+We're deliberately not naming or ranking specific tour operators in this hub guide — that's better handled destination-by-destination once we've done the research, and we don't think a generic list serves you well here. If you're after a broader comparison once our full cluster is live, that's what Best Pacific Island Adventure Holidays for Climbers & Abseilers will be for.
 
 ## Frequently asked questions
 
