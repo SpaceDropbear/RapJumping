@@ -22,7 +22,7 @@ faq:
     answer: "Follow the Department of Conservation's general outdoor safety guidance, including the Land Safety Code (choosing a trip matched to your skills, checking the weather, packing appropriately, sharing your plans with someone trustworthy, and looking after your group), alongside DOC's climbing-specific guidelines and climbing care code covering access and on-site hazards."
 ---
 
-### TL;DR
+## TL;DR
 
 - **The fastest safe way to start is a straightforward pathway:** indoor gym induction first, then a proper course or guided session with a qualified instructor, then mentored outdoor climbing before you go it alone.
 - **Indoor climbing gyms in centres like Auckland, Wellington, and Christchurch run mandatory safety inductions** for every new climber, and you don't need any gear or experience to walk in the door.

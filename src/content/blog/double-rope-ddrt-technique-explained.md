@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Double rope rappelling lets you descend the full rope length in one go by tying two ropes together.
 - Ideal for tall cliffs, reducing rappel stations, and multi-pitch routes.

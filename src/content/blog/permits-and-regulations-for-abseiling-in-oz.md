@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling permits are official approvals to abseil in specific areas under set conditions.
 - They protect climbers, wildlife, and the environment while ensuring rescue readiness.

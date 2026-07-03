@@ -24,7 +24,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Anchors are your lifeline - choose solid, redundant points and build to **SERENE** (Solid, Equalised, Redundant, Efficient, No Extension).
 - Most failures trace to corrosion, wear, single-point reliance, or skipped inspections - not gear breaking within spec.

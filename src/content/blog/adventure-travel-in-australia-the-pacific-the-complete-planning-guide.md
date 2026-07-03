@@ -22,7 +22,7 @@ faq:
     answer: "Pack for the specific activity and climate: layers for temperature swings, strong sun protection year-round, and activity-appropriate footwear. Always confirm with your operator what technical gear is supplied versus what you need to bring, especially for climbing, abseiling and diving."
 ---
 
-### TL;DR
+## TL;DR
 
 - **The best time to plan an adventure trip depends on where you're going, not just when** — Australia's north runs on a wet/dry tropical calendar while the south has four proper seasons, and the Pacific islands have a cyclone season (roughly November to April) that's worth building your dates around.
 - **Adventure-specific travel insurance is not optional admin — it's core planning.** Standard travel insurance often excludes hiking, climbing, diving and other "adventure" activities unless you declare them and pay for the right level of cover, so check the policy wording before you book anything else.

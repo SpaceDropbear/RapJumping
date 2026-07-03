@@ -22,7 +22,7 @@ faq:
     answer: "The main climbing towns of Katoomba and Blackheath are roughly 100 to 115 km west of Sydney, about 1.5 to 2 hours by car via the Great Western Highway. The Blue Mountains train line also serves both towns, with Katoomba about two hours from the city, making car-free trips possible for crags near the stations."
 ---
 
-### TL;DR
+## TL;DR
 
 - **The Blue Mountains is Sydney's premier climbing region** — kilometres of sandstone escarpment roughly 100–115 km (about 1.5–2 hours) west of the city, with sport, trad and bouldering for every level. Katoomba and Blackheath are the hubs, and the Blue Mountains train line serves both.
 - **Centennial Glen near Blackheath is the standout sport crag**; **Mt Piddington** (near Mount Victoria) and **Mt York** are among the best places to trad climb, with some sport mixed in.

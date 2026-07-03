@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 The right abseiling clothing keeps you safe, comfortable, and mobile.
 

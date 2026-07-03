@@ -9,7 +9,7 @@ featured: false
 readingTime: 5
 ---
 
-### TL;DR
+## TL;DR
 
 - You can conquer a fear of heights with five techniques: gradual desensitisation, mastering your physical reaction, questioning why you are afraid, embracing personal control, and focusing on how great you'll feel at the end.
 - Around one in twenty adults suffer from acrophobia according to a 2009 Journal of Anxiety Disorders article - and a qualified psychologist is recommended if your phobia is severe.

@@ -9,7 +9,7 @@ featured: false
 readingTime: 4
 ---
 
-### TL;DR
+## TL;DR
 
 - Drones enhance your extreme sports experience in three ways: scouting and previewing locations, capturing cinematic aerial footage during the event, and sharing content to build an audience.
 - A drone fly-through doubles as route recon and a promo teaser for Instagram Reels, TikTok or YouTube Shorts before your event.

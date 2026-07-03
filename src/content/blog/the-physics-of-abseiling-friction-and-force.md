@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling control = balancing gravity with friction from your device, rope, and posture.
 - Tune friction: use a device's high-friction mode, consider a second locker (if supported), extend the device, and run an autoblock below.

@@ -22,7 +22,7 @@ faq:
     answer: "Yes — this hub page is the starting point for a full Rap Jumping series on climbing and abseiling across Fiji, Vanuatu, New Caledonia, PNG, Tonga and the Solomon Islands. The country-specific guides linked throughout this page are in development; check back or watch our blog for updates."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Yes, you can climb and abseil across the Pacific Islands** — but it's an emerging, low-infrastructure scene (limestone crags, canyons and volcano treks in Fiji, Vanuatu, New Caledonia, PNG, Tonga and the Solomon Islands), not a mature climbing destination like New Zealand or Thailand.
 - **Most "climbing" adventure in the region is actually canyoning and abseiling** through waterfalls and gorges (Fiji, Vanuatu) or non-technical high-altitude trekking (PNG's Mt Wilhelm, the Solomon Islands' Kolombangara) rather than bolted sport routes.

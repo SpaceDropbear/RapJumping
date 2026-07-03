@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Group abseiling = big thrills + bigger bonding for mates, couples, families, and teams.
 - Standout Aussie spots: Kangaroo Point (QLD), Blue Mountains (NSW), Grampians (VIC), Kalbarri (WA), Glass House Mountains (QLD), Wilpena Pound (SA).

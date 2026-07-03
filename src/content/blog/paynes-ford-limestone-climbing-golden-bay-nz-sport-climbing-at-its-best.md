@@ -22,7 +22,7 @@ faq:
     answer: "Yes. The coastal cliffs at Pohara, a short drive away, offer longer, more moderate routes on a different rock character, and make a great pairing with a Paynes Ford trip. If you're travelling further around the South Island, Castle Hill / Kura Tāwhiti in Canterbury is another outstanding limestone destination, this time for bouldering rather than roped sport climbing."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Paynes Ford is a limestone sport climbing crag in a DOC scenic reserve just south of Tākaka**, in Golden Bay at the top of the South Island — widely rated one of New Zealand's best rock climbing areas.
 - **The climbing is almost entirely single-pitch, bolted sport routes** on steep, solid limestone, with terrain ranging from slabby walls to big roofs.

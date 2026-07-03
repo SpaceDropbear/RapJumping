@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - **Climbing ropes = dynamic**, absorb falls; **canyoning ropes = static/semi-static**, stable descents.
 - Canyoning ropes resist water & abrasion better, ideal for wet/rugged environments.

@@ -11,7 +11,7 @@ readingTime: 3
 
 ---
 
-### TL;DR
+## TL;DR
 
 - The core beginner abseiling kit is a snug harness, a 9–10mm rope, a belay/descender device, locking carabiners, a helmet and gloves.
 - Fit matters: the harness waistbelt should sit above your hips with snug leg loops, and the helmet should sit comfortably without wobbling.

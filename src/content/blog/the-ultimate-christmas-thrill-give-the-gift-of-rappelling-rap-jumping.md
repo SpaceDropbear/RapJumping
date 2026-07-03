@@ -9,7 +9,7 @@ featured: false
 readingTime: 4
 ---
 
-### TL;DR
+## TL;DR
 
 - A Rap Jumping, abseiling or rappelling experience is the ultimate Christmas gift for people who seem to have everything - an experience never ends up on the scrap heap.
 - Rap Jumping is forward-facing 'Aussie Rappel' abseiling, originally developed by the Australian SAS, and beginner courses start with the less intimidating backwards descent.

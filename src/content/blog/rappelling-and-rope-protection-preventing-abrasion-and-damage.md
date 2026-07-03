@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Rope protection prevents abrasion, cuts, and premature wear during abseiling.
 - Assess terrain for sharp edges, loose gravel, or saltwater exposure before rigging.

@@ -35,7 +35,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling (called rappelling in North America) is a controlled rope descent — start under a qualified instructor and build confidence on small, supervised drops.
 - Get the core kit: a static rope, harness, belay/descender device, locking carabiners, helmet and gloves, all meeting CE or UIAA standards.

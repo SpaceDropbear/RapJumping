@@ -9,7 +9,7 @@ featured: true
 readingTime: 6
 ---
 
-### TL;DR
+## TL;DR
 
 - Eight Melbourne school-holiday picks: stargazing at Melbourne Observatory, O'Brien Icehouse, The Wind in the Willows at the Royal Botanic Gardens, ACMI, Clip 'n Climb Berwick, SEA LIFE Melbourne Aquarium, Trees Adventure and Gumbuya World.
 - Victorian summer holidays start Friday 19 December 2025, with Term 1 of 2026 beginning on 28 January.

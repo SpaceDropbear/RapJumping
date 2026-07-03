@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Climbing conservation means protecting cliffs, crags, and ecosystems while abseiling.
 - Stick to established paths, avoid damaging vegetation, and respect wildlife habitats.

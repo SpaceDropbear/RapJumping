@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Descenders add friction so you can control speed on rope.
 - Figure 8: ultra-simple, smooth rappels; no assisted braking; can twist rope.

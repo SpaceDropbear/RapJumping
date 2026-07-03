@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Rappelling injuries range from blisters to serious falls - preparation is key.
 - Build a climbing-specific first aid kit with bleeding control, splinting tools, meds, and rescue items.

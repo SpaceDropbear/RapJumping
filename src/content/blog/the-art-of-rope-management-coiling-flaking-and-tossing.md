@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Pick the right rope (dynamic for falls; static for hauling/abseils), correct length, and a sensible diameter for your device.
 - Inspect before every use: sheath fuzz/cuts, flat spots, soft or stiff sections, chemicals/UV damage. Log it.

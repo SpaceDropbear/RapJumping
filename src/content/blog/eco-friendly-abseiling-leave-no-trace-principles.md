@@ -11,7 +11,7 @@ readingTime: 9
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Eco abseiling combines safe rope descents with leave-no-trace principles.
 - Choose sustainable, bluesign-certified gear to reduce your carbon footprint.

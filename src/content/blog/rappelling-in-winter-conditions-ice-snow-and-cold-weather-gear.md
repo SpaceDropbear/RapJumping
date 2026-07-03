@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Winter = more variables (ice, spindrift, short days). Plan conservatively, check avalanche/ice conditions, and build redundant, equalised anchors.
 - Use dry-treated ropes, a device with high-friction mode, and an autoblock below the descender. Keep ropes off snow with a bag; de-ice as you go.

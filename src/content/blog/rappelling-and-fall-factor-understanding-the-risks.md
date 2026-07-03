@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Fall factor = fall distance ÷ rope length available to stretch.
 - Higher fall factor = greater force on you, your rope, and your anchor.

@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Build anchors that are SERENE-A: Solid, Equalised, Redundant, Efficient, No-extension, tight Angles (≤60°).
 - Natural anchors (trees, boulders, horns): verify integrity (no rot/cracks), protect bark/edges, and back them up.

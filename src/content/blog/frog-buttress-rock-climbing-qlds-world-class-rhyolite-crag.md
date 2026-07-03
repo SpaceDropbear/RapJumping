@@ -22,7 +22,7 @@ faq:
     answer: "Only with proper mentorship or qualified instruction. Trad climbing requires the skill to place your own protection safely, which carries real technical risk if self-taught. Newcomers should climb with an experienced trad partner or a qualified guide, and build skills progressively rather than attempting to lead unsupervised."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Frog Buttress is a rhyolite cliff on Mount French**, within Moogerah Peaks National Park near Boonah in South East Queensland — one of Australia's most historically important traditional ("trad") climbing areas, prized for its clean crack lines.
 - **It is a trad climbing area, not a sport crag.** Climbers place their own removable protection (cams, wires and slings) rather than clipping fixed bolts, and unauthorised bolting is actively managed against by Queensland Parks and Wildlife Service (QPWS).

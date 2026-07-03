@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Rappelling lanyards keep you safely connected to anchors during descents.
 - Key ratings: **WLL** (Working Load Limit) and **MBS** (Minimum Breaking Strength).

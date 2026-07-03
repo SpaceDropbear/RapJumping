@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - A charity abseil = epic vertical adventure + real fundraising impact.
 - Two paths: Join an existing event (fast, turnkey) or host your own with a qualified operator and a partner charity.

@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Stunt rappelling blends abseiling technique with cinematic performance, using advanced rigging and choreography for dramatic effect.
 - The main difference from abseiling is style: abseiling prioritises steady, controlled descent; stunt rappelling adds speed, flair, and visual impact.

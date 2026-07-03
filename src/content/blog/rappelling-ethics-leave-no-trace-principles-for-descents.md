@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling ethics combine safety, environmental responsibility, and respect for local regulations.
 - Minimise environmental impact by sticking to established routes and avoiding sensitive habitats.

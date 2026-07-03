@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Climbing = going up; abseiling/rappelling = coming down
 - Climbing prioritises strength, technique, route-reading; abseiling prioritises rope handling, anchors, descent control

@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Pick a reputable operator, match the cliff and format (intro, canyon, multi-pitch) to your comfort level.
 - Operators usually supply harness/helmet/rope/device; you bring closed shoes, sun protection, water, and weather layers.

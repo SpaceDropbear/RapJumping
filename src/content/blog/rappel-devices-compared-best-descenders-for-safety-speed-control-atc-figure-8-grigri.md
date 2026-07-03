@@ -20,7 +20,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - No single descender wins outright — the best choice depends on your experience, rope and terrain, balancing safety, speed and control.
 - The ATC is a lightweight, affordable, versatile tube device, but it relies on manual braking and can get hot on long descents.

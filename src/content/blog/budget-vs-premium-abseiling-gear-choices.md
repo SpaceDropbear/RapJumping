@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Cheap abseiling gear can meet safety standards, but may lack durability, comfort, and advanced features. Premium gear offers better materials, comfort, and longevity but at a higher cost. Match your gear choice to your skill level, frequency of use, and environment, and shop smart during sales for the best value.
 

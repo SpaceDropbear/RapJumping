@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Start with a beginner abseil course, practise on easy single-pitch drops, and learn backup systems. Join local clubs to find partners and trips. Follow AAAS + Good Practice Guides, respect closures (e.g., parts of Gariwerd/Grampians), and log your progress. Career paths: instructor (training + logged days + first aid) or rope access via IRATA (L1→L3; 3-year revalidation). Look after your kit and the places you climb.
 

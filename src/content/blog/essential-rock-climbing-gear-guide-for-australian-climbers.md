@@ -22,7 +22,7 @@ faq:
     answer: "No. Carabiners and similar hardware sold in general or camping shops are usually rated for general use only and are not certified to any climbing standard. Many have no meaningful strength rating at all and can fail at a fraction of a climbing load. Always use gear certified to the relevant EN or UIAA standard, and learn to use it under qualified instruction."
 ---
 
-### TL;DR
+## TL;DR
 
 - **A "safety-rated" carabiner** is one certified to the European Standard **EN 12275** and the matching **UIAA 121** standard, and stamped with its breaking strength in kilonewtons (kN). A basic connector must hold at least **20 kN** along its major axis with the gate shut.
 - **kN means kilonewtons** — a measure of force, not weight. 1 kN is roughly the force of a 100 kg load hanging still, so a 20 kN carabiner withstands about two tonnes before breaking. A real climbing fall rarely exceeds about 5 kN on the climber.

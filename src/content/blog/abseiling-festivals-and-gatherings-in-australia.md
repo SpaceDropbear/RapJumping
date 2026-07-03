@@ -26,7 +26,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Australian abseiling festivals combine vertical adventure with community spirit. Learn new rope skills, join clinics, meet fellow enthusiasts, and support local economies-all while enjoying some of the country's most spectacular climbing locations.
 

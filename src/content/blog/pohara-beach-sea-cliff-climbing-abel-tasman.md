@@ -22,7 +22,7 @@ faq:
     answer: "The climbing itself is on land outside the national park boundary, so it doesn't fall under Abel Tasman National Park's specific management arrangements the way a walk on the Coast Track would. As with any New Zealand crag, it's good practice to check current local access information before you visit, and to follow DOC's general climbing guidelines and care code if any part of your trip touches public conservation land."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Honestly: Pohara is a real, established sport climbing area** with a genuine following, but it's Golden Bay's secondary crag — smaller and less famous than nearby Paynes Ford, and the township itself is best known as a beach and Abel Tasman gateway, not a climbing destination.
 - **The climbing sits on sea-facing limestone-country cliffs along Abel Tasman Drive**, a short drive from Tākaka, with mostly single-pitch, moderate-grade sport routes on generally sunny, north-facing rock.

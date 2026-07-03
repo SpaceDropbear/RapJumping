@@ -9,7 +9,7 @@ featured: false
 readingTime: 5
 ---
 
-### TL;DR
+## TL;DR
 
 - The most common beginner abseiling mistakes are rushed harness checks, skipping backup systems, poor friction control, careless rope handling, losing focus mid-descent and neglected gear inspections.
 - Re-checking harness connections can prevent up to 80% of gear failures - glance back at every buckle before committing to the edge.

@@ -20,7 +20,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - For abseiling, always use a locking carabiner — a screw-lock or auto-locking gate is essential to stop it opening accidentally under load.
 - Choose the shape for the job: D-shaped carabiners are strongest and most efficient for rappel/belay devices, while pear-shaped HMS carabiners suit Münter hitches and multiple rope strands.

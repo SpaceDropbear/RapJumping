@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - **Rap Jumping** (forward-facing abseiling) was formalised by **Macka MacKail** in the late 1980s, after early experiments in Cairns' Barron Gorge.
 - Landmark moments: Pacific Hotel jump (Cairns, 1989) → first fully commercial urban setup at Gold Coast International Hotel.

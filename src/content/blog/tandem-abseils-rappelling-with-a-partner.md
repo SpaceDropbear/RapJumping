@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Tandem abseiling = two people on one device; great for helping an injured partner or speeding multi-pitch descents.
 - Success = bombproof, redundant anchor + high-friction device + tidy rigging + a third-hand (prusik/autoblock) below the device.

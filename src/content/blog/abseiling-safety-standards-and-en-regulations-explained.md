@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - EN standards are European Norm safety benchmarks for climbing/abseiling gear.
 - EN 892 covers dynamic climbing ropes, with specific fall ratings for single, half, and twin ropes.

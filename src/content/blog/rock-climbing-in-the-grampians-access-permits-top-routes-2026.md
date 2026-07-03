@@ -22,7 +22,7 @@ faq:
     answer: "Autumn and spring are ideal, with cool, stable conditions for both long routes and hard climbing. Winter offers good climbing on sunny, sheltered aspects, while summer can be hot and carries real bushfire risk. Always check the fire danger rating and total fire ban days for the Wimmera district before a summer trip, and stay out of the ranges on high-risk days."
 ---
 
-### TL;DR
+## TL;DR
 
 - **The Grampians (Gariwerd) is one of Australia's premier climbing destinations** — steep, world-class sandstone sport, classic multi-pitch trad and superb bouldering, about three hours west of Melbourne near Halls Gap.
 - **Climbing is allowed only in designated areas.** Parks Victoria has set out 122 designated rock-climbing areas (including 13 bouldering areas); climbing anywhere outside them is not permitted, and no further bouldering areas will be opened.

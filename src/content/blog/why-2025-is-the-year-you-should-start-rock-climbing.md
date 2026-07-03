@@ -9,7 +9,7 @@ featured: false
 readingTime: 4
 ---
 
-### TL;DR
+## TL;DR
 
 - 2025 is the year to start rock climbing because it delivers the ultimate full-body workout, a powerful mental challenge and a built-in social community.
 - An hour of moderate to intense climbing can burn 500-900 calories while building lean muscle, flexibility, balance and coordination.

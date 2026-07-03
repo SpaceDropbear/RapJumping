@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Most climbing accidents happen during rappels - a safety checklist greatly reduces risk.
 - Inspect your rope, harness, carabiners, belay device, and anchors before every descent.

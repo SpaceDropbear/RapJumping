@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - **Start with the right gear:** helmet, harness, static rope, rappel device, locking carabiners, and a friction hitch backup.
 - **Master basic techniques:** figure‑8 device for smooth descents, Munter hitch as a backup.

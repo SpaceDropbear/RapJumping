@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling (rappelling) is a controlled rope descent, often seen in climbing films but essential in real-world climbing, rescue, and adventure sports.
 - Movies and documentaries like Touching the Void, Free Solo, and The Alpinist show its critical role in safe descents.

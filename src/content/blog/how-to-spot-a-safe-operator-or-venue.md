@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Choose operators with IRATA or SPRAT certifications for proven safety and training.
 - Check compliance with national/local abseiling regulations and insurance requirements.

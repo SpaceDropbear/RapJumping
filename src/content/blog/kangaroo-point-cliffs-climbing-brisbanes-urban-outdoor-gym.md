@@ -22,7 +22,7 @@ faq:
     answer: "Yes. The clean, flat clifftop and solid bollard anchors make it a classic venue for descent skills, including abseiling and forward-facing rap jumping under qualified supervision. For many people, a guided abseil or rap jump here is the perfect first taste of being on a cliff before they try to climb up one."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Kangaroo Point Cliffs ("KP") are Brisbane's free, public outdoor crag** — a heritage-listed, quarried wall of volcanic Brisbane Tuff roughly 20 metres high on the southern bank of the Brisbane River, directly opposite the CBD and City Botanic Gardens.
 - **They are floodlit in the evening**, so you can climb or abseil after work and into the night — a rarity for an outdoor venue and a huge part of KP's appeal during Brisbane's hot months.

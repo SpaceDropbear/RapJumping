@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Dedicate a specific space for all abseiling gear to improve organisation and accessibility.
 - Sort, categorise, and label items for quick identification.

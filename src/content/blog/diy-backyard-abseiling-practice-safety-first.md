@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Backyard abseiling is legit for skill tuning-IF your anchors and checks are bulletproof.
 - Prep the area: clear the landing, identify a bombproof overhead point, confirm local rules.

@@ -22,7 +22,7 @@ faq:
     answer: "Steep, powerful, single-pitch sport climbing on sandstone, with pockets, slopers and rounded holds and often poor footholds. The difficulty is concentrated into hard moves rather than long endurance sequences. It rewards finger strength and body tension, and the style typically takes a day or two to adjust to even for strong visitors."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Nowra is widely regarded as Australia's premier hard sport-climbing destination** — steep, pocketed, powerful sandstone on the NSW South Coast (Shoalhaven), roughly 2.5–3 hours' drive south of Sydney.
 - **It is famously sandbagged**: grades feel hard for the number, and the spread skews steeply upward — plentiful routes in the grade 20s and 30s on the Australian Ewbank scale, with limited genuine beginner terrain.

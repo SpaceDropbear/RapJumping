@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Both ziplining and abseiling (rappelling) involve heights, harnesses, and stunning outdoor settings.
 - Ziplining = high-speed, gravity-powered glide on a fixed cable, minimal user control.

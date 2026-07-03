@@ -9,7 +9,7 @@ featured: false
 readingTime: 4
 ---
 
-### TL;DR
+## TL;DR
 
 - Helicopter rappelling is a vital, high-stakes skill used by the Australian Defence Force, remote-area firefighters and rescue helicopter crews - far more than an adventure activity.
 - The ADF uses helicopter rappelling and fast-roping to insert personnel where aircraft can't land, with the Sikorsky Black Hawk historically common for these missions.

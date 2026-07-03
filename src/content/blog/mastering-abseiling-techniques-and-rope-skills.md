@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling = controlled rope descent using a harness, belay/descender, and secure anchors.
 - Always match rope type to the activity (static for abseiling, dynamic for climbing).

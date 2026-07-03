@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Standard home contents rarely cover abseiling gear used for sport/commercial purposes.
 - Specialist gear insurance can protect against theft, accidental damage, fire, natural disasters, and transit losses.

@@ -26,7 +26,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Australian abseiling clubs offer safe, structured training, guided trips, and a supportive community. Learn essential rope skills, access quality gear advice, and connect with fellow adventurers while exploring some of the country's most spectacular vertical landscapes.
 

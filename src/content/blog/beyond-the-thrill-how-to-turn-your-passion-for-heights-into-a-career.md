@@ -9,7 +9,7 @@ featured: false
 readingTime: 6
 ---
 
-### TL;DR
+## TL;DR
 
 - You can turn a passion for heights into a career by training as an industrial rope access technician through the IRATA certification scheme, with skilled technicians in demand across Australia.
 - IRATA Australia represents over 30 member companies, collectively employs more than 500 rope access technicians and trains over 2,000 new technicians annually.

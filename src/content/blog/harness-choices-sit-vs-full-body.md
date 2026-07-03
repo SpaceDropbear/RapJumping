@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Your harness is the link between you and the rope-comfort, safety, and mobility depend on it.
 

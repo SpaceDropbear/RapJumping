@@ -11,7 +11,7 @@ readingTime: 4
 
 ---
 
-### TL;DR
+## TL;DR
 
 - You can overcome a fear of heights and build abseiling confidence by facing it in small, steady increments rather than all at once.
 - Start by mapping your mindset — pinpoint your triggers and set a measurable goal, like completing a three-metre abseil in your first session.

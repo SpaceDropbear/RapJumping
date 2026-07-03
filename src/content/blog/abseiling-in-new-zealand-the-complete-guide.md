@@ -22,7 +22,7 @@ faq:
     answer: "Ask whether they hold a current WorkSafe safety audit and registration under the Adventure Activities Regulations, and whether they hold a valid DOC concession for the specific site if the activity is on public conservation land. A legitimate operator should be able to answer both questions without hesitation."
 ---
 
-### TL;DR
+## TL;DR
 
 - **New Zealand is a world-class abseiling destination** across four very different settings — underground caves, canyons, sea cliffs and alpine terrain — often within an hour or two of Auckland, Rotorua or Queenstown.
 - **Commercial operators must pass a government safety audit.** Under the Health and Safety at Work (Adventure Activities) Regulations 2016, any business offering guided abseiling, canyoning or caving must be independently audited and registered with WorkSafe New Zealand before it can legally operate.

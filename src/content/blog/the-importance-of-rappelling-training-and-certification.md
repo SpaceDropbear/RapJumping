@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Rappelling training teaches rope handling, anchors, belay devices, and safety backups.
 - Builds confidence, safety awareness, and technical skill for varied terrain.

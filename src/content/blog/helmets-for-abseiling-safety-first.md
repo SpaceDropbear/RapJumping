@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 A climbing helmet protects you from falling rocks, swinging bumps, and dropped gear during abseiling.
 

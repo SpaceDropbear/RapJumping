@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Guided = expert oversight, equipment included, structured coaching; ideal for first-timers, families, groups.
 - Self guided = full autonomy and route choice; demands solid anchor skills, device control, and risk management.

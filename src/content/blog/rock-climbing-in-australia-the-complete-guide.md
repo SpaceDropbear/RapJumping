@@ -22,7 +22,7 @@ faq:
     answer: "A combination works best: a gym induction for movement and belaying, then a guided outdoor session or beginners course to learn real anchors, route-finding and descent safely. Progress to unsupervised climbing only once you can build and inspect systems independently."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Australia is a genuine world-class climbing destination** across every style — sport, traditional (trad), bouldering and top-rope — from sea cliffs and inland sandstone to volcanic plugs, much of it within a few hours of the capital cities.
 - **Grades use the home-grown Ewbank scale** — a single open-ended number (in practice about 1–35). A confident beginner climbs roughly grade 10–14 outdoors; the table below converts Ewbank to French and US YDS.

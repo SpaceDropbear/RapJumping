@@ -9,7 +9,7 @@ featured: false
 readingTime: 3
 ---
 
-### TL;DR
+## TL;DR
 
 - For abseiling in Australia, dress in layers: a breathable moisture-wicking base, an insulating mid-layer for cooler conditions, and a water-resistant, windproof outer shell.
 - Supportive hiking boots or shoes with sturdy soles, good grip and a secure fit suit general abseiling day trips.

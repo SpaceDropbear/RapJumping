@@ -22,7 +22,7 @@ faq:
     answer: "Both are climbing equipment safety standards, but they come from different bodies. EN standards are the European conformity standards that are mandatory for equipment sold in the EU and are widely used as the practical benchmark in Australia and New Zealand. UIAA standards, set by the International Climbing and Mountaineering Federation, are often somewhat stricter than the EN minimum, and some manufacturers meet both."
 ---
 
-### TL;DR
+## TL;DR
 
 - **You only need to own three things early on** to start climbing in New Zealand: climbing shoes, a chalk bag, and eventually a harness — everything else can be rented or borrowed while you find your feet.
 - **Rent the expensive, condition-sensitive kit.** Ropes, cams, quickdraws and other protection are costly, easy to get wrong as a beginner, and hard to inspect without training — climb on rented, partner's or instructor's gear until you've had proper instruction in their use and care.

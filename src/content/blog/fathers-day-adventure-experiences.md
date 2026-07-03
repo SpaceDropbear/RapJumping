@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Ditch the dinner booking and gift Dad an experience. Pick from 10 ideas-hikes, paddles, festivals, history stops, abseiling (if he's keen), road trips, and even at-home fun. Match the plan to his vibe (thrill level, budget, time), book ahead, pack smart, and add a personal touch (note, photo, playlist) so the day becomes a story he'll keep telling.
 

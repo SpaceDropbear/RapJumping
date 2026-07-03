@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Rope bags protect ropes from dirt, moisture, and UV damage, extending lifespan.
 - Built-in tarp keeps rope clean and off the ground.

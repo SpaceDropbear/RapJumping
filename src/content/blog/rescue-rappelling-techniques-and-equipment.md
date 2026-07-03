@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Rescue rappelling = controlled descent in high-stakes environments to reach victims quickly.
 - Uses static ropes (NFPA 1983/IRATA compliant) for strength, minimal stretch, and durability.

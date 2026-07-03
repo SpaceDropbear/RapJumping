@@ -9,7 +9,7 @@ featured: false
 readingTime: 5
 ---
 
-### TL;DR
+## TL;DR
 
 - The five climbing and rope sports to consider are canyoning, bouldering, mountaineering, free soloing and rappelling (abseiling).
 - Canyoning blends abseiling, climbing, swimming and even natural water slides, with the Blue Mountains (50 kilometres west of Sydney) a world-class Australian hotspot - though flash flooding is a key hazard.

@@ -22,7 +22,7 @@ faq:
     answer: "Wear comfortable, stretchy activewear you can move and high-step in, and bring a water bottle. Hire climbing shoes for your first visits rather than buying. Tie back long hair, remove dangly jewellery, and bring thin socks if you are hiring shoes. Chalk is optional to start and is usually available at the gym."
 ---
 
-### TL;DR
+## TL;DR
 
 - **An indoor climbing gym is the best year-round entry point to the sport in Australia** — it is weatherproof, supervised, gear is on hand, and every capital has multiple modern centres. Start there before you ever touch real rock.
 - **There are four main ways to climb indoors**: bouldering (no ropes, low walls, padded floors), top-rope, lead climbing, and auto-belay. Bouldering is the easiest to walk in and try.

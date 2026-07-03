@@ -9,7 +9,7 @@ featured: false
 readingTime: 9
 ---
 
-### TL;DR
+## TL;DR
 
 - Checking height safety equipment is non-negotiable for both recreation and workplaces - it's the difference between a safe return home and a life-altering or fatal incident.
 - Falls from height accounted for 11% of all worker fatalities in Safe Work Australia's 2020 report, and many incidents are preventable with proper equipment maintenance.

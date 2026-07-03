@@ -9,7 +9,7 @@ featured: false
 readingTime: 7
 ---
 
-### TL;DR
+## TL;DR
 
 - The eight must-try extreme sports: volcano boarding (Nicaragua), slacklining and highlining (Norway), Death Road downhill mountain biking (Bolivia), wingsuit flying (Switzerland), freshwater cave diving in cenotes (Mexico), heli skiing (New Zealand), bungee jumping (Macau) and ice climbing (USA).
 - Volcano boarders hurtle down Cerro Negro at speeds of up to 90 km/h, using only their boots as brakes.

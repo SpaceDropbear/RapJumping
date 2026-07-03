@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Abseiling gloves protect your hands from **rope burn**, improve **grip**, and boost **comfort** on descents.
 

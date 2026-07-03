@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Adaptive abseiling = the thrill of descent with gear, systems, and coaching tailored to your body and comfort level.
 - Plan your goal → gather standard + adaptive gear (e.g., supportive seat harness, wider leg loops, pull-up bar) → practise ropework with a backup belay.

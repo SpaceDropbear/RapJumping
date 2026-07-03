@@ -11,7 +11,7 @@ readingTime: 14
 
 ---
 
-### TL;DR
+## TL;DR
 
 - **Anchors are life support** - must withstand forces up to ~10 kN in worst falls.
 - **Primary anchors first** - each point should be bomber on its own; rigging won't fix a weak anchor.

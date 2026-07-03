@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Around 25% of climbing deaths occur during abseiling-most preventable with good gear, planning, and backups.
 - Use certified, well-maintained gear: harness, helmet, belay device, locking carabiners, and inspected ropes.

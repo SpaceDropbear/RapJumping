@@ -24,7 +24,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Water rescue rappelling combines rope skills with swiftwater hazards - currents, debris, and shifting terrain. Preparation and the right gear decide outcomes.
 - Core kit: water-resistant static ropes, quick-release descenders (Pirana, CRITR, ATS), EN 361 harnesses, locking carabiners, ascenders, and a rescue-rated helmet.

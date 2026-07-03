@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Pick 2-3 SMART goals (e.g., “three 30-40 m single-pitch abseils with an autoblock by end of summer”).
 - Tie goals to your values (nature, mastery, community) so they actually stick.

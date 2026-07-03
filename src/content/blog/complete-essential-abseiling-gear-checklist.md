@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Safe, controlled abseiling starts with the right gear and consistent maintenance.
 

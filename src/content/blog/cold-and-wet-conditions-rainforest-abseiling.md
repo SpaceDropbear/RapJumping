@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Rainforest abseiling offers unique beauty but poses wet weather and slippery surface hazards.
 - Wet ropes lose stretch and grip, requiring dry-treated ropes and waterproof storage.

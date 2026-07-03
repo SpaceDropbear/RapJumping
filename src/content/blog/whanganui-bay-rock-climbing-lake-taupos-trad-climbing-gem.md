@@ -22,7 +22,7 @@ faq:
     answer: "The New Zealand Alpine Club's ClimbNZ database is the best source for current route and sector information, and the official Whanganui Bay access website (run in partnership with the Aotearoa Climbing Access Trust) is the authoritative source for registration, fees, and current access rules. Treat older guidebooks or general web listings as a starting point only, not a substitute for checking current official information."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Whanganui Bay is a rhyolite cliff area on the western shore of Lake Taupō**, North Island, widely regarded by New Zealand climbers as one of the country's best and most historic trad climbing destinations.
 - **It's predominantly a traditional (trad) climbing area**, with classic crack lines dating back to the 1970s alongside some quality pocketed sport routes, spread across more than 100 routes at a range of grades.

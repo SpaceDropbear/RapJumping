@@ -22,7 +22,7 @@ faq:
     answer: "Spring through autumn is generally considered the most comfortable window. Because the ignimbrite dries quickly and doesn't get slippery when wet, the crag is also more forgiving after rain than many other New Zealand rock types, though muddy farm-track access can still make a visit unpleasant during particularly wet spells."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Wharepapa South is the North Island's best-known sport climbing area** — a cluster of small farmland crags near Pirongia in the Waikato region, climbed on pale, heavily pocketed **ignimbrite** (a volcanic rock), not limestone, despite how the area is sometimes labelled.
 - **The main crags — Castle Rock (Wharepapa Rock), Froggatt Edge, Sheridan Hills and Waipapa Dam** — between them offer well over 100 bolted routes, with grades spanning roughly Ewbank 10 to the low 30s, so there's genuine range for first-time outdoor climbers through to experienced leaders.

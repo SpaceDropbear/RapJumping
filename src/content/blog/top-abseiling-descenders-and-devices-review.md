@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 A quality rappelling device balances friction control, durability, and rope compatibility.
 

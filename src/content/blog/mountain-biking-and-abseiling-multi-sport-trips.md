@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - MTB abseiling blends mountain biking with rope-controlled cliff descents for a double adrenaline hit.
 - Requires solid biking skills and competent abseiling technique.

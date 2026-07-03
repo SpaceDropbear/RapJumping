@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Self-rescue skills help regain control if your brake hand slips during a rappel.
 - Core gear includes a harness, helmet, belay device, rope, PAS, friction hitch cord, and locking carabiners.

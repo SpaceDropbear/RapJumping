@@ -22,7 +22,7 @@ faq:
     answer: "Stay on the access track, never mark or chalk-tag the rock, keep chalk use minimal (and avoid chalking footholds, since it accelerates polishing of the soft limestone), clean shoes before climbing and brush holds afterwards, don't place new bolts, take all rubbish with you, and treat any rock art or sheltered overhangs you encounter with particular care and respect."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Castle Hill, known as Te Kura Tawhiti (or Kura Tāwhiti), is a basin of weathered limestone tors and boulders in the Canterbury high country**, between the Craigieburn and Torlesse ranges on the South Island — internationally regarded as one of the world's premier bouldering destinations.
 - **It's also a site of deep, ongoing cultural significance to Ngāi Tahu.** Kura Tāwhiti holds Tōpuni status — a legal recognition, confirmed through the Ngāi Tahu Treaty settlement, of the site's importance to the iwi — and the Department of Conservation (DOC) manages the land in partnership with Ngāi Tūāhuriri.

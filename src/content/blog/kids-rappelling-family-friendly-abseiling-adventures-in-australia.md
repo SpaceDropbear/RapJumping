@@ -9,7 +9,7 @@ featured: false
 readingTime: 4
 ---
 
-### TL;DR
+## TL;DR
 
 - Family abseiling in Australia is genuinely achievable: kids and adults can descend together safely with trained guides, reliable anchors, quality ropes and kid-sized gear.
 - It's beginner-friendly because you descend at your own speed, instructors control or back up your rope, and shorter practice descents come before bigger cliffs.

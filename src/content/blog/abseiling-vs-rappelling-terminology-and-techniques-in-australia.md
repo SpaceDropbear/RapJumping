@@ -24,7 +24,7 @@ If you're ready to explore Australia's adventurous cliffs or even just a local i
 
 ---
 
-### TL;DR
+## TL;DR
 
 Abseiling and rappelling are the same rope‑descent technique - the name changes with location. In the United States, it's known as rappelling, while in Australia, the UK, and most of the world, it's called abseiling. Both involve using a harness, rope, and friction device to make a controlled descent down a cliff, wall, or structure.
 

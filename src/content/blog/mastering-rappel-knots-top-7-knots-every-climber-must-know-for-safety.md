@@ -11,7 +11,7 @@ readingTime: 5
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Safe abseiling depends on knowing which knot to use and when — the seven essentials cover joining ropes, backups, friction and anchoring.
 - Join two ropes with a low-profile flat overhand for easy retrieval, or a stronger double fisherman's for critical, high-load descents.

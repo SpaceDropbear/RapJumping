@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Treat home rappels like the real thing: redundancy, equalisation, final checks.
 - Static rope (≈9-10.5 mm) for crisp control; length = a bit more than 2. your drop if rigging doubled.

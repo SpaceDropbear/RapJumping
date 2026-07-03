@@ -22,7 +22,7 @@ faq:
     answer: "Yes. Arapiles is Dyurrite, a culturally significant landscape whose Traditional Owners are represented by Barengi Gadjin Land Council, and a management plan is being finalised. Respect every signed closure and restriction without exception, follow Parks Victoria directions, leave the rock and any cultural features untouched, and tread lightly on the land."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Mt Arapiles (Dyurrite) is Australia's most celebrated traditional-climbing destination** — a compact mount near Natimuk in western Victoria, roughly four hours from Melbourne, holding on the order of two to three thousand routes.
 - **It is the country's "moderate mecca"** — famed for the sheer volume of quality moderate trad. Classics like The Bard (grade 12) and Watchtower Crack (16) see ascents daily, alongside icons such as the roof route Kachoong (21) and the historic hard line Punks in the Gym (grade 32, 1985).

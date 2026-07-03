@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - A prusik backup acts as a hands-free safety brake if your brake hand slips during abseiling.
 - Use ~1.5 m of 6 mm cord tied in a loop with a double fisherman's knot.

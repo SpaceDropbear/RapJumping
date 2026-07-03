@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling comps in Australia range from friendly time trials to multi-sport races; pure abseil-only contests exist but are rarer.
 - Charity abseils and group challenges deliver the same adrenaline with extra community vibes-great for beginners.

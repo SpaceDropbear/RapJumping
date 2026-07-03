@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Clean, inspect, and store your abseiling gear regularly to boost safety and lifespan.
 

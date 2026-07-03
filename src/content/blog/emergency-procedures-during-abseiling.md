@@ -11,7 +11,7 @@ readingTime: 10
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling emergencies include losing rope control, running out of rope, or injury mid-descent.
 - Common triggers: no stopper knots, poor harness checks, bad weather, incorrect device setup.

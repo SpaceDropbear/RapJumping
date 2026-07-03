@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Aboriginal-led abseiling blends adrenaline + culture: descend epic cliffs while learning living traditions, stories, language, bush foods, and Country etiquette.
 - Guides prioritise safety, respect, and protocols (men's/women's business, site permissions, photography rules) and tailor routes to your group.

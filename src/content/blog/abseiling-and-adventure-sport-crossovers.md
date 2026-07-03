@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling in Australia can be combined with rock climbing, skydiving, caving, rafting, and more.
 - Quick to learn, affordable, and accessible across iconic Aussie landscapes.

@@ -20,7 +20,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - **Static rope:** Minimal stretch (2-5%), stable, best for abseiling, rescue, caving, and hauling; unsafe for fall protection.
 - **Dynamic rope:** High stretch (25-30%), absorbs shock, best for lead/top-rope climbing and any situation with fall risk.

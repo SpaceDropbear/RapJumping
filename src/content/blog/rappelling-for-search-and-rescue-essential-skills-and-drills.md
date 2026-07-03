@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Water rescue rappelling adds current, debris, and visibility challenges to standard rope skills.
 - Use water-resistant, buoyant ropes with good wet grip; inspect before each mission.

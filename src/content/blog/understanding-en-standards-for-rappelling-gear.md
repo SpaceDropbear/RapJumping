@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling safety standards protect against gear failure, falls, and communication errors.
 - Key hazards: rope wear, anchor failure, entanglement, and miscommunication.

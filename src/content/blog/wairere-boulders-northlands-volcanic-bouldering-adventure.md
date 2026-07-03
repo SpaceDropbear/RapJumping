@@ -22,7 +22,7 @@ faq:
     answer: "Only with caution. It's unsupervised, self-directed climbing on private farmland with no on-site safety checking or rescue service, and the operators themselves flag some of the less-documented \"Virgin Boulders\" as unsuitable for inexperienced climbers. Anyone new to bouldering should visit with an experienced partner, stick to the well-mapped, graded problems, and treat it as genuinely at-your-own-risk."
 ---
 
-### TL;DR
+## TL;DR
 
 - **Wairere Boulders is, first and foremost, a scenic walking attraction** — a privately owned nature reserve near Horeke in the Hokianga, Northland, built around an unusual valley of huge, deeply fluted volcanic basalt boulders. Since 2023–2024 it has also become a genuine, if small and young, bouldering destination.
 - **The rock itself is the real drawcard.** These basalt boulders slid down from an eroding lava plateau over thousands of years and have been etched by natural acids into deep vertical flutes and basins — a rare geological phenomenon known as basalt karst.

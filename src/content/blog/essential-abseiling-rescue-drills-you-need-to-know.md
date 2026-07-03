@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Abseiling rescue drills prepare you for emergencies like jammed ropes, anchor failures, or injured partners.
 

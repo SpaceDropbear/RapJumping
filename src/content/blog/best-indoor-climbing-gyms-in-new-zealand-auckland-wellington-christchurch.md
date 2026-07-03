@@ -22,7 +22,7 @@ faq:
     answer: "Yes, quite directly. Indoor sessions build comfort with a harness, trust in rope systems, and general upper-body and grip strength — all of which transfer well to outdoor rope activities. It won't teach you everything (outdoor abseiling and rap jumping involve their own equipment, terrain and safety systems, run by qualified guides), but plenty of people arrive at their first outdoor rope experience having built confidence on an indoor wall first. See our beginner's guide to getting started with rock climbing in New Zealand for the fuller pathway from first gym visit through to outdoor rock."
 ---
 
-### TL;DR
+## TL;DR
 
 - **All three of New Zealand's biggest cities have genuine indoor climbing options.** Auckland has the widest spread (bouldering-only gyms plus large top-rope/lead centres), Wellington's main facility combines a real-rock top-rope wall with bouldering, and Christchurch runs from big bouldering-only warehouses to a full top-rope and lead facility.
 - **Indoor gyms split into two very different styles:** bouldering (short walls, no ropes, crash pads, walk-in and climb) and roped climbing (top-rope or lead — taller walls, usually requiring an induction and sometimes a belay test).

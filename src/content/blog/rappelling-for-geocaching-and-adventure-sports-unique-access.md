@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Geocaching rappelling combines rope descent with GPS treasure hunting for a high-adrenaline adventure.
 - Uses standard abseiling gear plus geocaching tools to reach caches in hard-to-access locations.

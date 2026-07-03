@@ -26,7 +26,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling guides lead safe rope descents, teach skills, and manage group safety.
 - Start with solid personal abseiling skills before moving into guiding.

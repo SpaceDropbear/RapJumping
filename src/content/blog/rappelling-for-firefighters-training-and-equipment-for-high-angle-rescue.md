@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TLDR
+## TL;DR
 
 - Firefighter rappelling enables controlled descents in high-angle rescues, from urban bail-outs to helicopter insertions.
 - Strong foundation comes from rope rescue courses, regular team drills, and high physical fitness.

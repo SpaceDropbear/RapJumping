@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Digital logbook apps make it easy to record abseiling/climbing sessions, track progress, and stay motivated.
 - Benefits over paper logs: automatic backup, searchable history, progress graphs, community features.

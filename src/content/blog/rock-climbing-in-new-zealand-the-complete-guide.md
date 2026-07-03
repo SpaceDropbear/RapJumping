@@ -22,7 +22,7 @@ faq:
     answer: "You can, but it's worth bridging the gap with proper instruction first. Indoor climbing builds movement and basic rope familiarity, but outdoor crags introduce real hazards — rock quality, weather, route-finding, and gear placement — that a controlled indoor environment doesn't teach. A course with an NZOIA-qualified instructor is the safest way to make that transition."
 ---
 
-### TL;DR
+## TL;DR
 
 - **New Zealand covers the full spread of climbing styles** — from Castle Hill's famous limestone boulders to multi-pitch schist routes above Wanaka and sport crags on both islands, with a style and grade for every level on public conservation land and private/iwi land alike.
 - **Grades use the same open-ended Ewbank scale as Australia**, so if you've climbed across the Tasman, New Zealand grades will feel familiar from day one.

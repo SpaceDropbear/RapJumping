@@ -9,7 +9,7 @@ featured: false
 readingTime: 7
 ---
 
-### TL;DR
+## TL;DR
 
 - The seven feats: Doris Long's record abseil at age 101, a continuous SRT descent of El Capitan, Maletsunyane Falls' world-record commercial abseil, Steve Truglia's 8.99-second 100-metre descent, Philadelphia mascots rappelling a skyscraper, a 42-person waterfall rappel in India, and Bear Grylls abseiling a Shanghai tower.
 - "Daring Doris" Long broke her own world record in July 2015, abseiling the 170-metre Spinnaker Tower in Portsmouth at the age of 101.

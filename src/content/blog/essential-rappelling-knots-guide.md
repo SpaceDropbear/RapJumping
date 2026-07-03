@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Learn the essential rappelling knots-Offset Overhand Bend, Double Fisherman's, Flat Overhand, and Triple Barrel-to ensure safe, efficient descents. Always use redundant anchors, extend your device for smoother hitch function, test your setup before committing, and run a friction hitch backup for added safety.
 

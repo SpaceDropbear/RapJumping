@@ -11,7 +11,7 @@ readingTime: 9
 
 ---
 
-### TL;DR
+## TL;DR
 
 - **Capacity matters:** 20-30L for day trips, 40L+ for multi-pitch or extended outings.
 - **Nylon/polyester offer durability;** Kevlar/Dyneema give premium strength and water resistance.

@@ -26,7 +26,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Discover the best abseiling podcasts and climbing books to improve your rope skills, boost confidence, and stay safe on the wall. From expert interviews to step-by-step technical guides, learn from seasoned climbers and join a supportive abseiling community in Australia.
 

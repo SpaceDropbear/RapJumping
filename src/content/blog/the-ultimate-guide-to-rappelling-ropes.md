@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - The best abseiling rope is a certified, low-stretch static rope (under 5% stretch) for a controlled descent — dynamic ropes stretch up to 30% and are better suited to absorbing climbing falls.
 - Match material to conditions: nylon gives high stretch and shock absorption, while polyester is less stretchy and more UV-, water- and abrasion-resistant.

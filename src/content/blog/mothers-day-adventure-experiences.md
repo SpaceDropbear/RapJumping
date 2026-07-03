@@ -20,7 +20,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Make Mother's Day an experience, not a thing. Pick one adventure that fits Mum's vibe-outdoor exploring, a shared abseil, Club Med-style escape, cooking class, gourmet meal, DIY spa day, theme-park thrills, backyard campout, or a simple scenic stroll. Keep it personal, add small touches (notes, photos, her fave snacks), and you'll create a memory she'll keep talking about.
 

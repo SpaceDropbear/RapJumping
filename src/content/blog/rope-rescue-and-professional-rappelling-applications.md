@@ -24,7 +24,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Rope rescue uses rope systems to reach and extract people in high-angle or hard-to-access environments.
 - Core elements: reliable gear, trained teams, clear communication, and rapid but safe execution.

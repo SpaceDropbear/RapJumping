@@ -11,7 +11,7 @@ readingTime: 14
 
 ---
 
-### TLDR
+## TL;DR
 
 - Rope rescue systems start with proper rope choice (kernmantle, correct diameter, certified for rescue use).
 - Match rope and gear to environmental factors: terrain, weather, and site accessibility.

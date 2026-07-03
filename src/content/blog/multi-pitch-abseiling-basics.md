@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Multi pitch rappelling = descending routes longer than one rope length using multiple stations.
 - Pack the right gear: ropes, belay device, locking carabiners, slings, prusik, tether, helmet.

@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling = controlled rope descent; skydiving = free-fall from altitude under parachute.
 - Abseiling offers pace control, lower cost, and minimal gear; skydiving delivers intense adrenaline, higher cost, and regulated equipment.

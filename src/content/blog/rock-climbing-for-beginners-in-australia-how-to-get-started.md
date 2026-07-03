@@ -22,7 +22,7 @@ faq:
     answer: "Your local gym is the easiest place to start, through social climbs, beginner meet-ups and noticeboards. Climbing and outdoor clubs, and university mountaineering clubs, run regular trips and pair beginners with experienced members. Whoever you climb with, always do a partner check and only use systems you have both been trained on."
 ---
 
-### TL;DR
+## TL;DR
 
 - **The safest way to start is indoors:** book a gym induction or a belay course, learn to climb and belay on top-rope or have a go at bouldering, then progress outdoors with a qualified guide. You can be climbing the same day, usually for $30–$60.
 - **Follow a stepped pathway:** (1) try indoor bouldering or top-rope, (2) get belay-certified, (3) take a learn-to-climb course or hire a qualified guide outdoors, (4) learn anchors, lead climbing and self-rescue only under instruction, (5) find regular partners through gyms and clubs.

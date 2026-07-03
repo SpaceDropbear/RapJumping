@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Pick safe, access-approved cliffs with varied angles; overcast light = friendlier shadows.
 - Bring static rope + redundant anchors, helmet, gloves, auto-locking ‘biners, and a compact camera + single versatile lens-all tethered.

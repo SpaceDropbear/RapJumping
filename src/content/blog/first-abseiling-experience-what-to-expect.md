@@ -9,7 +9,7 @@ featured: false
 readingTime: 4
 ---
 
-### TL;DR
+## TL;DR
 
 - Your first abseil is a controlled descent down a rope using a harness and friction device to manage your own speed - far less daunting than it looks.
 - Essential gear includes a snug harness, sound rope, belay device, climbing-rated carabiners, a helmet and sturdy gloves.

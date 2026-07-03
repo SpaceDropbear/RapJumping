@@ -35,7 +35,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Australian rappel (Aussie abseil) = face-first descent with rope behind you.
 - Offers maximum downward visibility; great for military, rescue, or thrill-seeking use.

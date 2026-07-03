@@ -9,7 +9,7 @@ featured: false
 readingTime: 4
 ---
 
-### TL;DR
+## TL;DR
 
 - Top beginner abseiling tour spots in Australia are the Kangaroo Point cliffs in Brisbane, the Blue Mountains in New South Wales, the Grampians in Victoria and Tasmania's Gordon Dam.
 - Guided tours include expert supervision and all the gear - harness, helmet, gloves and safety lines - with no prior experience needed.

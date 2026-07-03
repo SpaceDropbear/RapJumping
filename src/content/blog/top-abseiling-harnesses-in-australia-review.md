@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 A quality abseiling harness is your lifeline-look for UIAA or EN-12277 certifications, comfort-focused design, and enough gear loops for your style of abseiling.
 

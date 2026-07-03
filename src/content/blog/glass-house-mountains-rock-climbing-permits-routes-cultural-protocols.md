@@ -22,7 +22,7 @@ faq:
     answer: "Yes, they demand genuine respect. QPWS records that serious injuries and deaths have occurred, with hazards including rockfall, loose and friable rock, sheer exposure, slippery wet surfaces, heat and wind. The summit routes are not walking tracks. Helmets and proper equipment are essential, never climb alone or in the wet, and inexperienced climbers should seek qualified instruction first."
 ---
 
-### TL;DR
+## TL;DR
 
 - **You can climb and abseil on a small number of peaks — but not all of them.** Queensland Parks and Wildlife Service (QPWS) lists Mount Ngungun (253 m), Mount Tibrogargan (364 m) and Mount Beerwah (556 m) as roped-sport locations for experienced, well-equipped climbers and those under their direct supervision.
 - **Mount Coonowrin (Crookneck) is closed.** It has been a Restricted Access Area under the *Nature Conservation Act 1992* since March 1999 because of a high to very high rockfall risk. On-the-spot fines apply — do not climb it.

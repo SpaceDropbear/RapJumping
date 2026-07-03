@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Self arrest rappelling combines standard descent skills with emergency braking techniques to stop slips or slides.
 - Essential gear includes helmet, harness, figure 8 device, rope, and ice axe for snowy or mixed terrain.

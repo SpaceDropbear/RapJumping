@@ -9,7 +9,7 @@ featured: false
 readingTime: 4
 ---
 
-### TL;DR
+## TL;DR
 
 - The five basic styles of rock climbing are top-roping, sport climbing, traditional (trad) climbing, bouldering and free soloing.
 - Top-roping is the safest, most beginner-friendly style - a belayer keeps the rope taut so any falls are short and controlled.

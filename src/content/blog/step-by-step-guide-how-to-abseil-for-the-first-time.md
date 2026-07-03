@@ -24,7 +24,7 @@ howto:
 
 ---
 
-### TL;DR
+## TL;DR
 
 - Abseiling for the first time comes down to five steps: gather your gear, set a solid anchor, practise the technique, prevent rope snags and maintain your rope.
 - Choose a static rope (around 9–10mm) for minimal stretch and a stable descent, and check for certifications like CE EN 1891.

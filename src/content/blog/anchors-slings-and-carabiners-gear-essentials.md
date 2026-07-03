@@ -22,7 +22,7 @@ faq:
 
 ---
 
-### TL;DR
+## TL;DR
 
 Anchor slings are a critical link in your abseiling system, connecting you securely to your anchor point. Choose between nylon, polyester, Dyneema, wire rope, or chain based on your needs. Inspect before each use, store properly, rotate gear, and match with rated locking carabiners for a safe, reliable setup.
 

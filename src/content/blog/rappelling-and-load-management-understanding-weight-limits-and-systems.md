@@ -28,7 +28,7 @@ faq:
 
 ---
 
-### TLDR
+## TL;DR
 
 - Load management in rappelling means controlling forces on rope, anchors, and devices to prevent shock loads, overheating, and failures.
 - Solid anchors are essential-choose bombproof points, inspect carefully, and use redundancy.
