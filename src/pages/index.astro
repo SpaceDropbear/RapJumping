@@ -7,25 +7,53 @@ import PostRow from '../components/PostRow.astro';
 import { sortByDate, tagSlug } from '../utils';
 
 const posts = (await getCollection('blog')).filter((p) => !p.data.draft).sort(sortByDate);
-const featured = posts.filter((p) => p.data.featured).slice(0, 3);
-const featuredIds = new Set(featured.map((p) => p.id));
-const latest = posts.filter((p) => !featuredIds.has(p.id)).slice(0, 8);
+const bySlug = new Map(posts.map((p) => [p.id.replace(/\.md$/, ''), p]));
+
+// Featured row: explicit, ordered pick (the site's top pages by search clicks). Edit to change.
+const featuredSlugs = [
+  'tactical-rappelling-australian-rappel-techniques',
+  'rappel-devices-compared-best-descenders-for-safety-speed-control-atc-figure-8-grigri',
+  'complete-essential-abseiling-gear-checklist',
+];
+const featured = featuredSlugs.map((s) => bySlug.get(s)).filter(Boolean);
+
+// Popular guides: evergreen high-performers + fast-rising pages, surfaced for internal linking.
+const popularSlugs = [
+  'the-ultimate-guide-to-rappelling-ropes',
+  'abseiling-vs-rappelling-terminology-and-techniques-in-australia',
+  'carabiners-explained-top-types-strength-ratings-best-uses-for-rappelling',
+  'top-abseiling-harnesses-in-australia-review',
+  'descender-device-showdown-figure-8-vs-atc-vs-grigri',
+  'building-a-home-rappelling-rig-for-practice',
+];
+const popular = popularSlugs.map((s) => bySlug.get(s)).filter(Boolean);
+
+// Keep the three post sections mutually exclusive so nothing repeats down the page.
+const excluded = new Set([...featured, ...popular].map((p) => p.id));
+const latest = posts.filter((p) => !excluded.has(p.id)).slice(0, 8);
 
 const tagCounts = new Map();
 for (const p of posts) for (const t of p.data.tags) tagCounts.set(t, (tagCounts.get(t) || 0) + 1);
-const topTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12).map(([t]) => t);
+const topTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12);
 
 const heroImage = '/images/2025/07/rapjumping-extreme-urban-adventure.webp';
 ---
-<BaseLayout>
+<BaseLayout
+  title="Rap Jumping | Abseiling, Rappelling & Adventure Gear Australia"
+  description="Australia's home of abseiling and rappelling. Find the best spots, compare climbing gear, and read expert adventure guides, tips and trusted picks."
+>
   <div class="container">
     <section class="hero">
-      <Image src={heroImage} alt="Abseiling in Australia" width={1100} height={340} loading="eager" />
+      <Image src={heroImage} alt="Abseiling in Australia" width={1400} height={760} loading="eager" fetchpriority="high" />
       <div class="scrim"></div>
       <div class="hero-inner">
         <span class="pill">Australia</span>
         <h1>Australia's best abseiling spots, gear &amp; expert guides</h1>
         <p>Discover top-rated climbing gear and get expert adventure guides, tips, and trusted picks.</p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="/blog/">Explore the guides</a>
+          <a class="btn btn-ghost" href="/tag/abseiling/">Abseiling spots</a>
+        </div>
       </div>
     </section>
 
@@ -33,19 +61,40 @@ const heroImage = '/images/2025/07/rapjumping-extreme-urban-adventure.webp';
       <>
         <div class="section-head"><h2>Featured</h2><a href="/blog/">View all</a></div>
         <div class="grid">
-          {featured.map((post) => <PostCard post={post} />)}
+          {featured.map((post, i) => <PostCard post={post} index={i} />)}
         </div>
       </>
     )}
 
     <div class="section-head"><h2>Latest</h2><a href="/blog/">All articles</a></div>
     <div>
-      {latest.map((post, i) => <PostRow post={post} eager={i === 0} />)}
+      {latest.map((post, i) => <PostRow post={post} eager={i === 0} index={i} />)}
     </div>
 
+    {popular.length > 0 && (
+      <>
+        <div class="section-head"><h2>Popular guides</h2></div>
+        <p class="section-lead">Reader favourites and fast-rising guides worth starting with.</p>
+        <div class="guide-list">
+          {popular.map((post) => (
+            <div class="guide">
+              <a href={`/${post.id.replace(/\.md$/, '')}/`}>{post.data.title}</a>
+              {post.data.description && <p>{post.data.description}</p>}
+            </div>
+          ))}
+        </div>
+      </>
+    )}
+
     <div class="section-head"><h2>Explore topics</h2></div>
-    <div class="tagrow" style="margin-bottom: 20px;">
-      {topTags.map((t) => <a class="tag" href={`/tag/${tagSlug(t)}/`}>{t}</a>)}
+    <p class="section-lead">Browse the guides by subject.</p>
+    <div class="topic-grid">
+      {topTags.map(([t, count]) => (
+        <a class="topic" href={`/tag/${tagSlug(t)}/`}>
+          <span class="topic-name">{t}</span>
+          <span class="topic-count">{count} {count === 1 ? 'post' : 'posts'}</span>
+        </a>
+      ))}
     </div>
   </div>
 </BaseLayout>

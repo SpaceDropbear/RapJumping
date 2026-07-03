@@ -13,10 +13,15 @@ const {
   updatedDate,
   breadcrumbs,
   jsonLd = [],
+  noindex = false,
+  prev,
+  next,
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = new URL(image, Astro.site).href;
+const prevUrl = prev ? new URL(prev, Astro.site).href : undefined;
+const nextUrl = next ? new URL(next, Astro.site).href : undefined;
 const siteBase = new URL('/', Astro.site).href.replace(/\/$/, '');
 
 const pubISO = pubDate ? new Date(pubDate).toISOString() : undefined;
@@ -86,11 +91,27 @@ for (const s of jsonLd) schemas.push({ '@context': 'https://schema.org', ...s })
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonical} />
+    {prevUrl && <link rel="prev" href={prevUrl} />}
+    {nextUrl && <link rel="next" href={nextUrl} />}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.json" />
     <meta name="theme-color" content="#a12e38" />
+    <script is:inline>
+      (function () {
+        var d = document.documentElement;
+        d.classList.add('js');
+        var t = null;
+        try { t = localStorage.getItem('theme'); } catch (e) {}
+        var dark = t === 'dark' || (t !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches);
+        if (t === 'dark' || t === 'light') d.dataset.theme = t;
+        else if (dark) d.dataset.theme = 'dark';
+        var m = document.querySelector('meta[name="theme-color"]');
+        if (m) m.setAttribute('content', dark ? '#b8343f' : '#a12e38');
+      })();
+    </script>
     <meta property="og:type" content={type} />
     <meta property="og:locale" content="en_AU" />
     <meta property="og:title" content={title} />
@@ -109,10 +130,31 @@ for (const s of jsonLd) schemas.push({ '@context': 'https://schema.org', ...s })
     {schemas.map((s) => <script type="application/ld+json" is:inline set:html={JSON.stringify(s)} />)}
   </head>
   <body>
+    <a class="skip-link" href="#main">Skip to content</a>
     <Header />
-    <main>
+    <main id="main" tabindex="-1">
       <slot />
     </main>
     <Footer />
+    <script>
+      const els = document.querySelectorAll('.reveal');
+      const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if (reduce || !('IntersectionObserver' in window)) {
+        els.forEach((el) => el.classList.add('in'));
+      } else {
+        const io = new IntersectionObserver(
+          (entries) => {
+            for (const e of entries) {
+              if (e.isIntersecting) {
+                e.target.classList.add('in');
+                io.unobserve(e.target);
+              }
+            }
+          },
+          { rootMargin: '0px 0px -8% 0px', threshold: 0.1 }
+        );
+        els.forEach((el) => io.observe(el));
+      }
+    </script>
   </body>
 </html>

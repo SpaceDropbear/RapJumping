@@ -27,12 +27,13 @@ const breadcrumbs = [
   { name: label, path: `/tag/${tagSlug(label)}/` },
 ];
 ---
-<BaseLayout title={`${label} | Rap Jumping`} description={description} breadcrumbs={breadcrumbs}>
+<BaseLayout title={`${label} | Rap Jumping`} description={description} breadcrumbs={breadcrumbs} noindex={posts.length < 2}>
   <div class="wrap-narrow">
     <h1 class="page-title">{label}</h1>
     <p class="page-sub">{posts.length} {posts.length === 1 ? 'article' : 'articles'}</p>
+    <h2 class="sr-only">Articles tagged {label}</h2>
     <div style="margin-top: 16px;">
-      {posts.map((post, i) => <PostRow post={post} eager={i === 0} />)}
+      {posts.map((post, i) => <PostRow post={post} eager={i === 0} index={i} />)}
     </div>
   </div>
 </BaseLayout>

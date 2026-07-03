@@ -5,8 +5,9 @@ import { sortByDate } from '../utils';
 
 const posts = (await getCollection('blog')).filter((p) => !p.data.draft).sort(sortByDate);
 const featured = posts.filter((p) => p.data.featured).slice(0, 4);
+const popular = featured.length > 0 ? featured : posts.slice(0, 4);
 ---
-<BaseLayout title="Page not found | Rap Jumping">
+<BaseLayout title="Page not found | Rap Jumping" noindex={true}>
   <div class="wrap-narrow" style="text-align:center; padding: 80px 20px;">
     <span class="pill">404</span>
     <h1 class="page-title">We couldn't find that page</h1>
@@ -17,8 +18,8 @@ const featured = posts.filter((p) => p.data.featured).slice(0, 4);
     </p>
     <h2 style="margin-top: 36px;">Popular articles</h2>
     <ul style="list-style:none; padding:0; line-height:2;">
-      {featured.map((post) => (
-        <li><a href={`/${post.id}/`}>{post.data.title}</a></li>
+      {popular.map((post) => (
+        <li><a href={`/${post.id.replace(/\.md$/, '')}/`}>{post.data.title}</a></li>
       ))}
     </ul>
   </div>

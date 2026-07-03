@@ -9,6 +9,7 @@ const blog = defineCollection({
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     heroImage: z.string().optional(),
+    heroAlt: z.string().optional(),
     tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
     draft: z.boolean().default(false),
@@ -29,6 +30,7 @@ const pages = defineCollection({
     title: z.string(),
     description: z.string().optional().default(''),
     heroImage: z.string().optional(),
+    heroAlt: z.string().optional(),
   }),
 });
 

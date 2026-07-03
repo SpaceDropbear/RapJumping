@@ -81,7 +81,7 @@ if (isPost) {
 
     {d.heroImage && (
       <div class="article-hero">
-        <Image src={d.heroImage} alt={d.title} width={760} height={326} loading="eager" />
+        <Image src={d.heroImage} alt={d.heroAlt ?? d.title} width={760} height={326} loading="eager" />
       </div>
     )}
 

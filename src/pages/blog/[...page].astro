@@ -15,6 +15,9 @@ const title =
   page.currentPage === 1
     ? 'All articles | Rap Jumping'
     : `All articles - Page ${page.currentPage} | Rap Jumping`;
+const baseDesc = 'Every guide, gear review and how-to from Rap Jumping.';
+const description =
+  page.currentPage === 1 ? baseDesc : `${baseDesc} Page ${page.currentPage}.`;
 const breadcrumbs = [
   { name: 'Home', path: '/' },
   { name: 'Blog', path: '/blog/' },
@@ -22,14 +25,17 @@ const breadcrumbs = [
 ---
 <BaseLayout
   title={title}
-  description="Every guide, gear review and how-to from Rap Jumping."
+  description={description}
   breadcrumbs={breadcrumbs}
+  prev={page.url.prev}
+  next={page.url.next}
 >
   <div class="wrap-narrow">
     <h1 class="page-title">All articles</h1>
     <p class="page-sub">{page.total} guides, gear reviews and how-tos.</p>
+    <h2 class="sr-only">Article list</h2>
     <div style="margin-top: 16px;">
-      {page.data.map((post, i: number) => <PostRow post={post} eager={i === 0} />)}
+      {page.data.map((post, i: number) => <PostRow post={post} eager={i === 0} index={i} />)}
     </div>
     {(page.url.prev || page.url.next) && (
       <nav class="pagination" style="display:flex;justify-content:space-between;align-items:center;gap:12px;margin:36px 0;">

@@ -1,12 +1,12 @@
 ---
 import { Image } from 'astro:assets';
 import { formatDate } from '../utils';
-const { post } = Astro.props;
+const { post, index = 0 } = Astro.props;
 const { title, heroImage, tags = [], pubDate, readingTime } = post.data;
 const kicker = tags[0];
 const url = `/${post.id.replace(/\.md$/, '')}/`;
 ---
-<article class="card">
+<article class="card reveal" style={`--i:${index}`}>
   <a href={url}>
     <div class="thumb">
       {heroImage && <Image src={heroImage} alt={title} loading="eager" width={280} height={158} />}
