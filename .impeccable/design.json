@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-05",
+  "title": "Design System: Rap Jumping",
+  "extensions": {
+    "colorMeta": {
+      "rope-red": { "role": "primary", "displayName": "Rope Red", "canonical": "#a12e38", "tonalRamp": ["#2e0d10", "#4d151b", "#6b1d26", "#7e2129", "#a12e38", "#c25561", "#dd8f97", "#f6e9ea"] },
+      "flare": { "role": "primary", "displayName": "Flare (dark-mode accent)", "canonical": "#e8727a", "tonalRamp": ["#3a1418", "#5c1f26", "#7e2129", "#a83a44", "#c8555f", "#e8727a", "#f2a6ac", "#fbe0e2"] },
+      "chalk": { "role": "neutral", "displayName": "Chalk", "canonical": "#faf7f3", "tonalRamp": ["#2a2620", "#443d34", "#6f675f", "#948b80", "#b9b1a5", "#d8d0c5", "#e7e1da", "#faf7f3"] },
+      "basalt": { "role": "neutral", "displayName": "Basalt", "canonical": "#1a1715", "tonalRamp": ["#1a1715", "#2a2621", "#3d3831", "#544d44", "#6f675f", "#948c82", "#c3bbb0", "#f5efe9"] },
+      "timber": { "role": "neutral", "displayName": "Timber", "canonical": "#36302c", "tonalRamp": ["#14100e", "#241f1b", "#36302c", "#4c443d", "#6f675f", "#968d83", "#c2bab0", "#f0ebe4"] },
+      "nightfall": { "role": "neutral", "displayName": "Nightfall (dark bg)", "canonical": "#14100e", "tonalRamp": ["#0c0908", "#14100e", "#1e1815", "#2a231e", "#3a312a", "#544a41", "#8a7d70", "#d9d0c8"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Hero and article H1 (Space Grotesk 700)." },
+      "headline": { "displayName": "Headline", "purpose": "Section headings and in-prose H2." },
+      "title": { "displayName": "Title", "purpose": "Card and post-row titles." },
+      "body": { "displayName": "Body", "purpose": "Long-form reading text (Inter 400, measure 65-75ch)." },
+      "label": { "displayName": "Label", "purpose": "Rationed uppercase device: hero pill, card kicker." }
+    },
+    "shadows": [
+      { "name": "hover-lift", "value": "0 10px 30px rgba(26,23,21,0.10)", "purpose": "Card hover only, light mode. Warm-tinted, never pure black. Dark mode uses an accent border shift instead." }
+    ],
+    "motion": [
+      { "name": "ease-out-brand", "value": "cubic-bezier(0.16, 1, 0.3, 1)", "purpose": "Default easing for reveals, hero entrance and state transitions." },
+      { "name": "reveal", "value": "opacity .6s / transform .6s ease-out-brand, staggered by index", "purpose": "Scroll-in reveal on feed items; visible-by-default, reduced-motion-safe." },
+      { "name": "hero-in", "value": ".7s ease-out-brand", "purpose": "One-time hero content entrance on load." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one call-to-action. Rope Red fill, pill, tactile press.",
+      "html": "<a class=\"ds-btn ds-btn-primary\" href=\"#\">Explore the guides</a>",
+      "css": ".ds-btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; font-family: Inter, system-ui, sans-serif; font-weight: 600; font-size: 15px; line-height: 1; padding: 12px 22px; border-radius: 999px; border: 1px solid transparent; text-decoration: none; cursor: pointer; transition: transform .12s ease, background-color .15s ease, border-color .15s ease; } .ds-btn-primary { background: #a12e38; color: #fff; } .ds-btn-primary:hover { background: #7e2129; } .ds-btn-primary:active { transform: translateY(1px); } .ds-btn-primary:focus-visible { outline: 2px solid #7e2129; outline-offset: 2px; }"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Secondary CTA, used only over the dark hero scrim.",
+      "html": "<div style=\"background:#241f1b; padding:24px; border-radius:12px;\"><a class=\"ds-btn ds-btn-ghost\" href=\"#\">Abseiling spots</a></div>",
+      "css": ".ds-btn-ghost { display: inline-flex; align-items: center; gap: 8px; font-family: Inter, system-ui, sans-serif; font-weight: 600; font-size: 15px; padding: 12px 22px; border-radius: 999px; background: rgba(255,255,255,0.08); color: #fff; border: 1px solid rgba(255,255,255,0.55); text-decoration: none; transition: background .15s ease, border-color .15s ease; } .ds-btn-ghost:hover { background: rgba(255,255,255,0.16); border-color: #fff; } .ds-btn-ghost:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }"
+    },
+    {
+      "name": "Kicker Pill",
+      "kind": "chip",
+      "refersTo": "pill",
+      "description": "Rationed uppercase brand device (hero pill / card kicker). Rope Red.",
+      "html": "<span class=\"ds-pill\">Australia</span>",
+      "css": ".ds-pill { display: inline-block; background: #a12e38; color: #fff; font-family: Inter, system-ui, sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; padding: 5px 12px; border-radius: 999px; }"
+    },
+    {
+      "name": "Tag",
+      "kind": "chip",
+      "refersTo": "tag",
+      "description": "Topic tag chip. Chalk fill, hover to accent.",
+      "html": "<a class=\"ds-tag\" href=\"#\">abseiling</a>",
+      "css": ".ds-tag { display: inline-block; font-family: Inter, system-ui, sans-serif; font-size: 13px; font-weight: 500; color: #36302c; background: #faf7f3; border: 1px solid #e7e1da; padding: 5px 13px; border-radius: 999px; text-decoration: none; transition: border-color .15s ease, color .15s ease, background-color .15s ease; } .ds-tag:hover { border-color: #a12e38; color: #a12e38; background: #f6e9ea; }"
+    },
+    {
+      "name": "Featured Card",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "Self-contained article preview: 16:9 thumb, kicker, title, meta. Flat at rest, lifts on hover.",
+      "html": "<article class=\"ds-card\"><a href=\"#\"><div class=\"ds-card-thumb\"></div><div class=\"ds-card-body\"><span class=\"ds-card-kicker\">Equipment</span><h3 class=\"ds-card-title\">Rappel Devices Compared: Best Descenders</h3><div class=\"ds-card-meta\">23 July 2025 &middot; 6 min read</div></div></a></article>",
+      "css": ".ds-card { background: #fff; border: 1px solid #e7e1da; border-radius: 12px; overflow: hidden; max-width: 320px; transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease; } .ds-card a { text-decoration: none; color: inherit; } .ds-card:hover { transform: translateY(-3px); box-shadow: 0 10px 30px rgba(26,23,21,0.10); border-color: #a12e38; } .ds-card-thumb { aspect-ratio: 16/9; background: linear-gradient(135deg,#e7e1da,#faf7f3); } .ds-card-body { padding: 16px 18px 20px; } .ds-card-kicker { color: #a12e38; font-family: Inter, system-ui, sans-serif; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; } .ds-card-title { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 19px; font-weight: 700; letter-spacing: -0.01em; line-height: 1.2; margin: 7px 0 0; color: #1a1715; } .ds-card-meta { color: #6f675f; font-family: Inter, system-ui, sans-serif; font-size: 13px; margin-top: 10px; }"
+    },
+    {
+      "name": "Topic Tile",
+      "kind": "custom",
+      "refersTo": "topic",
+      "description": "Curated topic index tile: subject name + post count. Chalk surface, hover to accent.",
+      "html": "<a class=\"ds-topic\" href=\"#\"><span class=\"ds-topic-name\">Rappelling</span><span class=\"ds-topic-count\">18 posts</span></a>",
+      "css": ".ds-topic { display: flex; align-items: center; justify-content: space-between; gap: 12px; max-width: 240px; padding: 14px 16px; background: #faf7f3; border: 1px solid #e7e1da; border-radius: 12px; text-decoration: none; transition: transform .12s ease, border-color .15s ease, background-color .15s ease; } .ds-topic:hover { transform: translateY(-2px); border-color: #a12e38; background: #f6e9ea; } .ds-topic-name { font-family: Inter, system-ui, sans-serif; font-weight: 600; font-size: 15px; color: #1a1715; } .ds-topic:hover .ds-topic-name { color: #a12e38; } .ds-topic-count { font-family: Inter, system-ui, sans-serif; font-size: 13px; color: #6f675f; white-space: nowrap; }"
+    },
+    {
+      "name": "Theme Toggle",
+      "kind": "button",
+      "refersTo": "theme-toggle",
+      "description": "Round light/dark toggle in the header. Sun/moon inline SVG.",
+      "html": "<button class=\"ds-theme-toggle\" type=\"button\" aria-label=\"Toggle theme\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z\"/></svg></button>",
+      "css": ".ds-theme-toggle { display: inline-grid; place-items: center; width: 36px; height: 36px; padding: 0; border-radius: 999px; border: 1px solid #e7e1da; background: #fff; color: #36302c; cursor: pointer; transition: border-color .15s ease, color .15s ease; } .ds-theme-toggle:hover { border-color: #a12e38; color: #a12e38; } .ds-theme-toggle svg { width: 18px; height: 18px; } .ds-theme-toggle:focus-visible { outline: 2px solid #7e2129; outline-offset: 2px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Instructor's Field Guide",
+    "overview": "Rap Jumping reads like a seasoned instructor's own manual: authoritative, weathered, precise, and free of fluff. A warm, grounded palette (climbing chalk and basalt), a sturdy grotesk display voice over a highly legible body face, and generous reading space. It is a reference you trust with your safety, not a brochure that wants your booking. The single accent, Rope Red, behaves like a safety line: it appears exactly where the reader should act or follow, and nowhere else.",
+    "keyCharacteristics": [
+      "Warm, grounded neutrals (climbing chalk + basalt), never cool corporate grey and never AI cream.",
+      "One accent only, Rope Red, used sparingly like a safety line.",
+      "Sturdy grotesk display (Space Grotesk) over a workhorse reading face (Inter); emphasis by weight.",
+      "Editorial-calm density: wide measure, generous rhythm, one idea per section.",
+      "Dual-mode from the ground up (warm light, warm near-black dark); reduced-motion honoured.",
+      "Legible to people and to machines, structured, scannable, quotable."
+    ],
+    "rules": [
+      { "name": "The One Rope Rule", "body": "Rope Red is the only accent and it is rationed. It marks where the reader acts or follows, never decoration, never two accents on a screen. Its scarcity makes it read as a safety line.", "section": "colors" },
+      { "name": "The Chalk-Not-Cream Rule", "body": "The warm neutrals are climbing chalk and basalt, forbidden from drifting into the generic AI cream/sand/parchment band. Warmth is carried by these exact values, not by tinting every surface warmer.", "section": "colors" },
+      { "name": "The Two-Weight Rule", "body": "Two families: Space Grotesk for headings, Inter for everything read at length. Emphasis by weight and size, never a third family. Space Grotesk never sets body copy.", "section": "typography" },
+      { "name": "The Kicker-Not-Eyebrow Rule", "body": "The uppercase label is a rationed brand device (hero pill, card kicker), not section grammar. Forbidden above every section heading.", "section": "typography" },
+      { "name": "The Flat-At-Rest Rule", "body": "Surfaces are flat until the reader touches them. Elevation is feedback, not decoration.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do ration Rope Red to where the reader acts or follows. One accent, one hue.",
+      "Do keep warm neutrals at the exact chalk/basalt values; carry brand warmth in type and imagery.",
+      "Do set headings in Space Grotesk and everything read at length in Inter.",
+      "Do keep body measure at 65-75ch and reading rhythm generous; one idea per section.",
+      "Do maintain full light + dark parity and WCAG AA contrast on every change (YMYL safety content).",
+      "Do honour prefers-reduced-motion and keep a visible focus-visible ring on all controls."
+    ],
+    "donts": [
+      "Don't make it a loud tour-booking site: no discount banners, urgency, or BOOK NOW pressure.",
+      "Don't make it corporate/clinical: safe, neutral, forgettable is a failure.",
+      "Don't use the generic AI-landing kit: purple/blue gradients, glassmorphism, three-equal-feature grids, hero-metric templates.",
+      "Don't use a border-left/right greater than 1px as a colored accent stripe on cards, callouts, or blockquotes.",
+      "Don't put an uppercase eyebrow above every section, or number sections 01/02/03 by reflex.",
+      "Don't use gradient text, a second accent hue, or a third font family.",
+      "Don't let warm neutrals drift into cream/sand/parchment; that's the AI default, not this brand."
+    ]
+  }
+}
