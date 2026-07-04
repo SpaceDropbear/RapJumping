@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import { Image } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PostRow from '../components/PostRow.astro';
 import { formatDate, tagSlug } from '../utils';
 
 export async function getStaticPaths() {
@@ -52,6 +53,19 @@ if (isPost) {
     });
   }
 }
+
+// Related guides: the 3 posts that share the most tags with this one.
+let related: any[] = [];
+if (isPost) {
+  const tset = new Set(d.tags || []);
+  related = (await getCollection('blog'))
+    .filter((p) => !p.data.draft && p.id !== entry.id)
+    .map((p) => ({ p, score: (p.data.tags || []).filter((t) => tset.has(t)).length }))
+    .filter((x) => x.score > 0)
+    .sort((a, b) => b.score - a.score || (+b.p.data.pubDate - +a.p.data.pubDate))
+    .slice(0, 3)
+    .map((x) => x.p);
+}
 ---
 <BaseLayout
   title={isPost ? d.title : `${d.title} | Rap Jumping`}
@@ -89,8 +103,23 @@ if (isPost) {
       <Content />
     </div>
 
+    {isPost && (
+      <aside class="author-note">
+        <p><strong>Written by Derek Whittingham.</strong> Rap Jumping is an independent Australian guide to abseiling, rappelling and rap jumping. Everything here is general information, not a substitute for hands-on training. Always learn and practise under a qualified instructor. <a href="/about/">About us</a>.</p>
+      </aside>
+    )}
+
+    {isPost && related.length > 0 && (
+      <section class="related">
+        <div class="section-head"><h2>Related guides</h2></div>
+        <div>
+          {related.map((p, i) => <PostRow post={p} index={i} />)}
+        </div>
+      </section>
+    )}
+
     {kind === 'post' && d.tags?.length > 0 && (
-      <div class="tagrow" style="margin: 40px 0;">
+      <div class="tagrow" style="margin: 40px 0 0;">
         {d.tags.map((t) => <a class="tag" href={`/tag/${tagSlug(t)}/`}>{t}</a>)}
       </div>
     )}
