@@ -22,10 +22,10 @@ faq:
 
 ## TL;DR
 
-- No single descender wins outright — the best choice depends on your experience, rope and terrain, balancing safety, speed and control.
+- No single descender wins outright, the best choice depends on your experience, rope and terrain, balancing safety, speed and control.
 - The ATC is a lightweight, affordable, versatile tube device, but it relies on manual braking and can get hot on long descents.
 - The Figure 8 dissipates heat best and handles thick ropes for rescue work, but it can twist the rope and needs more skill.
-- The Grigri's assisted braking auto-locks if you let go — great for beginners, solo or long descents — but it's single-rope only.
+- The Grigri's assisted braking auto-locks if you let go, great for beginners, solo or long descents, but it's single-rope only.
 - Whatever device you choose, pair it with a locking carabiner and add a friction-hitch backup (prusik or autoblock) for safety.
 
 ---
@@ -123,7 +123,7 @@ Its iconic shape allows rope to loop around it in a way that creates smooth fric
 
 ---
 
-## **6. Assisted-Braking Devices (e.g., Grigri)**
+## **6. Assisted-Braking Devices (e.g. Grigri)**
 
 Devices like the **Petzl Grigri** use a camming mechanism to **assist with braking**.
 

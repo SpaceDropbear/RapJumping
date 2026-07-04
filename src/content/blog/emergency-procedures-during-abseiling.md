@@ -49,7 +49,7 @@ Start your prep with high-quality kit. Aim for equipment specifically designed f
 
 - Properly fitted harness
 - Rope designed for climbing or abseiling (low-stretch ropes help maintain control)
-- Belay device or descender (e.g., figure-eight, tube-style, or GriGri)
+- Belay device or descender (e.g. figure-eight, tube-style, or GriGri)
 - Helmet to guard against head injuries
 - Spare carabiners and slings
 
@@ -187,7 +187,7 @@ A. Always use a rope longer than your descent and tie stopper knots at both ends
 A. In remote areas, it sends a distress signal via satellite so rescuers know your location.
 
 **Q. What emergency abseil techniques exist without gear?**  
-A. Body abseil, South African method, and Angel Wings—last-resort methods for descent without a harness or device.
+A. Body abseil, South African method, and Angel Wings, last-resort methods for descent without a harness or device.
 
 **Q. What should I do first if an accident happens?**  
 A. Stop, secure the injured person, provide first aid, signal for help, and keep them calm until rescue arrives.

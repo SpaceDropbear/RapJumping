@@ -1,6 +1,6 @@
 # RapJumping.com
 
-> Australia's home of Rap Jumping — guides, gear reviews, and stories about face-forward abseiling and rappelling.
+> Australia's home of Rap Jumping, guides, gear reviews, and stories about face-forward abseiling and rappelling.
 
 Rap Jumping is a forward-facing form of abseiling pioneered in Australia in the late 1980s by Macka MacKail. This site covers the sport's history, technique, safety, gear, and locations across Australia.
 
@@ -12,9 +12,9 @@ Rap Jumping is a forward-facing form of abseiling pioneered in Australia in the 
 
 ## Content topics
 
-- [Rap Jumping](https://www.rapjumping.com/tag/rap-jumping/): Face-forward abseiling — what it is, how to do it, where to try it
+- [Rap Jumping](https://www.rapjumping.com/tag/rap-jumping/): Face-forward abseiling, what it is, how to do it, where to try it
 - [Abseiling](https://www.rapjumping.com/tag/abseiling/): Technique guides, safety, anchors, and rescue
-- [Equipment](https://www.rapjumping.com/tag/equipment/): Gear reviews — harnesses, ropes, descenders, helmets
+- [Equipment](https://www.rapjumping.com/tag/equipment/): Gear reviews, harnesses, ropes, descenders, helmets
 - [Safety](https://www.rapjumping.com/tag/safety/): Safety checklists, rescue procedures, and best practices
 - [Australia](https://www.rapjumping.com/tag/australia/): Locations, tours, and operators across Australia
 
@@ -24,4 +24,4 @@ Rap Jumping is a forward-facing form of abseiling pioneered in Australia in the 
 
 ## Usage
 
-Content on this site is © RapJumping.com. AI search and retrieval (ai-input=yes) is permitted — you may read and cite this content with attribution. AI training (ai-train=no) is not permitted. See `/robots.txt` and the `Content-Signal` HTTP header (in `/_headers`) for the machine-readable crawler and usage policy.
+Content on this site is © RapJumping.com. AI search and retrieval (ai-input=yes) is permitted, you may read and cite this content with attribution. AI training (ai-train=no) is not permitted. See `/robots.txt` and the `Content-Signal` HTTP header (in `/_headers`) for the machine-readable crawler and usage policy.

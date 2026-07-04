@@ -22,9 +22,9 @@ faq:
 
 ## TL;DR
 
-- For abseiling, always use a locking carabiner — a screw-lock or auto-locking gate is essential to stop it opening accidentally under load.
+- For abseiling, always use a locking carabiner, a screw-lock or auto-locking gate is essential to stop it opening accidentally under load.
 - Choose the shape for the job: D-shaped carabiners are strongest and most efficient for rappel/belay devices, while pear-shaped HMS carabiners suit Münter hitches and multiple rope strands.
-- Check the strength rating — aim for at least 22–24kN on the major axis, and look for UIAA or CE marks stamped on the spine.
+- Check the strength rating, aim for at least 22-24kN on the major axis, and look for UIAA or CE marks stamped on the spine.
 - Pick the material to match: lightweight aluminium for recreational abseiling, stronger steel for rescue or industrial use.
 - Inspect before every descent for cracks, grooves or corrosion and a smooth, secure-locking gate, and never cross-load the carabiner.
 
@@ -189,7 +189,7 @@ Smaller carabiners are lighter but may have smaller gate openings, making them h
 
 Most carabiners include the following stamped information:
 
-- **Major axis rating (e.g., 24kN)**
+- **Major axis rating (e.g. 24kN)**
 - **Minor axis rating**
 - **Open gate strength**
 - **UIAA/CE marks**

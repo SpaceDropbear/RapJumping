@@ -58,11 +58,11 @@ When you're looking at ropes for abseiling, you want to be sure you're choosing 
 
 | Feature | Static rope | Dynamic rope |
 | --- | --- | --- |
-| Stretch | ~2–5% under load | ~25–30% under load |
+| Stretch | ~2-5% under load | ~25-30% under load |
 | Primary purpose | Abseiling, rescue, caving, canyoneering | Climbing scenarios with potential falls |
 | Pros | Stable descents, minimal bounce, durable | Impact absorption, safer for falling |
 | Cons | Not suited for fall protection, less shock absorption | Bouncy for abseiling |
-| Typical diameter | 9–11 mm | 8–11 mm (varies with discipline) |
+| Typical diameter | 9-11 mm | 8-11 mm (varies with discipline) |
 | Feeling under tension | Firm and controlled | Elastic and springy |
 
 Looking at this table, you can see that a static rope stays firmer under tension, which is exactly what you want when you're lowering yourself down. Meanwhile, a dynamic rope is intentionally springy to help save you from the jolt of a sudden fall.

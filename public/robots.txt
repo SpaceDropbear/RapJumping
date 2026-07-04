@@ -3,7 +3,7 @@ Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
 Sitemap: https://www.rapjumping.com/sitemap-index.xml
 
-# AI training / scraping crawlers — blocked (ai-train=no)
+# AI training / scraping crawlers, blocked (ai-train=no)
 User-agent: GPTBot
 Disallow: /
 
@@ -37,7 +37,7 @@ Disallow: /
 User-agent: img2dataset
 Disallow: /
 
-# AI search crawlers — allowed (search=yes)
+# AI search crawlers, allowed (search=yes)
 User-agent: OAI-SearchBot
 Allow: /
 
@@ -51,4 +51,4 @@ User-agent: DuckAssistant
 Allow: /
 
 # Content usage preferences (Content-Signal, above) are also sent as an HTTP
-# response header — see public/_headers and https://contentsignals.org
+# response header, see public/_headers and https://contentsignals.org

@@ -37,11 +37,11 @@ faq:
 
 ## TL;DR
 
-- Abseiling (called rappelling in North America) is a controlled rope descent — start under a qualified instructor and build confidence on small, supervised drops.
+- Abseiling (called rappelling in North America) is a controlled rope descent, start under a qualified instructor and build confidence on small, supervised drops.
 - Get the core kit: a static rope, harness, belay/descender device, locking carabiners, helmet and gloves, all meeting CE or UIAA standards.
-- Nail your body position — lean back near-perpendicular to the wall, feet shoulder-width, with your brake hand near your hip at all times.
+- Nail your body position, lean back near-perpendicular to the wall, feet shoulder-width, with your brake hand near your hip at all times.
 - Make safety a habit: double-check knots, harness and anchors, learn backup knots like the prusik, and use a fireman's belay.
-- As you progress, explore methods like tandem, Australian (face-first) and simul abseiling — or pursue rope access certification (IRATA/SPRAT) for a professional path.
+- As you progress, explore methods like tandem, Australian (face-first) and simul abseiling, or pursue rope access certification (IRATA/SPRAT) for a professional path.
 
 ---
 

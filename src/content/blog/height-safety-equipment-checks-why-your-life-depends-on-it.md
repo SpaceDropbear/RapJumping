@@ -84,7 +84,7 @@ In industries like construction, mining, telecommunications, and maintenance, wo
 - **Legal Mandates:** WorkSafe Victoria and other state bodies enforce strict **industrial safety standards** that require regular, documented inspections by competent persons.
 - **Employee Safety:** Employers have a duty of care to provide safe equipment and ensure it's used correctly.
 - **Consequences of Failure:** Beyond individual injury, incidents lead to investigations, legal action, reputational damage, lost productivity, and significant financial penalties.
-- **High Usage & Environmental Factors:** Equipment is often used daily in harsh environments (e.g., extreme temperatures, chemicals), increasing wear and tear.
+- **High Usage & Environmental Factors:** Equipment is often used daily in harsh environments (e.g. extreme temperatures, chemicals), increasing wear and tear.
 
 **Did You Know?** Under Victorian OHS laws, employers must ensure plant (which includes height safety equipment) is safe to use and maintained properly. This involves regular inspections and record-keeping. *Source:* [*WorkSafe Victoria*](https://www.worksafe.vic.gov.au/high-standards)
 
@@ -103,7 +103,7 @@ This is the fastest, most critical check you perform. It should take only moment
 - **Functionality Test:** Open and close carabiner gates, test buckles on harnesses, and ensure any moving parts operate smoothly.
 - **Connection Points:** Verify all components are correctly connected and secure.
 
-### **2. Detailed Inspection (Regularly, e.g., Monthly/Quarterly)**
+### **2. Detailed Inspection (Regularly, e.g. Monthly/Quarterly)**
 
 This is a more thorough examination, often required to be documented in workplaces.
 
@@ -124,12 +124,12 @@ In workplaces, a "competent person" (someone with the knowledge and experience t
 <div style="border:1px solid var(--line);border-left:4px solid var(--brand);border-radius:var(--radius);background:var(--surface);padding:24px 28px;margin:2em 0;">
   <div style="display:flex;align-items:center;gap:10px;margin-bottom:18px;">
     <span style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--brand);background:var(--brand-tint);padding:3px 10px;border-radius:999px;">Partner</span>
-    <span style="font-size:12px;color:var(--muted);font-style:italic;">The author is affiliated with Mobile Test N Cal — no payment was received for this mention.</span>
+    <span style="font-size:12px;color:var(--muted);font-style:italic;">The author is affiliated with Mobile Test N Cal, no payment was received for this mention.</span>
   </div>
   <a href="https://www.mobiletestncal.com.au/" rel="noopener" target="_blank" style="display:block;margin-bottom:16px;">
-    <img src="/images/2025/07/mobile-test-n-cal.webp" alt="Mobile Test N Cal — Height Safety Equipment Inspection & Calibration" style="max-height:72px;width:auto;border-radius:6px;" />
+    <img src="/images/2025/07/mobile-test-n-cal.webp" alt="Mobile Test N Cal, Height Safety Equipment Inspection & Calibration" style="max-height:72px;width:auto;border-radius:6px;" />
   </a>
-  <p style="margin:0 0 10px;color:var(--body);font-size:16px;line-height:1.65;">Ensuring your workplace height safety equipment is regularly inspected and certified by a competent person isn't just good practice — it's a legal requirement. Don't leave safety to chance.</p>
+  <p style="margin:0 0 10px;color:var(--body);font-size:16px;line-height:1.65;">Ensuring your workplace height safety equipment is regularly inspected and certified by a competent person isn't just good practice, it's a legal requirement. Don't leave safety to chance.</p>
   <p style="margin:0 0 20px;color:var(--body);font-size:16px;line-height:1.65;">For expert, on-site height safety equipment inspection and calibration services, learn more about ensuring your gear meets all Australian Standards and OHS regulations at <a href="https://www.mobiletestncal.com.au/" rel="noopener" style="color:var(--brand);font-weight:600;">mobiletestncal.com.au</a>.</p>
   <a href="https://www.mobiletestncal.com.au/" rel="noopener" target="_blank" style="display:inline-block;background:var(--brand);color:#fff;font-weight:600;font-size:15px;padding:10px 24px;border-radius:8px;text-decoration:none;letter-spacing:-0.01em;">Learn more →</a>
 </div>
@@ -148,7 +148,7 @@ In workplaces, a "competent person" (someone with the knowledge and experience t
 Even if equipment appears fine, it has a finite lifespan. Material degradation, especially from UV exposure and repeated loading cycles, occurs over time, even with minimal use.
 
 - **Manufacturer Guidelines:** Always adhere to the manufacturer's specified lifespan, which can range from 5 to 10 years for textiles and potentially longer for metal components.
-- **Immediate Retirement:** Any equipment showing significant damage, suspected to have been exposed to extreme forces (e.g., a severe fall arrest), or whose history is unknown, **must be immediately retired and destroyed**. Do not simply "put it aside" or keep it as a spare. Mark it clearly as "UNSAFE" or cut it up.
+- **Immediate Retirement:** Any equipment showing significant damage, suspected to have been exposed to extreme forces (e.g. a severe fall arrest), or whose history is unknown, **must be immediately retired and destroyed**. Do not simply "put it aside" or keep it as a spare. Mark it clearly as "UNSAFE" or cut it up.
 - **Record Keeping:** For workplaces, meticulous records of purchase, inspections, and retirement dates are essential for compliance and liability.
 
 **Fact:** A polyester sling left in direct sunlight for six months can lose up to 50% of its strength due to UV degradation, even if it looks fine.

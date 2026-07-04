@@ -177,12 +177,12 @@ A workable backyard rig doesn't have to break the bank. Here's a quick example o
 
 | Item | Approximate Cost ($AUD) | Notes |
 | --- | --- | --- |
-| Harness | $AUD 83–$AUD 144 | Look for a comfortable fit. |
-| Static Rope (60 m) | $AUD 248–$AUD 413 | The heart of your setup. |
-| Figure 8 Device | $AUD 25–$AUD 31 | Ideal for beginners. |
-| Locking Carabiners\* | $AUD 17–$AUD 25 (each) | You’ll need at least 2, preferably more. |
-| PAS or Daisy Chain | $AUD 41–$AUD 62 | For safe anchor connection. |
-| Webbing (per metre) | $AUD 2–$AUD 3 | Suitable for building anchors. |
+| Harness | $AUD 83, $AUD 144 | Look for a comfortable fit. |
+| Static Rope (60 m) | $AUD 248, $AUD 413 | The heart of your setup. |
+| Figure 8 Device | $AUD 25, $AUD 31 | Ideal for beginners. |
+| Locking Carabiners\* | $AUD 17, $AUD 25 (each) | You’ll need at least 2, preferably more. |
+| PAS or Daisy Chain | $AUD 41, $AUD 62 | For safe anchor connection. |
+| Webbing (per metre) | $AUD 2, $AUD 3 | Suitable for building anchors. |
 
 Of course, these are just ballpark figures. Always prioritise quality where safety is concerned. Conduct frequent gear inspections. If you spot cuts or signs of wear on the rope, harness stitching, or webbing, retire the item immediately.
 

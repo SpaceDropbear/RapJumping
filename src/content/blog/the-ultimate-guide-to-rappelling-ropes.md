@@ -24,9 +24,9 @@ faq:
 
 ## TL;DR
 
-- The best abseiling rope is a certified, low-stretch static rope (under 5% stretch) for a controlled descent — dynamic ropes stretch up to 30% and are better suited to absorbing climbing falls.
+- The best abseiling rope is a certified, low-stretch static rope (under 5% stretch) for a controlled descent, dynamic ropes stretch up to 30% and are better suited to absorbing climbing falls.
 - Match material to conditions: nylon gives high stretch and shock absorption, while polyester is less stretchy and more UV-, water- and abrasion-resistant.
-- Diameter affects control — 9.5–10.5mm is the standard range, with 10–10.5mm best for beginners; 60m is the most versatile length.
+- Diameter affects control, 9.5-10.5mm is the standard range, with 10-10.5mm best for beginners; 60m is the most versatile length.
 - Always check for UIAA or CE certification and confirm the rope's diameter suits your descender.
 - Retire any rope showing fraying, flat spots, fuzziness, glazing or chemical exposure, and store it in a cool, dark, chemical-free place.
 

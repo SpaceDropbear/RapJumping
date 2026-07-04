@@ -13,11 +13,11 @@ readingTime: 5
 
 ## TL;DR
 
-- Safe abseiling depends on knowing which knot to use and when — the seven essentials cover joining ropes, backups, friction and anchoring.
+- Safe abseiling depends on knowing which knot to use and when, the seven essentials cover joining ropes, backups, friction and anchoring.
 - Join two ropes with a low-profile flat overhand for easy retrieval, or a stronger double fisherman's for critical, high-load descents.
-- Always back up your descent with a friction hitch — a prusik or autoblock tied below your device — so the rope locks off if your brake hand slips.
+- Always back up your descent with a friction hitch, a prusik or autoblock tied below your device, so the rope locks off if your brake hand slips.
 - Know your specialty knots: the figure eight for secure loops and tie-ins, the Münter hitch for an emergency descent without a device (it twists the rope), and the clove and girth hitches for anchors.
-- Dress and test every knot under load, leaving at least 30cm of tail, and use 5–7mm accessory cord for friction hitches.
+- Dress and test every knot under load, leaving at least 30cm of tail, and use 5-7mm accessory cord for friction hitches.
 
 ---
 

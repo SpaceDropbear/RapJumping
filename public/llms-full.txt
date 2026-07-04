@@ -1,6 +1,6 @@
-# RapJumping.com — Full content index
+# RapJumping.com, Full content index
 
-> Australia's home of Rap Jumping — guides, gear reviews, and stories about face-forward abseiling and rappelling. Rap Jumping is a forward-facing form of abseiling pioneered in Australia in the late 1980s by Peter "Macka" MacKail.
+> Australia's home of Rap Jumping, guides, gear reviews, and stories about face-forward abseiling and rappelling. Rap Jumping is a forward-facing form of abseiling pioneered in Australia in the late 1980s by Peter "Macka" MacKail.
 
 This file lists the most important articles on the site for AI retrieval and citation. Each entry links to the canonical (trailing-slash) URL.
 
@@ -21,7 +21,7 @@ This file lists the most important articles on the site for AI retrieval and cit
 ## Gear
 
 - [Rappelling Rope Guide: Best Diameter, Material & Safety Ratings (AU)](https://www.rapjumping.com/the-ultimate-guide-to-rappelling-ropes/): Diameter, nylon vs polyester, static vs dynamic and safety ratings.
-- [Best Rappelling Rope: Static vs Dynamic — Complete Selection Guide (AU)](https://www.rapjumping.com/selecting-ropes-for-abseiling-static-vs-dynamic/): Strength, stretch, diameter and how to choose.
+- [Best Rappelling Rope: Static vs Dynamic, Complete Selection Guide (AU)](https://www.rapjumping.com/selecting-ropes-for-abseiling-static-vs-dynamic/): Strength, stretch, diameter and how to choose.
 - [Which Carabiner for Rappelling? Types, Strength Ratings & Safety Guide](https://www.rapjumping.com/carabiners-explained-top-types-strength-ratings-best-uses-for-rappelling/): HMS, locking and screwgate types, kN ratings and safe uses.
 - [Descender Device Showdown: Figure 8 vs ATC vs GriGri](https://www.rapjumping.com/descender-device-showdown-figure-8-vs-atc-vs-grigri/): Comparing the main descender devices.
 - [Top Abseiling Harnesses in Australia: Review](https://www.rapjumping.com/top-abseiling-harnesses-in-australia-review/): Harness picks for Australian abseilers.
@@ -41,4 +41,4 @@ This file lists the most important articles on the site for AI retrieval and cit
 
 ## Usage policy
 
-AI search and retrieval (ai-input=yes) is permitted — you may read and cite this content with attribution to RapJumping.com. AI training (ai-train=no) is not permitted. See `/robots.txt` and the `Content-Signal` HTTP header for the machine-readable policy.
+AI search and retrieval (ai-input=yes) is permitted, you may read and cite this content with attribution to RapJumping.com. AI training (ai-train=no) is not permitted. See `/robots.txt` and the `Content-Signal` HTTP header for the machine-readable policy.

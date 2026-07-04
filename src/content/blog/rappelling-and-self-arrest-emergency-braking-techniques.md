@@ -161,11 +161,11 @@ Prices naturally vary with brands and regions. Aim for quality over bargains whe
 
 | Item | Approx. Cost (AUD) | Key Feature |
 | --- | --- | --- |
-| Helmet | $60–$80 | Sturdy shell, decent fit |
-| Harness | $80–$140 | Wider straps for comfort |
-| Figure 8 Device | $20–$30 | Simple and versatile |
-| Rope | $160–$300 | Climbing grade, correct length |
-| Ice Axe | $100–$240 | Classic mountaineering style |
+| Helmet | $60-$80 | Sturdy shell, decent fit |
+| Harness | $80-$140 | Wider straps for comfort |
+| Figure 8 Device | $20-$30 | Simple and versatile |
+| Rope | $160-$300 | Climbing grade, correct length |
+| Ice Axe | $100-$240 | Classic mountaineering style |
 
 ## Consider advanced scenarios
 

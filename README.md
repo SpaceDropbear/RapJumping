@@ -1,6 +1,6 @@
 # RapJumping.com
 
-Source for [rapjumping.com](https://rapjumping.com) — the home of Rap Jumping in Australia. Guides, gear reviews, stories, and everything you need to know about face-forward abseiling.
+Source for [rapjumping.com](https://rapjumping.com), the home of Rap Jumping in Australia. Guides, gear reviews, stories, and everything you need to know about face-forward abseiling.
 
 Built with [Astro](https://astro.build) and deployed as a static site on Cloudflare Workers.
 
@@ -33,7 +33,7 @@ public/
 
 ## Deployment
 
-The site is fully pre-rendered — no Astro adapter needed.
+The site is fully pre-rendered, no Astro adapter needed.
 
 Hosted on **Cloudflare Workers (Static Assets)**:
 

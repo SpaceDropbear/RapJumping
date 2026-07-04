@@ -159,7 +159,7 @@ So you've scrolled through the “best abseiling harness” models but still fee
    - Ask yourself how many items you typically carry. Abseiling might not require loads of gadgets, but certain setups could need more loops if pitched descents or rope rescue scenarios come into play.
    - If you also climb, consider standard 4-loop harnesses for multi-purpose use.
 6. Look for reputable certifications
-   - Even if you trust the brand, seeing UIAA or EN certification can give you extra peace of mind. A harness is your direct lifeline—better safe than sorry.
+   - Even if you trust the brand, seeing UIAA or EN certification can give you extra peace of mind. A harness is your direct lifeline, better safe than sorry.
 
 ## Harness care and inspection
 
