@@ -42,21 +42,21 @@ const heroImage = '/images/2025/07/rapjumping-extreme-urban-adventure.webp';
   title="Rap Jumping | Abseiling, Rappelling & Adventure Gear Australia"
   description="Australia's home of abseiling and rappelling. Find the best spots, compare climbing gear, and read expert adventure guides, tips and trusted picks."
 >
-  <div class="container">
-    <section class="hero">
-      <Image src={heroImage} alt="Abseiling in Australia" width={1400} height={760} loading="eager" fetchpriority="high" />
-      <div class="scrim"></div>
-      <div class="hero-inner">
-        <span class="pill">Australia</span>
-        <h1>Australia's best abseiling spots, gear &amp; expert guides</h1>
-        <p>Discover top-rated climbing gear and get expert adventure guides, tips, and trusted picks.</p>
-        <div class="hero-cta">
-          <a class="btn btn-primary" href="/blog/">Explore the guides</a>
-          <a class="btn btn-ghost" href="/tag/abseiling/">Abseiling spots</a>
-        </div>
+  <section class="hero">
+    <Image src={heroImage} alt="Abseiling in Australia" width={1600} height={900} loading="eager" fetchpriority="high" />
+    <div class="scrim"></div>
+    <div class="hero-inner">
+      <span class="pill">Australia</span>
+      <h1>Australia's best abseiling spots, gear &amp; expert guides</h1>
+      <p>Discover top-rated climbing gear and get expert adventure guides, tips, and trusted picks.</p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="/blog/">Explore the guides</a>
+        <a class="btn btn-ghost" href="/tag/abseiling/">Abseiling spots</a>
       </div>
-    </section>
+    </div>
+  </section>
 
+  <div class="container">
     {featured.length > 0 && (
       <>
         <div class="section-head"><h2>Featured</h2><a href="/blog/">View all</a></div>
@@ -97,4 +97,12 @@ const heroImage = '/images/2025/07/rapjumping-extreme-urban-adventure.webp';
       ))}
     </div>
   </div>
+
+  <section class="cta-band reveal">
+    <div class="cta-band-inner">
+      <h2>Know the ropes before you go.</h2>
+      <p>Expert abseiling and rappelling guides, gear reviews and safety walkthroughs, all in one place.</p>
+      <a class="btn btn-on-brand" href="/blog/">Explore the guides</a>
+    </div>
+  </section>
 </BaseLayout>

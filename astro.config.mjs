@@ -21,6 +21,48 @@ for (const file of readdirSync(blogDir)) {
   if (date) lastmodBySlug.set(file.replace(/\.mdx?$/, ''), new Date(date).toISOString());
 }
 
+// Wrap the whole TL;DR block (the `## TL;DR` heading's following content, up to the
+// next heading) in <div class="tldr-body"> so it can be styled as one callout,
+// regardless of whether the post opens with an intro line, bullets, or both.
+function rehypeTldrCallout() {
+  return (tree) => {
+    const kids = tree.children;
+    for (let i = 0; i < kids.length; i++) {
+      const n = kids[i];
+      if (n.type !== 'element' || n.tagName !== 'h2') continue;
+      const text = (n.children || []).map((c) => (c.type === 'text' ? c.value : '')).join('').trim();
+      if (n.properties?.id !== 'tldr' && !/^tl;?dr$/i.test(text)) continue;
+      // Find the block end: the next heading, or end of document.
+      let end = i + 1;
+      while (end < kids.length) {
+        const s = kids[end];
+        if (s.type === 'element' && (s.tagName === 'h1' || s.tagName === 'h2')) break;
+        end++;
+      }
+      // Drop trailing rules / blank text nodes (the author's `---` separator) so the
+      // callout box ends cleanly on its last bullet, not on a stray divider line.
+      let bodyEnd = end;
+      while (bodyEnd - 1 > i) {
+        const last = kids[bodyEnd - 1];
+        const isRule = last.type === 'element' && last.tagName === 'hr';
+        const isBlank = last.type === 'text' && !last.value.trim();
+        if (isRule || isBlank) bodyEnd--;
+        else break;
+      }
+      const body = kids.slice(i + 1, bodyEnd);
+      if (body.length) {
+        kids.splice(i + 1, end - (i + 1), {
+          type: 'element',
+          tagName: 'div',
+          properties: { className: ['tldr-body'] },
+          children: body,
+        });
+      }
+      return;
+    }
+  };
+}
+
 // Update `site` to your final production domain before deploy.
 export default defineConfig({
   site: 'https://www.rapjumping.com',
@@ -45,6 +87,7 @@ export default defineConfig({
 
   markdown: {
     shikiConfig: { theme: 'github-dark', wrap: true },
+    rehypePlugins: [rehypeTldrCallout],
   },
 
   adapter: cloudflare(),
