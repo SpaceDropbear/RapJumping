@@ -3,7 +3,8 @@ title: "Abseiling for Beginners: Complete Getting-Started Guide (Australia 2026)
 description: "New to abseiling? A beginner's guide to rappelling gear, technique, safety checks and your first descent - written for Australian conditions."
 pubDate: "2025-07-26"
 updatedDate: "2026-06-12"
-heroImage: "/images/2025/07/Beginner-s-Guide-to-Rappelling.webp"
+heroImage: "/images/2026/07/abseiling-beginners-guide.webp"
+heroAlt: "Beginner abseiling down a sunlit sandstone cliff in the Australian bush, wearing an orange helmet and blue harness"
 tags: ["fundamentals"]
 featured: true
 readingTime: 17
