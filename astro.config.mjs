@@ -32,26 +32,31 @@ function rehypeTldrCallout() {
       if (n.type !== 'element' || n.tagName !== 'h2') continue;
       const text = (n.children || []).map((c) => (c.type === 'text' ? c.value : '')).join('').trim();
       if (n.properties?.id !== 'tldr' && !/^tl;?dr$/i.test(text)) continue;
-      // Find the block end: the next heading, or end of document.
+      // The TL;DR block ends at the author's `---` thematic break (the convention in
+      // every post) or the next heading, whichever comes first. Bounding on the next
+      // heading alone over-captures body prose on hub pages that place paragraphs
+      // between the `---` and the first subheading.
       let end = i + 1;
+      let terminatedByRule = false;
       while (end < kids.length) {
         const s = kids[end];
         if (s.type === 'element' && (s.tagName === 'h1' || s.tagName === 'h2')) break;
+        if (s.type === 'element' && s.tagName === 'hr') { terminatedByRule = true; break; }
         end++;
       }
-      // Drop trailing rules / blank text nodes (the author's `---` separator) so the
-      // callout box ends cleanly on its last bullet, not on a stray divider line.
+      // Trim trailing blank text nodes so the box ends cleanly on its last item.
       let bodyEnd = end;
       while (bodyEnd - 1 > i) {
         const last = kids[bodyEnd - 1];
-        const isRule = last.type === 'element' && last.tagName === 'hr';
-        const isBlank = last.type === 'text' && !last.value.trim();
-        if (isRule || isBlank) bodyEnd--;
+        if (last.type === 'text' && !last.value.trim()) bodyEnd--;
         else break;
       }
       const body = kids.slice(i + 1, bodyEnd);
       if (body.length) {
-        kids.splice(i + 1, end - (i + 1), {
+        // Remove the body region plus the terminating `---` (redundant once the box
+        // provides separation); leave any following heading in place.
+        const removeCount = (terminatedByRule ? end + 1 : end) - (i + 1);
+        kids.splice(i + 1, removeCount, {
           type: 'element',
           tagName: 'div',
           properties: { className: ['tldr-body'] },
