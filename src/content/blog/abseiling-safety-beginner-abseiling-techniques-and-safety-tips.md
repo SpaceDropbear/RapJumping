@@ -51,7 +51,7 @@ The basics of abseiling gear are simple, but each piece plays a vital safety rol
 - Static rope: Abseiling ropes don’t stretch much, which ensures stable descents. A 60-metre rope is a common starting length.
 - Backup cord: A short loop of 5mm or 6mm cord is used to create a friction hitch, like a Prusik or Autoblock, for an extra layer of safety.
 
-If you’re still unsure about the best boots or layers, check out [abseiling clothing](/outdoor-gear-what-to-wear-abseiling-in-australia/) for more tips on keeping comfy and protected.
+If you’re still unsure about the best boots or layers, check out [abseiling clothing](/what-to-wear-abseiling-in-australia/) for more tips on keeping comfy and protected.
 
 ## Practise key descent techniques
 

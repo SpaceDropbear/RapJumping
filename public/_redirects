@@ -37,3 +37,10 @@
 /rappelling-and-rope-access-industrial-applications-and-safety/ /rope-rescue-and-professional-rappelling-applications/ 301
 /the-science-of-friction-hitches-prusiks-autoblocks-and-klemheists /using-backup-friction-hitches-in-abseiling/ 301
 /the-science-of-friction-hitches-prusiks-autoblocks-and-klemheists/ /using-backup-friction-hitches-in-abseiling/ 301
+
+# Cannibalisation merges 2026-07-10. Both losers were "Submitted and indexed" in GSC,
+# so they earn a 301 rather than a silent delete. Each is a strict content subset of its target.
+/essential-abseiling-gear-checklist /complete-essential-abseiling-gear-checklist/ 301
+/essential-abseiling-gear-checklist/ /complete-essential-abseiling-gear-checklist/ 301
+/outdoor-gear-what-to-wear-abseiling-in-australia /what-to-wear-abseiling-in-australia/ 301
+/outdoor-gear-what-to-wear-abseiling-in-australia/ /what-to-wear-abseiling-in-australia/ 301

@@ -51,7 +51,7 @@ Though the abseil here can be lengthy and steep, many guided tours welcome cauti
 
 ## Gather essential gear
 
-While most operators supply the basics, it's still useful to know what you'll be wearing and why. This helps you feel more prepared and comfortable on your first outing. If you're unsure about the dos and don'ts of attire, [abseiling clothing](/outdoor-gear-what-to-wear-abseiling-in-australia/) can guide you further.
+While most operators supply the basics, it's still useful to know what you'll be wearing and why. This helps you feel more prepared and comfortable on your first outing. If you're unsure about the dos and don'ts of attire, [abseiling clothing](/what-to-wear-abseiling-in-australia/) can guide you further.
 
 Typical gear includes:
 

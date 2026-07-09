@@ -111,7 +111,7 @@ Abseiling doesn't have to be a solo outing. Going with friends, family, or colle
 
 - [Charity abseil australia](/charity-abseils-in-australia-how-to-join/): Raise funds for a cause by descending a building or natural cliff face.
 - [Abseiling competition](/abseiling-events-and-competitions-in-australia/): Compete with other teams or challenge your own group's best time.
-- [EOFY team building](/eofy-team-building-days-outdoors/): Mark the end of your financial year by treating the entire office to a dynamic day out.
+- [EOFY team building](/group-and-couples-abseiling-adventures/): Mark the end of your financial year by treating the entire office to a dynamic day out.
 - [Fathers day adventure](/fathers-day-adventure-experiences/) or [mothers day adventure](/mothers-day-adventure-experiences/): Surprise a parent with a descent that'll boost family bonding and create lasting stories.
 
 Not only does group abseiling foster camaraderie, it also spreads the cost of the guide or instructor across more people. If you're on a budget, this can be a savvy choice.

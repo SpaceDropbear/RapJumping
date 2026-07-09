@@ -27,7 +27,7 @@ Your harness is the foundation of all abseiling safety. If you rush through harn
 
 - Double-check connections: Research shows that re-checking harness connections can prevent up to 80% of gear failures. Make it a habit to glance back at every buckle before you commit to going over the edge.
 - Inspect for damage: Look for worn webbing or frayed stitching. A long walk back to your car is better than a drop because of an overstretched harness.
-- Dress properly: Ensure you're not wearing bulky clothes that interfere with your harness. If you need guidance, check out some [abseiling clothing](/outdoor-gear-what-to-wear-abseiling-in-australia/) tips so your setup stays snug without pinching.
+- Dress properly: Ensure you're not wearing bulky clothes that interfere with your harness. If you need guidance, check out some [abseiling clothing](/what-to-wear-abseiling-in-australia/) tips so your setup stays snug without pinching.
 
 ## Use a proper backup hitch
 

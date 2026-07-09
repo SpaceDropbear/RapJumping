@@ -57,7 +57,7 @@ Getting the proper gear makes all the difference. Your comfort and confidence sk
 
 ### Harness, rope, and clothing
 
-Think about investing in gear specifically made for abseiling, including ropes built to handle friction. Lightweight helmets are crucial, especially for kids, to shield them from any loose debris. Also, wear flexible but sturdy outfits. If you're unsure what to wear, browse [abseiling clothing](/outdoor-gear-what-to-wear-abseiling-in-australia/) for helpful pointers.
+Think about investing in gear specifically made for abseiling, including ropes built to handle friction. Lightweight helmets are crucial, especially for kids, to shield them from any loose debris. Also, wear flexible but sturdy outfits. If you're unsure what to wear, browse [abseiling clothing](/what-to-wear-abseiling-in-australia/) for helpful pointers.
 
 Here's a quick gear list:
 
