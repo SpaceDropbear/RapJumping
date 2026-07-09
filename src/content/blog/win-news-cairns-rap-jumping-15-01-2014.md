@@ -1,6 +1,6 @@
 ---
 title: "WIN News Cairns RAP Jumping 15-01-2014"
-description: "Former SAS soldier Macka MacKail brings Rap Jumping back to Cairns, the birthplace of his extreme sport legacy. From skyscrapers to cliffs, this adrenaline-fueled return is about facing fears head-on."
+description: "Former SAS soldier Macka MacKail brings rap jumping back to Cairns, from skyscrapers to cliffs. A WIN News segment on facing fears head-on."
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Macka-MacKail-Cairns.webp"

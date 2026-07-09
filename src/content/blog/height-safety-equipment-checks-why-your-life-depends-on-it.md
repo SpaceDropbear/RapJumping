@@ -1,6 +1,6 @@
 ---
 title: "Height Safety Equipment Checks: Why Your Life Depends On It"
-description: "Discover the critical importance of checking height safety equipment for both recreation and workplaces. Learn how proper inspections prevent falls & save lives."
+description: "Why checking height safety equipment matters for recreation and workplaces, and how proper inspections prevent falls and save lives."
 pubDate: "2025-07-16"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Height-Safety-Equipment.webp"

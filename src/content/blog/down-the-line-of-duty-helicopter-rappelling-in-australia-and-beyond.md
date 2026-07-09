@@ -1,6 +1,6 @@
 ---
 title: "Down the Line of Duty: Helicopter Rappelling in Australia and Beyond"
-description: "Discover the vital role of helicopter rappelling for Australian Defence Force operations, remote firefighting, and crucial rescue missions. A deep dive into this extreme skill."
+description: "How helicopter rappelling supports Australian Defence Force operations, remote firefighting and rescue missions, and the skills it demands."
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Helicopter-Rappelling-in-Australia.webp"

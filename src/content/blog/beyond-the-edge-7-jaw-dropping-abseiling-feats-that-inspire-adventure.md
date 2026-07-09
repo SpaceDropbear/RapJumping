@@ -1,6 +1,6 @@
 ---
 title: "Beyond the Edge: 7 Jaw-Dropping Abseiling Feats That Inspire Adventure"
-description: "Explore 7 incredible abseiling and rappelling feats, from record-breaking descents to daring vertical challenges. Get your adrenaline pumping and find your next adventure!"
+description: "Seven remarkable abseiling and rappelling feats, from record-breaking descents to daring vertical challenges around the world."
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Abseiling-Feats-That-Inspire-Adventure.webp"
@@ -81,7 +81,7 @@ Led by the then 64-year-old Sreenivasa Prasad, the large team completed the desc
 
 ## #7 Publicity Stunt: Bear Grylls in Shanghai
 
-In September 2015, reality TV star and survival expert Bear Grylls showcased his signature daring by **abseiling** down the side of one of **Shanghai's tallest buildings**. This high-profile stunt was a dramatic prelude to the launch of his [own brand of survival television](https://beargryllssurvivalacademy.com/) in China.
+In September 2015, reality TV star and survival expert Bear Grylls showcased his signature daring by **abseiling** down the side of one of **Shanghai's tallest buildings**. This high-profile stunt was a dramatic prelude to the launch of his own brand of survival television in China.
 
 The building, which served as the base for Shanghai Media Group, presented a formidable vertical challenge. Grylls, known for his extraordinary feats of survival, made the descent with his usual unflappable demeanour, seemingly barely raising a sweat. The publicity stunt, which closely resembled a scene ripped straight from a Mission Impossible film, certainly didn't go unnoticed. It drew immense attention from both passers-by on the bustling streets below and prominent Chinese media outlets, solidifying his image as the ultimate **adrenaline** junkie and master of **extreme sports**.
 

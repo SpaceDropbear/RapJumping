@@ -72,7 +72,7 @@ Even with a bombproof anchor, your gear can be a weak link if it's not in top sh
 
 ### Regular checks and maintenance
 
-Inspection isn't just for the day of your abseil. Give your gear periodic once-overs. According to [Clairvoyant Facility Management LLC](https://clairvoyantuae.com/rope-access-emergency-response/), you should always adhere to the manufacturer's guidelines for shelf life, cleaning, and wear checks.
+Inspection isn't just for the day of your abseil. Give your gear periodic once-overs. Always adhere to the manufacturer's guidelines for shelf life, cleaning, and wear checks.
 
 - Look for frayed spots on ropes and harness webbing.
 - Check for dents or cracks in metal hardware.
@@ -167,7 +167,7 @@ Self-learning is valuable, but formal courses bring structure, expert feedback, 
 2. Focused drills: Many courses simulate real emergencies, so you build quick-thinking skills.
 3. Extended knowledge: Beyond standard abseiling rescue drills, you might learn advanced techniques for tower rescue or structural collapse shoring.
 
-Certification from bodies like IRATA or SPRAT is widely recognised. According to [Clairvoyant Facility Management LLC](https://clairvoyantuae.com/rope-access-emergency-response/), these programs confirm your skill level and help reduce accident rates. Regular refresher courses keep you and your team prepared for tricky situations, so never assume a single course is enough for life.
+Certification from bodies like IRATA or SPRAT is widely recognised. These programs confirm your skill level and help reduce accident rates. Regular refresher courses keep you and your team prepared for tricky situations, so never assume a single course is enough for life.
 
 ### Climbing career progression
 
@@ -183,7 +183,7 @@ Start with identifying hazards: potential rockfall, weather changes, or loose an
 
 ### Reinforce team preparedness
 
-No matter how skilled you are individually, rescues often depend on teamwork. Plan how you'll communicate with your partner, especially in areas prone to wind or echo. Agree on signals before you start. Also, consider how you'd handle an unconscious or severely injured partner. Do you have enough trained individuals on-site to lower them safely? According to [Clairvoyant Facility Management LLC](https://clairvoyantuae.com/rope-access-emergency-response/), regular practice drills keep everyone on the same page.
+No matter how skilled you are individually, rescues often depend on teamwork. Plan how you'll communicate with your partner, especially in areas prone to wind or echo. Agree on signals before you start. Also, consider how you'd handle an unconscious or severely injured partner. Do you have enough trained individuals on-site to lower them safely? Regular practice drills keep everyone on the same page.
 
 ### A quick glance at common abseiling issues
 

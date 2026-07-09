@@ -44,7 +44,7 @@ Abseiling equipment keeps you safe and comfortable as you lower yourself over a 
 
 ### Pick the right rope
 
-- Static or dynamic? Static ropes are commonly used for abseiling because they have minimal stretch. This reduces bounce during your descent, providing a stable ride ([Access Ropes](https://www.accessropes.com/blog/static-rope-vs-dynamic-rope-guide/)). Dynamic ropes, on the other hand, are typically favoured for rock climbing as they stretch to absorb impact.
+- Static or dynamic? Static ropes are commonly used for abseiling because they have minimal stretch. This reduces bounce during your descent, providing a stable ride. Dynamic ropes, on the other hand, are typically favoured for rock climbing as they stretch to absorb impact.
 - Check certifications. Look for markers like CE EN 1891 for static lines or CE EN 892 for dynamic ropes. These labels indicate the rope meets safety standards ([WeighMyRack](https://blog.weighmyrack.com/rock-climbing-with-static-or-dynamic-rope/)).
 - Mind the diameter. Thinner ropes are lighter but wear out faster. Thicker ropes are more durable, yet heavier. If you're new to abseiling, something around 9-10mm can strike a good balance.
 

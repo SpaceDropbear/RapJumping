@@ -189,7 +189,7 @@ Using a backup doesn't replace good technique, but it can make a huge difference
 
 ## How often should anchors be tested?
 
-Natural anchors: before every use. Fixed and industrial anchors: on a schedule - they aren't "set and forget." Anchor points degrade from weather, mechanical stress and chemical exposure, which is why commercial buildings follow rigorous inspection programs ([Altus Safety](https://www.altussafety.com/eye-bolt-and-abseil-point-testing/)).
+Natural anchors: before every use. Fixed and industrial anchors: on a schedule - they aren't "set and forget." Anchor points degrade from weather, mechanical stress and chemical exposure, which is why commercial buildings follow rigorous inspection programs.
 
 | Anchor type | Recommended check frequency |
 | --- | --- |

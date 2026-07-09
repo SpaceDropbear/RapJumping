@@ -242,7 +242,7 @@ Maybe you've discovered you're not just interested in abseiling for fun, but you
 
 ### Rope access courses
 
-Some training providers, such as [Abseilon](https://www.abseilon.com/education/ropeaccesstraining/), offer a structured curriculum that covers theoretical and hands-on learning over four days, followed by a fifth day of testing. The tuition at Abseilon is around $1,695 and includes a final evaluation. If you don't pass on the first go, you can usually re-take the exam within a certain timeframe.
+Rope access courses generally follow a structured curriculum that covers theoretical and hands-on learning over four days, followed by a fifth day of testing and final evaluation. If you don't pass on the first go, you can usually re-take the exam within a certain timeframe.
 
 Key points about rope access training:
 

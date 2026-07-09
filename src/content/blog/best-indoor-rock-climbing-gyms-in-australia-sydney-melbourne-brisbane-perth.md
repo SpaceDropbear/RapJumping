@@ -1,6 +1,6 @@
 ---
 title: "Best Indoor Rock Climbing Gyms in Australia (Sydney, Melbourne, Brisbane, Perth)"
-description: "Indoor rock climbing gyms in Australia explained: bouldering vs roped, belay checks, costs, what to bring, plus the Sydney, Melbourne, Brisbane and Perth scenes."
+description: "Indoor rock climbing gyms in Australia: bouldering vs roped, belay checks, costs, and the Sydney, Melbourne, Brisbane and Perth scenes."
 pubDate: "2026-06-27"
 heroImage: "/images/2026/06/indoor-rock-climbing-gym.webp"
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Rap Jumping vs. Abseiling & Rappelling: Your Guide to Extreme Adventure"
-description: "Explore the thrilling differences between Rap Jumping, abseiling, Aussie rappel, and deepelling. Learn about these extreme adventure sports, and discover the exhilarating abseiling experiences offered by Rap Jumping company today."
+description: "Rap jumping, abseiling and rappelling compared: how each technique differs, where the terms overlap, and what sets face-first rap jumping apart."
 pubDate: "2025-07-19"
 updatedDate: "2025-07-30"
 heroImage: "/images/2025/07/rap-jumping-urban-central-1.webp"

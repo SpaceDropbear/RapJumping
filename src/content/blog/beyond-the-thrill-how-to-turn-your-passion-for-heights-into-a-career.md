@@ -1,6 +1,6 @@
 ---
 title: "Beyond the Thrill: How to Turn Your Passion for Heights into a Career"
-description: "Love abseiling? Discover how to transform your passion for adventure and extreme sports into a rewarding career as an industrial rope access technician in Australia. Learn about training, jobs, and safety."
+description: "How to turn a love of heights and abseiling into a career as an industrial rope access technician in Australia: training, jobs and safety."
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Passion-for-Heights-into-a-Career.webp"

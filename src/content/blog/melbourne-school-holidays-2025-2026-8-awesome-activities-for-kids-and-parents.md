@@ -1,6 +1,6 @@
 ---
 title: "Melbourne School Holidays 2025/2026: 8 Awesome Activities for Kids (and Parents!)"
-description: "Planning the Victorian summer school holidays (Dec 2025 - Jan 2026)? Discover 8 incredible Melbourne activities for kids, from stargazing to climbing! Find adventure and fun for the whole family."
+description: "Planning the Victorian summer school holidays, December 2025 to January 2026? Eight Melbourne activities for kids, from stargazing to climbing."
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/playground.webp"

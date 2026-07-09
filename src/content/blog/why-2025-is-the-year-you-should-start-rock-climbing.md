@@ -1,6 +1,6 @@
 ---
 title: "Why 2025 is the Year You Should Start Rock Climbing"
-description: "Discover why rock climbing is your perfect new hobby for 2025! Get a full-body workout, boost mental clarity, and join a vibrant community. Find a gym near you in Victoria!"
+description: "Why rock climbing makes a great new hobby for 2025: a full-body workout, better mental clarity, a welcoming community and gyms across Victoria."
 pubDate: "2025-07-17"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/You-Should-Start-Rock-Climbing.webp"

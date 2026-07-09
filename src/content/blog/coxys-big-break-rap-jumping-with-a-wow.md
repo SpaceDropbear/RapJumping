@@ -1,6 +1,6 @@
 ---
 title: "Coxys Big Break - Rap jumping with a WOW"
-description: "Join Coxy's Big Break reporter Rhys as he takes on rap jumping in Melbourne with instructor Derek Whittingham. 30 metres of adrenaline, laughs, and pure fear - watch the full video and read the full transcript now."
+description: "Coxy's Big Break reporter Rhys takes on rap jumping in Melbourne, 30 metres down a building. Watch the full video segment and read the transcript."
 pubDate: "2025-07-22"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Coxys-Big-Break.webp"

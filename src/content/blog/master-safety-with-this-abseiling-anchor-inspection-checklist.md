@@ -83,7 +83,7 @@ Before you start checking anchors, make sure you've got your inspection plan rea
 ### Tools and environment
 
 - Carry a small inspection kit with a flashlight, a brush, and possibly a small hammer for sounding the rock or anchor.
-- Check environmental conditions. Abseiling in high winds or heavy rain can jeopardize your focus and stability, making inspections rushed or incomplete. As [Clairvoyant Facility Management LLC](https://clairvoyantuae.com/rope-access-risks-safety/) highlights, harsh conditions can also degrade gear.
+- Check environmental conditions. Abseiling in high winds or heavy rain can jeopardize your focus and stability, making inspections rushed or incomplete. Harsh conditions can also degrade gear.
 
 If you're heading out to a fresh location, do a preliminary scan of the approach and anchor site. Loose rock, vegetation overgrowth, and standing water can hide anchor points or cause you to slip during your checks.
 

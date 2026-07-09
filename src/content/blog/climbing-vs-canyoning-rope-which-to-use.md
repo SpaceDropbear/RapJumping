@@ -1,6 +1,6 @@
 ---
 title: "Climbing vs Canyoning Rope: Which to Use"
-description: "If you have your sights set on abseiling, you might be wondering whether a standard climbing rope will do the trick or if a dedicated canyoning rope is the better"
+description: "Climbing rope vs canyoning rope for abseiling: how they differ in construction, water resistance and abrasion, and which one to choose."
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Climbing-vs-Canyoning-Rope.webp"
