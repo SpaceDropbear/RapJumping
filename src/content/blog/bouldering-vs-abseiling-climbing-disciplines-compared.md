@@ -22,8 +22,7 @@ faq:
 
 ---
 
-### **TL;DR**
-
+## TL;DR
 - Bouldering = short, rope-free climbs on low walls or boulders with crash pads for protection.
 - Rappelling (abseiling) = controlled rope descent from cliffs or vertical drops using harness, rope, and friction device.
 - Bouldering focuses on strength, technique, and problem-solving; rappelling focuses on rope skills, anchor setup, and steady descent control.

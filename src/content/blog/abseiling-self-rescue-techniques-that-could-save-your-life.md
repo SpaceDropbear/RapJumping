@@ -22,8 +22,7 @@ faq:
 
 ---
 
-### **TL;DR**
-
+## TL;DR
 Abseiling self-rescue skills let you solve problems like stuck ropes, injured partners, or failed anchors without panic.
 
 - **Gear:** Locking carabiners, slings, prussic loops (x2), belay device, knife, head torch, and spare gear for bail anchors.

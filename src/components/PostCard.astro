@@ -9,7 +9,10 @@ const url = `/${post.id.replace(/\.md$/, '')}/`;
 <article class="card reveal" style={`--i:${index}`}>
   <a href={url}>
     <div class="thumb">
-      {heroImage && <Image src={heroImage} alt={title} loading="eager" width={280} height={158} />}
+      {/* Decorative: the <h3> below already labels this link, so alt text would make a
+          screen reader announce the title twice. The featured grid sits below the hero,
+          so lazy loading keeps these off the LCP critical path. */}
+      {heroImage && <Image src={heroImage} alt="" loading="lazy" decoding="async" width={280} height={158} />}
     </div>
     <div class="body">
       {kicker && <span class="kicker">{kicker}</span>}

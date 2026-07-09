@@ -6,8 +6,11 @@ const { title, heroImage, description, pubDate, readingTime } = post.data;
 const url = `/${post.id.replace(/\.md$/, '')}/`;
 ---
 <article class="post-row reveal" style={`--i:${index}`}>
-  <a class="rthumb" href={url}>
-    {heroImage && <Image src={heroImage} alt={title} loading={eager ? "eager" : "lazy"} width={140} height={88} />}
+  {/* The heading below links to the same URL, so this thumbnail link is a duplicate. Hide it
+      from assistive tech (and the tab order) rather than announcing the title twice; it stays
+      clickable for pointer users. alt="" for the same reason: the heading is the label. */}
+  <a class="rthumb" href={url} aria-hidden="true" tabindex="-1">
+    {heroImage && <Image src={heroImage} alt="" loading={eager ? "eager" : "lazy"} decoding="async" width={140} height={88} />}
   </a>
   <div>
     <h3><a href={url}>{title}</a></h3>

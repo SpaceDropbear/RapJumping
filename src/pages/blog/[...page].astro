@@ -38,10 +38,14 @@ const breadcrumbs = [
       {page.data.map((post, i: number) => <PostRow post={post} eager={i === 0} index={i} />)}
     </div>
     {(page.url.prev || page.url.next) && (
-      <nav class="pagination" style="display:flex;justify-content:space-between;align-items:center;gap:12px;margin:36px 0;">
-        {page.url.prev ? <a class="tag" href={page.url.prev}>&larr; Newer</a> : <span></span>}
+      <nav class="pagination" aria-label="Pagination">
+        {page.url.prev
+          ? <a class="btn btn-quiet" href={page.url.prev} rel="prev">&larr; Newer</a>
+          : <span class="btn btn-quiet" aria-disabled="true">&larr; Newer</span>}
         <span class="page-sub">Page {page.currentPage} of {page.lastPage}</span>
-        {page.url.next ? <a class="tag" href={page.url.next}>Older &rarr;</a> : <span></span>}
+        {page.url.next
+          ? <a class="btn btn-quiet" href={page.url.next} rel="next">Older &rarr;</a>
+          : <span class="btn btn-quiet" aria-disabled="true">Older &rarr;</span>}
       </nav>
     )}
   </div>

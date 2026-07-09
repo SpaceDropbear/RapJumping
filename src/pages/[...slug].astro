@@ -24,6 +24,10 @@ const { Content } = await render(entry);
 const d = entry.data;
 const isPost = kind === 'post';
 
+// Freshness is a trust signal on safety content, but only when it is real: show the
+// updated date solely when it is genuinely later than publication.
+const showUpdated = isPost && d.updatedDate && d.updatedDate.valueOf() > d.pubDate.valueOf();
+
 const breadcrumbs = isPost
   ? [{ name: 'Home', path: '/' }, { name: 'Blog', path: '/blog/' }, { name: d.title, path: `/${entry.id}/` }]
   : [{ name: 'Home', path: '/' }, { name: d.title, path: `/${entry.id}/` }];
@@ -88,6 +92,7 @@ if (isPost) {
         <div class="article-meta">
           <span>By <a href="/about/" style="color:inherit;">Derek Whittingham</a></span>
           <span>· {formatDate(d.pubDate)}</span>
+          {showUpdated && <span>· Updated {formatDate(d.updatedDate)}</span>}
           {d.readingTime && <span>· {d.readingTime} min read</span>}
         </div>
       )}
@@ -95,7 +100,7 @@ if (isPost) {
 
     {d.heroImage && (
       <div class="article-hero">
-        <Image src={d.heroImage} alt={d.heroAlt ?? d.title} width={760} height={326} loading="eager" />
+        <Image src={d.heroImage} alt={d.heroAlt ?? d.title} width={760} height={326} loading="eager" fetchpriority="high" />
       </div>
     )}
 
@@ -107,6 +112,23 @@ if (isPost) {
       <aside class="author-note">
         <p><strong>Written by Derek Whittingham.</strong> Rap Jumping is an independent Australian guide to abseiling, rappelling and rap jumping. Everything here is general information, not a substitute for hands-on training. Always learn and practise under a qualified instructor. <a href="/about/">About us</a>.</p>
       </aside>
+    )}
+
+    {!isPost && d.showTrust && (
+      <aside class="trust-note">
+        <div class="trust-mark" aria-hidden="true">RJ</div>
+        <div>
+          <p class="trust-name">Derek Whittingham</p>
+          {d.trustNote && <p class="trust-body">{d.trustNote}</p>}
+          {d.updatedDate && <p class="trust-updated">This page was last reviewed on {formatDate(d.updatedDate)}.</p>}
+        </div>
+      </aside>
+    )}
+
+    {!isPost && d.showTrust && (
+      <div class="page-cta">
+        <a class="btn btn-primary" href="/blog/">Explore the guides</a>
+      </div>
     )}
 
     {isPost && related.length > 0 && (

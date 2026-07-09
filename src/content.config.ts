@@ -31,6 +31,10 @@ const pages = defineCollection({
     description: z.string().optional().default(''),
     heroImage: z.string().optional(),
     heroAlt: z.string().optional(),
+    // Opt-in author/trust block. About needs it (YMYL E-E-A-T); Privacy and Terms do not.
+    showTrust: z.boolean().default(false),
+    trustNote: z.string().optional(),
+    updatedDate: z.coerce.date().optional(),
   }),
 });
 

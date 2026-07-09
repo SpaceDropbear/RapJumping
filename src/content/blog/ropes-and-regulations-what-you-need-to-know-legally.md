@@ -28,8 +28,7 @@ faq:
 
 ---
 
-## **TL;DR**
-
+## TL;DR
 - Ropes regulations = legal frameworks + safety standards for rope use in climbing, abseiling, and rope access.
 - Core themes: follow safety standards, use correct/maintained equipment, know accountability.
 - Key standards: OSHA (US), IRATA (global), plus regional requirements (ANSI, ASTM, local laws).

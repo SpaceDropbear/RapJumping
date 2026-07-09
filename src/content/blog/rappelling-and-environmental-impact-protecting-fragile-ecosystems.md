@@ -28,8 +28,7 @@ faq:
 
 ---
 
-## **TL;DR**
-
+## TL;DR
 - Environmental rappelling blends safe abseiling techniques with eco-friendly practices.
 - Stay on established trails and use existing anchors to reduce erosion and rock damage.
 - Follow local regulations on permits, anchor placement, group sizes, and seasonal restrictions.

@@ -68,7 +68,8 @@ const heroImage = '/images/2025/07/rapjumping-extreme-urban-adventure.webp';
 
     <div class="section-head"><h2>Latest</h2><a href="/blog/">All articles</a></div>
     <div>
-      {latest.map((post, i) => <PostRow post={post} eager={i === 0} index={i} />)}
+      {/* The Latest list is far below the fold; eager-loading its first row competed with the hero LCP. */}
+      {latest.map((post, i) => <PostRow post={post} index={i} />)}
     </div>
 
     {popular.length > 0 && (

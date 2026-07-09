@@ -8,16 +8,18 @@ const featured = posts.filter((p) => p.data.featured).slice(0, 4);
 const popular = featured.length > 0 ? featured : posts.slice(0, 4);
 ---
 <BaseLayout title="Page not found | Rap Jumping" noindex={true}>
-  <div class="wrap-narrow" style="text-align:center; padding: 80px 20px;">
+  <div class="wrap-narrow notfound">
     <span class="pill">404</span>
     <h1 class="page-title">We couldn't find that page</h1>
     <p class="page-sub">The page <code id="missing-path">you requested</code> may have moved or no longer exists.</p>
-    <p style="margin-top: 20px;">
-      <a class="tag" href="/">Home</a>
-      <a class="tag" href="/blog/">All articles</a>
-    </p>
-    <h2 style="margin-top: 36px;">Popular articles</h2>
-    <ul style="list-style:none; padding:0; line-height:2;">
+
+    <div class="notfound-actions">
+      <a class="btn btn-primary" href="/">Back to home</a>
+      <a class="btn btn-quiet" href="/blog/">All articles</a>
+    </div>
+
+    <h2 class="notfound-heading">Popular guides</h2>
+    <ul class="notfound-list">
       {popular.map((post) => (
         <li><a href={`/${post.id.replace(/\.md$/, '')}/`}>{post.data.title}</a></li>
       ))}

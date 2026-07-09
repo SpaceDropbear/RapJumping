@@ -1,6 +1,14 @@
 ---
 title: "About this site"
 description: "Learn about Rap Jumping - Australia's original face-forward abseiling site. Expert gear reviews, guides and adventure stories from the 1980s to now."
+showTrust: true
+updatedDate: "2026-07-10"
+trustNote: >-
+  Rap Jumping is written and maintained by Derek Whittingham in Melbourne, Victoria. The site was once
+  home to Melbourne's original face-forward abseiling experience. It no longer runs experiences and is
+  now an independent guide, supported by affiliate partnerships. Guides cite parks authorities,
+  standards bodies and equipment manufacturers rather than tour operators, and nothing published here
+  replaces hands-on instruction from a qualified instructor.
 ---
 
 Welcome to Rap Jumping - your go-to guide for all things vertical adventure.

@@ -22,8 +22,7 @@ faq:
 
 ---
 
-## **TL;DR**
-
+## TL;DR
 Abseiling rescue procedures combine the right mindset, preparation, and technical skill to manage high-angle emergencies safely.
 
 - **Mindset:** Stay calm, know your limits, visualise the steps.
