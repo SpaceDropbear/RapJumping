@@ -37,17 +37,19 @@ Disallow: /
 User-agent: img2dataset
 Disallow: /
 
-# AI search crawlers, allowed (search=yes)
-User-agent: OAI-SearchBot
-Allow: /
-
 User-agent: Amazonbot
+Disallow: /
+
+# AI search / retrieval crawlers, allowed (search=yes)
+# (Claude-SearchBot, Claude-User, ChatGPT-User, Perplexity-User, Amzn-SearchBot
+#  also inherit Allow:/ from * above)
+User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: PerplexityBot
 Allow: /
 
-User-agent: DuckAssistant
+User-agent: DuckAssistBot
 Allow: /
 
 # Content usage preferences (Content-Signal, above) are also sent as an HTTP
