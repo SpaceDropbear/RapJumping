@@ -4,6 +4,7 @@ description: "Water rescue rappelling guide - swiftwater techniques, rescue equi
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/water-rescue-rappelling.webp"
+heroAlt: "Voxel scene of a helicopter winching an orange-clad rescuer down a rope to a person in the sea, boats nearby"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 16

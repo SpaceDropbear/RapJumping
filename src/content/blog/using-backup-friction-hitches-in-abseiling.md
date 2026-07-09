@@ -4,6 +4,7 @@ description: "Enhance your abseiling safety with backup friction hitches - maste
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Backup-Friction-Hitches.webp"
+heroAlt: "Isometric voxel diorama of a climber on a white rock tower with an orange rope, pine trees and camp gear."
 tags: ["safety", "techniques"]
 featured: false
 readingTime: 15

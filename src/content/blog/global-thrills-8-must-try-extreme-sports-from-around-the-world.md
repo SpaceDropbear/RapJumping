@@ -4,6 +4,7 @@ description: "Love extreme sports and travel? Discover 8 adrenaline-fueled outdo
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Must-Try-Extreme-Sports.webp"
+heroAlt: "Wingsuit flyer soaring headfirst over a deep forested canyon, limestone cliffs falling away on both sides"
 tags: ["abseiling"]
 featured: false
 readingTime: 7

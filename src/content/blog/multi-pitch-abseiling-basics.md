@@ -4,6 +4,7 @@ description: "Master multi-pitch rappelling like a pro with our friendly guide! 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Multi-Pitch-Abseiling-Basics.webp"
+heroAlt: "Blocky voxel-style illustration of climbers abseiling down tall pixelated rock columns, coiled ropes at base, forest around."
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 11

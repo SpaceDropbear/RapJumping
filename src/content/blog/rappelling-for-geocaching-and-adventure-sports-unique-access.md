@@ -4,6 +4,7 @@ description: "Unleash thrill with geocaching rappelling adventures! Explore uniq
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/geocaching-rappelling.webp"
+heroAlt: "Blocky voxel forest gorge with abseilers on ropes above a blue river, crates and caches on the rocky ledge below"
 tags: ["abseiling", "geocaching", "australia"]
 featured: false
 readingTime: 13

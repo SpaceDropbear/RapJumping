@@ -4,6 +4,7 @@ description: "Unleash your inner adventurer at abseiling events and competitions
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-competition.webp"
+heroAlt: "Blocky voxel scene of orange-clad abseilers descending ropes into a deep gorge between tree-topped cliffs"
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 12

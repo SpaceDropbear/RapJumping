@@ -4,6 +4,7 @@ description: "Embark on thrilling abseiling tours in Australia made for beginner
 pubDate: "2025-08-02"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Abseiling-Tours-for-Beginners.webp"
+heroAlt: "Two people in yellow helmets at the top of a rock face preparing to abseil, forested green hillsides behind"
 tags: ["victoria", "new south wales", "brisbane"]
 featured: false
 readingTime: 4

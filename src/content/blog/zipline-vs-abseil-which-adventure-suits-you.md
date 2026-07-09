@@ -4,6 +4,7 @@ description: "Zipline vs Abseil: Which adventure thrills you the most? Compare t
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/zipline-vs-rappelling.webp"
+heroAlt: "Voxel illustration contrasting a person riding a zipline with figures rappelling down a cliff over a valley."
 tags: ["abseiling", "ziplining", "australia"]
 featured: false
 readingTime: 10

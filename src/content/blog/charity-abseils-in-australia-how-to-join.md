@@ -4,6 +4,7 @@ description: "Embrace the thrill of charity abseiling in Australia! Join us for 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/charity-abseil-australia.webp"
+heroAlt: "Blocky voxel illustration of abseilers descending a tall wall as a crowd of spectators watches below"
 tags: ["australia", "abseiling"]
 featured: false
 readingTime: 12

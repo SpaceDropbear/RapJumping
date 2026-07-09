@@ -4,6 +4,7 @@ description: "Which safety standards must your abseiling harness, rope and gear 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-safety-standards.webp"
+heroAlt: "Blocky voxel illustration of helmeted climbers abseiling down a cube styled canyon, ropes and gear stacked on the ledges."
 tags: ["abseiling"]
 featured: false
 readingTime: 12

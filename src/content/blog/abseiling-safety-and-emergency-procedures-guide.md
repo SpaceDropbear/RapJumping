@@ -4,6 +4,7 @@ description: "Master abseiling safety with our guide! Learn essential tips and e
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Abseiling-Safety-.webp"
+heroAlt: "Blocky voxel diorama of orange-clad abseilers rigging and descending a white cliff topped with trees"
 tags: ["safety", "training"]
 featured: false
 readingTime: 13

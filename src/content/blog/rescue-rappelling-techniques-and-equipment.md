@@ -4,6 +4,7 @@ description: "Master rescue rappelling with expert techniques and gear to tackle
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/rescue-rappelling.webp"
+heroAlt: "Blocky voxel illustration of a rescue team abseiling down a cliff into a gorge, with an ambulance and helicopter."
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 12

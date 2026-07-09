@@ -4,6 +4,7 @@ description: "Unlock the thrill! Beginner rappelling guide for safe abseiling ad
 pubDate: "2025-08-02"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/figure-8-abseil.webp"
+heroAlt: "Close-up of gloved hands threading red and white ropes through a metal figure-eight descender on a harness"
 tags: ["fundamentals"]
 featured: false
 readingTime: 6

@@ -4,6 +4,7 @@ description: "Experience thrill like never before with MTB and abseiling adventu
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/mtb-abseiling.webp"
+heroAlt: "Blocky voxel-style illustration of a mountain biker leaping off a pixelated cliff, a rope hanging from the cliff edge."
 tags: ["abseiling", "mountain biking", "australia"]
 featured: false
 readingTime: 12

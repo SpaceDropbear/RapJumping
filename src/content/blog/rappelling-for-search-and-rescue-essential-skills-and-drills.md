@@ -4,6 +4,7 @@ description: "Master SAR rappelling with essential skills and drills. Elevate yo
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/sar-rappelling.webp"
+heroAlt: "Voxel rescuer in yellow with a red first aid pack holding a rope on a blocky clifftop above a forested canyon"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 12

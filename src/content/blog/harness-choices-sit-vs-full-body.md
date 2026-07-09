@@ -4,6 +4,7 @@ description: "Choose your abseiling companion: sit harness vs. full body. Unveil
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Harness-Choices-Sit-vs-Full-Body.webp"
+heroAlt: "Blocky voxel illustration of a full-body climbing harness with straps and buckles on a headless torso form"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 10

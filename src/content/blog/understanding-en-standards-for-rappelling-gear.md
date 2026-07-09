@@ -4,6 +4,7 @@ description: "Unlock the world of EN standards for rappelling gear! Elevate your
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/en-standards-rappelling.webp"
+heroAlt: "Voxel illustration of helmeted, harnessed figures rappelling down grey cliffs on ropes, forest above."
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 15

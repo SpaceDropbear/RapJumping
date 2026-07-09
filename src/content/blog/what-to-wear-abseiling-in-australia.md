@@ -4,6 +4,7 @@ description: "Discover the perfect abseiling clothing for your thrilling adventu
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/What-to-Wear-Abseiling-in-Australia.webp"
+heroAlt: "Voxel-style display of abseiling clothing and gear, harnesses, helmet, boots, gloves and hanging ropes."
 tags: ["safety", "clothing"]
 featured: false
 readingTime: 10

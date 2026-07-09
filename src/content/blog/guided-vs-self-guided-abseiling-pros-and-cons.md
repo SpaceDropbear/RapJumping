@@ -4,6 +4,7 @@ description: "Discover the pros and cons of guided abseiling! Choose between exp
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Guided-vs-Self-Guided-Abseiling.webp"
+heroAlt: "Blocky voxel illustration of many climbers abseiling down all sides of a tall white rock tower, others rigging up top"
 tags: ["australia", "abseiling"]
 featured: false
 readingTime: 11

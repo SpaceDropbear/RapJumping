@@ -4,6 +4,7 @@ description: "Seven remarkable abseiling and rappelling feats, from record-break
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Abseiling-Feats-That-Inspire-Adventure.webp"
+heroAlt: "Mountaineer on a snowy ridge holding a taut yellow rope, standing above a sea of cloud with dark rocky peaks beyond"
 tags: ["abseiling", "stories"]
 featured: false
 readingTime: 7

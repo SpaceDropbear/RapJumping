@@ -4,6 +4,7 @@ description: "Discover adaptive climbing techniques for all abilities! Elevate y
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/adaptive-climbing.webp"
+heroAlt: "Colourful blocky voxel illustration of tall climbing walls with many figures climbing ropes, some seated at the base."
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 14

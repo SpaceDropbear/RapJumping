@@ -4,6 +4,7 @@ description: "Master abseiling rescue procedures like a pro! Stay calm, follow t
 pubDate: "2025-08-11"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Simple-Abseiling-Rescue-Procedures.webp"
+heroAlt: "Pixel-art graphic of an orange-helmeted abseiler by a waterfall with a checklist: stay calm, assess, plan, execute rescue"
 tags: ["safety"]
 featured: false
 readingTime: 15

@@ -4,6 +4,7 @@ description: "Master rope management techniques for abseiling like a pro! Elevat
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/rope-management.webp"
+heroAlt: "Illustrated workshop of coiled and spooled ropes stacked on pallets and hung from racks"
 tags: ["abseiling", "equipment"]
 featured: false
 readingTime: 11

@@ -4,6 +4,7 @@ description: "Discover climbing conservation tips for ethical abseiling adventur
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Conservation-and-Abseiling-How-Tourists-Can-Help.webp"
+heroAlt: "Blocky isometric voxel illustration of cliffs with climbing holds, trees, a hot air balloon and tiny climbers"
 tags: ["abseiling", "conservation"]
 featured: false
 readingTime: 9

@@ -4,6 +4,7 @@ description: "Rap jumping, abseiling and rappelling compared: how each technique
 pubDate: "2025-07-19"
 updatedDate: "2025-07-30"
 heroImage: "/images/2025/07/rap-jumping-urban-central-1.webp"
+heroAlt: "Woman in pink top, helmet and harness leans over a rooftop edge to descend a tall building face-first, spotters below."
 tags: ["rap jumping", "abseiling"]
 featured: false
 readingTime: 4

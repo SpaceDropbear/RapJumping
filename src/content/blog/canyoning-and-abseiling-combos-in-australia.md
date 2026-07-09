@@ -4,6 +4,7 @@ description: "Experience heart-pumping canyoning and abseiling combos in Austral
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/canyoning-abseiling.webp"
+heroAlt: "Blocky voxel illustration of tiny climbers rappelling down waterfall canyon walls to a green river pool"
 tags: ["abseiling", "canyoning"]
 featured: false
 readingTime: 14

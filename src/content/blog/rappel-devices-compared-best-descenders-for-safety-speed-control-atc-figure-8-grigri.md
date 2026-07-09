@@ -4,6 +4,7 @@ description: "Rappel devices compared: the ATC, Figure 8 and Grigri, with the pr
 pubDate: "2025-07-23"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Introduction-to-Rappel-Devices.webp"
+heroAlt: "Looking up an orange rope from a metal descender and carabiner to a climber in red on a grey rock face."
 tags: ["equipment"]
 featured: false
 readingTime: 6

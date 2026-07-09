@@ -4,6 +4,7 @@ description: "Celebrate Father's Day with thrilling adventure experiences for al
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/fathers-day-adventure.webp"
+heroAlt: "Blocky voxel scene of an adult and child with backpacks by a forest stream, pine trees and a snowy peak behind"
 tags: ["fathers day", "gifts"]
 featured: false
 readingTime: 9

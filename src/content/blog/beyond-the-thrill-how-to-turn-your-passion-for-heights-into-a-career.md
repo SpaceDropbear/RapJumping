@@ -4,6 +4,7 @@ description: "How to turn a love of heights and abseiling into a career as an in
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Passion-for-Heights-into-a-Career.webp"
+heroAlt: "Three rope-access workers in orange, on ropes and harnesses, descending the glass facade of a modern high-rise"
 tags: ["abseiling", "careers"]
 featured: false
 readingTime: 6

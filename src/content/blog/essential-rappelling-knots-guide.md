@@ -4,6 +4,7 @@ description: "Master essential rappelling knots from beginner to advanced levels
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Essential-Rappelling-Knots-.webp"
+heroAlt: "Illustration of several coloured climbing ropes hanging down, each tied with a different knot"
 tags: ["knots", "techniques"]
 featured: false
 readingTime: 11

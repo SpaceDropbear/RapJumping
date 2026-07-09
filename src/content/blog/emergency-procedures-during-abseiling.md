@@ -4,6 +4,7 @@ description: "Master abseiling emergency procedures and stay safe while descendi
 pubDate: "2025-08-14"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/08/Emergency-Procedures-During-Abseiling.webp"
+heroAlt: "Blocky voxel scene of two figures on ropes descending a tall tower as red rescue trucks wait at the base"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 10

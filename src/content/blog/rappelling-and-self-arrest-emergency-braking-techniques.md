@@ -4,6 +4,7 @@ description: "Master self-arrest rappelling with expert braking techniques and s
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-and-Self-Arrest-Emergency-Braking-Techniques.webp"
+heroAlt: "Voxel abseiler in a green jacket gripping the rope mid descent on a pale blocky cliff, canyon and river below"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 11

@@ -3,6 +3,7 @@ title: "Adventure Travel in Australia & the Pacific: The Complete Planning Guide
 description: "Plan adventure travel in Australia & the Pacific, timing, budgeting, insurance, packing and guided vs DIY. A practical, safety-first planning guide."
 pubDate: "2026-07-02"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
+heroAlt: "A bearded man in a rust coloured shirt and jeans climbs a steep grey rock face against blue sky, scrubland below."
 draft: false
 tags: ["adventure travel", "australia"]
 featured: false

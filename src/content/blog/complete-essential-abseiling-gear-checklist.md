@@ -4,6 +4,7 @@ description: "Gear up for your abseiling adventure with our essential checklist 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Essential-Abseiling-Gear-Checklist.webp"
+heroAlt: "Blocky voxel flat lay of abseiling gear: helmets, coiled ropes, carabiners, gloves and climbing shoes"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 13

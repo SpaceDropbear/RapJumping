@@ -4,6 +4,7 @@ description: "Bouldering vs abseiling: Your guide to thrilling climbs! Compare t
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/bouldering-vs-rappelling.webp"
+heroAlt: "Blocky voxel illustration comparing a red sandstone cliff and a pale grey cliff, tiny climbers on each"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 11

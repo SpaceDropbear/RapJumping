@@ -4,6 +4,7 @@ description: "Explore climbing gear care essentials for beginners to pros - mast
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Gear-Maintenance.webp"
+heroAlt: "Blocky voxel display of climbing gear, coiled ropes on a rail, harnesses, helmets, carabiners and storage cases"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 9

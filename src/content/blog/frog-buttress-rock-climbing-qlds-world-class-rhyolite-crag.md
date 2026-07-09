@@ -3,6 +3,7 @@ title: "Frog Buttress Rock Climbing: QLD's World-Class Rhyolite Crag"
 description: "Frog Buttress at Mount French is QLD's legendary rhyolite trad crag. History, grades, access via Moogerah Peaks National Park (QPWS), season and safety."
 pubDate: "2026-07-02"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
+heroAlt: "Bearded climber in a rust t-shirt scaling a grey rock face above dry bushland under a clear blue sky"
 draft: false
 tags: ["rock climbing", "queensland"]
 featured: false

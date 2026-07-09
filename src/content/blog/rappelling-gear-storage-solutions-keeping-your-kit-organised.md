@@ -4,6 +4,7 @@ description: "Get your rappelling gear in order with smart storage solutions! St
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-Gear-Storage-.webp"
+heroAlt: "Isometric voxel cutaway of a gear storage room, shelves and racks holding coiled ropes, tools and equipment"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 10

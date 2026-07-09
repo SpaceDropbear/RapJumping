@@ -3,6 +3,7 @@ title: "Best Indoor Climbing Gyms in New Zealand (Auckland, Wellington, Christch
 description: "Indoor climbing gyms in Auckland, Wellington and Christchurch: bouldering vs top-rope, inductions, typical costs, and the path to outdoor rope experiences."
 pubDate: "2026-07-02"
 heroImage: "/images/2026/06/indoor-bouldering-overhang.webp"
+heroAlt: "Woman in a blue singlet and leggings bouldering on a steep indoor overhang, reaching up for orange holds"
 draft: false
 tags: ["rock climbing", "new zealand"]
 featured: false

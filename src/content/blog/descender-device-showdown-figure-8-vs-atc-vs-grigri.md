@@ -4,6 +4,7 @@ description: "Master abseiling with our Descender Device Showdown: Figure 8 vs A
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/descender-device.webp"
+heroAlt: "Blocky voxel illustration of a rope rigging frame with a descender device and carabiners hanging from lines"
 tags: ["abseiling", "equipment"]
 featured: false
 readingTime: 8

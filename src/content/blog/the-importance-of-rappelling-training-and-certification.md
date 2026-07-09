@@ -4,6 +4,7 @@ description: "Enhance your skills with rappelling training! Discover the importa
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/rappelling-training.webp"
+heroAlt: "Blocky voxel scene of helmeted trainees with harnesses and coloured ropes at the base of a cliff"
 tags: ["abseiling", "careers"]
 featured: false
 readingTime: 10

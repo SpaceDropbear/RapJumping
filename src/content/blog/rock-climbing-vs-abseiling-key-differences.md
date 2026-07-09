@@ -4,6 +4,7 @@ description: "Rock climbing vs abseiling: how they differ in technique, gear and
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/rock-climbing-vs-rappelling.webp"
+heroAlt: "Isometric voxel illustration of climbers scaling blocky cliffs while others descend on ropes into a canyon"
 tags: ["abseiling", "rock climbing", "australia"]
 featured: false
 readingTime: 14

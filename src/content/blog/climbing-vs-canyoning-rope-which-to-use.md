@@ -4,6 +4,7 @@ description: "Climbing rope vs canyoning rope for abseiling: how they differ in 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Climbing-vs-Canyoning-Rope.webp"
+heroAlt: "Blocky voxel illustration of a canyon gorge with waterfalls and red and teal ropes draped down the cliff walls"
 tags: ["equipment", "safety"]
 featured: false
 readingTime: 13

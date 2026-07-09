@@ -4,6 +4,7 @@ description: "How rope rescue and professional rappelling work: gear, anchors, m
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/rope-rescue.webp"
+heroAlt: "Blocky 3D illustration of rescuers in red and blue descending ropes into a grey rocky gorge, others belaying at the top"
 tags: ["abseiling", "safety", "careers"]
 featured: false
 readingTime: 18

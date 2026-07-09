@@ -4,6 +4,7 @@ description: "Discover abseiling rope techniques with our step-by-step guide for
 pubDate: "2025-07-26"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/How-to-Abseil-for-the-First-Time.webp"
+heroAlt: "Man in a red helmet holds the belay rope for a young person in an orange helmet and blue harness on a wooden tower"
 tags: ["fundamentals"]
 featured: false
 readingTime: 4

@@ -4,6 +4,7 @@ description: "Dive into the ultimate adrenaline showdown: abseiling vs skydiving
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-vs-skydiving.webp"
+heroAlt: "Split blocky voxel graphic contrasting a figure abseiling a floating cliff on a red rope with skydivers under parachutes."
 tags: ["abseiling", "mindset"]
 featured: false
 readingTime: 10

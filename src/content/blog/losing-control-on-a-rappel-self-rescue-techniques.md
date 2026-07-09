@@ -4,6 +4,7 @@ description: "Master rappelling self-rescue techniques and stay in control with 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Losing-Control-on-a-Rappel-Self-Rescue-Techniques.webp"
+heroAlt: "Voxel-art abseiler in an orange helmet and red pack rappelling down a red canyon wall at sunset, river far below"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 12

@@ -4,6 +4,7 @@ description: "Master essential abseiling skills for your first descent! Discover
 pubDate: "2025-07-26"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/First-Abseiling-Experience.webp"
+heroAlt: "Person in a red helmet and floral shirt abseiling down a timber-clad tower against a bright blue sky"
 tags: ["fundamentals"]
 featured: false
 readingTime: 4

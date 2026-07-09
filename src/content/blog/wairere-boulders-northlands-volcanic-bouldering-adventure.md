@@ -3,6 +3,7 @@ title: "Wairere Boulders: Northland's Volcanic Bouldering Adventure"
 description: "Wairere Boulders in Northland: fluted volcanic basalt, walking trails and a real (if young) bouldering scene on private farmland near Horeke."
 pubDate: "2026-07-02"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
+heroAlt: "Bearded climber in a harness and rust t-shirt leans back on a rope against a steep grey rock face, blue sky."
 draft: false
 tags: ["rock climbing", "new zealand"]
 featured: false

@@ -4,6 +4,7 @@ description: "Gear up for firefighter rappelling! Unleash your high-angle rescue
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/firefighter-rappelling.webp"
+heroAlt: "Voxel firefighter in turnout gear rappelling down a burning high-rise, fire trucks and ambulances in the street"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 10

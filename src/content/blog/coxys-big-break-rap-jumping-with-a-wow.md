@@ -4,6 +4,7 @@ description: "Coxy's Big Break reporter Rhys takes on rap jumping in Melbourne, 
 pubDate: "2025-07-22"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Coxys-Big-Break.webp"
+heroAlt: "Cartoon logo for Coxy's Big Break, a moustached man in an orange Hawaiian shirt holding a camera beside teal lettering"
 tags: ["stories"]
 featured: false
 readingTime: 2

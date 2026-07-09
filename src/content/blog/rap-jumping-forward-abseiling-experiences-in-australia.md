@@ -4,6 +4,7 @@ description: "Experience adrenaline-pumping rap jumping in Australia! Dive into 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rap-Jumping-Melbourne.webp"
+heroAlt: "Instructor helps a smiling woman in a camera-topped helmet grip the rope at a city rooftop edge before abseiling."
 tags: ["rap jumping", "abseiling"]
 featured: false
 readingTime: 13

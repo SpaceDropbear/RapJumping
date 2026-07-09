@@ -4,6 +4,7 @@ description: "Pro skateboarder Mikey Mendoza tackles rap jumping in Melbourne, f
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/spiderman.webp"
+heroAlt: "Spider-Man costumed figure in a reaching pose before a comic-book backdrop showing Captain America."
 tags: ["stories"]
 featured: false
 readingTime: 2

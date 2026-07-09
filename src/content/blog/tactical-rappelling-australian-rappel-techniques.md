@@ -4,6 +4,7 @@ description: "Master Australian rappel techniques for a safe and thrilling desce
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Tactical-Rappelling-Australian-Rappel-Techniques.webp"
+heroAlt: "Group of helmeted climbers in tactical and camo clothing rappelling down a grey cliff above a forested valley"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 11

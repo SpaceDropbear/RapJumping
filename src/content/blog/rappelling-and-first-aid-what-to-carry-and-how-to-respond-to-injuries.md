@@ -4,6 +4,7 @@ description: "Discover crucial rappelling first aid tips! Be prepared to handle 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-and-First-Aid-What-to-Carry-and-How-to-Respond-to-Injuries.webp"
+heroAlt: "Isometric blocky illustration of orange-helmeted rescuers on a cliff tending a casualty, with ambulances and trees below."
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 12

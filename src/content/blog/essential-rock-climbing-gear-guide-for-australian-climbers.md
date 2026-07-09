@@ -3,6 +3,7 @@ title: "Essential Rock Climbing Gear Guide for Australian Climbers"
 description: "A deep, safety-rated climbing gear guide for Australia, carabiners (EN 12275/UIAA 121), kN ratings, ropes, harnesses, helmets, plus a buy-or-hire checklist."
 pubDate: "2026-06-27"
 heroImage: "/images/2026/06/rock-climbing-gear-guide.webp"
+heroAlt: "Silhouetted climber with a backpack scrambling up red sandstone in a sunlit canyon at golden hour"
 draft: false
 tags: ["rock climbing", "equipment"]
 featured: false

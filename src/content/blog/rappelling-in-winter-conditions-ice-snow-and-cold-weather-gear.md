@@ -4,6 +4,7 @@ description: "Gear up for winter rappelling! Discover essential ice, snow, and c
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/winter-rappelling.webp"
+heroAlt: "Illustrated group of mountaineers in bright down jackets and helmets on snowy peaks beside a frozen blue ice wall."
 tags: ["abseiling"]
 featured: false
 readingTime: 13

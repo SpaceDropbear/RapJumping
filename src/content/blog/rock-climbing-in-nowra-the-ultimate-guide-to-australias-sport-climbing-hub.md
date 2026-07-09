@@ -3,6 +3,7 @@ title: "Rock Climbing in Nowra: The Ultimate Guide to Australia's Sport Climbing
 description: "Nowra rock climbing guide, Australia's premier hard sport crag. Sectors, Ewbank grades, sensitive Crown-land access, parking, winter conditions and safety."
 pubDate: "2026-06-27"
 heroImage: "/images/2026/06/nowra-sport-climbing.webp"
+heroAlt: "Climber in a yellow shirt and blue shorts hanging from a steep overhanging limestone roof, seen from below against blue sky"
 draft: false
 tags: ["rock climbing", "new south wales"]
 featured: false

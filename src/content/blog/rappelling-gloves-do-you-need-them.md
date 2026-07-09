@@ -4,6 +4,7 @@ description: "Discover the scoop on abseiling gloves - are they a must for your 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-Gloves.webp"
+heroAlt: "Blocky voxel rendering of a pair of grey and tan rappelling gloves on a plain white background"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 10

@@ -4,6 +4,7 @@ description: "Transform your abseiling game with our essential anchor inspection
 pubDate: "2025-08-11"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Abseiling-Anchor-Inspection-Checklist.webp"
+heroAlt: "Illustrated checklist graphic: gloved hand on a carabiner and chain, rope coil, with anchor-inspection steps ticked off"
 tags: ["safety"]
 featured: false
 readingTime: 12

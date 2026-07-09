@@ -4,6 +4,7 @@ description: "Discover the top abseiling harnesses in Australia! Find your perfe
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/best-abseiling-harness.webp"
+heroAlt: "Isometric voxel diorama of a single climbing harness with carabiner and rope on a small cliff block"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 13

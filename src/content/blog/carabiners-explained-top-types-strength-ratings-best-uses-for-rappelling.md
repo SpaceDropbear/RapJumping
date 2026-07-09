@@ -4,6 +4,7 @@ description: "Which carabiner is best for rappelling? Compare HMS, locking and s
 pubDate: "2025-07-22"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Carabiners-Explained.webp"
+heroAlt: "Rows of grey carabiners on black with a single orange locking carabiner standing out in the centre"
 tags: ["equipment"]
 featured: false
 readingTime: 5

@@ -4,6 +4,7 @@ description: "The essential rappel knots for safe, efficient rappelling, with st
 pubDate: "2025-07-24"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/figure-8-knot.webp"
+heroAlt: "Close-up of hands tying a figure-eight knot in a blue climbing rope, yellow helmet and coiled green rope nearby."
 tags: ["safety"]
 featured: false
 readingTime: 5

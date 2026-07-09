@@ -4,6 +4,7 @@ description: "Master vital abseiling rescue drills for your Aussie adventures. S
 pubDate: "2025-08-11"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Abseiling-Rescue-Drills-You-Need-to-Know.webp"
+heroAlt: "Pixel-art graphic of a helmeted rescuer lowering a second abseiler down a cliff, Australian flag flying above"
 tags: ["safety"]
 featured: false
 readingTime: 15

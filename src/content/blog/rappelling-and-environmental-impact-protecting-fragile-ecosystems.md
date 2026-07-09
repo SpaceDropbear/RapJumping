@@ -4,6 +4,7 @@ description: "Protect fragile ecosystems while enjoying the thrill of rappelling
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/environmental-rappelling.webp"
+heroAlt: "Blocky 3D illustration of tiny figures rappelling into a lush green canyon with a waterfall, turquoise river and cliffs."
 tags: ["abseiling"]
 featured: false
 readingTime: 13

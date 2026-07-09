@@ -4,6 +4,7 @@ description: "Why rappelling and rap jumping make memorable Christmas gift ideas
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Christmas-Rappelling.webp"
+heroAlt: "Santa Claus figure climbing down a rope from a building balcony with a sack on his back, seen from below"
 tags: ["christmas"]
 featured: false
 readingTime: 4

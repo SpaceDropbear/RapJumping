@@ -4,6 +4,7 @@ description: "Master the art of rappelling anchors from trees to bolts and eleva
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/natural-anchors.webp"
+heroAlt: "Blocky 3D illustration of a large ship's anchor set in a green forested island with pine trees, cliffs and water."
 tags: ["abseiling", "equipment"]
 featured: false
 readingTime: 14

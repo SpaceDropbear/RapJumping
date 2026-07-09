@@ -4,6 +4,7 @@ description: "Former SAS soldier Macka MacKail brings rap jumping back to Cairns
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Macka-MacKail-Cairns.webp"
+heroAlt: "Man in a helmet and harness cheers with a raised arm atop a building, abseil rope in hand, city and hills behind."
 tags: ["stories"]
 featured: false
 readingTime: 1

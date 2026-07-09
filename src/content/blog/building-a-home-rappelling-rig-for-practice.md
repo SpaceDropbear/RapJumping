@@ -4,6 +4,7 @@ description: "Create your backyard rappelling setup with ease! Practice your ski
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/backyard-rappelling-setup.webp"
+heroAlt: "Blocky voxel illustration of a backyard practice tower rigged with ropes inside a fenced grassy yard"
 tags: ["abseiling"]
 featured: false
 readingTime: 15

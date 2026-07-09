@@ -4,6 +4,7 @@ description: "Affordable or top-notch abseiling gear? Uncover the best for your 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Premium-Abseiling-Gear.webp"
+heroAlt: "Close-up of hands rigging red anchor slings and locking carabiners to a bolt on rock, person in shorts nearby"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 12

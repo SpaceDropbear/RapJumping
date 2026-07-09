@@ -4,6 +4,7 @@ description: "Why rock climbing makes a great new hobby for 2025: a full-body wo
 pubDate: "2025-07-17"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/You-Should-Start-Rock-Climbing.webp"
+heroAlt: "Blonde climber in a teal top scales a grey limestone face, quickdraws clipped to her harness, rope below."
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 4

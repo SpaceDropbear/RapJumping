@@ -4,6 +4,7 @@ description: "Master abseiling self-rescue techniques: essential skills for your
 pubDate: "2025-08-11"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Abseiling-Self-Rescue-Techniques-That-Could-Save-Your-Life.webp"
+heroAlt: "Illustrated diagram of a helmeted abseiler on an orange rope beside carabiners and prusik loops, with self-rescue text."
 tags: ["safety"]
 featured: false
 readingTime: 11

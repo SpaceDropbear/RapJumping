@@ -3,6 +3,7 @@ title: "Blue Mountains Rock Climbing: Crags, Grades & Guided Tours"
 description: "Blue Mountains rock climbing guide, top crags (Centennial Glen, Mt Piddington), grades, access rules under NSW National Parks, seasons and guided options."
 pubDate: "2026-06-27"
 heroImage: "/images/2026/06/blue-mountains-rock-climbing.webp"
+heroAlt: "Looking up through sunlit green leaves and white blossom on tree branches against a clear blue sky"
 draft: false
 tags: ["rock climbing", "new south wales"]
 featured: false

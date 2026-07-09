@@ -4,6 +4,7 @@ description: "Your essential rappelling safety checklist for a worry-free descen
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-Safety-Checklist-Before-Every-Descent.webp"
+heroAlt: "Blocky isometric illustration of climbers at a practice wall with ropes, carabiners and a figure on rappel."
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 9

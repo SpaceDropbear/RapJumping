@@ -4,6 +4,7 @@ description: "Discover eco-friendly abseiling tips with Leave No Trace principle
 pubDate: "2025-08-14"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/08/Eco-Friendly-Abseiling-Leave-No-Trace-Principles.webp"
+heroAlt: "Blocky voxel illustration of climbers abseiling down both walls of a lush green canyon with a stream far below"
 tags: ["abseiling"]
 featured: false
 readingTime: 9

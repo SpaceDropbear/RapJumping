@@ -4,6 +4,7 @@ description: "Overcome fear of heights with abseiling psychology in Australia! B
 pubDate: "2025-08-02"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Fear-of-Heights-sitting-on-edge.webp"
+heroAlt: "First-person view of legs in ripped jeans and sneakers dangling from a rooftop high above a car park and street"
 tags: ["mindset"]
 featured: false
 readingTime: 4

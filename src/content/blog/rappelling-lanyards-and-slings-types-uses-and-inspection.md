@@ -4,6 +4,7 @@ description: "Discover the essential guide to rappelling lanyards! From types to
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-Lanyards.webp"
+heroAlt: "Stylised voxel illustration of a coiled climbing rope with carabiners and lanyards on a plain background."
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 11

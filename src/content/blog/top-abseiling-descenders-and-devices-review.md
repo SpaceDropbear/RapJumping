@@ -4,6 +4,7 @@ description: "Discover the ultimate abseiling descenders! Find the best rappelli
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Top-Abseiling-Descenders-and-Devices.webp"
+heroAlt: "Illustrated group in helmets and harnesses rappelling down a sunlit cliff above a green valley and waterfall"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 11

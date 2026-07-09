@@ -4,6 +4,7 @@ description: "Master abseiling anchor placement with expert tips for experienced
 pubDate: "2025-08-11"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Smart-Abseiling-Anchor-Placement.webp"
+heroAlt: "Pixel-art graphic of a climber in an orange helmet clipping a red rope anchor to rock, with three ticked anchor icons"
 tags: ["safety"]
 featured: false
 readingTime: 14

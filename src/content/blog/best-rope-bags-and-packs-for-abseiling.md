@@ -4,6 +4,7 @@ description: "Discover the top rope bags for abseiling! Elevate your gear game a
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Best-Rope-Bags-and-Packs-for-Abseiling.webp"
+heroAlt: "Blocky voxel illustration of a tote bag built from coloured cubes with a twisted rope handle and a rope strap"
 tags: ["equipment"]
 featured: false
 readingTime: 9

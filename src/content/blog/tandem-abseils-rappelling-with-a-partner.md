@@ -4,6 +4,7 @@ description: "Embark on a thrilling tandem abseil adventure - experience the adr
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/tandem-abseil.webp"
+heroAlt: "Blocky voxel illustration of two figures rappelling on ropes down a cliff against a pale sky"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 10

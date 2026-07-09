@@ -4,6 +4,7 @@ description: "Avoid rookie abseiling mistakes in Australia! Elevate your adventu
 pubDate: "2025-08-02"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/rapelling.webp"
+heroAlt: "Backlit silhouette of an abseiler stepping down a steep rock face on a rope, a bright sun starburst in a clear blue sky"
 tags: ["fundamentals", "safety"]
 featured: false
 readingTime: 5

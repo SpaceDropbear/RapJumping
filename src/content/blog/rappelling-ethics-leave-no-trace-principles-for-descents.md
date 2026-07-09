@@ -4,6 +4,7 @@ description: "Discover abseiling ethics for responsible descents with Leave No T
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-ethics.webp"
+heroAlt: "Blocky voxel group of six climbers in helmets and harnesses on ropes beside pale rock pinnacles with pines"
 tags: ["abseiling"]
 featured: false
 readingTime: 17

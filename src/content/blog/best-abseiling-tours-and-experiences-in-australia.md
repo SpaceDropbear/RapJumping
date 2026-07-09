@@ -4,6 +4,7 @@ description: "Discover thrilling abseiling adventures in Australia! The best abs
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-tours-australia.webp"
+heroAlt: "Pixel-art style illustration of abseilers on ropes descending a tan sandstone canyon lined with green trees"
 tags: ["australia", "abseiling"]
 featured: false
 readingTime: 11

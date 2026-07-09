@@ -4,6 +4,7 @@ description: "Uncover how to spot a safe operator or venue for abseiling adventu
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/safe-operator-abseiling.webp"
+heroAlt: "Blocky voxel-art abseiler in yellow gear descending a tall cliff tower on ropes at sunset, tiny climbers on the face"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 14

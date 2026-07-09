@@ -4,6 +4,7 @@ description: "Get ready to snap your abseiling adventures with pro photography &
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-photography.webp"
+heroAlt: "Blocky voxel illustration of an abseiler in an orange helmet holding a camera while descending a canyon cliff"
 tags: ["abseiling", "photography"]
 featured: false
 readingTime: 12

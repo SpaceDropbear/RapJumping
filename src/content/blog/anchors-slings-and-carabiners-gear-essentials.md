@@ -4,6 +4,7 @@ description: "Gear up for abseiling adventures with anchor slings, carabiners, a
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Anchors-Slings.webp"
+heroAlt: "Blocky voxel illustration of looped rope slings and linked carabiner shapes laid on a plain pale background."
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 13

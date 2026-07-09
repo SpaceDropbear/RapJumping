@@ -4,6 +4,7 @@ description: "Set and smash your abseiling goals! Whether you're a newbie or a p
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-goals.webp"
+heroAlt: "Blocky voxel illustration of climbers ascending and rappelling a tall pixellated rock tower among pine trees"
 tags: ["abseiling"]
 featured: false
 readingTime: 10

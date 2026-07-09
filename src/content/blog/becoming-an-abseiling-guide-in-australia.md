@@ -4,6 +4,7 @@ description: "Embark on your adventure becoming an abseiling guide in Australia!
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/becoming-an-abseiling-guide.webp"
+heroAlt: "Blocky voxel illustration of climbers with ropes and packs gathered at the base of a rocky peak, some ascending on ropes"
 tags: ["abseiling", "australia", "careers"]
 featured: false
 readingTime: 12

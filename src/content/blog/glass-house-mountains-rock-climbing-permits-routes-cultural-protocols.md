@@ -3,6 +3,7 @@ title: "Glass House Mountains Rock Climbing: Permits, Routes & Cultural Protocol
 description: "Glass House Mountains rock climbing & abseiling guide, peaks, heights, current QPWS access, Mount Coonowrin closure, safety and respecting Country."
 pubDate: "2026-06-27"
 heroImage: "/images/2026/06/glass-house-mountains-climbing.webp"
+heroAlt: "Hiker with a loaded pack and trekking poles scrambling up granite boulders on a summit, distant snowy ranges behind"
 draft: false
 tags: ["rock climbing", "queensland"]
 featured: false

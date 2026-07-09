@@ -4,6 +4,7 @@ description: "Discover the magic of abseiling physics! Master friction and force
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-physics.webp"
+heroAlt: "Isometric voxel cliff with figures rappelling on red ropes and dotted force-arrow lines around them"
 tags: ["abseiling"]
 featured: false
 readingTime: 12

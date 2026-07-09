@@ -4,6 +4,7 @@ description: "Master rope rescue systems with expert insight! Elevate your rappe
 pubDate: "2025-08-14"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/08/rope-rescue-systems.webp"
+heroAlt: "Blocky voxel diorama of a clifftop rope rescue, crews lowering figures down a cliff with fire trucks and cranes above"
 tags: ["abseiling", "safety"]
 featured: true
 readingTime: 14

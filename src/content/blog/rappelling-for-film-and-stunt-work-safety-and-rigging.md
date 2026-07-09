@@ -4,6 +4,7 @@ description: "Discover the art of stunt rappelling! Elevate your adventure game 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/stunt-rappelling.webp"
+heroAlt: "Colourful voxel rappeller in orange and blue descending a rope between two bright blocky cliff faces"
 tags: ["abseiling"]
 featured: false
 readingTime: 9

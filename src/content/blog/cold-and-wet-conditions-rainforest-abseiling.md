@@ -4,6 +4,7 @@ description: "Experience rainforest abseiling in cold and wet conditions - your 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Cold-and-Wet-Conditions-Rainforest-Abseiling.webp"
+heroAlt: "Blocky voxel illustration of two figures abseiling ropes down a lush rainforest gorge with a waterfall"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 12

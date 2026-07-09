@@ -4,6 +4,7 @@ description: "Unlock the ropes regulations for safe climbing! Your guide to abse
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/ropes-regulations.webp"
+heroAlt: "Blocky 3D illustration of coiled and stacked ropes in tan, white and grey arranged on a white platform"
 tags: ["abseiling", "equipment", "safety"]
 featured: false
 readingTime: 10

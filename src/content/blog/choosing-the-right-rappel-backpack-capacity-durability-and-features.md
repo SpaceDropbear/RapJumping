@@ -4,6 +4,7 @@ description: "Find your perfect rappel backpack! Unpack durability, capacity, an
 pubDate: "2025-08-14"
 updatedDate: "2025-08-16"
 heroImage: "/images/2025/08/Rappel-Backpack.webp"
+heroAlt: "Blocky voxel illustration of a green camouflage backpack with multiple straps and buckles"
 tags: ["equipment"]
 featured: false
 readingTime: 9

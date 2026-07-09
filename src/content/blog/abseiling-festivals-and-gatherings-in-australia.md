@@ -4,6 +4,7 @@ description: "Explore thrilling climbing festivals in Australia. Join fellow ent
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/climbing-festival.webp"
+heroAlt: "Illustrated crowd of helmeted abseilers on a red rock cliff above marquee tents and bushland in an outback gorge"
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 15

@@ -4,6 +4,7 @@ description: "Discover essential rope protection tips for abseiling! Safeguard y
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rope-Protection.webp"
+heroAlt: "Close-up of thick braided rope coiled and lashed around a wooden post in warm light."
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 9

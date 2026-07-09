@@ -4,6 +4,7 @@ description: "Track your abseiling progress with the best climbing logbook apps!
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/climbing-logbook-app.webp"
+heroAlt: "Illustrated 3D climbing logbook app screen with progress graphs beside voxel mountain peaks and neon-lit climbers"
 tags: ["abseiling"]
 featured: false
 readingTime: 11

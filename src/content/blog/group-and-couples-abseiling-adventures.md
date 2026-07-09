@@ -4,6 +4,7 @@ description: "Experience thrilling group abseiling adventures - perfect for fami
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/group-abseiling.webp"
+heroAlt: "Blocky voxel illustration of several helmeted figures abseiling on ropes down a tall cliff into a forest"
 tags: ["abseiling", "australia", "victoria", "queensland", "new south wales", "south australia", "western australia"]
 featured: false
 readingTime: 12

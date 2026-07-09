@@ -4,6 +4,7 @@ description: "Discover top-notch abseiling anchor systems to elevate your skills
 pubDate: "2025-08-11"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Improve-Your-Technique-with-These-Abseiling-Anchor-Systems.webp"
+heroAlt: "Illustrated pixel-art diagram of three cliff-top abseiling anchor systems with coloured ropes, carabiners and chain links"
 tags: ["safety"]
 featured: false
 readingTime: 13

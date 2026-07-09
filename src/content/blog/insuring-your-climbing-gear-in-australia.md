@@ -4,6 +4,7 @@ description: "Protect your climbing gear with gear insurance in Australia - peac
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Insuring-Your-Climbing-Gear-in-Australia.webp"
+heroAlt: "Voxel-art flat lay with Australian flag, a white protection shield, mountains, bikes, tent, boat and camera gear"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 11

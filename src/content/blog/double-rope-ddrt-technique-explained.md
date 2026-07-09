@@ -4,6 +4,7 @@ description: "Master double rope rappelling with our friendly guide! Elevate you
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/double-rope-rappelling.webp"
+heroAlt: "Blocky voxel illustration of two figures rigging ropes over a desert canyon, one descending into the gap"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 10

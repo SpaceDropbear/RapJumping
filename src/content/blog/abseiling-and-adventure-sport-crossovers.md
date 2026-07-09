@@ -4,6 +4,7 @@ description: "Explore adventure sports crossovers in Australia - your ultimate t
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/adventure-sports-australia.webp"
+heroAlt: "Blocky voxel diorama of adventure sports, skydivers, paragliders, mountain bikers and surfers by cliffs and a beach"
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 13

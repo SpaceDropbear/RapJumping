@@ -3,6 +3,7 @@ title: "Paynes Ford Limestone Climbing, Golden Bay: NZ Sport Climbing at Its Bes
 description: "Paynes Ford near Tākaka is NZ's best-known limestone sport crag. Rock, grades, access, season and DOC rules, the full guide to climbing Golden Bay."
 pubDate: "2026-07-02"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
+heroAlt: "Blocky voxel-style illustration of climbers on ropes ascending tall pixelated cliff columns, ropes and gear at base."
 draft: false
 tags: ["rock climbing", "new zealand"]
 featured: false

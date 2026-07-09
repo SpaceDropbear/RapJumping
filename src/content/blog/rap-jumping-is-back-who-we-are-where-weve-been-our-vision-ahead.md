@@ -4,6 +4,7 @@ description: "Rap Jumping is back. Meet Australia's original face-forward abseil
 pubDate: "2025-07-15"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Our-Vision-Ahead.webp"
+heroAlt: "Empty two-lane road with double white lines stretching to the horizon across golden farmland under a clear blue sky."
 tags: ["rap jumping", "stories"]
 featured: true
 readingTime: 2

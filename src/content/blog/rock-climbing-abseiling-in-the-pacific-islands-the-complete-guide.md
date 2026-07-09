@@ -3,6 +3,7 @@ title: "Rock Climbing & Abseiling in the Pacific Islands: The Complete Guide"
 description: "Rock climbing & abseiling across Fiji, Vanuatu, New Caledonia, PNG, Tonga & the Solomons, an AU climber's guide to this emerging Pacific adventure region."
 pubDate: "2026-07-02"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
+heroAlt: "Bearded climber in a rust t-shirt and harness leaning back on a rope against a rocky cliff, dry bushland below."
 draft: false
 tags: ["rock climbing", "pacific islands"]
 featured: false

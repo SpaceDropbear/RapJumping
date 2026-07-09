@@ -4,6 +4,7 @@ description: "Discover the vibrant Australian abseiling community with resources
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-community-australia.webp"
+heroAlt: "Blocky voxel illustration of helmeted climbers abseiling down two facing cliffs into a green forested canyon and river"
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 13

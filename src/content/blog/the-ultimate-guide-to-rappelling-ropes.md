@@ -4,6 +4,7 @@ description: "Choosing a rappelling rope? Compare diameter, nylon vs polyester, 
 pubDate: "2025-07-21"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Ultimate-Guide-to-Rappelling.webp"
+heroAlt: "Green and pink climbing ropes clipped through a carabiner and chain anchor on granite, blue sky behind"
 tags: ["equipment"]
 featured: false
 readingTime: 5

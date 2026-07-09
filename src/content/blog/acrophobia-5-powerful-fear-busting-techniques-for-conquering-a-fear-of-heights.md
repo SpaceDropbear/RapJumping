@@ -4,6 +4,7 @@ description: "Five practical techniques to overcome a fear of heights, so acroph
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Conquering-a-Fear-of-Heights.webp"
+heroAlt: "Looking down through a glass floored observation deck at city streets and rooftops far below, a person's legs visible."
 tags: ["mindset"]
 featured: false
 readingTime: 5

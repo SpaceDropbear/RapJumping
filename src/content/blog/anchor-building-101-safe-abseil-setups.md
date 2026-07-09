@@ -4,6 +4,7 @@ description: "How to build safe abseil anchors - natural, bolted and multi-point
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Anchor-Building-101-Safe-Abseil-Setups.webp"
+heroAlt: "Abstract greyscale voxel illustration of carabiner like shapes hanging on thin lines down a blocky cliff face."
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 15

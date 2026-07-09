@@ -4,6 +4,7 @@ description: "Embark on an unforgettable aboriginal abseiling tour! Immerse your
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/aboriginal-abseiling-tour.webp"
+heroAlt: "Illustration of a helmeted group abseiling a red rock wall painted with white Aboriginal-style dot designs"
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 11

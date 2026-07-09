@@ -4,6 +4,7 @@ description: "Discover the thrill of home abseiling practice with our expert saf
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/home-abseiling-practice.webp"
+heroAlt: "Blocky voxel scene of a helmeted figure abseiling down the facade of a suburban apartment block on ropes"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 13

@@ -4,6 +4,7 @@ description: "Discover the thrill of climbing in movies and media! Unleash your 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/climbing-film.webp"
+heroAlt: "Blocky voxel illustration of colourful climbers ascending a tall rocky pinnacle above a sea of clouds"
 tags: ["abseiling", "media"]
 featured: false
 readingTime: 14

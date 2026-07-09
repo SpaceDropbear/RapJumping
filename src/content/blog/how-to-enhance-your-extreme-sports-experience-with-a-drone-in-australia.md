@@ -4,6 +4,7 @@ description: "Take your extreme sports to the next level with drone footage. Lea
 pubDate: "2025-07-19"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Enhance-Your-Extreme-Sports-Experience-with-a-Drone.webp"
+heroAlt: "Man in a cap holding a grey quadcopter drone out toward the camera in a golden wheat field, controller in his other hand"
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 4

@@ -4,6 +4,7 @@ description: "Discover family-friendly abseiling adventures in Australia! Safely
 pubDate: "2025-08-02"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/7-yo-spidergirl.webp"
+heroAlt: "Smiling woman and young child in superhero outfits, helmets and harnesses on a city rooftop before an abseil"
 tags: ["school holidays", "kid friendly"]
 featured: false
 readingTime: 4

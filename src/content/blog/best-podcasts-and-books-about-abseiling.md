@@ -4,6 +4,7 @@ description: "Discover top abseiling podcasts and books to elevate your skills a
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-podcast.webp"
+heroAlt: "Blocky voxel scene of two people recording a podcast at a microphone while a climber abseils a white wall behind"
 tags: ["abseiling", "stories"]
 featured: false
 readingTime: 9

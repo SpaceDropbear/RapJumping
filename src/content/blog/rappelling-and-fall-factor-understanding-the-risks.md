@@ -4,6 +4,7 @@ description: "Discover the fall factor in rappelling - essential knowledge for s
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Rappelling-and-Fall-Factor-Understanding-the-Risks.webp"
+heroAlt: "Blocky 3D illustration of many helmeted figures rappelling on ropes down steep tan cliffs into a deep misty gorge."
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 9

@@ -4,6 +4,7 @@ description: "Discover unforgettable holiday gift ideas for adventurers in Austr
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/adventure-holidays-australia.webp"
+heroAlt: "Colourful isometric voxel illustration of an Australian coast with beaches, boats, red mountains and adventure activities"
 tags: ["australia", "gifts"]
 featured: false
 readingTime: 11

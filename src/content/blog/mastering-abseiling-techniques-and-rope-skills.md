@@ -4,6 +4,7 @@ description: "Mastering Abseiling Techniques and Rope Skills"
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Mastering-Abseiling-Techniques-and-Rope-Skills.webp"
+heroAlt: "Blocky voxel-style illustration of many helmeted figures abseiling on ropes down pixelated canyon walls into a green gorge."
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 15

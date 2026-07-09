@@ -4,6 +4,7 @@ description: "Why checking height safety equipment matters for recreation and wo
 pubDate: "2025-07-16"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Height-Safety-Equipment.webp"
+heroAlt: "Close-up of a work harness gear loop hung with locking carabiners, a yellow belay device and webbing slings"
 tags: ["safety"]
 featured: false
 readingTime: 9

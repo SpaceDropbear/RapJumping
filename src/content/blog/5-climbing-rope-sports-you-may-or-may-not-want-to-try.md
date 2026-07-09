@@ -4,6 +4,7 @@ description: "Explore 5 exciting climbing and rope sports, from abseiling and ca
 pubDate: "2025-07-16"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Climbing-and-Rope-Sports.webp"
+heroAlt: "Climber with a blue pack descends a towering red sandstone canyon wall on a rope under a deep blue sky"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 5

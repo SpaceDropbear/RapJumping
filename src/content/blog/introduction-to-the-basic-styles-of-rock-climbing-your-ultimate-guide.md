@@ -4,6 +4,7 @@ description: "Discover the basic styles of rock climbing, from top-roping and bo
 pubDate: "2025-07-15"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
+heroAlt: "Bearded man in an orange shirt and jeans on a harness climbing a steep grey rock face above dry bushland"
 tags: ["abseiling", "techniques"]
 featured: false
 readingTime: 4

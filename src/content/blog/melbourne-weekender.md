@@ -4,6 +4,7 @@ description: "Join Jade as she faces her fears with rap jumping in Melbourne's C
 pubDate: "2025-07-21"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/melbourne-weekender-logo.webp"
+heroAlt: ""
 tags: ["stories"]
 featured: false
 readingTime: 2

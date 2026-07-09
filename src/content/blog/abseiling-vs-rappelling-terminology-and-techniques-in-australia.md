@@ -4,6 +4,7 @@ description: "Abseiling and rappelling are the same thing - here's why Australia
 pubDate: "2025-07-26"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Abseiling-vs-Rappelling.webp"
+heroAlt: "Overhead view of a man in a red helmet and blue shirt abseiling a grey rock face above dense green eucalyptus forest."
 tags: ["fundamentals"]
 featured: false
 readingTime: 5

@@ -4,6 +4,7 @@ description: "Static vs dynamic rope for rappelling? Compare strength, stretch, 
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Ropes-for-Abseiling-Static-vs-Dynamic.webp"
+heroAlt: "Blocky 3D illustration of a single coiled climbing rope with a loose end on a plain graduated background"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 12

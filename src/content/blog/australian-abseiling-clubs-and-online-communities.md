@@ -4,6 +4,7 @@ description: "Discover top Australian abseiling clubs and engaging online commun
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/abseiling-clubs.webp"
+heroAlt: "Isometric blocky voxel scene of climbers on twin rock towers with ropes, tents and pine trees at a base camp."
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 10

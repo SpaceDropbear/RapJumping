@@ -4,6 +4,7 @@ description: "Discover abseiling insurance tips for a worry-free descent! Stay s
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Insurance-and-Safety-Measures-for-Abseiling.webp"
+heroAlt: "Voxel-art illustration of many small colourful climbers abseiling down a tall grassy-topped tower, parachute above"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 10

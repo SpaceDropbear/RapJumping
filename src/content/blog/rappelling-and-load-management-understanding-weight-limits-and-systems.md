@@ -4,6 +4,7 @@ description: "Master load management in rappelling! Discover weight limits and s
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/load-management-rappelling.webp"
+heroAlt: "Blocky 3D illustration of colourful climbers in helmets and packs rappelling on ropes down a snowy rocky mountain."
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 15

@@ -4,6 +4,7 @@ description: "Gear up for abseiling safely with the essential climbing helmet! Y
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/climbing-helmet.webp"
+heroAlt: "Blocky voxel illustration of a vented climbing helmet with chin strap displayed on a small plinth"
 tags: ["safety", "equipment"]
 featured: false
 readingTime: 8

@@ -3,6 +3,7 @@ title: "Rock Climbing in Australia: The Complete Guide"
 description: "A complete guide to rock climbing in Australia, styles, Ewbank grades, gear, safety, top regions and how to start. Plus access, permits and respecting Country."
 pubDate: "2026-06-27"
 heroImage: "/images/2026/06/rock-climbing-in-australia.webp"
+heroAlt: "Climber hanging from an overhanging boulder outdoors while a spotter watches beside crash pads, backlit by bright sky."
 draft: false
 tags: ["rock climbing", "australia"]
 featured: false

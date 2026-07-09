@@ -4,6 +4,7 @@ description: "How helicopter rappelling supports Australian Defence Force operat
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Helicopter-Rappelling-in-Australia.webp"
+heroAlt: "Red-and-white rescue helicopter over choppy sea at dusk, a crew member in an orange suit winched below on a cable"
 tags: ["abseiling", "australia"]
 featured: false
 readingTime: 4

@@ -4,6 +4,7 @@ description: "Discover essential abseiling permits and regulations in Oz. Stay s
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Permits-and-Regulations-for-Abseiling-in-Oz.webp"
+heroAlt: "Blocky voxel illustration of many small abseilers on colourful ropes between two pale cliffs topped with conifers"
 tags: ["abseiling"]
 featured: false
 readingTime: 11

@@ -4,6 +4,7 @@ description: "Give the gift of adventure this Mother's Day! Unforgettable experi
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/mothers-day-adventure.webp"
+heroAlt: "Blocky voxel-style illustration of a woman and child walking hand in hand along a path through a green blocky landscape."
 tags: ["mothers day"]
 featured: false
 readingTime: 11
