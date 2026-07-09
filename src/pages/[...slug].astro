@@ -1,6 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
-import { Image } from 'astro:assets';
+import SmartImage from '../components/SmartImage.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostRow from '../components/PostRow.astro';
 import { formatDate, tagSlug } from '../utils';
@@ -100,7 +100,14 @@ if (isPost) {
 
     {d.heroImage && (
       <div class="article-hero">
-        <Image src={d.heroImage} alt={d.heroAlt ?? d.title} width={760} height={326} loading="eager" fetchpriority="high" />
+        <SmartImage
+          src={d.heroImage}
+          alt={d.heroAlt ?? d.title}
+          widths={[380, 760, 1140]}
+          sizes="(max-width: 800px) 100vw, 760px"
+          loading="eager"
+          fetchpriority="high"
+        />
       </div>
     )}
 

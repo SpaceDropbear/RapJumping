@@ -1,0 +1,40 @@
+---
+import manifest from '../generated/image-manifest.json';
+import { variantUrl } from '../lib/image-variants.mjs';
+
+interface Props {
+  src: string;
+  alt: string;
+  widths: number[];
+  sizes: string;
+  loading?: 'eager' | 'lazy';
+  fetchpriority?: 'high' | 'low' | 'auto';
+  class?: string;
+}
+
+const { src, alt, widths, sizes, loading = 'lazy', fetchpriority, class: className } = Astro.props;
+
+// The manifest is written by scripts/gen-image-variants.mjs before the build, so we know
+// here which derivatives actually exist on disk. Requesting a width that was never
+// generated (because the source was too small to resize down to it) would ship a 404,
+// so intersect what the slot wants with what exists.
+const entry = (manifest as Record<string, { width: number; height: number; widths: number[] }>)[src];
+const available = entry ? widths.filter((w) => entry.widths.includes(w)) : [];
+
+const srcset = available.map((w) => `${variantUrl(src, w)} ${w}w`).join(', ');
+// Fall back to the original: an image with no derivatives (already small, or an unknown
+// path) still renders, it just is not resized.
+const fallback = available.length ? variantUrl(src, available[available.length - 1]) : src;
+---
+<img
+  src={fallback}
+  srcset={srcset || undefined}
+  sizes={srcset ? sizes : undefined}
+  alt={alt}
+  width={entry?.width}
+  height={entry?.height}
+  loading={loading}
+  fetchpriority={fetchpriority}
+  decoding="async"
+  class={className}
+/>

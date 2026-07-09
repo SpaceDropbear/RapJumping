@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets';
+import SmartImage from './SmartImage.astro';
 import { formatDate } from '../utils';
 const { post, eager = false, index = 0 } = Astro.props;
 const { title, heroImage, description, pubDate, readingTime } = post.data;
@@ -10,7 +10,9 @@ const url = `/${post.id.replace(/\.md$/, '')}/`;
       from assistive tech (and the tab order) rather than announcing the title twice; it stays
       clickable for pointer users. alt="" for the same reason: the heading is the label. */}
   <a class="rthumb" href={url} aria-hidden="true" tabindex="-1">
-    {heroImage && <Image src={heroImage} alt="" loading={eager ? "eager" : "lazy"} decoding="async" width={140} height={88} />}
+    {heroImage && (
+      <SmartImage src={heroImage} alt="" widths={[140, 280]} sizes="140px" loading={eager ? 'eager' : 'lazy'} />
+    )}
   </a>
   <div>
     <h3><a href={url}>{title}</a></h3>

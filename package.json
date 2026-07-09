@@ -3,8 +3,8 @@
   "type": "module",
   "version": "1.0.0",
   "scripts": {
-    "dev": "astro dev",
-    "build": "node scripts/clear-content-cache.mjs && astro build",
+    "dev": "node scripts/gen-image-variants.mjs && astro dev",
+    "build": "node scripts/clear-content-cache.mjs && node scripts/gen-image-variants.mjs && astro build",
     "preview": "npm run build && wrangler dev",
     "astro": "astro",
     "generate-types": "wrangler types",
@@ -20,7 +20,8 @@
     "astro": "^6.4.3"
   },
   "devDependencies": {
-    "wrangler": "^4.97.0"
+    "wrangler": "^4.97.0",
+    "sharp": "^0.34.0"
   },
   "overrides": {
     "vite": "^7"

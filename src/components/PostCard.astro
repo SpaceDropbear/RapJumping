@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets';
+import SmartImage from './SmartImage.astro';
 import { formatDate } from '../utils';
 const { post, index = 0 } = Astro.props;
 const { title, heroImage, tags = [], pubDate, readingTime } = post.data;
@@ -12,7 +12,9 @@ const url = `/${post.id.replace(/\.md$/, '')}/`;
       {/* Decorative: the <h3> below already labels this link, so alt text would make a
           screen reader announce the title twice. The featured grid sits below the hero,
           so lazy loading keeps these off the LCP critical path. */}
-      {heroImage && <Image src={heroImage} alt="" loading="lazy" decoding="async" width={280} height={158} />}
+      {heroImage && (
+        <SmartImage src={heroImage} alt="" widths={[280, 560]} sizes="(max-width: 700px) 100vw, 360px" loading="lazy" />
+      )}
     </div>
     <div class="body">
       {kicker && <span class="kicker">{kicker}</span>}
