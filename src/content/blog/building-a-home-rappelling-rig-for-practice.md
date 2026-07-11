@@ -66,6 +66,13 @@ Carabiners are like the unsung heroes of any rope system. They attach your rope 
 
 A secure anchor is the backbone of your entire setup. To anchor your rope, you might use strong structural points like thick wooden beams or well-anchored steel supports on your property. For the tie-in, tubular webbing is a classic choice because it's strong, inexpensive, and lies flat against surfaces. You can tie webbing into a loop with a Tape Knot, then connect the loop to your anchor with carabiners or by girth-hitching directly onto a beam (if it's sturdy enough). Aim for at least two anchor points so that one backs up the other in case of failure.
 
+
+**Our picks:** a simple starting kit from Wild Earth that lines up with the specs in this guide.
+
+- [Tendon Canyon 10.2mm Salamander Static Rope, 60 m](https://www.wildearth.com.au/buy/tendon-canyon-10.2mm-salamander-static-rope-60m-ye/TGCSAL60) - a low-stretch rope that sits inside the 9.0 to 10.5 mm range suggested here; at 60 m it only covers doubled-line drops under about 28 m, around $200 to $220, ships within Australia.
+- [Black Diamond RockLock Screwgate Carabiner](https://www.wildearth.com.au/buy/black-diamond-rocklock-screwgate-carabiner-black/BD2102560002ALL1) - a large locker rated to 24 kN gate closed for device and anchor connections, and you'll want at least two; the screwgate is manual, so checking it is locked has to become habit, around $25 to $35 each, ships within Australia.
+- [Climbing slings and runners](https://www.wildearth.com.au/shop/climbing-gear/climbing-slings) - sewn slings for equalising two or more anchor points; the range mixes nylon and Dyneema, so check the material before you buy, around $15 to $45 each depending on length, ships within Australia.
+
 ## Prepare a safe anchor system
 
 Your anchor does far more than keep you “attached.” It's your lifeline. If there's one place not to cut corners, it's here. In typical outdoor climbing scenarios, you'd use natural features, bolts, or fixed gear. At home, you need to rely on manmade structures and your ability to thoroughly verify their security.

@@ -92,6 +92,12 @@ Strong, redundant anchors are non-negotiable. It's recommended to use a minimum 
 - Inspect your rope for wear, fraying, or cuts before every descent.
 - Knot the ends. Unknotting them is a small chore compared to the risk of rappelling off a rope's end.
 
+
+**Our picks:** Two basics worth owning before you practise any descent, both stocked locally.
+
+- [Metolius Talon belay gloves](https://www.wildearth.com.au/buy/metolius-talon-unisex-belay-gloves-black-olive/MT-TALON) - full-finger synthetic gloves that protect your brake hand during rope work, though you give up some rope feel compared with a fingerless pair, around $50 to $60, ships within Australia.
+- [Petzl Corax climbing harness](https://www.wildearth.com.au/buy/petzl-corax-unisex-climbing-harness/H635-C051) - a fully adjustable, UIAA and EN 12277 certified all-rounder for standard abseil setups, not designed to be worn reversed so keep it to conventional configurations, around $160 to $180, ships within Australia.
+
 ## Focus on safety and checks
 
 Safety isn't about paranoia; it's about making sure you're free to enjoy the rush without nasty surprises. Since abseiling accounts for a significant portion of climbing incidents, you want to set yourself up for success through proper preparation.

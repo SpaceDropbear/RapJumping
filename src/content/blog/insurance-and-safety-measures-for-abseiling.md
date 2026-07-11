@@ -109,6 +109,9 @@ Several insurance providers offer policies specifically designed for high-risk s
 
 You'll find that each insurer has a slightly different way of handling claims. Some keep it straightforward with one combined policy, while others split coverage into multiple segments, like a basic plan plus separate add-ons for advanced abseiling or for higher altitudes. Knowing your own skill level and the environment you'll be descending in goes a long way toward picking the right policy.
 
+
+In Australia, [Cover-More](https://www.covermore.com.au/travel-insurance/adventure-travel-insurance) is one example of a mainstream travel insurer whose adventure cover lists abseiling and rock climbing among the activities it can include. Whichever insurer you look at, read the Product Disclosure Statement before you pay, and confirm that abseiling or climbing appears as an included activity for the exact plan you are buying, not just in the marketing material. Cover-More publishes its [PDS documents](https://www.covermore.com.au/pds) online, so you can check the activity list, benefit limits, and exclusions before committing.
+
 ### Common exclusions
 
 Not all abseiling insurance is created equal, and some providers have tough exclusions. Here are a few examples:

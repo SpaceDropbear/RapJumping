@@ -70,6 +70,9 @@ So, how can an insurance policy shield you from the unexpected? Policies differ,
 - Abseiling is often about exploration, which means travelling with your gear. Some policies offer transit coverage for domestic or even international trips.
 - If you plan to abseil overseas, check if the policy supports global coverage and how many days abroad are included. For instance, some insurers provide a set number of days for international use each year.
 
+
+A quick distinction that trips people up: travel insurance and gear insurance are different products. A travel policy such as [Cover-More's adventure travel insurance](https://www.covermore.com.au/travel-insurance/adventure-travel-insurance) covers trip risks like medical costs, cancellations and luggage, and lists abseiling among the adventure activities included automatically, but per-item luggage limits are typically well below the replacement cost of a full set of ropes and hardware. If you intend to rely on travel cover while away, read the PDS to confirm the adventure activity inclusions on your plan and check the item limits against your most valuable gear.
+
 ### What's usually excluded
 
 - Wear and tear is almost always excluded. Insurance is there for sudden, unforeseen damage, not gradual deterioration.

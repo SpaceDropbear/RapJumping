@@ -70,6 +70,13 @@ A rope is the heart of your abseiling setup. You literally trust your life to it
 - **Rope protection:** Rocks, edges, and friction can damage your rope over time. Use rope protection such as protective sleeves or rope protectors that fit over contact points. Always check for frays before and after each use.
 - **Storage and transport:** Consider getting a [rope bag](/best-rope-bags-and-packs-for-abseiling/) or a [rappel backpack](/choosing-the-right-rappel-backpack-capacity-durability-and-features/) to keep your rope bundled neatly. Storing your rope in a bag helps prevent tangles, keeps it free of dirt, and makes coiling a breeze.
 
+
+**Our picks:** If you are putting together the core kit above, these three from Wild Earth cover the harness, rope and locking carabiner.
+
+- [Petzl Corax adjustable climbing harness](https://www.wildearth.com.au/buy/petzl-corax-unisex-climbing-harness-navy-blue-1/H635-C051BB00) - a UIAA certified sit harness with adjustable waist and leg buckles that suits beginners who want one harness for abseiling and climbing, though it is bulkier than sport-specific models, around $140 to $180, ships within Australia.
+- [Tendon 11mm static rope, 50m](https://www.wildearth.com.au/buy/tendon-11mm-static-rope-50m-white/TS11-50W) - an EN 1891 rated low stretch rope in a hard-wearing 11mm diameter for steady, controlled descents, though 50m only covers shorter routes so confirm your descent length first, around $200 to $260, ships within Australia.
+- [Black Diamond RockLock screwgate carabiner](https://www.wildearth.com.au/buy/black-diamond-rocklock-screwgate-carabiner-black/BD2102560002ALL1) - a large HMS style locker with a 24mm gate opening that pairs easily with belay devices, though the screwgate must be twisted shut by hand so check it before every descent, around $25 to $40, ships within Australia.
+
 ## Use essential friction devices
 
 Your friction device or belay device is like your on-off switch for movement on the rope. It controls how quickly you descend and allows you to lock off if you need to pause. Various designs exist, each with unique features.

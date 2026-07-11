@@ -1,6 +1,6 @@
 ---
-title: "Static vs Dynamic Rope for Abseiling: How to Choose (AU)"
-description: "Static vs dynamic rope for rappelling? Compare strength, stretch, diameter and safety ratings to choose the best abseiling rope for Australian conditions."
+title: "Static vs Dynamic Rope: Which to Buy for Abseiling (AU)"
+description: "Static rope is the right choice for abseiling and rappelling; dynamic rope is for climbing falls. Compare stretch, diameter and certifications first."
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/08/Ropes-for-Abseiling-Static-vs-Dynamic.webp"

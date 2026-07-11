@@ -78,6 +78,12 @@ You've probably heard that layering is the secret to success in many outdoor act
 - In winter or cooler regions, consider wearing thermal leggings and long-sleeve tops.
 - If you run hot, shorter sleeves or thinner leggings might be enough.
 
+
+**Our picks:** Wilderness Wear makes its merino base layers in Australia, and two fabric weights cover most abseiling conditions (men's pages linked, women's versions are listed on the same site).
+
+- [Wilderness Wear Light Merino 170 base layers](https://wildernesswear.com.au/mens-thermals-light-merino-170/) - Australian-made light merino (160 g/m2 tops, 170 g/m2 leggings) for mild days or if you run hot, too light on its own in alpine winter, around $120 to $140, ships within Australia.
+- [Wilderness Wear Merino Mid 220 long sleeve](https://wildernesswear.com.au/product/mens-merino-mid-220-long-sleeve/) - 220 g/m2 Australian-made merino for cold mornings and cool-climate crags, runs warm once you are working hard in mild weather, around $130 to $150, ships within Australia.
+
 ### Mid layer essentials
 
 - Fleece jackets and hoodies provide warmth without sacrificing too much mobility.

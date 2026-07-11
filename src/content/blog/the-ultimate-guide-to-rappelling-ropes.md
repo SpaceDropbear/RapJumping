@@ -1,6 +1,6 @@
 ---
-title: "Abseiling Rope Guide: Diameter, Material & Safety (AU)"
-description: "Choosing a rappelling rope? Compare diameter, nylon vs polyester, static vs dynamic and safety ratings to pick the right abseiling rope in Australia."
+title: "Rappelling Ropes Buying Guide: Diameter, Type & Safety"
+description: "Buying a rappelling rope? Compare static vs dynamic, diameter, nylon vs polyester and UIAA ratings to choose the right rope for abseiling in Australia."
 pubDate: "2025-07-21"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Ultimate-Guide-to-Rappelling.webp"
