@@ -16,7 +16,7 @@
 // Commission Factory publisher id. Comes from the first tracking link generated in the CF
 // dashboard (the number after t.cfjump.com/). While null, no CF link is rewritten even if
 // a merchant is marked live, so a half-configured registry can never emit broken links.
-export const CF_PUBLISHER_ID = null; // TODO(Derek): likely 93386 (dashboard URL /Affiliate/93386/) - CONFIRM against one dashboard-built deep link before setting
+export const CF_PUBLISHER_ID = '93386'; // confirmed from the CF dashboard (Derek Whittingham (93386)); cfjump URL shape still to be cross-checked against one dashboard-built deep link
 
 /** CF deep link: https://t.cfjump.com/<publisherId>/t/<merchantId>?Url=<enc>&UniqueId=<subId> */
 function cfLink(merchantId) {
