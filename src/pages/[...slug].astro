@@ -20,9 +20,12 @@ export async function getStaticPaths() {
 }
 
 const { entry, kind } = Astro.props;
-const { Content } = await render(entry);
+const { Content, remarkPluginFrontmatter } = await render(entry);
 const d = entry.data;
 const isPost = kind === 'post';
+// Set at build time by rehypeAffiliateLinks the moment a link on this page is monetised,
+// so the disclosure can never drift from the links (ACCC: disclose on the page it happens).
+const hasAffiliateLinks = remarkPluginFrontmatter?.hasAffiliateLinks === true;
 
 // Freshness is a trust signal on safety content, but only when it is real: show the
 // updated date solely when it is genuinely later than publication.
@@ -109,6 +112,13 @@ if (isPost) {
           fetchpriority="high"
         />
       </div>
+    )}
+
+    {hasAffiliateLinks && (
+      <aside class="affiliate-note">
+        If you buy through a link on this page, Rap Jumping earns a small commission from the
+        retailer. You pay the same price. Recommendations are independent.
+      </aside>
     )}
 
     <div class="prose">

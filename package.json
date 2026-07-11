@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "scripts": {
-    "dev": "node scripts/gen-image-variants.mjs && astro dev",
+    "dev": "node scripts/clear-content-cache.mjs && node scripts/gen-image-variants.mjs && astro dev",
     "build": "node scripts/clear-content-cache.mjs && node scripts/gen-image-variants.mjs && astro build",
     "preview": "npm run build && wrangler dev",
     "astro": "astro",

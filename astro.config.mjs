@@ -5,6 +5,8 @@ import sitemap from '@astrojs/sitemap';
 import cloudflare from '@astrojs/cloudflare';
 
 import { readdirSync, readFileSync } from 'node:fs';
+import { basename } from 'node:path';
+import { affiliateUrlFor, liveDomains } from './src/data/affiliates.mjs';
 
 // Build a slug -> lastmod (ISO) map from blog frontmatter so the sitemap can emit
 // <lastmod> per post (updatedDate, falling back to pubDate). @astrojs/sitemap can't
@@ -119,11 +121,116 @@ function rehypeWrapTables() {
   };
 }
 
+// Rewrite plain merchant URLs into affiliate tracking links at build time. Authors never
+// touch tracking URLs: they write the ordinary product/merchant link, the registry
+// (src/data/affiliates.mjs) decides what monetises. Citations are protected by per-merchant
+// path rules, pending merchants stay plain, and the page is flagged so the template can
+// show the disclosure exactly where affiliate links exist.
+const tripwireViolations = new Set();
+
+// Rehype throws are swallowed by the render pipeline, so the tripwire fails the build here,
+// where an integration error genuinely aborts the deploy.
+function affiliateTripwire() {
+  return {
+    name: 'rj-affiliate-tripwire',
+    hooks: {
+      'astro:build:done': () => {
+        if (tripwireViolations.size) {
+          throw new Error(
+            `[affiliate] build rejected - live merchant links inside raw HTML blocks:\n  ` +
+            [...tripwireViolations].join('\n  '),
+          );
+        }
+      },
+    },
+  };
+}
+
+function rehypeAffiliateLinks() {
+  return (tree, file) => {
+    const slug = basename(String(file.path ?? ''))
+      .replace(/\.mdx?$/, '')
+      .toLowerCase()
+      .replace(/[^a-z0-9-]+/g, '-')
+      .slice(0, 50);
+
+    let rewrote = false;
+    const walk = (node) => {
+      if (node.type === 'element' && node.tagName === 'a' && node.properties?.href) {
+        const tracked = affiliateUrlFor(String(node.properties.href), slug);
+        if (tracked) {
+          node.properties.href = tracked;
+          node.properties.rel = ['sponsored', 'noopener'];
+          node.properties.target = '_blank';
+          rewrote = true;
+          console.log(`[affiliate] ${slug}: monetised ${String(node.properties.href).slice(0, 90)}`);
+        }
+      } else if (node.type === 'raw') {
+        // Astro applies rehype-raw AFTER user plugins, so anchors inside hand-written HTML
+        // blocks are invisible to the rewrite above. A live-merchant link in a raw block
+        // would render as a plain, unmonetised, undisclosed link. A throw here gets
+        // swallowed by Astro's render pipeline (verified: build still exits 0), so record
+        // the violation and fail the build in the integration hook below.
+        const raw = String(node.value ?? '');
+        const hit = liveDomains().find((d) => raw.includes(d));
+        if (hit) {
+          tripwireViolations.add(`${slug}: live merchant "${hit}" in a raw HTML block`);
+          console.error(`[affiliate] TRIPWIRE ${slug}: "${hit}" inside raw HTML - author it in plain markdown`);
+        }
+      }
+      for (const child of node.children ?? []) walk(child);
+    };
+    walk(tree);
+
+    if (rewrote) {
+      file.data.astro ??= {};
+      file.data.astro.frontmatter ??= {};
+      file.data.astro.frontmatter.hasAffiliateLinks = true;
+    }
+  };
+}
+
+// Wrap an "**Our picks:**" paragraph plus its following list in a labelled gear-pick box,
+// so per-box disclosure sits at the point of action. Authored in pure markdown (never raw
+// HTML - see the tripwire above), styled by .gear-pick in global.css.
+function rehypeGearPick() {
+  return (tree) => {
+    const kids = tree.children;
+    for (let i = 0; i < kids.length; i++) {
+      const n = kids[i];
+      if (n.type !== 'element' || n.tagName !== 'p') continue;
+      const first = (n.children ?? [])[0];
+      if (!first || first.type !== 'element' || first.tagName !== 'strong') continue;
+      if (!/^our picks\b/i.test(headingText(first))) continue;
+
+      // The box spans the marker paragraph and the list that follows it.
+      let end = i + 1;
+      while (end < kids.length && kids[end].type === 'text' && !kids[end].value.trim()) end++;
+      if (end >= kids.length || kids[end].tagName !== 'ul') continue;
+      const body = kids.slice(i, end + 1);
+
+      const badge = {
+        type: 'element',
+        tagName: 'span',
+        properties: { className: ['gear-pick-badge'] },
+        children: [{ type: 'text', value: 'Affiliate links' }],
+      };
+      kids.splice(i, end + 1 - i, {
+        type: 'element',
+        tagName: 'div',
+        properties: { className: ['gear-pick'] },
+        children: [badge, ...body],
+      });
+    }
+  };
+}
+
 // Update `site` to your final production domain before deploy.
 export default defineConfig({
   site: 'https://www.rapjumping.com',
   integrations: [
     mdx(),
+    affiliateTripwire(),
     sitemap({
       filter: (page) => {
         const tag = new URL(page).pathname.match(/^\/tag\/([^/]+)\/?$/)?.[1];
@@ -147,7 +254,7 @@ export default defineConfig({
 
   markdown: {
     shikiConfig: { theme: 'github-dark', wrap: true },
-    rehypePlugins: [rehypeTldrCallout, rehypeWrapTables],
+    rehypePlugins: [rehypeTldrCallout, rehypeWrapTables, rehypeGearPick, rehypeAffiliateLinks],
   },
 
   adapter: cloudflare(),
