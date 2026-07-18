@@ -14,13 +14,25 @@ export async function getStaticPaths() {
       map.get(slug).posts.push(p);
     }
   }
+  // Cross-navigation for the footer of every tag page: other topics with 2+ posts only,
+  // mirroring the noindex threshold so this never builds site-wide links into thin,
+  // noindexed tag pages. Top 8 by size.
+  const topics = [...map.entries()]
+    .filter(([, v]) => v.posts.length >= 2)
+    .sort((a, b) => b[1].posts.length - a[1].posts.length)
+    .slice(0, 8)
+    .map(([slug, v]) => ({ slug, label: v.label, count: v.posts.length }));
   return [...map.entries()].map(([slug, { label, posts }]) => ({
     params: { tag: slug },
-    props: { label, posts: posts.sort(sortByDate) },
+    props: {
+      label,
+      posts: posts.sort(sortByDate),
+      otherTopics: topics.filter((t) => t.slug !== slug).slice(0, 6),
+    },
   }));
 }
 
-const { label, posts } = Astro.props;
+const { label, posts, otherTopics } = Astro.props;
 const description = `${label} guides, tips and gear reviews from Australia's abseiling and rap jumping experts - ${posts.length} ${posts.length === 1 ? 'article' : 'articles'} on ${label}.`;
 const breadcrumbs = [
   { name: 'Home', path: '/' },
@@ -30,10 +42,29 @@ const breadcrumbs = [
 <BaseLayout title={`${label} | Rap Jumping`} description={description} breadcrumbs={breadcrumbs} noindex={posts.length < 2}>
   <div class="wrap-narrow">
     <h1 class="page-title">{label}</h1>
-    <p class="page-sub">{posts.length} {posts.length === 1 ? 'article' : 'articles'}</p>
+    <p class="page-sub">
+      {posts.length === 1
+        ? `One guide on ${label}, newest work first.`
+        : `${posts.length} guides on ${label}: technique, gear and safety, newest first.`}
+    </p>
     <h2 class="sr-only">Articles tagged {label}</h2>
     <div style="margin-top: 16px;">
       {posts.map((post, i) => <PostRow post={post} eager={i === 0} index={i} />)}
     </div>
+
+    <section class="tag-next">
+      <h2 class="sr-only">Keep exploring</h2>
+      {otherTopics.length > 0 && (
+        <div class="topic-grid">
+          {otherTopics.map((t) => (
+            <a class="topic" href={`/tag/${t.slug}/`}>
+              <span class="topic-name">{t.label}</span>
+              <span class="topic-count">{t.count} posts</span>
+            </a>
+          ))}
+        </div>
+      )}
+      <p class="tag-next-cta"><a class="btn btn-primary" href="/blog/">Browse all articles</a></p>
+    </section>
   </div>
 </BaseLayout>

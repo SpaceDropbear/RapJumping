@@ -11,20 +11,18 @@ trustNote: >-
   replaces hands-on instruction from a qualified instructor.
 ---
 
-Welcome to Rap Jumping - your go-to guide for all things vertical adventure.
+Rap Jumping is an independent reference site for abseiling, rappelling and rap jumping (face-forward descent), written from Melbourne, Victoria.
 
-> **⚠️ Safety Notice:** Abseiling, rappelling, rap jumping, and rock climbing are inherently dangerous activities that carry a risk of serious injury or death. All content on this site is for general information only. These activities should only be undertaken under the supervision and guidance of a qualified, trained professional, and you should always seek instruction from a certified instructor before attempting them. Nothing on this site is intended to exclude, restrict or modify any rights or guarantees you have under the Australian Consumer Law. Rapjumping.com accepts no liability for any injury, loss, or damage arising from participation in these activities.
+<aside class="notice" role="note" aria-label="Safety notice"><strong>Safety notice:</strong> Abseiling, rappelling, rap jumping, and rock climbing are inherently dangerous activities that carry a risk of serious injury or death. All content on this site is for general information only. These activities should only be undertaken under the supervision and guidance of a qualified, trained professional, and you should always seek instruction from a certified instructor before attempting them. Nothing on this site is intended to exclude, restrict or modify any rights or guarantees you have under the Australian Consumer Law. Rapjumping.com accepts no liability for any injury, loss, or damage arising from participation in these activities.</aside>
 
-Once home to Melbourne's iconic urban abseiling experience, rapjumping.com is now your hub for discovering the best rappelling, canyoning, and abseiling adventures across Australia and beyond.
+This domain was once home to Melbourne's original face-forward abseiling experience, running descents from city buildings until March 2020. The tours have not operated since. What remains is the technique knowledge, and this site now exists to write it down.
 
-We review gear, share expert tips, and feature the most thrilling tours - all designed to help you get off the ground (literally) and into the wild. Whether you're a first-time jumper or a seasoned thrill-seeker, we're here to point you toward your next adrenaline rush.
+The guides cover three things: how descent techniques work (friction, rope behaviour, device mechanics), what gear standards mean when you are choosing equipment (EN 1891, EN 892 and UIAA ratings, with AU availability), and how to plan trips around Australian crags, canyons and parks using the rules the land managers publish. Sources are parks authorities, standards bodies and equipment manufacturers, not tour brochures.
 
-This site is independently run and supported through affiliate partnerships. When you book an experience or buy gear through our links, we may earn a small commission - at no extra cost to you. It helps keep the rope tight and the content flowing.
+This site is independently run and supported through affiliate partnerships. When you buy gear or book through a link here, the retailer pays a small commission. You pay the same price, and recommendations are chosen before any link is attached.
 
-Start your next descent with confidence.
+Reading about a technique is not the same as being taught it. Use these guides to understand what your instructor is doing and why, then get on a rope with someone qualified.
 
 ## Contact
 
 Rap Jumping is based in Melbourne, Victoria, Australia. For enquiries, email [info@rapjumping.com](mailto:info@rapjumping.com).
-
-![](/images/2025/08/Logo.webp)

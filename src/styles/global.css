@@ -90,7 +90,7 @@ h1, h2, h3, h4 { color: var(--ink); font-family: var(--font-display); line-heigh
 :root[data-theme="dark"] .theme-toggle .i-moon { display: none; }
 
 /* Buttons */
-.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; font-family: var(--font-sans); font-weight: 600; font-size: 15px; line-height: 1; padding: 12px 22px; border-radius: 999px; border: 1px solid transparent; cursor: pointer; transition: transform .12s ease, background-color .15s ease, border-color .15s ease, color .15s ease; }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; font-family: var(--font-sans); font-weight: 600; font-size: 15px; line-height: 1; padding: 12px 22px; border-radius: 999px; border: 1px solid transparent; cursor: pointer; transition: transform .12s ease, background-color .15s ease, border-color .15s ease, color .15s ease; }
 .btn:hover { text-decoration: none; }
 .btn:active { transform: translateY(1px); }
 .btn-primary { background: var(--brand); color: #fff; }
@@ -139,7 +139,7 @@ h1, h2, h3, h4 { color: var(--ink); font-family: var(--font-display); line-heigh
 .post-row h3 { font-size: 20px; margin: 0; }
 .post-row h3 a { color: var(--ink); }
 .post-row h3 a:hover { color: var(--accent-text); text-decoration: none; }
-.post-row .excerpt { color: var(--muted); font-size: 15px; margin: 6px 0 0; }
+.post-row .excerpt { color: var(--muted); font-size: 15px; margin: 6px 0 0;; }
 .post-row .meta { color: var(--muted); font-size: 13px; margin-top: 8px; }
 
 /* Tags */
@@ -220,6 +220,11 @@ h1, h2, h3, h4 { color: var(--ink); font-family: var(--font-display); line-heigh
 .gear-pick > ul { margin: 0; padding-left: 1.2em; }
 .gear-pick > ul li { margin: .5em 0; }
 
+/* Notice: safety/legal callouts. A disclaimer is a notice, not a quotation - plain
+   upright text at body contrast in the standard bordered box, never blockquote italics. */
+.prose .notice { margin: 1.6em 0; padding: 16px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); font-size: 15.5px; line-height: 1.65; color: var(--body); }
+.prose .notice strong { color: var(--ink); }
+
 /* Trust block: who stands behind this page. YMYL E-E-A-T, opt-in via frontmatter. */
 .trust-note { display: flex; gap: 16px; align-items: flex-start; margin: 44px 0 0; padding: 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
 .trust-mark { flex: none; width: 44px; height: 44px; border-radius: 10px; background: var(--brand); color: #fff; display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; font-size: 17px; }
@@ -263,11 +268,17 @@ main:has(.cta-band) + .site-footer { margin-top: 0; }
    (matching the home's "Popular guides" pattern, not the PostRow media object). */
 .notfound { text-align: center; padding: clamp(56px, 9vw, 88px) 20px; }
 .notfound .page-title { margin-top: 18px; }
-.notfound code { font-size: .92em; }
+.notfound code { font-size: .92em; overflow-wrap: anywhere; }
 .notfound-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 26px 0 0; }
 .notfound-heading { font-size: 20px; margin: clamp(40px, 6vw, 56px) 0 14px; }
 .notfound-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
 .notfound-list a { font-weight: 500; }
+
+/* Tag-page footer: the archive's one clear next step. Topic tiles reuse the home
+   Explore-topics device (44px+ targets); the primary action closes the page. */
+.tag-next { margin: clamp(36px, 6vw, 52px) 0 44px; }
+.tag-next .topic-grid { margin-bottom: 22px; }
+.tag-next-cta { margin: 0; }
 
 /* Pagination: real buttons, not tag chips. Wraps to two rows under ~420px. */
 .pagination { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin: clamp(32px, 5vw, 44px) 0; }
