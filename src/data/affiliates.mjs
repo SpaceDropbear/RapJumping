@@ -16,13 +16,13 @@
 // Commission Factory publisher id. Comes from the first tracking link generated in the CF
 // dashboard (the number after t.cfjump.com/). While null, no CF link is rewritten even if
 // a merchant is marked live, so a half-configured registry can never emit broken links.
-// VERIFIED 2026-07-20 against the API's own TrackingUrl on the two joined merchants:
-// `https://t.cfjump.com/93386/t/14143` (Wilderness Wear) and `.../t/91702` (Kakadu). The
-// base and publisher id are no longer an inference. The deep-link QUERY (`?Url=&UniqueId=`)
-// is still the documented convention rather than something we have seen CF emit - and the
-// GYG lesson (their builder adds a param no public source mentions) says treat that as
-// unconfirmed. Mitigation: point early CF links at a merchant's own top-level URL, where a
-// wrong `Url=` param degrades to exactly the destination we wanted anyway.
+// FULLY VERIFIED 2026-07-20, in two parts:
+//  - BASE + publisher id, from the API's own TrackingUrl on the joined merchants:
+//    `https://t.cfjump.com/93386/t/14143` (Wilderness Wear), `.../t/91702` (Kakadu).
+//  - DEEP-LINK QUERY (`?Url=<enc>&UniqueId=<subId>`), by Derek click-testing a live built
+//    link: it lands on the specific product page, not the merchant homepage. That was the
+//    last inferred piece of the whole affiliate stack, and it is now observed behaviour.
+// So cfLink() may be pointed at deep product URLs with confidence, not just top-level ones.
 export const CF_PUBLISHER_ID = '93386';
 
 /** CF deep link: https://t.cfjump.com/<publisherId>/t/<merchantId>?Url=<enc>&UniqueId=<subId> */
