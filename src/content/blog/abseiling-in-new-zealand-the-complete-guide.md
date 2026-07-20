@@ -95,10 +95,10 @@ Two spokes in this series are less about a place and more about getting started 
 
 **Book it:** the main bookable descents in the regions above
 
-- [Waitomo: Black Abyss](https://www.getyourguide.com/waitomo-glowworm-caves-l35827/black-abyss-the-legendary-black-water-tour-t140742/) - the 35-metre abseil into Ruakuri Cave, then glow-worms, tubing and underground waterfalls.
-- [Waitomo: Black Labyrinth](https://www.getyourguide.com/waitomo-glowworm-caves-l35827/black-labyrinth-the-legendary-black-water-rafting-co-t140739/) - the original black-water trip, floating rather than abseiling in, if the rope drop is a step too far.
+- [Waitomo: Black Abyss](https://www.getyourguide.com/waitomo-l32442/black-abyss-the-legendary-black-water-tour-t140742/) - the 35-metre abseil into Ruakuri Cave, then glow-worms, tubing and underground waterfalls.
+- [Waitomo: Black Labyrinth](https://www.getyourguide.com/waitomo-l32442/black-labyrinth-the-legendary-black-water-rafting-co-t140739/) - the original black-water trip, floating rather than abseiling in, if the rope drop is a step too far.
 - [Auckland rainforest canyoning](https://www.getyourguide.com/auckland-region-l821/auckland-canyoning-rainforest-adventure-t27030/) - abseils up to 50 metres in a volcanic gorge, 40 minutes from the city.
-- [Queenstown half-day canyoning](https://www.getyourguide.com/queenstown-l498/queenstown-half-day-canyoning-adventure-t361740/) and the [Gibbston Valley trip](https://www.getyourguide.com/queenstown-l498/kawarau-half-day-canyoning-adventure-from-queenstown-t172491/) - the abseils, slides and down-climbs described above.
+- [Queenstown: Gibbston Valley half-day canyoning](https://www.getyourguide.com/queenstown-l498/queenstown-gibbston-valley-half-day-canyoning-adventure-t172491/) - the abseils, slides and down-climbs described above, in the gorges past the Kawarau bungy bridge. Bookings reopen in October.
 - [Wanaka waterfall climb and canyon](https://www.getyourguide.com/wanaka-l946/wanaka-canyoning-tour-with-helicopter-transfers-t411173/) - climb one side, abseil the other, no experience needed.
 
 The alpine South Island objectives in this section are a different matter: those are guided mountaineering arrangements rather than something you book off a shelf.

@@ -97,8 +97,8 @@ You can keep an eye out for seasonal packages, since some providers offer dry-se
 
 **Book it:** rope descents around Cairns
 
-- [Behana Gorge rainforest canyoning](https://www.getyourguide.com/cairns-l298/cairns-behana-or-crystals-adventure-tour-cairns-canyoning-t353466/) - abseils, slides and swims in Wooroonooran National Park, half a day.
-- [Crystal Cascades and Behana full day](https://www.getyourguide.com/cairns-l298/cairns-crystals-behana-adventure-tour-cairns-canyoning-t352921/) - the longer version, with more abseiling.
+- [Behana Gorge rainforest canyoning](https://www.getyourguide.com/cairns-l298/behana-gorge-rainforest-adventure-tour-t353466/) - abseils, slides and swims in Wooroonooran National Park, half a day.
+- [Crystal Cascades and Behana full day](https://www.getyourguide.com/cairns-l298/cairns-full-day-canyoning-adventure-tour-t352921/) - the longer version, with more abseiling.
 
 Worth being straight about the gap: the Melbourne and Gold Coast urban rap jumping described above is not currently sold through the big booking platforms, so for those you will need to find a local operator directly.
 

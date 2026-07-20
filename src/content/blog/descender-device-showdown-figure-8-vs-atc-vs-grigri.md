@@ -131,10 +131,10 @@ Not sure which option is right for you? Ask yourself these questions:
 - **GriGri:** If you're pushing into advanced territory-longer routes, tricky belays, or rescue work-an assisted brake can be a literal lifesaver. Just make sure you know how to operate it properly.
 
 
-**Our picks:** Two stocked options from Wild Earth that map to the verdict above, one manual tube device and one assisted braking.
+**What to look for:** specs to match when you buy, rather than specific shop links.
 
-- [Black Diamond ATC Guide](https://www.wildearth.com.au/buy/black-diamond-atc-guide-belay-rappel-device-black/BD6200460002ALL1) - a classic tube belay and rappel device with multiple friction modes and a guide mode for bringing up seconds; no assisted braking, so your brake hand does all the work, around $55 to $60, ships within Australia.
-- [Petzl GriGri](https://www.wildearth.com.au/buy/petzl-grigri-belay-device-blue/D160-D014BA02) - assisted braking on single dynamic ropes from 8.5 to 11 mm, suited to belay-heavy days and single-rope descents; single rope only, so it cannot handle double-rope abseils, around $200 to $220, ships within Australia.
+- Black Diamond ATC Guide - a classic tube belay and rappel device with multiple friction modes and a guide mode for bringing up seconds; no assisted braking, so your brake hand does all the work, around $55 to $60.
+- Petzl GriGri - assisted braking on single dynamic ropes from 8.5 to 11 mm, suited to belay-heavy days and single-rope descents; single rope only, so it cannot handle double-rope abseils, around $200 to $220.
 
 ## Enhance abseiling skills
 

@@ -67,11 +67,13 @@ Carabiners are like the unsung heroes of any rope system. They attach your rope 
 A secure anchor is the backbone of your entire setup. To anchor your rope, you might use strong structural points like thick wooden beams or well-anchored steel supports on your property. For the tie-in, tubular webbing is a classic choice because it's strong, inexpensive, and lies flat against surfaces. You can tie webbing into a loop with a Tape Knot, then connect the loop to your anchor with carabiners or by girth-hitching directly onto a beam (if it's sturdy enough). Aim for at least two anchor points so that one backs up the other in case of failure.
 
 
-**Our picks:** a simple starting kit from Wild Earth that lines up with the specs in this guide.
+**What to look for:** a simple starting kit that lines up with the specs in this guide.
 
-- [Tendon Canyon 10.2mm Salamander Static Rope, 60 m](https://www.wildearth.com.au/buy/tendon-canyon-10.2mm-salamander-static-rope-60m-ye/TGCSAL60) - a low-stretch rope that sits inside the 9.0 to 10.5 mm range suggested here; at 60 m it only covers doubled-line drops under about 28 m, around $200 to $220, ships within Australia.
-- [Black Diamond RockLock Screwgate Carabiner](https://www.wildearth.com.au/buy/black-diamond-rocklock-screwgate-carabiner-black/BD2102560002ALL1) - a large locker rated to 24 kN gate closed for device and anchor connections, and you'll want at least two; the screwgate is manual, so checking it is locked has to become habit, around $25 to $35 each, ships within Australia.
-- [Climbing slings and runners](https://www.wildearth.com.au/shop/climbing-gear/climbing-slings) - sewn slings for equalising two or more anchor points; the range mixes nylon and Dyneema, so check the material before you buy, around $15 to $45 each depending on length, ships within Australia.
+- A low-stretch static rope inside the 9.0 to 10.5 mm range, such as a Tendon Canyon 10.2 mm Salamander. At 60 m it only covers doubled-line drops under about 28 m. Around $200 to $220.
+- Large locking carabiners rated to at least 24 kN gate closed for device and anchor connections, such as the Black Diamond RockLock. You want at least two, and because a screwgate is manual, checking it is locked has to become habit. Around $25 to $35 each.
+- Sewn slings and runners for equalising two or more anchor points. The range mixes nylon and Dyneema, so check the material before you buy. Around $15 to $45 each depending on length.
+
+Buy these from a specialist climbing retailer who can check sizing and certification with you, not on price alone. This page deliberately carries no shopping links: rigging your own system at home is the one context where we would rather you talked to someone behind a counter than clicked a link from an article.
 
 ## Prepare a safe anchor system
 

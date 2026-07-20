@@ -284,11 +284,11 @@ Rappel with a partner when possible and always inspect gear beforehand.
 ---
 
 
-**Our picks:** Three descenders stocked at Wild Earth that cover the device types compared above.
+**What to look for:** specs to match when you buy, rather than specific shop links.
 
-- [Black Diamond ATC Guide](https://www.wildearth.com.au/buy/black-diamond-atc-guide-belay-rappel-device-black/BD6200460002ALL1) - a tube-style device that takes double ropes and adds a guide mode, though braking is fully manual, around $50 to $60, ships within Australia.
-- [Petzl GriGri](https://www.wildearth.com.au/buy/petzl-grigri-belay-device-blue/D160-D014BA02) - cam-assisted braking on single ropes of 8.5 to 11 mm, but it cannot take double ropes for rappelling, around $200 to $220, ships within Australia.
-- [CAMP Climbing Figure of 8](https://www.wildearth.com.au/buy/camp-climbing-figure-of-8-grey/CAMP092801) - a simple classic figure 8 that sheds heat well on longer descents, though it can put twists in the rope, around $20 to $25, ships within Australia.
+- Black Diamond ATC Guide - a tube-style device that takes double ropes and adds a guide mode, though braking is fully manual, around $50 to $60.
+- Petzl GriGri - cam-assisted braking on single ropes of 8.5 to 11 mm, but it cannot take double ropes for rappelling, around $200 to $220.
+- CAMP Climbing Figure of 8 - a simple classic figure 8 that sheds heat well on longer descents, though it can put twists in the rope, around $20 to $25.
 
 ## **17. FAQs About Rappel Devices**
 

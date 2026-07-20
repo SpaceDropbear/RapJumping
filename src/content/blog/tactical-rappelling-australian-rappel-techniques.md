@@ -93,10 +93,10 @@ Strong, redundant anchors are non-negotiable. It's recommended to use a minimum 
 - Knot the ends. Unknotting them is a small chore compared to the risk of rappelling off a rope's end.
 
 
-**Our picks:** Two basics worth owning before you practise any descent, both stocked locally.
+**What to look for:** specs to match when you buy, rather than specific shop links.
 
-- [Metolius Talon belay gloves](https://www.wildearth.com.au/buy/metolius-talon-unisex-belay-gloves-black-olive/MT-TALON) - full-finger synthetic gloves that protect your brake hand during rope work, though you give up some rope feel compared with a fingerless pair, around $50 to $60, ships within Australia.
-- [Petzl Corax climbing harness](https://www.wildearth.com.au/buy/petzl-corax-unisex-climbing-harness/H635-C051) - a fully adjustable, UIAA and EN 12277 certified all-rounder for standard abseil setups, not designed to be worn reversed so keep it to conventional configurations, around $160 to $180, ships within Australia.
+- Metolius Talon belay gloves - full-finger synthetic gloves that protect your brake hand during rope work, though you give up some rope feel compared with a fingerless pair, around $50 to $60.
+- Petzl Corax climbing harness - a fully adjustable, UIAA and EN 12277 certified all-rounder for standard abseil setups, not designed to be worn reversed so keep it to conventional configurations, around $160 to $180.
 
 ## Focus on safety and checks
 

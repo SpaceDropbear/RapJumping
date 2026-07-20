@@ -50,15 +50,42 @@ export const GYG_PARTNER_ID = 'ZSYYGUT'; // Derek Whittingham, 8% commission, si
  * partner_id, but we reproduce the builder's output exactly rather than trim what looks
  * redundant - param order included.
  */
-function gygLink(productUrl, subId) {
+// `cmp` is the AU state / NZ island the ACTIVITY sits in (Derek's scheme, 2026-07-20 -
+// "State_Activity_Located"), NOT the post it was linked from. One post routinely links
+// activities in several states, so per-region is the more useful reporting cut.
+//
+// Derived from the GetYourGuide location id - the `-l<id>` segment of the destination URL -
+// because that is the only place the build can learn where an activity actually is. Slugs
+// are localised and unreliable; the numeric ids are canonical.
+const GYG_REGIONS = {
+  1122: 'NSW', 1485: 'NSW', 200: 'NSW', 160800: 'NSW',            // Blue Mtns, Katoomba, Sydney
+  7908: 'VIC', 202: 'VIC', 167: 'VIC', 158051: 'VIC',             // Grampians, Melbourne, Victoria, Halls Gap
+  300: 'QLD', 567: 'QLD', 298: 'QLD', 158608: 'QLD',              // Brisbane, Queensland, Cairns, Kangaroo Pt
+  203: 'SA', 163954: 'SA', 385: 'WA', 596: 'WA', 209: 'TAS',      // Adelaide, Onkaparinga, Perth, WA, Tasmania
+  168949: 'AU',                                                   // Australia-wide category pages
+  498: 'NZ_Sth_Island', 946: 'NZ_Sth_Island', 32635: 'NZ_Sth_Island',
+  821: 'NZ_Nth_Island', 822: 'NZ_Nth_Island', 32442: 'NZ_Nth_Island',
+  35827: 'NZ_Nth_Island', 32634: 'NZ_Nth_Island',
+  32388: 'VU', 169192: 'VU', 2472: 'FJ', 2471: 'FJ', 103962: 'FJ', 169098: 'FJ',
+};
+
+function gygRegion(url) {
+  const id = url.pathname.match(/-l(\d+)(?:\/|$)/)?.[1];
+  const region = id && GYG_REGIONS[Number(id)];
+  if (region) return region;
+  // Warn rather than silently mislabel: an unmapped location means real revenue landing in
+  // an "Other" bucket, which is the kind of thing nobody notices for a quarter.
+  console.warn(`[affiliate] GYG location l${id ?? '?'} is not in GYG_REGIONS - cmp falls back to "Other": ${url.pathname}`);
+  return 'Other';
+}
+
+function gygLink(productUrl, _subId) {
   if (!GYG_PARTNER_ID) return null;
   let u;
   try { u = new URL(productUrl); } catch { return null; }
   u.searchParams.set('partner_id', GYG_PARTNER_ID);
   u.searchParams.set('utm_medium', 'online_publisher');
-  // Campaign label -> Analytics > Campaigns in the portal. We pass the POST SLUG, so
-  // attribution is per-article rather than the per-region label the portal suggests.
-  if (subId) u.searchParams.set('cmp', String(subId).replace(/[^a-zA-Z0-9_-]/g, '-'));
+  u.searchParams.set('cmp', gygRegion(u));
   return u.toString();
 }
 
@@ -67,6 +94,10 @@ export const MERCHANTS = [
   {
     name: 'Cover-More', network: 'commission-factory', merchantId: 11003,
     domains: ['covermore.com.au'], status: 'pending', // flip live when the CF join approves
+    // /pds is the Product Disclosure Statement - a compliance document we cite so readers can
+    // check exclusions for adventure activities. Monetising it would turn "read the PDS" into
+    // a paid referral, which is the exact opposite of why that link exists.
+    pathRules: { deny: ['/pds'] },
     buildUrl: cfLink(11003),
     notes: '10%/30d. Travel insurance: the July anchor. Join applied via dashboard.',
   },
@@ -74,7 +105,16 @@ export const MERCHANTS = [
     name: 'Wild Earth', network: 'commission-factory', merchantId: 12917,
     domains: ['wildearth.com.au'], status: 'pending',
     buildUrl: cfLink(12917),
-    notes: '3.2%/30d. The only CF retailer with real climbing hardware. Gear pages.',
+    // 2026-07-20: ALL 13 Wild Earth links were REMOVED from the corpus (Derek's call - "remove
+    // all wild earth until it's live"). They sat across 5 life-safety gear pages and would have
+    // monetised the instant the join approved, with nobody looking. Their "**Our picks:**"
+    // blocks became plain "**What to look for:**" spec lists, so no box claims "Affiliate links"
+    // while containing none. Product names and prices were kept - only the anchors went.
+    // To restore: git show the pre-removal revision of the 5 gear posts, re-add the links, and
+    // flip status to live IN THE SAME COMMIT so the two never drift apart.
+    notes: '3.2%/30d. The only CF retailer with real climbing hardware. Join PENDING and the '
+      + 'corpus now has ZERO wildearth links - flipping live alone earns nothing until they '
+      + 'are re-added. That is deliberate.',
   },
   {
     name: 'Hema Maps', network: 'commission-factory', merchantId: 61641,

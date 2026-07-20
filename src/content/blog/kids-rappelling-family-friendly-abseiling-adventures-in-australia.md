@@ -76,9 +76,13 @@ Most abseiling centres carry junior harnesses to fit smaller frames. Ask about c
 
 Australia's diverse landscape means you can find plenty of guided programs that cater to families. Curious where to start?
 
-- Sunshine Coast ([Noosa Sunset Abseiling Adventure](https://www.getyourguide.com/queensland-l567/noosa-sunset-abseiling-tour-t665161/))
-- Melbourne region (Warrandyte White Water Kayak and Abseiling Tour, or the [Yarra Valley abseil at Seven Acre Rock](https://www.getyourguide.com/melbourne-l202/yarra-valley-seven-acre-rock-abseiling-adventure-t774545/))
-- Blue Mountains ([easy descents with panoramic views](https://www.getyourguide.com/katoomba-l1485/blue-mountains-spectacular-half-day-abseiling-adventure-t837958/))
+**Book it:** family-friendly guided abseils
+
+- [Noosa Sunset Abseiling Adventure](https://www.getyourguide.com/queensland-l567/noosa-sunset-abseiling-tour-t665161/) - Sunshine Coast, run late in the day so you descend into the sunset.
+- [Yarra Valley abseil at Seven Acre Rock](https://www.getyourguide.com/victoria-australia-l167/yarra-valley-seven-acre-rock-abseiling-adventure-t774545/) - the Melbourne region option, with descents from 18 to 50 metres so you can pick the height to suit the kids.
+- [Blue Mountains half-day abseiling](https://www.getyourguide.com/katoomba-l1485/blue-mountains-spectacular-half-day-abseiling-adventure-t837958/) - easy descents with panoramic views, starting small and building up.
+
+The Warrandyte White Water Kayak and Abseiling Tour near Melbourne is worth a look too, but it is booked directly with the operator rather than through a booking platform.
 
 Some tour operators also bundle climbing and abseiling into fun family packages. If you prefer a curated list, check out [abseiling tours australia](/guided-abseiling-tours-top-abseiling-tours-for-beginners-in-australia/) for providers offering routes seniors, teens, and younger kids can all handle together.
 
