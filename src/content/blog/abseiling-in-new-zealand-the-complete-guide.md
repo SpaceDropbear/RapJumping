@@ -2,8 +2,8 @@
 title: "Abseiling in New Zealand: The Complete Guide"
 description: "A complete guide to abseiling in New Zealand: regions, DOC access rules, the Adventure Activities safety-audit system, gear and first descents."
 pubDate: "2026-07-02"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-heroAlt: "Bearded climber in a rust tee and harness clips into a rope on a grey rock face above open bushland"
+heroImage: "/images/2026/07/abseiling-in-new-zealand-the-complete-guide.webp"
+heroAlt: "A tall mossy overhanging cliff above a native beech forest gully, silver ferns and a thin waterfall"
 draft: false
 tags: ["abseiling", "new zealand"]
 featured: false

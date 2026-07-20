@@ -2,8 +2,8 @@
 title: "Whanganui Bay Rock Climbing: Lake Taupo's Trad Climbing Gem"
 description: "Whanganui Bay is Lake Taupo's legendary rhyolite trad crag. Access, registration, season and grades for this Ngati Te Maunga-hosted North Island gem."
 pubDate: "2026-07-02"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-heroAlt: "Bearded climber in a harness and rust t-shirt leans back on a rope against a steep grey rock face, blue sky."
+heroImage: "/images/2026/07/whanganui-bay-trad-climbing.webp"
+heroAlt: "Columned ignimbrite bluffs with vertical crack lines above a deep blue caldera lake and pumice country"
 draft: false
 tags: ["rock climbing", "new zealand"]
 featured: false

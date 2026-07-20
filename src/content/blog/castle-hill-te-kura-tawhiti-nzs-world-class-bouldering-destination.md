@@ -2,8 +2,8 @@
 title: "Castle Hill (Te Kura Tawhiti): NZ's World-Class Bouldering Destination"
 description: "Castle Hill (Te Kura Tawhiti) is NZ's world-famous limestone bouldering basin and a Ngāi Tahu Tōpuni site. Access, etiquette, grades and best season."
 pubDate: "2026-07-02"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-heroAlt: "Bearded climber in a rust t-shirt and harness clipping into a steep grey rock face, bushland and blue sky behind"
+heroImage: "/images/2026/07/castle-hill-limestone-bouldering.webp"
+heroAlt: "Weathered limestone tors and boulders scattered across golden alpine tussock country"
 draft: false
 tags: ["rock climbing", "new zealand"]
 featured: false

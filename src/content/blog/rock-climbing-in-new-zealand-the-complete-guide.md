@@ -2,8 +2,8 @@
 title: "Rock Climbing in New Zealand: The Complete Guide"
 description: "The complete guide to rock climbing in New Zealand, regions, grading, seasons, DOC access rules and safety basics for climbers of every level."
 pubDate: "2026-07-02"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-heroAlt: "Bearded man in a rust t-shirt lead climbing a steep grey rock face, dry scrubby hills and blue sky behind"
+heroImage: "/images/2026/07/rock-climbing-in-new-zealand-the-complete-guide.webp"
+heroAlt: "A grey rock buttress above a braided river valley, tussock slopes and snow-streaked Southern Alps behind"
 draft: false
 tags: ["rock climbing", "new zealand"]
 featured: false

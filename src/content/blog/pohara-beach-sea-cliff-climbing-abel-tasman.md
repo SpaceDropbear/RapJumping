@@ -2,8 +2,8 @@
 title: "Pohara Beach Sea Cliff Climbing, Abel Tasman"
 description: "Pohara Beach sea cliff climbing near Golden Bay and Abel Tasman NP, honest guide to the crag, access, DOC rules and pairing it with Paynes Ford."
 pubDate: "2026-07-02"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-heroAlt: "Blocky voxel-style illustration of helmeted climbers on ropes scaling tall pixelated rock pillars above a forest and lake."
+heroImage: "/images/2026/07/sea-cliff-climbing-abel-tasman.webp"
+heroAlt: "Golden granite sea cliffs dropping into clear turquoise water beside a crescent of pale sand"
 draft: false
 tags: ["rock climbing", "new zealand"]
 featured: false

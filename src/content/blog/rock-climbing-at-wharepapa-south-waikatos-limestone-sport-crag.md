@@ -2,8 +2,8 @@
 title: "Rock Climbing at Wharepapa South: Waikato's Limestone Sport Crag"
 description: "Wharepapa South is Waikato's top sport crag, pocketed ignimbrite rock, 100+ bolted routes, private-farmland access and fast-drying holds after rain."
 pubDate: "2026-07-02"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-heroAlt: "Bearded climber in a rust t-shirt and harness leaning back on a rope against a rocky cliff, dry bushland below."
+heroImage: "/images/2026/07/wharepapa-limestone-sport-crag.webp"
+heroAlt: "A short grey limestone bluff rising out of rolling green dairy pasture with scattered farm trees"
 draft: false
 tags: ["rock climbing", "new zealand"]
 featured: false

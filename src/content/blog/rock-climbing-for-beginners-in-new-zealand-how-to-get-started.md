@@ -2,8 +2,8 @@
 title: "Rock Climbing for Beginners in New Zealand: How to Get Started"
 description: "New to climbing in NZ? A step-by-step beginner's guide covering indoor gyms, NZOIA-qualified courses, NZAC clubs, gear basics and DOC safety advice."
 pubDate: "2026-07-02"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-heroAlt: "Bearded climber in a rust t-shirt and harness leaning back on a rope against a rocky cliff, dry bushland below."
+heroImage: "/images/2026/07/rock-climbing-for-beginners-in-new-zealand.webp"
+heroAlt: "A low-angle grey slab in afternoon sun at the edge of New Zealand native bush, with an approach track through ferns"
 draft: false
 tags: ["rock climbing", "new zealand"]
 featured: false

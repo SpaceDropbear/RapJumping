@@ -2,8 +2,8 @@
 title: "Rock Climbing Gear for New Zealand: What to Buy, What to Rent, Where to Get It"
 description: "Buying vs renting climbing gear in NZ: what to get first, what standards to check (EN/UIAA), and where beginners can find harnesses, shoes and ropes."
 pubDate: "2026-07-02"
-heroImage: "/images/2025/07/Basic-Styles-of-Rock-Climbing.webp"
-heroAlt: "Bearded climber in a rust t-shirt and harness leaning back on a rope against a rocky cliff, dry bushland below."
+heroImage: "/images/2026/07/rock-climbing-gear-for-new-zealand.webp"
+heroAlt: "Climbing gear laid out on wet rock: rope, harness, camming devices, quickdraws and shoes"
 draft: false
 tags: ["rock climbing", "new zealand", "equipment"]
 featured: false
