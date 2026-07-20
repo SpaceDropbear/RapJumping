@@ -116,6 +116,13 @@ The Grampians spans the full Australian Ewbank range, from gentle slabs to some 
 
 Newer climbers are not shut out, but the smart path is to build foundations first, indoors and on friendlier, more moderate crags, before tackling Gariwerd's steeper, more serious walls. Our [Blue Mountains guide](/blue-mountains-rock-climbing-crags-grades-guided-tours/) is a good reference for more moderate sandstone with established guided options, and it is worth reading our [essential gear guide](/essential-rock-climbing-gear-guide-for-australian-climbers/) before you invest in a rack for trad and multi-pitch days. If you are brand new and just want a taste of height and exposure in expert hands, a guided session (or the all-abilities, Licensed-Tour-Operator-only climbing in Summerday Valley) is the way to start.
 
+**Book it:** guided sessions in Grampians National Park
+
+- [Half-day abseiling adventure](https://www.getyourguide.com/grampians-national-park-l7908/grampians-national-park-half-day-abseiling-adventure-t392242/) - descents from roughly 8 to 30 metres, matched to your age and experience, with gear and instruction supplied.
+- [Three-hour rock climbing session at Halls Gap](https://www.getyourguide.com/grampians-national-park-l7908/halls-gap-3-hour-rock-climbing-adventure-t392265/) - a guide picks the crag to suit your ability after a safety briefing.
+
+These are general guided sessions in the park. They are not a substitute for the separate Licensed Tour Operator arrangement that Summerday Valley specifically requires, so confirm with the operator if that is the site you want.
+
 ## Respecting Country
 
 Gariwerd has been living, cultivating, ceremonial and dreaming Country for Traditional Owners for more than 22,000 years. The landscape contains more than 500 registered Aboriginal places, hundreds of them within the park itself, and the richest concentration of Aboriginal rock art in Victoria. Climbing here is not a right; it is a shared arrangement, agreed through the Greater Gariwerd Landscape Management Plan and depending entirely on climbers doing the right thing.
@@ -158,7 +165,7 @@ A section of Taipan Wall is open. It was assessed and found to have cultural val
 
 ### Is the Grampians good for beginners?
 
-It is better suited to climbers with some experience, as the rock tends to be steep and committing. Beginners are best off learning indoors or on more moderate crags, or booking a guided session, before tackling the Grampians. There is also all-abilities climbing in Summerday Valley, which is accessible only with a Licensed Tour Operator.
+It is better suited to climbers with some experience, as the rock tends to be steep and committing. Beginners are best off learning indoors or on more moderate crags, or [booking a guided session](https://www.getyourguide.com/grampians-national-park-l7908/grampians-national-park-half-day-abseiling-adventure-t392242/), before tackling the Grampians. There is also all-abilities climbing in Summerday Valley, which is accessible only with a Licensed Tour Operator.
 
 ### When is the best time to climb in the Grampians?
 

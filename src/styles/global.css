@@ -220,6 +220,13 @@ h1, h2, h3, h4 { color: var(--ink); font-family: var(--font-display); line-heigh
 .gear-pick > ul { margin: 0; padding-left: 1.2em; }
 .gear-pick > ul li { margin: .5em 0; }
 
+/* Booking box: the experience/tour sibling of .gear-pick (marker "**Book it:**"). Reuses
+   the same box so an editorial page never sprouts a second visual language; distinguished
+   by a brand edge and its own badge text. The badge deliberately stays muted rather than
+   brand crimson - 11px crimson does not hold contrast on the dark-mode surface. */
+.tour-pick { border-left: 3px solid var(--brand); }
+.tour-pick > ul li { margin: .7em 0; }
+
 /* Notice: safety/legal callouts. A disclaimer is a notice, not a quotation - plain
    upright text at body contrast in the standard bordered box, never blockquote italics. */
 .prose .notice { margin: 1.6em 0; padding: 16px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); font-size: 15.5px; line-height: 1.65; color: var(--body); }

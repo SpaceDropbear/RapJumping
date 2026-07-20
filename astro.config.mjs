@@ -148,11 +148,17 @@ function affiliateTripwire() {
 
 function rehypeAffiliateLinks() {
   return (tree, file) => {
+    // Sub-id / campaign label carried into the tracking link (CF UniqueId, GYG cmp).
+    // Capped at 50 chars: verified no two post slugs collide at that length. Trim the
+    // hyphen the cut can leave dangling - it reads as a typo in the partner dashboard,
+    // and the label is the join key for campaign reporting, so fix it BEFORE links ship
+    // (changing it later splits one post's history across two campaign rows).
     const slug = basename(String(file.path ?? ''))
       .replace(/\.mdx?$/, '')
       .toLowerCase()
       .replace(/[^a-z0-9-]+/g, '-')
-      .slice(0, 50);
+      .slice(0, 50)
+      .replace(/^-+|-+$/g, '');
 
     let rewrote = false;
     const walk = (node) => {
@@ -160,7 +166,10 @@ function rehypeAffiliateLinks() {
         const tracked = affiliateUrlFor(String(node.properties.href), slug);
         if (tracked) {
           node.properties.href = tracked;
-          node.properties.rel = ['sponsored', 'noopener'];
+          // `sponsored` is Google's value for paid/affiliate links (there is NO rel="affiliate").
+          // `nofollow` is belt-and-braces for crawlers that never adopted the 2019 values -
+          // Bing documents nofollow but not sponsored, and this site has real Bing traffic.
+          node.properties.rel = ['sponsored', 'nofollow', 'noopener'];
           node.properties.target = '_blank';
           rewrote = true;
           console.log(`[affiliate] ${slug}: monetised ${String(node.properties.href).slice(0, 90)}`);
@@ -190,9 +199,16 @@ function rehypeAffiliateLinks() {
   };
 }
 
-// Wrap an "**Our picks:**" paragraph plus its following list in a labelled gear-pick box,
-// so per-box disclosure sits at the point of action. Authored in pure markdown (never raw
-// HTML - see the tripwire above), styled by .gear-pick in global.css.
+// Marker paragraph -> labelled callout box. "**Our picks:**" is the gear/retail box;
+// "**Book it:**" is the experience-booking box (tours, guided sessions), which needs its
+// own label because "picks" implies a product comparison and a tour is a booking.
+// Both are authored in PURE MARKDOWN (never raw HTML - see the tripwire above): a bold
+// marker paragraph followed by a list. Styled by .gear-pick / .tour-pick in global.css.
+const CALLOUT_BOXES = [
+  { test: /^our picks\b/i, className: ['gear-pick'], badge: 'Affiliate links' },
+  { test: /^book it\b/i, className: ['gear-pick', 'tour-pick'], badge: 'Booking links' },
+];
+
 function rehypeGearPick() {
   return (tree) => {
     const kids = tree.children;
@@ -201,7 +217,8 @@ function rehypeGearPick() {
       if (n.type !== 'element' || n.tagName !== 'p') continue;
       const first = (n.children ?? [])[0];
       if (!first || first.type !== 'element' || first.tagName !== 'strong') continue;
-      if (!/^our picks\b/i.test(headingText(first))) continue;
+      const spec = CALLOUT_BOXES.find((b) => b.test.test(headingText(first)));
+      if (!spec) continue;
 
       // The box spans the marker paragraph and the list that follows it.
       let end = i + 1;
@@ -213,12 +230,12 @@ function rehypeGearPick() {
         type: 'element',
         tagName: 'span',
         properties: { className: ['gear-pick-badge'] },
-        children: [{ type: 'text', value: 'Affiliate links' }],
+        children: [{ type: 'text', value: spec.badge }],
       };
       kids.splice(i, end + 1 - i, {
         type: 'element',
         tagName: 'div',
-        properties: { className: ['gear-pick'] },
+        properties: { className: spec.className },
         children: [badge, ...body],
       });
     }

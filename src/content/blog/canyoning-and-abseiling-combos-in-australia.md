@@ -151,6 +151,14 @@ Canyoneering accidents tend to happen quickly. Adding to the difficulty, canyons
 
 Australia's canyon scene offers a fantastic mix of scenic bushland, dramatic cliff faces, and winding waterways. The Blue Mountains west of Sydney, for instance, feature a network of popular canyons-some with moderate challenges ideal for those comfortable with basic abseils and short swims, and others that require advanced rope rigging and group coordination.
 
+The Blue Mountains is also where most of Australia's guided canyoning runs, which is the usual way people bridge the gap between reading about this and doing it. Going with a qualified operator is worth considering for a first canyon even if you are already a competent climber, because wet rope, moving water and sequential rappels behave differently to anything you meet at a dry crag.
+
+**Book it:** guided canyon abseils in the Blue Mountains
+
+- [Empress Falls canyon abseiling](https://www.getyourguide.com/katoomba-l1485/blue-mountains-empress-falls-canyon-abseiling-adventure-t1249615/) - the classic introduction, finishing with an abseil down the waterfall itself.
+- [Abseiling and canyoning day](https://www.getyourguide.com/blue-mountains-l1122/blue-mountains-abseiling-and-canyoning-experience-t322948/) - starts on short practice drops, builds through swims and slides to a 30-metre waterfall descent.
+- [Juggler Canyon adventure](https://www.getyourguide.com/katoomba-l1485/blue-mountains-abseiling-and-juggler-canyon-adventure-tour-t836975/) - five abseils up to 20 metres alongside waterfalls, with no swimming involved if you would rather stay dry.
+
 Below is a simple checklist to help you prep before stepping into your harness:
 
 - Research local regulations. Some national parks have specific rules about bolt placement, group sizes, or canyon closures.

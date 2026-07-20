@@ -33,14 +33,24 @@ function cfLink(merchantId) {
 // encoded and the destination stays human-readable.
 export const GYG_PARTNER_ID = 'ZSYYGUT'; // Derek Whittingham, 8% commission, site https://www.rapjumping.com/
 
-/** GYG deep link: <productUrl>?partner_id=<id>&cmp=<subId> */
+/**
+ * GYG deep link: <productUrl>?partner_id=<id>&utm_medium=online_publisher&cmp=<subId>
+ *
+ * Shape verified 2026-07-20 against a link built in the portal (Tools > Links), NOT guessed:
+ *   https://www.getyourguide.com/brisbane-l300/brisbane-abseiling-at-kangaroo-point-cliffs-t325368/
+ *     ?partner_id=ZSYYGUT&utm_medium=online_publisher&cmp=QLD
+ * `utm_medium=online_publisher` is emitted by GYG's own builder. Attribution rides on
+ * partner_id, but we reproduce the builder's output exactly rather than trim what looks
+ * redundant - param order included.
+ */
 function gygLink(productUrl, subId) {
   if (!GYG_PARTNER_ID) return null;
   let u;
   try { u = new URL(productUrl); } catch { return null; }
   u.searchParams.set('partner_id', GYG_PARTNER_ID);
-  // Campaign label -> Analytics > Campaigns in the partner portal. Portal restricts the
-  // charset, so keep it to the slug's safe characters.
+  u.searchParams.set('utm_medium', 'online_publisher');
+  // Campaign label -> Analytics > Campaigns in the portal. We pass the POST SLUG, so
+  // attribution is per-article rather than the per-region label the portal suggests.
   if (subId) u.searchParams.set('cmp', String(subId).replace(/[^a-zA-Z0-9_-]/g, '-'));
   return u.toString();
 }
@@ -120,10 +130,11 @@ export const MERCHANTS = [
   },
   {
     name: 'GetYourGuide', network: 'getyourguide', // DIRECT partner program, not Awin (dashboard confirmed 2026-07-20)
-    domains: ['getyourguide.com', 'getyourguide.com.au'], status: 'pending',
+    domains: ['getyourguide.com', 'getyourguide.com.au'], status: 'live',
     buildUrl: gygLink,
-    notes: '8% (dashboard-confirmed). Partner id ZSYYGUT, site rapjumping.com. Tours; August. '
-      + 'PENDING until one dashboard-built deep link confirms the param shape — see GYG_PARTNER_ID.',
+    notes: '8%. Partner id ZSYYGUT, site rapjumping.com. LIVE 2026-07-20 - link shape verified '
+      + 'byte-for-byte against a portal-built link (Tools > Links), so authors write plain '
+      + 'getyourguide.com product URLs and the build monetises them.',
   },
   {
     name: 'Adrenaline', network: 'impact',
