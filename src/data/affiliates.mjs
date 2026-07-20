@@ -27,6 +27,24 @@ function cfLink(merchantId) {
   };
 }
 
+// GetYourGuide direct partner program (no network in between). The partner id is the
+// "Affiliate partner ID" on the Your Account page of partner.getyourguide.com.
+// Unlike CF, GYG deep links are the plain product URL plus query params, so nothing is
+// encoded and the destination stays human-readable.
+export const GYG_PARTNER_ID = 'ZSYYGUT'; // Derek Whittingham, 8% commission, site https://www.rapjumping.com/
+
+/** GYG deep link: <productUrl>?partner_id=<id>&cmp=<subId> */
+function gygLink(productUrl, subId) {
+  if (!GYG_PARTNER_ID) return null;
+  let u;
+  try { u = new URL(productUrl); } catch { return null; }
+  u.searchParams.set('partner_id', GYG_PARTNER_ID);
+  // Campaign label -> Analytics > Campaigns in the partner portal. Portal restricts the
+  // charset, so keep it to the slug's safe characters.
+  if (subId) u.searchParams.set('cmp', String(subId).replace(/[^a-zA-Z0-9_-]/g, '-'));
+  return u.toString();
+}
+
 export const MERCHANTS = [
   // ---- Commission Factory (scanned live 2026-07-11; rates from the API) ----
   {
@@ -101,10 +119,11 @@ export const MERCHANTS = [
     notes: '10%/60d. Best insurance economics; August.',
   },
   {
-    name: 'GetYourGuide', network: 'awin',
+    name: 'GetYourGuide', network: 'getyourguide', // DIRECT partner program, not Awin (dashboard confirmed 2026-07-20)
     domains: ['getyourguide.com', 'getyourguide.com.au'], status: 'pending',
-    buildUrl: () => null,
-    notes: '7-8%/30d. Tours; August.',
+    buildUrl: gygLink,
+    notes: '8% (dashboard-confirmed). Partner id ZSYYGUT, site rapjumping.com. Tours; August. '
+      + 'PENDING until one dashboard-built deep link confirms the param shape — see GYG_PARTNER_ID.',
   },
   {
     name: 'Adrenaline', network: 'impact',
