@@ -50,6 +50,14 @@ If you crave variety, the Grampians won't disappoint. This region boasts a range
 
 Though the abseil here can be lengthy and steep, many guided tours welcome cautious beginners who want an epic first-time story. Expect jaw-dropping views of the dam's curved face and the stunning Tasmanian wilderness beyond. Organised tours ensure you are equipped with the right techniques to handle the impressive drop safely.
 
+**Book it:** beginner sessions at three of the four spots above
+
+- [Kangaroo Point, Brisbane](https://www.getyourguide.com/brisbane-l300/brisbane-abseiling-at-kangaroo-point-cliffs-t325368/) - a guided descent of the 20-metre wall, gear supplied.
+- [Blue Mountains half-day abseiling](https://www.getyourguide.com/katoomba-l1485/blue-mountains-spectacular-half-day-abseiling-adventure-t837958/) - the short-drops-first progression described above.
+- [Grampians half-day abseiling](https://www.getyourguide.com/grampians-national-park-l7908/grampians-national-park-half-day-abseiling-adventure-t392242/) - 8 to 30 metres, matched to experience.
+
+Gordon Dam is the exception: it is one of the most spectacular abseils in the country, but it is not sold through the mainstream booking platforms, so you will need to approach a Tasmanian operator directly rather than book it online.
+
 ## Gather essential gear
 
 While most operators supply the basics, it's still useful to know what you'll be wearing and why. This helps you feel more prepared and comfortable on your first outing. If you're unsure about the dos and don'ts of attire, [abseiling clothing](/what-to-wear-abseiling-in-australia/) can guide you further.

@@ -121,7 +121,7 @@ You will not find climbing-gear hire on site, so bring (or have your guide suppl
 
 Yes, with the right setup. The easy access, flat top and solid anchors make KP an ideal first outdoor experience, but the rock itself is real and the consequences are real. The safest path for a first visit is a guided session or a structured [beginner pathway](/rock-climbing-for-beginners-in-australia-how-to-get-started/): you will be on a top-rope, supervised, with certified equipment and someone checking every knot and every belay.
 
-If you are brand new to height and rope, a **[guided abseil or rap jump](https://www.getyourguide.com/brisbane-l300/brisbane-abseiling-at-kangaroo-point-cliffs-t325368/) with a qualified operator is a confidence-building first step** before you try to climb up. You get used to trusting the rope and the harness, to leaning back over an edge, and to the exposure, all the mental hurdles, without also having to figure out hard, polished moves. Plenty of people do a rap jump first, decide they love being on a cliff, and come back to climb.
+If you are brand new to height and rope, a **guided abseil or rap jump with a qualified operator is a confidence-building first step** before you try to climb up. You get used to trusting the rope and the harness, to leaning back over an edge, and to the exposure, all the mental hurdles, without also having to figure out hard, polished moves. Plenty of people do a rap jump first, decide they love being on a cliff, and come back to climb.
 
 **Book it:** guided sessions on the Kangaroo Point cliffs
 

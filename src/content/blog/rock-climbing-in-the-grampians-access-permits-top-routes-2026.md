@@ -165,7 +165,7 @@ A section of Taipan Wall is open. It was assessed and found to have cultural val
 
 ### Is the Grampians good for beginners?
 
-It is better suited to climbers with some experience, as the rock tends to be steep and committing. Beginners are best off learning indoors or on more moderate crags, or [booking a guided session](https://www.getyourguide.com/grampians-national-park-l7908/grampians-national-park-half-day-abseiling-adventure-t392242/), before tackling the Grampians. There is also all-abilities climbing in Summerday Valley, which is accessible only with a Licensed Tour Operator.
+It is better suited to climbers with some experience, as the rock tends to be steep and committing. Beginners are best off learning indoors or on more moderate crags, or booking a guided session, before tackling the Grampians. There is also all-abilities climbing in Summerday Valley, which is accessible only with a Licensed Tour Operator.
 
 ### When is the best time to climb in the Grampians?
 

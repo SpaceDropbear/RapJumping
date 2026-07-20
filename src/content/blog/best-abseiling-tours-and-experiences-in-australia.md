@@ -74,6 +74,13 @@ For an immersive nature setting, Glenworth Valley combines lush bushland with ab
 
 If you're serious about developing technique, the ASM Intermediate Abseiling Course in Australia is a step up. It's ideal for those wanting to tackle canyons, caves, or simply level up their recreational fun. You'll delve deeper into rope skills, safety checks, and confidence-building exercises, gaining a solid foundation for bigger adventures down the road.
 
+**Book it:** where to start looking
+
+- [Kangaroo Point, Brisbane](https://www.getyourguide.com/brisbane-l300/brisbane-abseiling-at-kangaroo-point-cliffs-t325368/) - the city-centre session described above.
+- [Waterfall abseiling across Australia](https://www.getyourguide.com/australia-l168949/waterfall-rappelling-experiences-tc2387/) - the full current list, useful if you are flexible on where.
+
+Glenworth Valley and the ASM course are booked directly with those providers rather than through a platform.
+
 ## Prepare for your abseiling tour
 
 Getting set before you head out isn't just about saving time, it's also the best way to ensure your day runs smoothly. In addition to booking a reputable tour, you'll want to make sure you're dressed and packed for the conditions.

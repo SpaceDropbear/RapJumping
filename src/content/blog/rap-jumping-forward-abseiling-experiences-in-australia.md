@@ -95,6 +95,13 @@ If natural thrills are more your style, consider heading to Queensland's Barron 
 
 You can keep an eye out for seasonal packages, since some providers offer dry-season or wet-season variations. And don't forget that rap jumping might fit nicely alongside other gravity-defying activities-like bungy jumping or canyoning-if you're in an area with diverse adventure sports.
 
+**Book it:** rope descents around Cairns
+
+- [Behana Gorge rainforest canyoning](https://www.getyourguide.com/cairns-l298/cairns-behana-or-crystals-adventure-tour-cairns-canyoning-t353466/) - abseils, slides and swims in Wooroonooran National Park, half a day.
+- [Crystal Cascades and Behana full day](https://www.getyourguide.com/cairns-l298/cairns-crystals-behana-adventure-tour-cairns-canyoning-t352921/) - the longer version, with more abseiling.
+
+Worth being straight about the gap: the Melbourne and Gold Coast urban rap jumping described above is not currently sold through the big booking platforms, so for those you will need to find a local operator directly.
+
 ## Plan group adventures
 
 Ready to host a team-building day that no one will forget? Rap jumping offers a literal leap of faith that brings people closer together. Picture cheering on your co-workers or classmates as they inch toward the ledge, finally pluck up courage, and leap forward. That shared surge of accomplishment can do more to build group morale than a dozen icebreakers in a conference room.

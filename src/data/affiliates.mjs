@@ -16,7 +16,14 @@
 // Commission Factory publisher id. Comes from the first tracking link generated in the CF
 // dashboard (the number after t.cfjump.com/). While null, no CF link is rewritten even if
 // a merchant is marked live, so a half-configured registry can never emit broken links.
-export const CF_PUBLISHER_ID = '93386'; // confirmed from the CF dashboard (Derek Whittingham (93386)); cfjump URL shape still to be cross-checked against one dashboard-built deep link
+// VERIFIED 2026-07-20 against the API's own TrackingUrl on the two joined merchants:
+// `https://t.cfjump.com/93386/t/14143` (Wilderness Wear) and `.../t/91702` (Kakadu). The
+// base and publisher id are no longer an inference. The deep-link QUERY (`?Url=&UniqueId=`)
+// is still the documented convention rather than something we have seen CF emit - and the
+// GYG lesson (their builder adds a param no public source mentions) says treat that as
+// unconfirmed. Mitigation: point early CF links at a merchant's own top-level URL, where a
+// wrong `Url=` param degrades to exactly the destination we wanted anyway.
+export const CF_PUBLISHER_ID = '93386';
 
 /** CF deep link: https://t.cfjump.com/<publisherId>/t/<merchantId>?Url=<enc>&UniqueId=<subId> */
 function cfLink(merchantId) {
@@ -77,15 +84,18 @@ export const MERCHANTS = [
   },
   {
     name: 'Wilderness Wear', network: 'commission-factory', merchantId: 14143,
-    domains: ['wildernesswear.com.au'], status: 'pending',
+    domains: ['wildernesswear.com.au'], status: 'live', // JOINED - API 2026-07-20
     buildUrl: cfLink(14143),
-    notes: '8%/30d. AU-made outdoor layers. what-to-wear post.',
+    notes: '8%/30d cookie, 30d validation. AU-made outdoor layers. Join APPROVED (API '
+      + 'Status=Joined, TrackingUrl present). what-to-wear post.',
   },
   {
     name: 'Kakadu Traders', network: 'commission-factory', merchantId: 91702,
-    domains: ['kakaduaustralia.com'], status: 'pending',
+    domains: ['kakaduaustralia.com'], status: 'live', // JOINED - API 2026-07-20
     buildUrl: cfLink(91702),
-    notes: '10%/30d. Outdoor clothing.',
+    notes: '10%/30d cookie, 30d validation. Outdoor clothing. Join APPROVED (API '
+      + 'Status=Joined, TrackingUrl present). Live site is au.kakaduaustralia.com - the '
+      + 'bare domain here matches it via the subdomain rule in merchantForHost().',
   },
   {
     name: 'Anaconda', network: 'commission-factory', merchantId: 76675,
