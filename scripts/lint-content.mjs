@@ -14,6 +14,12 @@
  */
 import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
+import { argv } from 'node:process';
+import { fileURLToPath } from 'node:url';
+
+// Run the lint only as a CLI. Without this guard, importing `proseSentences` from another
+// script executes the whole lint and its process.exit(1), killing the importer.
+const IS_CLI = fileURLToPath(import.meta.url) === (argv[1] ? fileURLToPath(new URL(`file://${argv[1].replace(/\\/g, '/')}`)) : '');
 
 const ROOT = 'src/content';
 
@@ -61,6 +67,44 @@ function walk(dir) {
   });
 }
 
+// ---- prose sentence extraction ------------------------------------------------------
+// Register rules key on SENTENCES, so the extractor is load-bearing: a bug here either
+// breaks the build on prose that is fine, or silently lets long prose through.
+//
+// Paragraph-aware on purpose. Splitting the whole document on /[.!?]\s+/ glues an
+// unpunctuated structural line (e.g. the "**Book it:**" callout lead) onto the next
+// paragraph and manufactures phantom 70+ word "sentences" that do not exist.
+export function proseSentences(md) {
+  const body = md.startsWith('---') ? md.split('---').slice(2).join('---') : md;
+  const out = [];
+  for (const para of body.split(/\n\s*\n/)) {
+    const p = para.trim();
+    if (!p) continue;
+    // structural blocks are not prose: headings, lists, tables, quotes, code, raw HTML
+    if (/^[#>|]/.test(p) || /^[-*+]\s/.test(p) || /^\d+[.)]\s/.test(p)) continue;
+    if (p.startsWith('```') || /^<\w/.test(p) || /<\w+[^>]*>/.test(p)) continue;
+    const clean = p
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, '')       // images
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')    // unwrap links to anchor text
+      .replace(/\*\*|__|`/g, '');
+    // Uppercase lookahead so "5.10 and up" / "1. Ask" do not false-split. The optional
+    // closing quote/bracket in the lookbehind matters: without it a sentence ending
+    // `...not for beginners." That's...` never splits, and the two sentences are reported
+    // as one 61-word violation that does not exist.
+    for (const s of clean.split(/(?<=[.!?]["'’”)\]]?)\s+(?=[A-Z"'“(])/)) {
+      const t = s.trim();
+      if (t.split(/\s+/).length > 4) out.push(t);
+    }
+  }
+  return out;
+}
+
+const words = (s) => s.split(/\s+/).length;
+
+// Safety-modal sentences carry an instruction. `always` is deliberately excluded: adding
+// it breaks the zero-violation invariant against the hand-written corpus (2 legacy hits).
+const MODAL = /\b(must|never|do not|don'?t|required|should not|shouldn'?t)\b/i;
+
 // ---- internal link integrity -------------------------------------------------------
 // Every root-relative link in content must resolve. This exists because renaming one post's
 // slug silently 404'd two sibling posts that linked to the old one: the rename was checked
@@ -88,14 +132,50 @@ function badLinks(text) {
   return out;
 }
 
+if (IS_CLI) {
+
 const ALL = [...ERRORS, ...WARNINGS];
 const found = Object.fromEntries(ALL.map((c) => [c.id, []]));
 found['dead-link'] = [];
+found['long-sentence'] = [];
+found['modal-sentence'] = [];
+found['tail-mass'] = [];
+found['register-drift'] = [];
 let files = 0;
 
 for (const file of walk(ROOT)) {
   files++;
-  const lines = readFileSync(file, 'utf8').split(/\r?\n/);
+  const raw = readFileSync(file, 'utf8');
+  const short = file.replace(/\\/g, '/');
+
+  // ---- register gates ---------------------------------------------------------------
+  // Thresholds are not aesthetic preferences: each is an invariant the 127 hand-written
+  // posts already satisfy with ZERO violations. They cap the TAIL, deliberately. An
+  // enforced average would be free to game - a long sentence can be hidden behind enough
+  // short ones - so no mean is ever an ERROR.
+  const S = proseSentences(raw);
+  if (S.length) {
+    for (const s of S) {
+      const n = words(s);
+      if (n >= 60) found['long-sentence'].push(`${short}  «${n}w»  ${s.slice(0, 100)}...`);
+      else if (n > 40 && MODAL.test(s))
+        found['modal-sentence'].push(`${short}  «${n}w»  ${s.slice(0, 100)}...`);
+    }
+    if (S.length >= 15) {
+      const over = S.filter((s) => words(s) >= 40).length;
+      const share = (100 * over) / S.length;
+      // Tail MASS, not just the tail maximum: without this a post made entirely of
+      // 59-word sentences passes both caps above. Hand-written worst case is 7.1%.
+      if (share > 10) found['tail-mass'].push(`${short}  «${share.toFixed(1)}% of sentences >=40w»  (${over}/${S.length})`);
+      const pub = (raw.match(/pubDate:\s*"?([0-9-]+)/) || [])[1] || '';
+      const mean = S.reduce((a, s) => a + words(s), 0) / S.length;
+      // Date-scoped: unscoped it would permanently flag hand-written short news posts.
+      if (pub >= '2026-01-01' && (mean < 14 || mean > 26))
+        found['register-drift'].push(`${short}  «mean ${mean.toFixed(1)}w/sentence»  outside [14,26]`);
+    }
+  }
+
+  const lines = raw.split(/\r?\n/);
   lines.forEach((line, i) => {
     for (const dead of badLinks(line)) {
       found['dead-link'].push(
@@ -127,20 +207,36 @@ function report(group, tag, sink) {
   return n;
 }
 
-const warned = report(WARNINGS, 'WARN', (s) => console.warn(s));
-let bad = report(ERRORS, 'FAIL', (s) => console.error(s));
-
-if (found['dead-link'].length) {
-  bad += found['dead-link'].length;
-  console.error(`\n  FAIL - INTERNAL LINK 404 (target slug does not exist) (${found['dead-link'].length}):`);
-  found['dead-link'].slice(0, 25).forEach((l) => console.error(`    ${l}`));
+function dump(id, tag, label, sink, cap = 25) {
+  const list = found[id];
+  if (!list.length) return 0;
+  sink(`\n  ${tag} - ${label} (${list.length}):`);
+  list.slice(0, cap).forEach((l) => sink(`    ${l}`));
+  if (list.length > cap) sink(`    ... and ${list.length - cap} more`);
+  return list.length;
 }
+
+let warned = report(WARNINGS, 'WARN', (s) => console.warn(s));
+// Tail-mass and drift are WARNINGs for now, not ERRORs. Promoting tail-mass would require
+// ~133 sentence splits across 27 posts in one batch; concentrating that much editing on
+// safety prose at once risks inverting a rule, which is worse than the style defect. The
+// 19 posts it flags are un-de-slopped LLM output and are the standing de-slop queue.
+warned += dump('tail-mass', 'WARN', 'TAIL MASS >10% of sentences >=40w (hand-written worst case is 7.1%)', (s) => console.warn(s));
+warned += dump('register-drift', 'WARN', 'REGISTER DRIFT: 2026+ post mean outside [14,26] words/sentence', (s) => console.warn(s));
+
+let bad = report(ERRORS, 'FAIL', (s) => console.error(s));
+bad += dump('dead-link', 'FAIL', 'INTERNAL LINK 404 (target slug does not exist)', (s) => console.error(s));
+bad += dump('long-sentence', 'FAIL', 'SENTENCE >=60 WORDS (split it; do not pad elsewhere)', (s) => console.error(s));
+bad += dump('modal-sentence', 'FAIL', 'SAFETY-MODAL SENTENCE >40 WORDS (must/never/do not/required: split, preserving condition and scope)', (s) => console.error(s));
 
 if (bad) {
   console.error(`\n${files} content files linted, ${bad} blocking violation(s).\n`);
   process.exit(1);
 }
 console.log(
-  `OK - ${files} content files: no em dashes, no /contact CTA.` +
-    (warned ? ` (${warned} operator-voice warning(s) above, non-blocking)` : '')
+  `OK - ${files} content files: no dashes, no /contact CTA, no dead internal links, ` +
+    `no sentence >=60w, no safety-modal sentence >40w.` +
+    (warned ? ` (${warned} non-blocking warning(s) above)` : '')
 );
+
+}

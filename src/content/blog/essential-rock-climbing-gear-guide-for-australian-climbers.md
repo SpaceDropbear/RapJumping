@@ -116,7 +116,7 @@ Beyond carabiners, a starter kit is short. Here is the core gear, the standard e
 
 ### Harness (EN 12277)
 
-Your harness ties you into the rope, so it is a buy-and-fit item, not something to borrow blind. The relevant standard, **EN 12277**, defines several types: **Type A** full-body, **Type B** small/child harnesses (for lighter users), **Type C** the adult sit harness most climbers use, and **Type D** a chest harness used with a sit harness. A certified Type C sit harness is tested to withstand at least **15 kN** at the tie-in points, far beyond any force a fall could realistically apply, which is why harnesses have never been known to fail from lack of strength. Choose one that fits snugly above the hips, sits comfortably when you hang in it, and has the right number of gear loops for your climbing. Try before you buy.
+Your harness ties you into the rope, so it is a buy-and-fit item, not something to borrow blind. The relevant standard, **EN 12277**, defines several types: **Type A** full-body, **Type B** small/child harnesses (for lighter users), **Type C** the adult sit harness most climbers use, and **Type D** a chest harness used with a sit harness. A certified Type C sit harness is tested to withstand at least **15 kN** at the tie-in points, far beyond any force a fall could realistically apply. That is why harnesses have never been known to fail from lack of strength. Choose one that fits snugly above the hips, sits comfortably when you hang in it, and has the right number of gear loops for your climbing. Try before you buy.
 
 ### Dynamic rope (EN 892)
 

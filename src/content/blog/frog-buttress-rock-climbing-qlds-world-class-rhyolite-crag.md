@@ -37,7 +37,7 @@ Ask a long-time Australian climber to name the handful of crags that shaped the 
 
 Today Frog Buttress sits within Moogerah Peaks National Park, managed by Queensland Parks and Wildlife Service (QPWS), and remains a working, living trad area rather than a museum piece: climbers still rack up cams and wires and disappear into its corners and cracks every cooler-months weekend. It is also the natural starting point for a wider look at climbing across Queensland and Western Australia, which is why this article sits at the head of a growing series on crags and bouldering across both states.
 
-This guide covers what Frog Buttress actually is, the style of climbing you will find there, how to get in via the national park system, when to go, and the gear and safety mindset trad climbing demands. Rock climbing shares its DNA with [rap jumping](/) and abseiling, all three depend on sound anchors, careful rope-work and a calm head at height, so if the idea of Frog Buttress's exposed rhyolite corners appeals but you are new to rope systems, a guided rap jumping session with a qualified operator is a controlled, well-supervised way to get comfortable on rope before you ever rack up gear on real trad terrain.
+This guide covers what Frog Buttress actually is, the style of climbing you will find there, how to get in via the national park system, when to go, and the gear and safety mindset trad climbing demands. Rock climbing shares its DNA with [rap jumping](/) and abseiling, all three depend on sound anchors, careful rope-work and a calm head at height. If the idea of Frog Buttress's exposed rhyolite corners appeals but you are new to rope systems, a guided rap jumping session with a qualified operator is a controlled, well-supervised way to get comfortable on rope before you ever rack up gear on real trad terrain.
 
 ## About Frog Buttress: rock, history and character
 
@@ -111,7 +111,7 @@ Typical trad gear for a crag like Frog Buttress includes:
 
 As with any climbing hardware used in Australia, look for recognised certification: carabiners to EN 12275 (and/or the equivalent UIAA standard), harnesses to EN 12277, dynamic ropes to EN 892, and helmets to EN 12492. A helmet is particularly important on a trad crag, where rockfall risk and the consequences of an unexpected fall are generally higher than on a well-bolted sport wall. Our [Rock Climbing in Australia: The Complete Guide](/rock-climbing-in-australia-the-complete-guide/) covers these standards, and general gear and safety fundamentals, in more depth.
 
-Finally, respect the area's specific management concerns: do not install bolts or new anchor points (this is contrary to the trad ethic of the area and is actively managed against by QPWS), stick to formed tracks rather than cutting new routes through the sensitive heath vegetation around the cliff tops, use the boot scrub stations to help prevent the spread of plant disease, and pack out everything you bring in, including toilet waste where facilities are not available.
+Finally, respect the area's specific management concerns: do not install bolts or new anchor points (this is contrary to the trad ethic of the area and is actively managed against by QPWS). Stick to formed tracks rather than cutting new routes through the sensitive heath vegetation around the cliff tops, use the boot scrub stations to help prevent the spread of plant disease, and pack out everything you bring in, including toilet waste where facilities are not available.
 
 ## Frequently asked questions
 

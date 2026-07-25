@@ -148,7 +148,7 @@ As a rough orientation for beginners:
 - **19-22:** advanced.
 - **23 and up:** expert and elite.
 
-Because the grade folds in factors beyond pure difficulty, an outdoor grade 14 can feel very different from a gym grade 14, outdoor rock is rarely as friendly as moulded holds, so do not be surprised if your numbers drop when you first head outside. That is completely normal and nothing to be discouraged by.
+Because the grade folds in factors beyond pure difficulty, an outdoor grade 14 can feel very different from a gym grade 14, outdoor rock is rarely as friendly as moulded holds. Do not be surprised if your numbers drop when you first head outside. That is completely normal and nothing to be discouraged by.
 
 ### V-scale and Font (bouldering)
 

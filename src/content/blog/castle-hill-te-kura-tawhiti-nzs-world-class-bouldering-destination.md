@@ -126,7 +126,7 @@ Cooler, drier months generally suit the technical, friction-reliant climbing sty
 
 ### What climbing etiquette should I follow at Castle Hill?
 
-Stay on the access track, never mark or chalk-tag the rock, keep chalk use minimal (and avoid chalking footholds, since it accelerates polishing of the soft limestone), clean shoes before climbing and brush holds afterwards, don't place new bolts, take all rubbish with you, and treat any rock art or sheltered overhangs you encounter with particular care and respect.
+Stay on the access track, never mark or chalk-tag the rock, keep chalk use minimal (and avoid chalking footholds, since it accelerates polishing of the soft limestone), clean shoes before climbing and brush holds afterwards. Don't place new bolts, take all rubbish with you, and treat any rock art or sheltered overhangs you encounter with particular care and respect.
 
 ## Building the skills before you go
 

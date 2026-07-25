@@ -61,7 +61,7 @@ In short: under current QPWS guidance the roped-sport peaks are **Mount Ngungun,
 
 ### Mount Tibrogargan, the main climbing and scrambling peak
 
-Tibrogargan (364 m) is the peak most people mean when they talk about "climbing the Glass House Mountains". The base of the mountain is encircled by the family-friendly Tibrogargan circuit (4.1 km return, Grade 3), but the summit route is a different proposition entirely. It begins about 1 km along the circuit, just past the Mountain View lookout, and QPWS describes the first section as having very loose and unstable rock until you reach a marked "No waiting zone", a high-risk rockfall area where you should not linger. From there the route climbs a near-vertical rockface to the top. QPWS likens the effort to ascending a 76-storey building and stresses it requires high fitness and genuine rock-scrambling skill. For roped climbing and abseiling, this is also a recognised site, but expressly for those with a high level of expertise and equipment. Peregrine falcons are often seen soaring around Tibrogargan, a reminder that the cliffs are living habitat, not just rock.
+Tibrogargan (364 m) is the peak most people mean when they talk about "climbing the Glass House Mountains". The base of the mountain is encircled by the family-friendly Tibrogargan circuit (4.1 km return, Grade 3), but the summit route is a different proposition entirely. It begins about 1 km along the circuit, just past the Mountain View lookout, and QPWS describes the first section as having very loose and unstable rock until you reach a marked "No waiting zone". That is a high-risk rockfall area where you should not linger. From there the route climbs a near-vertical rockface to the top. QPWS likens the effort to ascending a 76-storey building and stresses it requires high fitness and genuine rock-scrambling skill. For roped climbing and abseiling, this is also a recognised site, but expressly for those with a high level of expertise and equipment. Peregrine falcons are often seen soaring around Tibrogargan, a reminder that the cliffs are living habitat, not just rock.
 
 ### Mount Beerwah, the highest, and deeply sacred
 
@@ -104,7 +104,7 @@ Because of all this, helmets are essential, you should never climb alone, and yo
 
 ## Permits, bolts and the rules that actually apply
 
-Recreational climbing and abseiling at the listed locations does not require a special individual permit in the way a commercial operation does, but there are firm rules you must follow, and "permits" is exactly the language people search for, so let's be precise:
+Recreational climbing and abseiling at the listed locations does not require a special individual permit in the way a commercial operation does, but there are firm rules you must follow. "Permits" is exactly the language people search for, so let's be precise:
 
 - **Restricted Access Areas are legally closed.** Mount Coonowrin is the clearest example. Entering attracts on-the-spot fines under the *Nature Conservation (Protected Areas Management) Regulation 2017*. Closures are not advisory.
 - **Bolting is prohibited without written authority.** Installing, replacing or modifying bolts, anchor points or other fixed protection in parks and forests is not permitted without written authority from QPWS. The park contains numerous unapproved anchor points and bolts; QPWS does not recommend relying on them, and using existing fixed gear is at your own risk.

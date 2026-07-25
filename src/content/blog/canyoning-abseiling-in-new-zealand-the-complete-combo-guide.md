@@ -109,7 +109,7 @@ Much of New Zealand's canyoning water is snow or glacier fed, so even at the hei
 
 ### How grades work
 
-Canyons are commonly described using an internationally recognised grading system that rates a canyon on three things: the difficulty of the vertical or rope sections, the difficulty and force of the water, and the overall time and commitment required to complete it. A gentle beginner canyon and a committing full-day expedition can look similar in a photo but sit worlds apart on the grade. In practice, most operators translate this into plain-language trip levels (beginner, intermediate and advanced) and match you to a canyon based on your fitness and water confidence. Be honest about both when you book; the grade exists to keep you within your depth.
+Canyons are commonly described using an internationally recognised grading system that rates a canyon on three things: the difficulty of the vertical or rope sections, the difficulty and force of the water, and the overall time and commitment it demands. A gentle beginner canyon and a committing full-day expedition can look similar in a photo but sit worlds apart on the grade. In practice, most operators translate this into plain-language trip levels (beginner, intermediate and advanced) and match you to a canyon based on your fitness and water confidence. Be honest about both when you book; the grade exists to keep you within your depth.
 
 ## Safety, qualifications and access
 

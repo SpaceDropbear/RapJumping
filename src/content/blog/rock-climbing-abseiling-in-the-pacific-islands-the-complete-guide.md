@@ -72,7 +72,7 @@ Koumac, roughly 400 km north of Nouméa, is the closest thing the Pacific Island
 
 ### Papua New Guinea, trekking to the highest point in the country
 
-Mt Wilhelm, at 4,509 m, is PNG's highest peak and a serious high-altitude trek rather than a technical climb, no ropes or climbing gear are required, but fitness, altitude tolerance and a good guide are essential over the typical three-to-four-day ascent. It's a different kind of adventure to the rest of this list, but it belongs on a Pacific Islands adventure-travel guide for climbers and abseilers who also enjoy serious trekking. More detail is coming in Adventure Climbing & Abseiling in PNG: Mt Wilhelm & Beyond.
+Mt Wilhelm, at 4,509 m, is PNG's highest peak and a serious high-altitude trek rather than a technical climb. No ropes or climbing gear are required, but fitness, altitude tolerance and a good guide are essential over the typical three-to-four-day ascent. It's a different kind of adventure to the rest of this list, but it belongs on a Pacific Islands adventure-travel guide for climbers and abseilers who also enjoy serious trekking. More detail is coming in Adventure Climbing & Abseiling in PNG: Mt Wilhelm & Beyond.
 
 ### Tonga, 'Eua Island's limestone cliffs
 
@@ -138,4 +138,4 @@ Yes, this hub page is the starting point for a full Rap Jumping series on climbi
 
 If a Pacific Islands climbing or abseiling trip is on your radar, the smartest preparation is building genuine confidence and rope skills before you go somewhere with less standardised safety infrastructure than home. That's exactly what a guided rap jumping or abseiling session with a qualified Australian operator is good for, a controlled, properly instructed introduction to descending on rope, in a setting where equipment, training and supervision meet Australian safety expectations from the outset.
 
-Whether you're a first-timer building basic confidence or an experienced climber wanting to sharpen your abseiling technique before a Fiji, Vanuatu or New Caledonia trip, a guided session with a qualified operator is a low-commitment way to get your rope skills where they need to be before you board the plane, then come back to this hub as the country-by-country guides go live.
+Whether you're a first-timer building basic confidence or an experienced climber wanting to sharpen your abseiling technique before a Fiji, Vanuatu or New Caledonia trip, a guided session with a qualified operator is a low-commitment way to get your rope skills where they need to be before you board the plane. Come back to this hub as the country-by-country guides go live.
