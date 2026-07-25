@@ -39,7 +39,7 @@ faq:
 
 Booking your first abseil is exciting and nerve-racking at the same time, and that is normal. Abseiling is also one of the most beginner-friendly adventure activities going: with the right operator, a total first-timer can safely make a controlled rope descent on their first day, with an experienced guide managing every part of the system. New Zealand is a good place to do exactly that, with gentle cave, canyon and coastal descents that suit learning the ropes.
 
-This guide is part of our wider series, [Abseiling in New Zealand: The Complete Guide](/abseiling-in-new-zealand-the-complete-guide/), and it focuses squarely on the first-timer: what actually happens in a beginner session, what it feels like, what to wear, how to choose an easy first site, and how to make sure the operator you book is one of the legitimate, audited outfits rather than someone winging it. Everything here mirrors the way [Rap Jumping](/) introduces complete beginners to rope descents in Australia. The fundamentals are identical, whichever side of the Tasman you start on.
+This guide is part of our wider series, [Abseiling in New Zealand: The Complete Guide](/abseiling-in-new-zealand-the-complete-guide/), and it focuses squarely on the first-timer: what actually happens in a beginner session, what it feels like, what to wear, how to choose an easy first site, and how to make sure the operator you book is one of the legitimate, audited outfits rather than someone winging it. A guided [rap jumping](/) or abseiling session with a qualified operator introduces Australian beginners to rope descents the same way. The fundamentals are identical, whichever side of the Tasman you start on.
 
 If you have never touched a rope outdoors before, don't let that put you off. The whole point of a guided beginner session is that the expertise sits with your instructor. Your job is to listen to the briefing, follow the process, and (the hard bit) trust the system enough to lean back over the edge. Here is what that looks like.
 
@@ -57,7 +57,7 @@ Beginner sessions vary a little by operator and location, but the shape of the d
 
 ### 1. Kitting up: the gear the operator supplies
 
-Your operator provides all the technical equipment. At a minimum that means a **harness** (which you step into and cinch around your hips and thighs), a **helmet**, a **descender** (the friction device that lets you control your speed on the rope), and the **ropes** themselves. On canyon or cave trips you may also be given a wetsuit and other layers. The guide fits and adjusts your harness and helmet for you and shows you how everything connects. You are not expected to know any of this beforehand.
+Your operator provides all the technical equipment. At a minimum that means a harness (which you step into and cinch around your hips and thighs), a helmet, a descender (the friction device that lets you control your speed on the rope), and the ropes themselves. On canyon or cave trips you may also be given a wetsuit and other layers. The guide fits and adjusts your harness and helmet for you and shows you how everything connects. You are not expected to know any of this beforehand.
 
 ### 2. The ground briefing and practice
 
@@ -71,19 +71,19 @@ From there, beginner sessions build up gradually. Rather than throwing you off a
 
 Throughout the session the guide is doing the heavy lifting on safety. They set and check the anchors at the top, inspect every connection before you go over the edge, talk you through each descent, and manage the backup safety line the entire time you are on the rope. If you freeze, they can hold you exactly where you are; if you want to stop and breathe, you can. You control the pace, and there is no prize for rushing.
 
-## What it actually feels like (the honest bit)
+## What it actually feels like
 
 Here is the part no equipment list can prepare you for. For almost everyone, the single hardest moment of a first abseil is not the descent itself. It is the few seconds at the top, leaning back over the edge and committing your weight to the rope for the first time. Every instinct you have is screaming that leaning backwards off a drop is a terrible idea, and your brain takes a moment to accept that the harness, the rope and the guide's safety line will hold you.
 
 Once you are past that threshold and actually weighting the system, something shifts. The descent is slow and entirely under your control: you feed the rope through the descender at whatever pace feels comfortable, your feet walk down the surface, and you quickly realise the system is doing exactly what the guide promised. Most first-timers go from white-knuckled at the top to grinning by the bottom, and the second descent is far easier because the fear of the unknown is gone.
 
-Say it plainly, because a lot of beginners worry that a wobble of fear means they are "not cut out for it". They are wrong. Feeling that jolt of self-preservation at the edge is universal. Experienced abseilers feel a version of it too. The skill is not the absence of fear; it is learning to trust a well-built system and act calmly anyway. A patient guide expects the hesitation and talks you through it.
+A wobble of fear at the edge does not mean you are "not cut out for it". Feeling that jolt of self-preservation is universal, and experienced abseilers feel a version of it too. The skill is not the absence of fear; it is learning to trust a well-built system and act calmly anyway. A patient guide expects the hesitation and talks you through it.
 
 ## Fitness, age and who can do it
 
-Beginner abseiling is not especially physically demanding: the rope and gravity do most of the work, and you are not hauling yourself up anything. Requirements around **minimum age, minimum and maximum weight, and general fitness vary by operator and by site**, and there is no single national number that applies everywhere. Weight limits exist because the rope and descender systems are rated to certain loads; age minimums reflect the maturity and body size needed to manage the equipment and follow instructions under a bit of pressure.
+Beginner abseiling is not especially physically demanding: the rope and gravity do most of the work, and you are not hauling yourself up anything. Requirements around minimum age, minimum and maximum weight, and general fitness vary by operator and by site, and there is no single national number that applies everywhere. Weight limits exist because the rope and descender systems are rated to certain loads; age minimums reflect the maturity and body size needed to manage the equipment and follow instructions under a bit of pressure.
 
-Because these thresholds differ from one operator and location to the next, the sensible move is simply to **ask ahead** when you book. Tell the operator about any relevant health conditions, injuries or concerns, and confirm their specific age, weight and fitness requirements before you pay a deposit. A canyon trip involving swimming and cold water has very different demands from a short, dry practice descent.
+Because these thresholds differ from one operator and location to the next, the sensible move is simply to ask ahead when you book. Tell the operator about any relevant health conditions, injuries or concerns, and confirm their specific age, weight and fitness requirements before you pay a deposit. A canyon trip involving swimming and cold water has very different demands from a short, dry practice descent.
 
 As a general rule, if you can manage a moderate bushwalk to reach the site, follow safety instructions, and are within the operator's stated limits, beginner abseiling is well within reach for most reasonably able adults and many teenagers.
 
@@ -109,31 +109,31 @@ New Zealand offers abseiling across wildly different settings, and they are not 
 
 ### Great first-timer options
 
-- **Cave and urban descents.** Purpose-run cave abseils and urban or structured sites tend to be highly controlled, well-supervised and forgiving, a good place to learn the mechanics without big exposure. New Zealand's most famous cave descent is a serious drop, but the region also offers gentler introductory options.
+- Cave and urban descents. Purpose-run cave abseils and urban or structured sites tend to be highly controlled, well-supervised and forgiving, a good place to learn the mechanics without big exposure. New Zealand's most famous cave descent is a serious drop, but the region also offers gentler introductory options.
 
-- **Beginner-graded canyons and coastal descents.** Around Auckland's west coast, bush canyons and waterfall descents include beginner-friendly trips that pair short abseils with an accessible day out. Our guide to [Auckland abseiling: sea cliffs, waterfalls and urban adventures](/auckland-abseiling-sea-cliffs-waterfalls-urban-adventures/) is a good place to see what that looks like.
+- Beginner-graded canyons and coastal descents. Around Auckland's west coast, bush canyons and waterfall descents include beginner-friendly trips that pair short abseils with an accessible day out. Our guide to [Auckland abseiling: sea cliffs, waterfalls and urban adventures](/auckland-abseiling-sea-cliffs-waterfalls-urban-adventures/) is a good place to see what that looks like.
 
 ### Not for a first day
 
-- **Alpine terrain.** In the Southern Alps and Fiordland, abseiling is usually a technique within mountaineering: steep, cold, weather-dependent and committing. It is the wrong place to learn the basics.
+- Alpine terrain. In the Southern Alps and Fiordland, abseiling is usually a technique within mountaineering: steep, cold, weather-dependent and committing. It is the wrong place to learn the basics.
 
-- **Big, committing multi-abseil canyons.** Some canyons involve long descents, cold water and serious fitness demands. These are guide-only, experienced-participant trips, not first-timer outings.
+- Big, committing multi-abseil canyons. Some canyons involve long descents, cold water and serious fitness demands. These are guide-only, experienced-participant trips, not first-timer outings.
 
 If you are drawn to the country's headline underground descent, read our [Waitomo Caves abseiling guide to the legendary 100m underground drop](/waitomo-caves-abseiling-the-legendary-100m-underground-drop/) first. It is a famous descent, but it helps to understand exactly what a big free-hanging cave abseil involves before you decide whether to start there or build up to it.
 
 ## Booking safely: always choose an audited, registered operator
 
-This is the non-negotiable part. In New Zealand, any business offering guided abseiling, canyoning or caving commercially must comply with the **Health and Safety at Work (Adventure Activities) Regulations 2016**. In practice that means the operator must pass an independent **safety audit** against [WorkSafe New Zealand's](https://www.worksafe.govt.nz/topic-and-industry/adventure-activities/) Safety Audit Standard for Adventure Activities and hold current registration before they can legally take paying customers.
+This is the non-negotiable part. In New Zealand, any business offering guided abseiling, canyoning or caving commercially must comply with the **Health and Safety at Work (Adventure Activities) Regulations 2016**. In practice that means the operator must pass an independent safety audit against [WorkSafe New Zealand's](https://www.worksafe.govt.nz/topic-and-industry/adventure-activities/) Safety Audit Standard for Adventure Activities and hold current registration before they can legally take paying customers.
 
-The system has tightened in recent years. The current version of the audit standard (version 2.0, issued on 31 August 2023 and in force from 1 April 2024) added a specific requirement for operators to assess and manage natural hazards, and since 1 April 2024 operators must register **directly with WorkSafe** rather than through their auditor. WorkSafe also maintains a **public register of registered adventure activity operators**, so anyone can check that a given operator is legitimately registered before booking.
+The system has tightened in recent years. The current version of the audit standard (version 2.0, issued on 31 August 2023 and in force from 1 April 2024) added a specific requirement for operators to assess and manage natural hazards, and since 1 April 2024 operators must register directly with WorkSafe rather than through their auditor. WorkSafe also maintains a public register of registered adventure activity operators, so anyone can check that a given operator is legitimately registered before booking.
 
 A few more things worth confirming for a beginner trip:
 
-- **Guide qualifications.** New Zealand's recognised industry standard for outdoor leaders is set by the New Zealand Outdoor Instructors Association ([NZOIA](https://www.nzoia.org.nz/)). NZOIA offers a dedicated introductory Abseil qualification and a Rock qualification that covers guiding abseil experiences, so it is fair to ask what qualifications your guides hold.
+- Guide qualifications. New Zealand's recognised industry standard for outdoor leaders is set by the New Zealand Outdoor Instructors Association ([NZOIA](https://www.nzoia.org.nz/)). NZOIA offers a dedicated introductory Abseil qualification and a Rock qualification that covers guiding abseil experiences, so it is fair to ask what qualifications your guides hold.
 
-- **Certified equipment.** The gear should meet recognised European (EN) and UIAA standards, for example harnesses to EN 12277, helmets to EN 12492, descenders to EN 341, dynamic ropes to EN 892 / UIAA 101 and carabiners to EN 12275. You don't need to memorise these; a good operator uses properly rated, inspected kit as a matter of course.
+- Certified equipment. The gear should meet recognised European (EN) and UIAA standards, for example harnesses to EN 12277, helmets to EN 12492, descenders to EN 341, dynamic ropes to EN 892 / UIAA 101 and carabiners to EN 12275. You don't need to memorise these; a good operator uses properly rated, inspected kit as a matter of course.
 
-- **Land access.** Many natural abseiling sites sit on public conservation land managed by the Department of Conservation, and commercial guiding there needs a DOC concession for that specific place. It is another sign of a legitimate operator.
+- Land access. Many natural abseiling sites sit on public conservation land managed by the Department of Conservation, and commercial guiding there needs a DOC concession for that specific place. It is another sign of a legitimate operator.
 
 So ask the questions. A reputable operator answers them without hesitation. For a full walkthrough of vetting and booking, including guide-to-guest ratios, insurance and cancellation policies, see our companion guide, [Abseiling tour operators in New Zealand: how to choose and book](/abseiling-tour-operators-in-new-zealand-how-to-choose-book/). And if you'd like a plain-English primer on the technique itself before you go, Rap Jumping's own [abseiling 101 beginner's guide to rappelling](/abseiling-101-a-beginners-guide-to-rappelling/) is a solid place to start.
 
@@ -163,6 +163,6 @@ Pick the most controlled, forgiving setting you can for a first go. A purpose-ru
 
 Check that they have passed a WorkSafe safety audit and hold current registration under the Health and Safety at Work (Adventure Activities) Regulations 2016. You can look them up on WorkSafe's public register of adventure activity operators. It is also fair to ask about guide qualifications such as NZOIA, certified EN/UIAA equipment, and a DOC concession if the site is on public conservation land.
 
-## Ready to lean back over the edge?
+## Trusting the system before your first New Zealand descent
 
 The best way to arrive in New Zealand ready to enjoy your first abseil is to feel a rope take your weight before you get there. A guided [rap jumping](/) or abseiling session with a qualified operator suits complete beginners: certified equipment, every system checked by an instructor, and a low-pressure environment to build rope skills and confidence at height. Master the mental leap of trusting the system once, and cave, canyon and coastal descents across New Zealand suddenly feel a lot more achievable.

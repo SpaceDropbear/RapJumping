@@ -39,9 +39,9 @@ faq:
 
 Choosing an abseiling tour operator in New Zealand is not like booking a bus tour. You are trusting a stranger's rope system, anchors and judgement with your life at height (over a cliff, into a cave or down a waterfall), so the questions you ask before you book matter far more than the price on the website. New Zealand also regulates adventure activities tightly, which hands you a set of concrete, checkable facts to work with. This guide, part of our [complete guide to abseiling in New Zealand](/abseiling-in-new-zealand-the-complete-guide/), walks through how to vet an operator and book with confidence.
 
-None of this is about being difficult or distrustful. A good operator *wants* you to ask about their registration, their guides and their gear, because it is what sets them apart from anyone cutting corners. The same principle runs through everything [Rap Jumping](/) covers: every system is transparent, every check is explained, and no reasonable safety question is ever brushed off. Treat the conversation with a prospective NZ operator the same way. It is a two-way interview, and the way they answer tells you almost as much as the answers themselves.
+A good operator *wants* you to ask about their registration, their guides and their gear, because it is what sets them apart from anyone cutting corners. The same principle runs through everything [Rap Jumping](/) covers: every system is transparent, every check is explained, and no reasonable safety question is ever brushed off. Treat the conversation with a prospective NZ operator the same way. It is a two-way interview, and the way they answer tells you almost as much as the answers themselves.
 
-Below you will find the checks in the order we would make them, a short checklist you can take to any operator's website or inbox, and the booking details (deposits, season and group size) that decide whether your trip happens. We deliberately do not name individual operators; instead, we give you the tools to judge any operator for yourself, anywhere in the country.
+Below you will find the checks in the order we would make them, a short checklist you can take to any operator's website or inbox, and the booking details (deposits, season and group size) that decide whether your trip happens. No individual operators are named here. The checks below work on any operator, anywhere in the country.
 
 ## Start with the WorkSafe register
 
@@ -55,7 +55,7 @@ If you cannot find an operator on the register at all, that is a serious red fla
 
 The register tells you an operator is registered *now*, but it is worth understanding the system so you know what you are relying on. Every registered operator has passed an independent safety audit and holds current registration. Registration is not a one-off, either. Operators must renew before their registration expires, and the renewal goes through the same audit-and-application process as the first time. So a business that has been running safely for years is being re-checked on an ongoing basis, not resting on a decade-old sign-off.
 
-A change worth knowing about: amendments that came into force on **1 April 2024** mean operators now register **directly with WorkSafe**, rather than indirectly through their safety auditor as under the older arrangement. The same amendments sharpened the requirement to identify and manage natural hazards: rockfall, rising water, unstable ground and rapidly changing weather. That is exactly the sort of risk that matters most in abseiling and canyoning terrain. WorkSafe publishes its guidance on how businesses [apply for adventure activity operator registration](https://www.worksafe.govt.nz/topic-and-industry/adventure-activities/apply-for-adventure-activity-operator-registration/), which shows how much work sits behind that single line on the public register.
+A change worth knowing about: amendments that came into force on 1 April 2024 mean operators now register directly with WorkSafe, rather than indirectly through their safety auditor as under the older arrangement. The same amendments sharpened the requirement to identify and manage natural hazards: rockfall, rising water, unstable ground and rapidly changing weather. That is exactly the sort of risk that matters most in abseiling and canyoning terrain. WorkSafe publishes its guidance on how businesses [apply for adventure activity operator registration](https://www.worksafe.govt.nz/topic-and-industry/adventure-activities/apply-for-adventure-activity-operator-registration/), which shows how much work sits behind that single line on the public register.
 
 You do not need to become an expert in the regulations. In practice, a legitimate operator can point to a current registration and a passed safety audit, and will not be fazed by you asking about either.
 
@@ -85,13 +85,13 @@ The hardware you clip into should carry recognised European (EN) or UIAA certifi
 
 Beyond safety credentials, a cluster of practical policies decides how smoothly your booking goes, and how you are treated if something changes.
 
-- **Insurance.** Ask whether the operator carries public liability insurance. Separately, arrange your own travel insurance and confirm it actually covers adventure activities such as abseiling and canyoning, as many standard policies exclude them or require an add-on.
+- Insurance runs two ways. The operator should carry public liability cover, and you should arrange your own travel insurance and confirm it actually covers adventure activities such as abseiling and canyoning, as many standard policies exclude them or require an add-on.
 
-- **Weather, cancellation and refunds.** Adventure trips get cancelled for genuine safety reasons such as heavy rain, high river flow and dangerous conditions. This is a sign of a responsible operator, not a failing. Before booking, read exactly what happens if the operator cancels (full refund, credit or re-book) and what happens if *you* cancel, including cut-off times and deposit forfeiture.
+- Adventure trips get cancelled for genuine safety reasons such as heavy rain, high river flow and dangerous conditions. This is a sign of a responsible operator, not a failing. Before booking, read exactly what happens if the operator cancels (full refund, credit or re-book) and what happens if *you* cancel, including cut-off times and deposit forfeiture.
 
-- **Minimum ages, weight and fitness.** Many trips carry minimum ages, and some have weight limits (harness and rope-system constraints) or fitness and water-confidence requirements, especially for canyoning. Confirm these upfront so nobody is turned away on the day.
+- Many trips carry minimum ages, and some have weight limits (harness and rope-system constraints) or fitness and water-confidence requirements, especially for canyoning. Confirm these upfront so nobody is turned away on the day.
 
-- **What's provided versus BYO.** Reputable operators supply the technical safety gear: harness, helmet, descender, ropes and usually a wetsuit for canyoning. Check what you need to bring yourself (footwear, swimwear, a change of clothes, water, sun protection) so you arrive ready.
+- Reputable operators supply the technical safety gear: harness, helmet, descender, ropes and usually a wetsuit for canyoning. Check what you need to bring yourself (footwear, swimwear, a change of clothes, water, sun protection) so you arrive ready.
 
 If you are new to descending on a rope, pair this operator vetting with our [first-timer's guide to abseiling in New Zealand](/abseiling-for-beginners-in-new-zealand-first-timers-guide/), which explains what a first session feels like and how to choose an easy starter site. And because so much New Zealand abseiling happens inside canyoning trips, our [complete combo guide to canyoning and abseiling](/canyoning-abseiling-in-new-zealand-the-complete-combo-guide/) is the best place to understand the water-related questions a good canyoning operator raises before you even ask: flow, cold and flash-flood risk.
 
@@ -99,15 +99,29 @@ If you are new to descending on a rope, pair this operator vetting with our [fir
 
 Once an operator passes your safety checks, the booking itself comes down to timing and logistics.
 
-**Season.** Most canyon and waterfall abseiling runs from spring through autumn, when water temperatures and daylight are friendlier; cave abseiling around the Waikato limestone can run closer to year-round because underground temperatures are stable. High-demand trips in adventure hubs such as Queenstown book out well ahead in the peak summer months, so if your dates are fixed, reserve early. Our [Queenstown abseiling and canyoning guide](/queenstown-abseiling-canyoning-the-adventure-capital-delivers/) gives a feel for how busy the flagship destinations get.
+Most canyon and waterfall abseiling runs from spring through autumn, when water temperatures and daylight are friendlier; cave abseiling around the Waikato limestone can run closer to year-round because underground temperatures are stable. High-demand trips in adventure hubs such as Queenstown book out well ahead in the peak summer months, so if your dates are fixed, reserve early. Our [Queenstown abseiling and canyoning guide](/queenstown-abseiling-canyoning-the-adventure-capital-delivers/) gives a feel for how busy the flagship destinations get.
 
-**Deposits and payment.** Expect to pay a deposit or the full amount to secure a spot, particularly in peak season. This is normal, but tie it back to the cancellation policy above so you know what that money buys you if the weather turns or your plans change.
+Expect to pay a deposit or the full amount to secure a spot, particularly in peak season. This is normal, but tie it back to the cancellation policy above so you know what that money buys you if the weather turns or your plans change.
 
-**Group size.** Decide whether you want a private booking or are happy joining a scheduled group, and check the maximum group size for the trip. Smaller groups generally mean more guide attention and more time on the rope; larger scheduled trips are often cheaper. If you are a family or a group with mixed ability, tell the operator upfront so they can recommend the right trip and grade.
+Decide whether you want a private booking or are happy joining a scheduled group, and check the maximum group size for the trip. Smaller groups generally mean more guide attention and more time on the rope; larger scheduled trips are often cheaper. If you are a family or a group with mixed ability, tell the operator upfront so they can recommend the right trip and grade.
 
 ## Your quick operator checklist
 
-Take this list to any operator's website or booking email. If you can tick every box, and the operator answers the questions readily, you are dealing with a professional outfit.
+Take the table below to any operator's website or booking email. If every row checks out, and the operator answers the questions readily, you are dealing with a professional outfit.
+
+| Check | What to confirm |
+|---|---|
+| WorkSafe registration | Operator appears on WorkSafe's public register for abseiling/canyoning, under the correct name. |
+| Safety audit | Current registration backed by an independent safety audit; renewed, not lapsed. |
+| DOC concession | Valid concession for the specific conservation-land site, if the trip is on public conservation land. |
+| Guide qualifications | Guides hold relevant NZOIA qualifications (Abseil, Rock or Canyon) for what they lead. |
+| Ratios | Sensible, clearly stated guide-to-guest ratio for your specific trip. |
+| Certified gear | EN/UIAA-certified ropes, harnesses, descenders, carabiners and helmets, regularly inspected. |
+| Insurance | Operator carries public liability cover; your own travel insurance covers the activity. |
+| Weather & refunds | Clear cancellation, refund and re-book policy for both operator- and customer-initiated changes. |
+| Ages, weight & fitness | Minimum age, any weight limits, and fitness/water-confidence requirements confirmed. |
+| Provided vs BYO | Written list of what is supplied and what you must bring. |
+| Booking terms | Deposit amount, season availability, and group size all understood before paying. |
 
 Remember the underlying principle: it is completely fair to ask every one of these questions, and a good operator answers them without hesitation. An operator who is evasive, defensive or vague about registration, concessions or gear has given you your answer. Look elsewhere.
 
@@ -137,6 +151,6 @@ It varies by operator, but weather and safety cancellations are a normal part of
 
 Most canyon and waterfall trips run from spring through autumn, while cave abseiling in the Waikato can run closer to year-round because underground temperatures are stable. Popular trips in busy hubs such as Queenstown fill up well ahead in peak summer, so book early if your travel dates are fixed. A deposit or full payment is usually needed to secure your place.
 
-## Ready to build your rope confidence first?
+## Knowing what good looks like before you book
 
 The best way to walk into a New Zealand booking knowing what "good" looks like is to have already felt a properly run rope system for yourself. A guided [rap jumping](/) or abseiling session with a qualified operator uses certified equipment and has every system checked by an instructor, which is a low-pressure way to build rope skills before a trip across the Tasman. Once you have descended on a checked-and-double-checked system, you will recognise a professional operator instantly, and know exactly which questions to ask. Use the checklist above to choose your New Zealand operator with confidence.

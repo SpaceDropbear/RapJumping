@@ -41,11 +41,11 @@ Ask most people what abseiling in New Zealand looks like and they picture someon
 
 This guide is the national explainer for how abseiling fits inside canyoning in New Zealand, and it sits beneath the hub, [Abseiling in New Zealand: The Complete Guide](/abseiling-in-new-zealand-the-complete-guide/). If you have already tried the forward-facing rope descents of [rap jumping](/), the core skill, trusting an anchor and controlling your own descent on a friction device, carries straight over into a canyon. What changes is everything around the rope: moving water, cold, and a whole sequence of obstacles between one abseil and the next.
 
-Below we cover what canyoning actually is, how it differs from plain abseiling, where the best canyons are on each island, the gear you wear, how the grading works and, most importantly, the hazards that make guiding and season selection non-negotiable. We will not gloss over the risks. Cold water and flash flooding are the two that hurt people, and the whole reason New Zealand's audited, qualified guiding system exists is to manage them.
+Below we cover what canyoning actually is, how it differs from plain abseiling, where the best canyons are on each island, the gear you wear, how the grading works and, most importantly, the hazards that make guiding and season selection non-negotiable. Cold water and flash flooding are the two that hurt people, and the whole reason New Zealand's audited, qualified guiding system exists is to manage them.
 
 ## What canyoning is, and how it differs from abseiling
 
-It helps to separate the two words, because they get used loosely. **Abseiling** is the specific technique of descending a rope under control, using a friction device to manage your speed. It is one skill, and on its own it usually happens on dry rock or as the way into a cave. **Canyoning** is a whole-day pursuit that follows a mountain stream or river down through a gorge, and it uses abseiling as just one of its tools. Between the rope sections you scramble over boulders, slide down water-polished rock chutes, jump into plunge pools and swim across water too deep to wade.
+Abseiling is one skill: descending a rope under control, with a friction device managing your speed. On its own it usually happens on dry rock or as the way into a cave. Canyoning is a whole-day pursuit that follows a mountain stream or river down through a gorge, and it uses abseiling as just one of its tools. Between the rope sections you scramble over boulders, slide down water-polished rock chutes, jump into plunge pools and swim across water too deep to wade.
 
 So every canyoning trip includes abseiling, but not all abseiling is canyoning. In a canyon the abseils are frequently down or immediately beside a waterfall, with cold water thundering past, which is a very different sensation from a dry descent. A single canyon might string together several separate abseils of varying heights, linked by slides, jumps and swims, so you use the rope skill again and again over the course of a day rather than once.
 
@@ -57,7 +57,7 @@ The North Island's canyoning is spread across warm-temperate bush, limestone cou
 
 ### The Coromandel: big, committing canyons
 
-The Coromandel Peninsula, on the North Island's east, holds some of the country's most serious canyoning. The best-known is Sleeping God Canyon in the Kauaeranga Valley near Thames, a big, committing descent down a staircase of waterfalls, with long abseils, jumps, slides and zip lines that demand real fitness and water confidence. It is guided-only terrain that runs under a single, exclusive DOC concession, and it makes a good illustration of how tightly access to a specific canyon can be controlled. We cover it in full in [Sleeping God Canyon Abseiling](/sleeping-god-canyon-abseiling-queenstowns-best-kept-secret/), which, despite the title, correctly places the canyon on the Coromandel rather than in the South Island.
+The Coromandel Peninsula, on the North Island's east, holds some of the country's most serious canyoning. The best-known is Sleeping God Canyon in the Kauaeranga Valley near Thames, a big, committing descent down a staircase of waterfalls, with long abseils, jumps, slides and zip lines that demand real fitness and water confidence. It is guided-only terrain that runs under a single, exclusive DOC concession, and it makes a good illustration of how tightly access to a specific canyon can be controlled. We cover it in full in [Sleeping God Canyon Abseiling: Coromandel, Not Queenstown](/sleeping-god-canyon-abseiling-coromandel-not-queenstown/), which places the canyon on the Coromandel rather than in the South Island.
 
 ### Auckland's ranges: canyoning close to the city
 
@@ -83,15 +83,15 @@ North of Queenstown, the Wanaka area and the wider Mount Aspiring National Park 
 
 A canyoning outfit is essentially abseiling gear with water protection added. A properly equipped operator supplies and fits everything, and checks it before you start. The core kit is:
 
-- **Harness.** A sit harness you clip into for every abseil; canyoning harnesses often have a hard-wearing seat protector for slides. Look for the EN 12277 standard.
+- Harness. A sit harness you clip into for every abseil; canyoning harnesses often have a hard-wearing seat protector for slides. Look for the EN 12277 standard.
 
-- **Helmet.** Protects against rock, low canyon walls and knocks during descents. Non-negotiable in a canyon. Look for the EN 12492 standard.
+- Helmet. Protects against rock, low canyon walls and knocks during descents. Non-negotiable in a canyon. Look for the EN 12492 standard.
 
-- **Descender.** The friction device that controls your abseil speed; the relevant European reference for descent devices is EN 341.
+- Descender. The friction device that controls your abseil speed; the relevant European reference for descent devices is EN 341.
 
-- **Ropes and carabiners.** Set by the guide at each drop. Dynamic climbing rope is certified to EN 892 / UIAA 101, and safety-rated carabiners to EN 12275, though canyoning itself uses low-stretch rope suited to wet descents.
+- Ropes and carabiners. Set by the guide at each drop. Dynamic climbing rope is certified to EN 892 / UIAA 101, and safety-rated carabiners to EN 12275, though canyoning itself uses low-stretch rope suited to wet descents.
 
-- **Wetsuit and footwear.** A thick wetsuit, often with a hood and neoprene socks, plus sturdy shoes, because canyoning water is cold and you are immersed in it constantly.
+- Wetsuit and footwear. A thick wetsuit, often with a hood and neoprene socks, plus sturdy shoes, because canyoning water is cold and you are immersed in it constantly.
 
 For a fuller run-through of the rope hardware itself, our [essential abseiling gear checklist](/complete-essential-abseiling-gear-checklist/) covers what each item does and why certification matters. On a guided canyoning trip you will not need to buy any of this, but knowing what good kit looks like helps you judge an operator.
 
@@ -154,6 +154,6 @@ The recognised industry benchmark is the New Zealand Outdoor Instructors Associa
 
 Canyoning runs broadly from spring through autumn, because much of the water is snow or glacier fed and cold, and because gorges are more predictable outside the wettest weather. Exact dates vary by region and canyon, with the alpine South Island tending to a shorter warm-weather window than the North. Trips are weather-dependent and can be cancelled at short notice if flow or forecasts are unsafe.
 
-## Ready to get on the rope?
+## Build rope confidence before your first canyon
 
 Canyoning is a wonderful goal, but the rope skill it depends on, trusting an anchor and controlling your own descent at height, is far easier to learn on dry land first. A guided [rap jumping](/) or abseiling session with a qualified operator means forward-facing abseiling with certified equipment and every system checked by an instructor before you step off the edge. It is a low-pressure way to build real rope confidence, so that when you do drop into a New Zealand canyon you can focus on the water and the view rather than the rope.

@@ -31,7 +31,7 @@ faq:
 
 - **The season is short and weather-dependent.** The main window runs roughly November to March, and it shrinks further on the higher peaks, where snow, ice and rapid weather changes are possible almost any time of year.
 
-- **The hazards are real and cannot be talked down.** Crevasses, rockfall, avalanche, cold and fast-changing mountain weather are part of the environment, which is exactly why guided instruction and sound judgement matter more than nerve.
+- **Crevasses, rockfall, avalanche, cold and fast-changing weather are part of the environment.** That is why guided instruction and sound judgement matter more here than nerve does.
 
 - **Beginners should build skills first, not turn up expecting an easy abseil.** The sensible path is guided instruction to learn rope skills properly, then work up to alpine terrain. Closer to Queenstown and Wanaka, guided canyoning packs in plenty of abseiling at a friendlier grade.
 
@@ -39,7 +39,7 @@ faq:
 
 The southern half of New Zealand's South Island is some of the wildest mountain country on the planet: the glaciated peaks of Aoraki/Mount Cook, the deep-cut valleys and hanging waterfalls of Fiordland, and the sharp ridgelines of Mount Aspiring National Park. It is spectacular terrain to move through on a rope. But if you have arrived here searching for "South Island abseiling" expecting a quick, casual descent off a cliff, adjust your expectations. In these big alpine parks, abseiling is not usually a product you book on its own. It is a technique that trained climbers and mountaineers use to get safely down steep snow, rock and ice as part of a much bigger day in the mountains.
 
-That is not a reason to walk away. It is a reason to approach it the right way. This guide, part of our wider [complete guide to abseiling in New Zealand](/abseiling-in-new-zealand-the-complete-guide/), explains how abseiling actually fits into South Island alpine climbing, who leads it, when the season runs, and how a keen beginner can build toward it sensibly. The same rope fundamentals that [Rap Jumping](/) teaches at height in Australia (a bombproof anchor, a checked descent system, and total trust in that system) are the foundation everything here is built on. The difference in the Southern Alps is the environment: cold, altitude, crevasses and weather that can turn in minutes.
+That is not a reason to walk away. It is a reason to approach it the right way. This guide, part of our wider [complete guide to abseiling in New Zealand](/abseiling-in-new-zealand-the-complete-guide/), explains how abseiling actually fits into South Island alpine climbing, who leads it, when the season runs, and how a keen beginner can build toward it sensibly. The same rope fundamentals that [rap jumping](/) depends on (a bombproof anchor, a checked descent system, and total trust in that system) are the foundation everything here is built on. The difference in the Southern Alps is the environment: cold, altitude, crevasses and weather that can turn in minutes.
 
 So think of this as a reality check and a roadmap: where abseiling sits in the alpine picture, why the guiding and training standards matter, and where to find plenty of roped descending at a friendlier grade if a full mountaineering objective is a step too far for now.
 
@@ -51,21 +51,21 @@ That changes how you should think about it. An alpine abseil might be set up on 
 
 For a clear-eyed sense of how abseiling differs from climbing itself (one is controlled descent, the other ascent, each with its own risks), our explainer on [rock climbing versus abseiling](/rock-climbing-vs-abseiling-key-differences/) is a useful primer before you apply those skills in the mountains.
 
-## The alpine hazards that don't get softened
+## The alpine hazards
 
-It would be easy, and wrong, to make South Island alpine abseiling sound like a thrill ride with the risks trimmed off. The hazards here are real, they are specific to high mountains, and understanding them is part of respecting the terrain.
+The hazards here are real, they are specific to high mountains, and understanding them is part of respecting the terrain.
 
-- **Crevasses.** Glaciated terrain around Aoraki/Mount Cook and the higher parks is riddled with crevasses, some hidden under snow bridges. Roped travel, glacier skills and the judgement to read the surface are essential. This is not somewhere to improvise.
+- Crevasses. Glaciated terrain around Aoraki/Mount Cook and the higher parks is riddled with crevasses, some hidden under snow bridges. Roped travel, glacier skills and the judgement to read the surface are essential. This is not somewhere to improvise.
 
-- **Rockfall.** Steep alpine faces shed rock, especially as the day warms and ice releases its grip. A dislodged stone from above, or from a party higher up, is a constant consideration on the descent as much as the climb.
+- Rockfall. Steep alpine faces shed rock, especially as the day warms and ice releases its grip. A dislodged stone from above, or from a party higher up, is a constant consideration on the descent as much as the climb.
 
-- **Avalanche.** DOC notes considerable avalanche danger in the Aoraki/Mount Cook area, particularly through the colder months, and warns that avalanches can occur at any time of year because snow falls year-round in the park. Avalanche awareness and current advisory checks are non-negotiable.
+- Avalanche. DOC notes considerable avalanche danger in the Aoraki/Mount Cook area, particularly through the colder months, and warns that avalanches can occur at any time of year because snow falls year-round in the park. Avalanche awareness and current advisory checks are non-negotiable.
 
-- **Weather and cold.** DOC describes strong wind, high rainfall, heavy snowfall and rapid temperature changes as possible at any time of year in this alpine environment. What starts as a clear morning can become a whiteout, and cold-affected hands and decision-making are a genuine safety factor on a rope.
+- Weather and cold. DOC describes strong wind, high rainfall, heavy snowfall and rapid temperature changes as possible at any time of year in this alpine environment. What starts as a clear morning can become a whiteout, and cold-affected hands and decision-making are a genuine safety factor on a rope.
 
-- **Snow and ice underfoot for much of the year.** Snow and ice can be present in the high country from roughly March to November, which is why crampon and ice-axe competence sits right alongside ropework in any serious alpine skill set.
+- Snow and ice underfoot for much of the year. Snow and ice can be present in the high country from roughly March to November, which is why crampon and ice-axe competence sits right alongside ropework in any serious alpine skill set.
 
-None of this is meant to frighten anyone off. It is meant to make the case for what keeps people safe here: proper skills, good judgement and, for most people, a qualified guide.
+What keeps people safe in this terrain is straightforward: proper skills, good judgement and, for most people, a qualified guide.
 
 ## Who leads alpine abseiling: guides and qualifications
 
@@ -81,13 +81,20 @@ The important point is the sequence. You do not learn to abseil in the alpine by
 
 ## When to go: a short, weather-dependent season
 
-The alpine season in the South Island is brief. The main window for climbing and mountaineering objectives runs roughly from **November to March**, over the Southern Hemisphere summer, and it narrows considerably on the higher and more glaciated peaks, where a "good weather window" can be measured in days, not months. Even within summer, conditions can flip: as DOC makes clear, snow, wind and cold are possible in these mountains at any time of year.
+The alpine season in the South Island is brief. The main window for climbing and mountaineering objectives runs roughly from November to March, over the Southern Hemisphere summer, and it narrows considerably on the higher and more glaciated peaks, where a "good weather window" can be measured in days, not months. Even within summer, conditions can flip: as DOC makes clear, snow, wind and cold are possible in these mountains at any time of year.
 
 This is very different from cave abseiling in the North Island, which runs essentially year-round because a cave's temperature is stable. In the alpine, the mountain sets the timetable: guided parties build in spare days to wait out weather, and any credible plan treats flexibility as part of the itinerary. If you are travelling a long way for a specific climb, patience and a willingness to be turned around are part of the deal.
 
+| Setting | What abseiling means here | Who leads it | Rough season |
+|---|---|---|---|
+| Aoraki/Mount Cook National Park | Descending snow, ice and rock on alpine routes | NZMGA/IFMGA guides; skills via NZAC courses | Short summer window, roughly Nov to Mar; shorter up high |
+| Mount Aspiring National Park | Alpine climbing descents; also wild canyoning nearby | NZMGA/IFMGA guides; audited canyoning operators | Spring to autumn for canyoning; summer for alpine |
+| Fiordland National Park | Remote, committing alpine and wilderness objectives | NZMGA/IFMGA guides for climbing objectives | Summer, highly weather dependent |
+| Wanaka / Mount Aspiring foothills | Guided canyoning with waterfall abseils (friendlier grade) | Audited, registered canyoning operators | Roughly spring to autumn |
+
 ## A more accessible way in: wild canyoning around Wanaka and Mount Aspiring
 
-If a full mountaineering objective sounds like more than you are ready for, and for most visitors it reasonably will be, the South still offers plenty of genuine roped descending at a far friendlier grade. Around Wanaka and the fringes of Mount Aspiring National Park, guided **canyoning** trips deliver waterfall abseils, natural slides, jumps and swims through spectacular gorges, all under the supervision of qualified guides using certified gear.
+If a full mountaineering objective sounds like more than you are ready for, and for most visitors it reasonably will be, the South still offers plenty of genuine roped descending at a far friendlier grade. Around Wanaka and the fringes of Mount Aspiring National Park, guided canyoning trips deliver waterfall abseils, natural slides, jumps and swims through spectacular gorges, all under the supervision of qualified guides using certified gear.
 
 Canyoning is where a lot of first-time abseiling in the South Island actually happens, because the abseils are built into a guided, graded day. It is cold, alpine-fed water, so wetsuits are supplied and matter, but the barrier to entry is far lower than a glaciated peak. For a fuller picture of how the two interlock, our [complete combo guide to canyoning and abseiling in New Zealand](/canyoning-abseiling-in-new-zealand-the-complete-combo-guide/) walks through how abseils sit inside a canyoning trip.
 
@@ -109,7 +116,7 @@ Whether you are abseiling in a canyon or on an alpine route, the hardware should
 
 For guided canyoning, the operator should be audited and registered under New Zealand's adventure-activities safety system, and hold the right access approvals for the land they work on, which in these national parks is managed by DOC. For alpine objectives, look for NZMGA/IFMGA-qualified guiding. If you would like a full checklist of what to verify before you hand over a deposit (registration, safety audits, guide qualifications, insurance and cancellation policies), our guide on [how to choose and book an abseiling tour operator in New Zealand](/abseiling-tour-operators-in-new-zealand-how-to-choose-book/) lays it all out.
 
-The alpine objectives in this guide, Fiordland and Aoraki/Mount Cook, are guided mountaineering arrangements rather than something you book off a shelf. There is no shelf-bookable South Island abseil worth pointing you at here, so this guide does not pretend otherwise: arrange these through a mountain guiding company directly.
+The alpine objectives in this guide, Fiordland and Aoraki/Mount Cook, are guided mountaineering arrangements rather than something you book off a shelf. There is no shelf-bookable South Island abseil worth pointing you at, so arrange an alpine objective through a mountain guiding company directly.
 
 ## Frequently asked questions
 
@@ -137,6 +144,6 @@ The environment carries real hazards. Crevasses, rockfall, avalanche, cold and r
 
 Guided canyoning around Wanaka, Mount Aspiring's foothills and Queenstown is the most accessible option, with waterfall abseils built into a structured, graded day led by qualified guides using certified gear. It is cold, alpine-fed water, so wetsuits are supplied, but the barrier to entry is far lower than a glaciated peak. It is also a natural stepping stone toward wilder alpine terrain later.
 
-## Ready to build the rope skills first?
+## The groundwork before the Southern Alps
 
 South Island alpine abseiling sits at the serious end of the sport, and the smartest way to get there is to be comfortable on a rope long before you meet a crevasse. A guided [rap jumping](/) or abseiling session with a qualified operator lets you feel what it is like to trust a descent system, with certified equipment and every connection checked by an instructor. It is a low-pressure, confidence-building way to lay the foundation that alpine instruction later builds on. If Fiordland, Mount Aspiring or Aoraki/Mount Cook are on your someday list, start by getting rock-solid on rope.
