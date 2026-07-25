@@ -93,13 +93,17 @@ export const MERCHANTS = [
   // ---- Commission Factory (scanned live 2026-07-11; rates from the API) ----
   {
     name: 'Cover-More', network: 'commission-factory', merchantId: 11003,
-    domains: ['covermore.com.au'], status: 'pending', // flip live when the CF join approves
+    // 2026-07-25: application DECLINED by Cover-More (Vikunja #959). Kept in the registry rather
+    // than deleted so nobody re-applies assuming it was never tried, and so the pathRules below
+    // survive if a different travel-insurance merchant ever reuses this shape.
+    domains: ['covermore.com.au'], status: 'declined',
     // /pds is the Product Disclosure Statement - a compliance document we cite so readers can
     // check exclusions for adventure activities. Monetising it would turn "read the PDS" into
     // a paid referral, which is the exact opposite of why that link exists.
     pathRules: { deny: ['/pds'] },
     buildUrl: cfLink(11003),
-    notes: '10%/30d. Travel insurance: the July anchor. Join applied via dashboard.',
+    notes: '10%/30d. DECLINED 2026-07-25 - do not re-apply without a new angle. Travel insurance '
+      + 'remains an open slot: World Nomads (#945) and SCTI (#960) are the untried alternatives.',
   },
   {
     name: 'Wild Earth', network: 'commission-factory', merchantId: 12917,
