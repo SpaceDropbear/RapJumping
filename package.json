@@ -4,11 +4,12 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "node scripts/clear-content-cache.mjs && node scripts/gen-image-variants.mjs && astro dev",
-    "build": "node scripts/clear-content-cache.mjs && node scripts/gen-image-variants.mjs && astro build && node scripts/verify-affiliate-links.mjs",
+    "build": "node scripts/lint-content.mjs && node scripts/clear-content-cache.mjs && node scripts/gen-image-variants.mjs && astro build && node scripts/verify-affiliate-links.mjs",
     "preview": "npm run build && wrangler dev",
     "astro": "astro",
     "generate-types": "wrangler types",
     "verify:affiliate": "node scripts/verify-affiliate-links.mjs",
+    "lint:content": "node scripts/lint-content.mjs",
     "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {

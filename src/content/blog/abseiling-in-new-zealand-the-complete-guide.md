@@ -99,7 +99,6 @@ Two spokes in this series are less about a place and more about getting started 
 - [Waitomo: Black Labyrinth](https://www.getyourguide.com/waitomo-l32442/black-labyrinth-the-legendary-black-water-rafting-co-t140739/) - the original black-water trip, floating rather than abseiling in, if the rope drop is a step too far.
 - [Auckland rainforest canyoning](https://www.getyourguide.com/auckland-region-l821/auckland-canyoning-rainforest-adventure-t27030/) - abseils up to 50 metres in a volcanic gorge, 40 minutes from the city.
 - [Queenstown: Gibbston Valley half-day canyoning](https://www.getyourguide.com/queenstown-l498/queenstown-gibbston-valley-half-day-canyoning-adventure-t172491/) - the abseils, slides and down-climbs described above, in the gorges past the Kawarau bungy bridge. Bookings reopen in October.
-- [Wanaka waterfall climb and canyon](https://www.getyourguide.com/wanaka-l946/wanaka-canyoning-tour-with-helicopter-transfers-t411173/) - climb one side, abseil the other, no experience needed.
 
 The alpine South Island objectives in this section are a different matter: those are guided mountaineering arrangements rather than something you book off a shelf.
 
