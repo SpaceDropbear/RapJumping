@@ -12,6 +12,15 @@
  */
 import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
+import { GYG_VERIFIED, GYG_CATEGORY_PAGES } from '../src/data/affiliates.mjs';
+
+// Every GYG activity URL a human has actually clicked through to a real product page.
+// A withdrawn activity 301s to a search page rather than 404ing, so a status check cannot
+// tell them apart - and the check CANNOT be automated (Cloudflare blocks it partway, and
+// in a half-blocked run the passes are the lies). So this is a ledger, not a prober:
+// it warns when content gains a GYG link nobody has verified yet.
+const VERIFIED = new Set([...Object.values(GYG_VERIFIED).flat(), ...GYG_CATEGORY_PAGES]);
+const unverified = new Map();
 
 const DIST = 'dist/client';
 
@@ -75,8 +84,24 @@ for (const file of walk(DIST)) {
       fail.rel.push(`${page} :: rel="${rel}"`);
     if (!boxes.some(([s, e]) => m.index > s && m.index < e))
       fail.loose.push(`${page} :: ${href.slice(0, 90)}`);
+
+    const g = href.match(/getyourguide\.com\/([^?"]+?)\/?(?:\?|$)/);
+    if (g && !VERIFIED.has(g[1])) {
+      if (!unverified.has(g[1])) unverified.set(g[1], new Set());
+      unverified.get(g[1]).add(page);
+    }
   }
   if (onPage > 0 && !disclosed) fail.undisclosed.push(page);
+}
+
+
+if (unverified.size) {
+  console.warn(`
+  WARN - GetYourGuide URLs not in the click-verified ledger (${unverified.size}):`);
+  for (const [slug, pages] of unverified)
+    console.warn(`    ${slug}  (on ${[...pages].length} page(s))`);
+  console.warn('    A dead GYG activity 301s to a search page, it does NOT 404, so only a');
+  console.warn('    human click can confirm these. Add to GYG_VERIFIED in src/data/affiliates.mjs.');
 }
 
 const labels = {

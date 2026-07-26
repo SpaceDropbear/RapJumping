@@ -69,6 +69,52 @@ const GYG_REGIONS = {
   32388: 'VU', 169192: 'VU', 2472: 'FJ', 2471: 'FJ', 103962: 'FJ', 169098: 'FJ',
 };
 
+/**
+ * CLICK-VERIFIED GetYourGuide activity URLs.
+ *
+ * A withdrawn GYG activity does NOT 404. It 301s to a search page
+ * (`/s?...&et=<dead id>&lc=<location>`), so it looks perfectly healthy to any status-code
+ * check. Wanaka `t411173` sat on three pages that way until Derek clicked it.
+ *
+ * ⚠ DO NOT AUTOMATE THIS CHECK. It has been attempted twice and Cloudflare blocks the run
+ * partway through. A block and a dead activity present as OPPOSITES (block = 0 redirects,
+ * unchanged URL, a Ray ID; dead = 1 redirect to `/s?`), so in a half-blocked run the
+ * PASSES are the lies. The only oracle is the partner portal, or a human clicking.
+ *
+ * Verified by Derek on the dates below. Re-verify only if a link starts underperforming
+ * or a post is being substantially rewritten - not on a schedule.
+ */
+export const GYG_VERIFIED = {
+  '2026-07-26': [
+    'brisbane-l300/brisbane-abseiling-at-kangaroo-point-cliffs-t325368',
+    'brisbane-l300/brisbane-outdoor-rock-climbing-session-t322583',
+    'queensland-l567/noosa-sunset-abseiling-tour-t665161',
+    'cairns-l298/behana-gorge-rainforest-adventure-tour-t353466',
+    'cairns-l298/cairns-full-day-canyoning-adventure-tour-t352921',
+    'katoomba-l1485/blue-mountains-spectacular-half-day-abseiling-adventure-t837958',
+    'katoomba-l1485/blue-mountains-empress-falls-canyon-abseiling-adventure-t1249615',
+    'katoomba-l1485/blue-mountains-abseiling-and-juggler-canyon-adventure-tour-t836975',
+    'blue-mountains-l1122/blue-mountains-abseiling-and-canyoning-experience-t322948',
+    'victoria-australia-l167/yarra-valley-seven-acre-rock-abseiling-adventure-t774545',
+    'waitomo-l32442/black-abyss-the-legendary-black-water-tour-t140742',
+    'waitomo-l32442/black-labyrinth-the-legendary-black-water-rafting-co-t140739',
+    'auckland-region-l821/auckland-canyoning-rainforest-adventure-t27030',
+    'queenstown-l498/queenstown-gibbston-valley-half-day-canyoning-adventure-t172491',
+  ],
+};
+
+/** Known dead. Kept so nobody re-adds it from an old draft. */
+export const GYG_DEAD = {
+  'wanaka-l946/wanaka-canyoning-t411173': 'Withdrawn; 301s to a GYG search page. Removed 2026-07-25.',
+};
+
+/**
+ * Not an activity page. `tc` = GYG category listing, so it cannot go dead the way an
+ * activity does, but it drops the reader on a list rather than a bookable product.
+ * Vikunja #989: replace with a specific activity.
+ */
+export const GYG_CATEGORY_PAGES = ['australia-l168949/waterfall-rappelling-experiences-tc2387'];
+
 function gygRegion(url) {
   const id = url.pathname.match(/-l(\d+)(?:\/|$)/)?.[1];
   const region = id && GYG_REGIONS[Number(id)];
