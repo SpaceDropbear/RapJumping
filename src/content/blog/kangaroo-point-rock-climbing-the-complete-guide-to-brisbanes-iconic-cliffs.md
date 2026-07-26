@@ -3,7 +3,7 @@ title: "Kangaroo Point Rock Climbing: The Complete Guide to Brisbane's Iconic Cl
 description: "Kangaroo Point Cliffs are Brisbane's floodlit inner-city crag on the Brisbane River, managed by Brisbane City Council. Free access, night climbing, abseiling and safety."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/kangaroo-point-rock-climbing-the-complete-guide-to-brisbanes-iconic-cliffs.webp"
-heroAlt: "Climbers abseiling and top-roping the floodlit Kangaroo Point cliffs at night, city lights across the river"
+heroAlt: "Climbers on the floodlit Kangaroo Point cliffs at night, with walkers on the riverside path and city lights across the water"
 draft: false
 tags: ["rock climbing", "queensland"]
 featured: false

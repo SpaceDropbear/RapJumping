@@ -3,7 +3,7 @@ title: "Family Adventure Holidays in Australia: Activities by Age Group"
 description: "Family adventure holidays in Australia, mapped by age group: toddlers to teens. Suitable activities, safety notes and what to check with operators."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/family-adventure-holidays-in-australia-activities-by-age-group.webp"
-heroAlt: "A parent and two children snorkelling in shallow clear water over a rocky reef"
+heroAlt: "A parent and child snorkelling side by side in shallow clear water over a rocky reef"
 draft: false
 tags: ["adventure travel", "australia"]
 featured: false

@@ -3,7 +3,7 @@ title: "Best Adventure Travel Destinations in Australia & the Pacific (2026)"
 description: "A regional roundup of the best adventure travel destinations across Australia & the Pacific: signature activities, who each suits, and when to go."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/best-adventure-travel-destinations-in-australia-the-pacific-2026.webp"
-heroAlt: "An abseiler stepping backwards over the lip of an Australian sandstone cliff above a hazy valley"
+heroAlt: "Two walkers scrambling along a rocky sandstone escarpment edge at sunrise above a valley filled with blue haze"
 draft: false
 tags: ["adventure travel", "australia"]
 featured: false

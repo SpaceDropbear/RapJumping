@@ -3,7 +3,7 @@ title: "Best Time to Visit Australia & the Pacific for Adventure Activities"
 description: "When to visit Australia & the Pacific for adventure: dry vs wet tropics, four-season south, and the South Pacific cyclone season, by month and region."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/best-time-to-visit-australia-the-pacific-for-adventure-activities.webp"
-heroAlt: "Two climbers on a sunlit Australian sandstone cliff in cool clear autumn conditions"
+heroAlt: "A climber on a sunlit Australian sandstone cliff in clear autumn light while two others watch from the base"
 draft: false
 tags: ["adventure travel", "australia"]
 featured: false
