@@ -173,23 +173,35 @@ If you enjoy it, the sensible progression is a beginners' course rather than buy
 
 ## Explore more Australian abseiling
 
-| Guide | Focus | Status |
-|---|---|---|
-| [Abseiling vs Rappelling: Same Thing, Different Word](/abseiling-vs-rappelling-terminology-and-techniques-in-australia/) | Terminology, origins and why the confusion persists | Published |
-| [Abseiling for Beginners](/abseiling-101-a-beginners-guide-to-rappelling/) | Your first descent, step by step | Published |
-| [Essential Abseiling Gear Checklist](/complete-essential-abseiling-gear-checklist/) | What to buy, in what order | Published |
-| [Abseiling Safety and Emergency Procedures](/abseiling-safety-and-emergency-procedures-guide/) | Accidents, prevention and what to do | Published |
-| [Ropes and Regulations in Australia](/ropes-and-regulations-what-you-need-to-know-legally/) | The AAAS, WHS law and AS/NZS standards | Published |
-| [Permits and Regulations for Abseiling in Oz](/permits-and-regulations-for-abseiling-in-oz/) | Land access, state by state | Published |
-| [How to Spot a Safe Operator or Venue](/how-to-spot-a-safe-operator-or-venue/) | Vetting a commercial trip | Published |
-| [Best Abseiling Tours and Experiences in Australia](/best-abseiling-tours-and-experiences-in-australia/) | Commercial trips and what they include | Published |
-| [Canyoning and Abseiling Combos in Australia](/canyoning-and-abseiling-combos-in-australia/) | Where the two overlap | Published |
-| [Group and Couples Abseiling Adventures](/group-and-couples-abseiling-adventures/) | Booking for more than one | Published |
-| [Rap Jumping: Forward Abseiling in Australia](/rap-jumping-forward-abseiling-experiences-in-australia/) | The Australian forward-facing variant | Published |
-| Blue Mountains Abseiling: Best Spots and Guided Tours | The country's main destination, in depth | Planned |
-| Abseiling at Kangaroo Point, Brisbane | The urban cliffs, what to expect | Planned |
-| Perth Hills Abseiling Guide | Mountain Quarry and the booking system | Planned |
-| Grampians Abseiling: Routes, Operators and Access | Victorian sandstone and current access | Planned |
+**If you have never done it.** Start with the two that answer the questions everyone asks first.
+
+- [Abseiling vs Rappelling: Same Thing, Different Word](/abseiling-vs-rappelling-terminology-and-techniques-in-australia/) - where the two words came from, and why neither is more correct.
+- [Abseiling for Beginners](/abseiling-101-a-beginners-guide-to-rappelling/) - your first descent, step by step, written for Australian conditions.
+
+**If you are booking a trip.** The operator is the safety system, so this is where the real decision sits.
+
+- [How to Spot a Safe Operator or Venue](/how-to-spot-a-safe-operator-or-venue/) - what to ask before you pay a deposit.
+- [Best Abseiling Tours and Experiences in Australia](/best-abseiling-tours-and-experiences-in-australia/) - guided commercial trips and what they include.
+- [Group and Couples Abseiling Adventures](/group-and-couples-abseiling-adventures/) - booking for more than one person.
+
+**If you are buying gear or going independent.** The skills matter more than the shopping, in that order.
+
+- [Essential Abseiling Gear Checklist](/complete-essential-abseiling-gear-checklist/) - what to buy, and in what order.
+- [Abseiling Safety and Emergency Procedures](/abseiling-safety-and-emergency-procedures-guide/) - accidents, prevention, and what to do when something goes wrong.
+- [Rappelling Safety Checklist Before Every Descent](/rappelling-safety-checklist-before-every-descent/) - the checks to run every single time.
+
+**If you want the rules.** Two different regimes, and they get confused constantly.
+
+- [Ropes and Regulations in Australia](/ropes-and-regulations-what-you-need-to-know-legally/) - the AAAS, work health and safety law, and the AS/NZS standards.
+- [Permits and Regulations for Abseiling in Oz](/permits-and-regulations-for-abseiling-in-oz/) - land access, state by state.
+
+**If you want more than a cliff.**
+
+- [Canyoning and Abseiling Combos in Australia](/canyoning-and-abseiling-combos-in-australia/) - where the two overlap, and why canyoning is often the better first booking.
+- [Rap Jumping: Forward Abseiling in Australia](/rap-jumping-forward-abseiling-experiences-in-australia/) - the Australian forward-facing variant and its history.
+- [Becoming an Abseiling Guide in Australia](/becoming-an-abseiling-guide-in-australia/) - if you want to make a career of it.
+
+Four destination guides are in development: the Blue Mountains, Kangaroo Point, the Perth Hills and the Grampians. They will be linked here as they go live.
 
 Two companion hubs cover the neighbouring ground: [Rock Climbing in Australia](/rock-climbing-in-australia-the-complete-guide/) for going up rather than down, and [Abseiling in New Zealand](/abseiling-in-new-zealand-the-complete-guide/) for across the Tasman.
 
