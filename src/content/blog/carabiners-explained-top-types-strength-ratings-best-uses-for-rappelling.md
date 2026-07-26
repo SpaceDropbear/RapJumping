@@ -1,6 +1,6 @@
 ---
-title: "Carabiners for Abseiling: Types, Strength & Safety"
-description: "Which carabiner is best for rappelling? Compare HMS, locking and screwgate types, kN strength ratings and safe uses for abseiling, climbing and rigging."
+title: "Best Carabiners for Abseiling: Locking Types & kN Ratings"
+description: "Which carabiner is safety-rated for abseiling? Locking vs non-locking, D vs HMS shapes, the 22-24kN minimum, and how to read UIAA and CE markings."
 pubDate: "2025-07-22"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Carabiners-Explained.webp"

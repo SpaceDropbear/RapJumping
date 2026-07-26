@@ -1,6 +1,6 @@
 ---
-title: "Abseiling vs Rappelling: What's the Difference? (AU)"
-description: "Abseiling and rappelling are the same thing - here's why Australians use different terms, where each came from, and what it means for your gear and technique."
+title: "Abseiling vs Rappelling: Same Thing, Different Word"
+description: "Abseiling and rappelling are the same technique. Why the word changes by country, and what it means for your gear, technique and safety in Australia."
 pubDate: "2025-07-26"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Abseiling-vs-Rappelling.webp"
@@ -27,7 +27,7 @@ If you're ready to explore Australia's adventurous cliffs or even just a local i
 
 ## TL;DR
 
-Abseiling and rappelling are the same rope‑descent technique - the name changes with location. In the United States, it's known as rappelling, while in Australia, the UK, and most of the world, it's called abseiling. Both involve using a harness, rope, and friction device to make a controlled descent down a cliff, wall, or structure.
+Abseiling and rappelling are the same rope-descent technique - the name changes with location. In the United States, it's known as rappelling, while in Australia, the UK, and most of the world, it's called abseiling. Both involve using a harness, rope, and friction device to make a controlled descent down a cliff, wall, or structure.
 
 ---
 
@@ -84,7 +84,7 @@ Safety is your ally when you're learning any new skill, and abseiling is no diff
 ### FAQ's
 
 1. **Is abseiling the same as rappelling?**  
-   Yes. Abseiling and rappelling are the same rope‑descent technique. The main difference is the name - in Australia, the UK, and most of the world it's called abseiling, while in the United States it's called rappelling.
+   Yes. Abseiling and rappelling are the same rope-descent technique. The main difference is the name - in Australia, the UK, and most of the world it's called abseiling, while in the United States it's called rappelling.
 2. **Why do Australians say abseiling instead of rappelling?**  
    Australia follows British English climbing terminology, where “abseiling” comes from the German word abseilen (meaning “to rope down”). The US military popularised the term “rappelling,” which stuck in North America.
 3. **Are there any technical differences between abseiling and rappelling?**  
