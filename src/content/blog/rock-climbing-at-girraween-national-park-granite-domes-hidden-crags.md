@@ -14,7 +14,7 @@ faq:
   - question: "Is Girraween good for rock climbing?"
     answer: "Yes. It is widely regarded as the finest granite climbing in South East Queensland, with clean friction slabs, crack systems and abundant bouldering across a dramatic landscape of domes, tors and balancing boulders. The climbing is low-key and informal, however, so it rewards experience, discretion and good local knowledge rather than a promoted route list."
   - question: "Are you allowed to climb at Girraween National Park?"
-    answer: "Climbing has been carried on at Girraween for decades with QPWS's awareness, on the strict understanding that climbers keep a very low profile. The clear expectation is not to climb above walking tracks or near the busy tourist areas and famous formations, and to avoid any impact on the park's values, routes previously established on prominent formations were removed for exactly this reason. Always check current QPWS park information and alerts, and default to caution."
+    answer: "Climbing has been carried on at Girraween for decades with QPWS's awareness, on the strict understanding that climbers keep a very low profile. The clear expectation is not to climb above walking tracks or near the busy tourist areas and famous formations, and to avoid any impact on the park's values. Routes previously established on prominent formations were removed for exactly this reason. Always check current QPWS park information and alerts, and default to caution."
   - question: "What kind of climbing does Girraween have?"
     answer: "Girraween offers classic granite climbing: delicate friction slabs, traditional crack lines where you place your own removable protection, and some of the best bouldering in the region on impeccable granite. Grades use the open-ended Ewbank system standard across Australia and New Zealand; we have not listed specific routes or grades here because the climbing is informal and largely undocumented."
   - question: "When is the best time to climb at Girraween?"
@@ -71,13 +71,13 @@ QPWS has been aware of climbing in the park for decades, and the long-standing e
 
 This is not abstract. Routes that had previously been established on prominent formations including the First Pyramid and the Sphinx Rock were removed, precisely to keep climbing's footprint invisible and to respect the park's values and its most-visited landmarks. That history is the clearest possible signal of what is expected here: discretion is not optional, and the wrong sort of visibility gets climbing shut down.
 
-If you climb at Girraween, the ethic is simple. Leave no trace, leave no hardware, keep well away from tourist honeypots and walking tracks, and tread lightly on the fragile granite-country vegetation. Never do anything that would make a QPWS ranger or a family on a day walk think twice. The **Australian Climbing Association Queensland (ACAQ)** is the recognised peak body and consultative entity for climbing access in the state, and supporting or joining your state climbing association is one of the most practical ways to help keep sensitive areas like this quietly open for the long term. When in doubt, check current QPWS park information and alerts for Girraween National Park and default to caution.
+If you climb at Girraween, the ethic is simple. Leave no trace, leave no hardware, keep well away from tourist honeypots and walking tracks, and tread lightly on the fragile granite-country vegetation. Never do anything that would make a QPWS ranger or a family on a day walk think twice. The **Australian Climbing Association Queensland (ACAQ)** is the recognised peak body and consultative entity for climbing access in the state. Supporting or joining your state climbing association is one of the most practical ways to help keep sensitive areas like this quietly open for the long term. When in doubt, check current QPWS park information and alerts for Girraween National Park and default to caution.
 
 ## Getting there, camping and walking tracks
 
 Girraween National Park is roughly 260km south-west of Brisbane, reached via the New England Highway through the Granite Belt town of Stanthorpe and on towards Wallangarra and Ballandean near the state border. It is managed by Queensland Parks and Wildlife Service, and the day-use areas, campgrounds and track heads are all clearly signposted once you are in the park.
 
-There are two main campgrounds (**Bald Rock Creek** and **Castle Rock**) both of which must be booked and paid for in advance through the Queensland Government's online camping booking system, with standard Queensland national park camping fees applying. Camping puts you on the spot for early starts, which matters on short winter days. As with any popular park, sites fill over school holidays and long weekends, so book ahead rather than relying on turning up.
+There are two main campgrounds (**Bald Rock Creek** and **Castle Rock**), both of which must be booked and paid for in advance through the Queensland Government's online camping booking system, with standard Queensland national park camping fees applying. Camping puts you on the spot for early starts, which matters on short winter days. As with any popular park, sites fill over school holidays and long weekends, so book ahead rather than relying on turning up.
 
 The park also has an excellent network of graded walking tracks (more than 17km in total) that thread past the major formations, including the Pyramids, Castle Rock, the Sphinx, Turtle Rock and the Balancing Rock, and out to Mount Norman. These tracks are how most visitors experience Girraween, and they are worth walking in their own right. They are also a useful reminder of the access ethic: the formations you can reach easily on a formed track are, almost by definition, the busy tourist areas that climbers are expected to stay off. Before you travel, it is always worth checking:
 
@@ -103,7 +103,7 @@ Girraween is one piece of a much larger climbing landscape across Queensland and
 
 - [Rock Climbing in Queensland & Western Australia: The Complete Guide](/rock-climbing-in-queensland-western-australia-the-complete-guide/), the broad regional overview that puts every crag in context.
 
-- [Glass House Mountains Climbing Guide: What's Open & What's Not (2026)](/glass-house-mountains-climbing-guide-whats-open-whats-not-2026/), volcanic-plug climbing north of Brisbane, and a case study in access sensitivity.
+- [Glass House Mountains Rock Climbing: Permits, Routes & Cultural Protocols](/glass-house-mountains-rock-climbing-permits-routes-cultural-protocols/), volcanic-plug climbing north of Brisbane, and a case study in access sensitivity.
 
 - [SE Queensland Bouldering: A Guide to the Best Problems Near Brisbane](/se-queensland-bouldering-a-guide-to-the-best-problems-near-brisbane/), bouldering circuits close to the capital, with Girraween as a granite highlight.
 
@@ -127,7 +127,7 @@ Typical gear for granite climbing at a venue like Girraween includes:
 
 As with any climbing hardware used in Australia, look for recognised certification: carabiners to EN 12275 (and/or the equivalent UIAA standard), harnesses to EN 12277, dynamic ropes to EN 892, and helmets to EN 12492. A helmet matters on granite, where loose blocks and the abrasive consequences of a slab fall raise the stakes. Our [Rock Climbing in Australia: The Complete Guide](/rock-climbing-in-australia-the-complete-guide/) covers these standards, and general gear and safety fundamentals, in more depth.
 
-Above all, remember where you are. Girraween is a conservation reserve, not a climbing gym: pack out everything you bring in, leave no hardware in the rock, stay well clear of the walking tracks and tourist areas, tread lightly on the granite-country vegetation, and climb in a way that keeps the whole activity discreet and impact-free. That is the price of continued access here, and it is a fair one.
+Above all, remember where you are. Girraween is a conservation reserve, not a climbing gym. Pack out everything you bring in and leave no hardware in the rock. Stay well clear of the walking tracks and tourist areas, tread lightly on the granite-country vegetation, and climb in a way that keeps the whole activity discreet and impact-free. That is the price of continued access here, and it is a fair one.
 
 ## Frequently asked questions
 
@@ -141,7 +141,7 @@ Yes. It is widely regarded as the finest granite climbing in South East Queensla
 
 ### Are you allowed to climb at Girraween National Park?
 
-Climbing has been carried on at Girraween for decades with QPWS's awareness, on the strict understanding that climbers keep a very low profile. The clear expectation is not to climb above walking tracks or near the busy tourist areas and famous formations, and to avoid any impact on the park's values, routes previously established on prominent formations were removed for exactly this reason. Always check current QPWS park information and alerts, and default to caution.
+Climbing has been carried on at Girraween for decades with QPWS's awareness, on the strict understanding that climbers keep a very low profile. The clear expectation is not to climb above walking tracks or near the busy tourist areas and famous formations, and to avoid any impact on the park's values. Routes previously established on prominent formations were removed for exactly this reason. Always check current QPWS park information and alerts, and default to caution.
 
 ### What kind of climbing does Girraween have?
 

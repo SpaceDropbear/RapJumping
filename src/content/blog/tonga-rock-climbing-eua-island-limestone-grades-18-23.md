@@ -53,7 +53,7 @@ The rock itself is the reason a climber's eye is drawn to 'Eua at all. The easte
 
 ## What about the climbing, and those "grades 18-23"?
 
-Here we need to be careful and transparent. There are reports of a small, locally and privately developed sport-climbing scene on 'Eua's limestone, and the grade range quoted in this article's title (roughly 18 to 23 on the Australian (Ewbank) scale) comes from that context. However:
+Here we need to be careful and transparent. There are reports of a small, locally and privately developed sport-climbing scene on 'Eua's limestone, and the grade range quoted in this article's title roughly 18 to 23 on the Australian Ewbank scale comes from that context. However:
 
 - We could **not verify** specific developed routes, a route count, or that grade range from any authoritative source, that is, from Tonga Tourism, a park or government authority, or an official standards body.
 
@@ -66,21 +66,13 @@ Just as importantly, any climbing on 'Eua sits on land and near communities wher
 The Australian (Ewbank) grade system, which runs upwards in whole numbers, is the one Australian climbers will recognise from home; roughly speaking, an 18-to-23 band spans moderate, achievable sport-climbing terrain up to solidly challenging routes for a competent leader. But treat that as a general orientation for what such a range *means*, not as a promise about what is bolted and climbable on 'Eua today.
 
 | Aspect | What to expect on 'Eua Island |
-
 |---|---|
-
 | Island's main draw | Hiking, caves, birdlife, diving and whale-watching in and around 'Eua National Park |
-
 | Rock type | Coastal / sea-facing limestone cliffs with caves, arches, chasms and blowholes |
-
 | Climbing status | Small, remote, locally/privately developed scene, reported, not a commercial climbing venue |
-
-| Grades (title) | **Indicative/reported only**: "18-23" (Ewbank) unverified from authoritative sources; confirm with Tonga Tourism or a local licensed operator |
-
+| Grades (title) | **Indicative/reported only**: "18-23" (Ewbank), unverified from authoritative sources; confirm with Tonga Tourism or a local licensed operator |
 | Access | By local permission, not a public right. Must be confirmed locally before you rely on it |
-
 | Best season | Cooler, drier austral winter (roughly May-October); overlaps whale season |
-
 | Self-sufficiency | High: remote island, limited services, no supervised climbing infrastructure to assume |
 
 ## What you can genuinely plan around on 'Eua

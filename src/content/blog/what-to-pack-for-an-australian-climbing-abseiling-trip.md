@@ -48,17 +48,11 @@ The single most useful thing you can do before packing anything is ask the opera
 On a typical guided climbing or abseiling experience, the operator usually supplies the technical hardware, and you bring the personal items. As a rough guide:
 
 | Usually supplied by a guided operator | Usually your job to bring |
-
 |---|---|
-
 | Ropes, anchors and hardware (carabiners, descenders, belay devices) | Weather-appropriate clothing and layers |
-
 | Harness (fitted on the day) | Sun protection: hat, sunglasses, sunscreen |
-
 | Helmet | Sturdy closed footwear (and climbing shoes if not hired) |
-
 | Instruction, supervision and safety checks | Water, snacks and any personal medication |
-
 | Climbing shoes (often available to hire) | Small day pack, plus any personal first-aid basics |
 
 If you're organising your own trip rather than joining a guided session, the technical side is on you, and that's a much bigger undertaking. The site's own [complete essential abseiling gear checklist](/complete-essential-abseiling-gear-checklist/) walks through the hardware (rope, harness, helmet, descender, carabiners, backup and anchor equipment) in the detail it deserves. This packing guide deliberately stays on the personal-kit side of that line, because for most readers the technical gear will either be supplied or handled by someone qualified. If you do plan to self-organise, weigh it honestly against a guided option first, our [guided vs DIY decision guide](/guided-vs-diy-adventure-in-australia-the-pacific-how-to-decide/) lays out how to make that call.

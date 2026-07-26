@@ -41,7 +41,7 @@ Ask where to climb by the sea in Western Australia and one name comes up again a
 
 Wilyabrup sits within Leeuwin-Naturaliste National Park, managed by the Department of Biodiversity, Conservation and Attractions (DBCA, through its Parks and Wildlife Service), and it straddles the famous 123 km Cape to Cape Track that runs between Cape Naturaliste and Cape Leeuwin. It is a working climbing and abseiling venue rather than a quiet lookout: on a good spring or autumn weekend you will find ropes rigged along the clifftop and climbers moving on the wall above the water.
 
-This guide covers what the cliffs actually are, the style and spread of climbing on offer, how to get there (including the stiles and the private-property section of the walk-in) the DBCA permit system that governs abseiling and commercial activity in the park, the coastal hazards and best seasons, and the gear-and-safety mindset a sea cliff demands. Rock climbing shares its DNA with [rap jumping](/) and abseiling. All three depend on sound anchors, careful rope-work and a calm head at height. So if the drama of Wilyabrup's ocean-edge exposure appeals but you are new to rope systems, a guided rap jumping session is a well-supervised way to get comfortable on rope before you ever rig above the sea.
+This guide covers what the cliffs actually are, the style and spread of climbing on offer, how to get there (including the stiles and the private-property section of the walk-in), the DBCA permit system that governs abseiling and commercial activity in the park, the coastal hazards and best seasons, and the gear-and-safety mindset a sea cliff demands. Rock climbing shares its DNA with [rap jumping](/) and abseiling. All three depend on sound anchors, careful rope-work and a calm head at height. So if the drama of Wilyabrup's ocean-edge exposure appeals but you are new to rope systems, a guided rap jumping session is a well-supervised way to get comfortable on rope before you ever rig above the sea.
 
 ## About Wilyabrup: the cliffs, the rock and the setting
 
@@ -120,17 +120,11 @@ Finally, respect the specifics of this place: obey any DBCA conditions for Leeuw
 Wilyabrup is a single, spectacular sea-cliff venue, but it sits within a much bigger climbing landscape across Western Australia and, more broadly, Queensland. This guide is one spoke in a growing series covering that region. The guides below are planned and, in some cases, not yet published; as they go live, these links will lead straight through to each one.
 
 | Guide | Focus |
-
 |---|---|
-
 | [Frog Buttress Rock Climbing: QLD's World-Class Rhyolite Crag](/frog-buttress-rock-climbing-qlds-world-class-rhyolite-crag/) | The cluster hub: Queensland's legendary rhyolite trad crag |
-
 | [Rock Climbing in Queensland & Western Australia: The Complete Guide](/rock-climbing-in-queensland-western-australia-the-complete-guide/) | Broad two-state regional overview |
-
 | [Rock Climbing in Perth: Churchman's Brook & the Perth Hills](/rock-climbing-in-perth-churchmans-brook-the-perth-hills/) | Crags close to Perth |
-
 | [WA Bouldering Guide: Best Problems in Western Australia](/wa-bouldering-guide-best-problems-in-western-australia/) | Bouldering across WA |
-
 | [Rock Climbing in Australia: The Complete Guide](/rock-climbing-in-australia-the-complete-guide/) | National overview, grading and gear fundamentals |
 
 Between them, these guides map climbing across some of Australia's most varied terrain, from Wilyabrup's granite-gneiss sea cliffs and the crags of the Perth Hills, through WA's bouldering, to Queensland's rhyolite cracks at Frog Buttress. If you found this page by searching for Wilyabrup specifically, the wider WA and two-state overviews are the natural next reads.

@@ -37,9 +37,9 @@ faq:
 
 ---
 
-"When should I go?" is the question that decides more about an adventure trip than almost anything else, more than the gear list, more than the budget, sometimes more than the destination itself. Get the timing right and a climbing weekend in the Grampians feels made-to-order; get it wrong and you are dodging thunderstorms on greasy rock, or sweltering through a tropical downpour when you'd hoped for reef-blue skies. Australia and the Pacific cover an enormous spread of latitudes and climates, so the honest answer is: it depends on what you want to do and where you want to do it.
+"When should I go?" decides more about an adventure trip than the gear list or the budget, and sometimes more than the destination itself. Get the timing right and a climbing weekend in the Grampians feels made-to-order. Get it wrong and you are dodging thunderstorms on greasy rock, or sweltering through a tropical downpour when you'd hoped for reef-blue skies. Australia and the Pacific cover an enormous spread of latitudes and climates, so it depends on what you want to do and where you want to do it.
 
-This guide breaks the region into three climate stories (the two-season tropical north, the four-season south, and the cyclone-shaped Pacific) and then works through what's best when, activity by activity and season by season, finishing with a month-and-region table you can plan against. It sits within our broader [complete guide to adventure travel in Australia & the Pacific](/adventure-travel-in-australia-the-pacific-the-complete-planning-guide/), and pairs naturally with our rundown of the [best adventure travel destinations for 2026](/best-adventure-travel-destinations-in-australia-the-pacific-2026/) once you've settled on timing.
+This guide breaks the region into three climate stories: the two-season tropical north, the four-season south, and the cyclone-shaped Pacific. It then works through what's best when, activity by activity and season by season, and finishes with a month-and-region table you can plan against. It sits within our broader [complete guide to adventure travel in Australia & the Pacific](/adventure-travel-in-australia-the-pacific-the-complete-planning-guide/), and pairs naturally with our rundown of the [best adventure travel destinations for 2026](/best-adventure-travel-destinations-in-australia-the-pacific-2026/) once you've settled on timing.
 
 ## Three climates, one region: how to think about timing
 
@@ -55,7 +55,7 @@ Southern Australia (Melbourne, Sydney, Hobart and Adelaide, and the climbing reg
 
 ### The Pacific islands: it's all about cyclone season
 
-For the Pacific (Fiji, Vanuatu, New Caledonia, Tonga, the Solomon Islands and Papua New Guinea) the calendar is dominated by one thing: the tropical cyclone season. According to the [Bureau of Meteorology](https://www.bom.gov.au/climate/cyclones/south-pacific/), the South Pacific tropical cyclone season officially runs from **1 November to 30 April**. That doesn't mean a cyclone every day, or that every November trip is doomed, but it does mean the wetter, riskier, more disruption-prone months cluster in that window, and the drier, more settled travel weather sits either side of it. Plan island adventures for the cooler, drier months where you can.
+For the Pacific (Fiji, Vanuatu, New Caledonia, Tonga, the Solomon Islands and Papua New Guinea), the calendar is dominated by one thing: the tropical cyclone season. According to the [Bureau of Meteorology](https://www.bom.gov.au/climate/cyclones/south-pacific/), the South Pacific tropical cyclone season officially runs from **1 November to 30 April**. That doesn't mean a cyclone every day, or that every November trip is doomed, but it does mean the wetter, riskier, more disruption-prone months cluster in that window, and the drier, more settled travel weather sits either side of it. Plan island adventures for the cooler, drier months where you can.
 
 ## Season by season: what's best when
 
@@ -82,20 +82,15 @@ Summer is the trickiest season to plan around. Southern beaches and coastal adve
 Use this as a quick-reference planner rather than a guarantee. Weather varies year to year, and the Bureau of Meteorology's seasonal outlooks are worth checking close to your dates. "Best" here means the most reliable conditions for that activity; shoulder means workable with care; avoid means conditions are typically working against you.
 
 | Months | Southern AU: climbing & abseiling | Tropical north & reef | Pacific islands |
-
 |---|---|---|---|
-
 | Dec-Feb (summer) | Shoulder. Early starts, cooler aspects; heat and storms possible | Avoid: wet season, humidity, cyclone risk | Avoid: inside cyclone season (1 Nov-30 Apr) |
-
 | Mar-May (autumn) | Best: mild days, cool rock, settled conditions | Shoulder: wet easing to dry from Apr-May | Improving late: cyclone season ends 30 Apr |
-
 | Jun-Aug (winter) | Shoulder: cold snaps at altitude; sunny lower sites good | Best: dry season, clear skies, low humidity | Best: driest, settled, outside cyclone season |
-
 | Sep-Nov (spring) | Best: warming rock, longer days (aim before late Nov) | Shoulder: dry until wet returns ~Nov | Good early: cyclone season begins 1 Nov |
 
 ## Timing for climbing and abseiling in southern Australia
 
-If you're coming specifically for rock (climbing, abseiling, or a Rap Jumping-style forward descent) the southern shoulder seasons are what you want to build a trip around. Regions such as the Grampians (Gariwerd) and Mt Arapiles in Victoria, the Blue Mountains and Nowra in New South Wales, and the You Yangs and Werribee Gorge are at their best when the rock is cool and the weather settled: autumn and spring. Cool rock isn't just about comfort. It means better friction underfoot and under-hand, and longer, safer sessions without the fatigue that midday summer heat brings on exposed faces.
+If you're coming specifically for rock (climbing, abseiling, or a Rap Jumping-style forward descent), the southern shoulder seasons are what you want to build a trip around. Regions such as the Grampians (Gariwerd) and Mt Arapiles in Victoria, the Blue Mountains and Nowra in New South Wales, and the You Yangs and Werribee Gorge are at their best when the rock is cool and the weather settled: autumn and spring. Cool rock isn't just about comfort. It means better friction underfoot and under-hand, and longer, safer sessions without the fatigue that midday summer heat brings on exposed faces.
 
 That doesn't rule out the shoulders of summer and winter entirely. A high, exposed crag that bakes in January can be perfect on a still winter's day; a shady, sheltered site that's grim in July can give you a comfortable early-morning summer session. The skill is matching the site's aspect and altitude to the season, something a qualified local instructor will do instinctively. For a deeper look at the crags themselves, our [complete guide to rock climbing in Australia](/rock-climbing-in-australia-the-complete-guide/) is the companion read, and once your dates are locked in, our guide on [what to pack for an Australian climbing & abseiling trip](/what-to-pack-for-an-australian-climbing-abseiling-trip/) will help you pack for the season you've chosen.
 
@@ -106,7 +101,7 @@ That doesn't rule out the shoulders of summer and winter entirely. A high, expos
 
 ## Timing for the reef and the tropical north
 
-For the Great Barrier Reef, the Kimberley, tropical hiking and anything in the far north, the dry season (roughly May to October) is the reliable window, with the heart of winter (June to August) the surest bet of all. You'll get clearer water, more settled seas, lower humidity and far fewer washed-out days. The wet season isn't uniformly impossible (the landscape is lush and waterfalls run hard) but the heat, humidity, heavy rain and cyclone risk make it a much harder season to plan active days around. If your itinerary combines southern rock with a northern reef leg, winter can let you do both: chase the dry up north and pick sunny, sheltered southern sites on the way.
+For the Great Barrier Reef, the Kimberley, tropical hiking and anything in the far north, the dry season (roughly May to October) is the reliable window, with the heart of winter (June to August), the surest bet of all. You'll get clearer water, more settled seas, lower humidity and far fewer washed-out days. The wet season isn't uniformly impossible (the landscape is lush and waterfalls run hard) but the heat, humidity, heavy rain and cyclone risk make it a much harder season to plan active days around. If your itinerary combines southern rock with a northern reef leg, winter can let you do both: chase the dry up north and pick sunny, sheltered southern sites on the way.
 
 ## Timing for the Pacific islands
 

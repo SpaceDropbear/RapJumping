@@ -94,13 +94,9 @@ One planning note for adventurers: the more committing rope activities are not e
 Vanuatu has two broad seasons. The **dry season runs roughly May to October** and is the sweet spot for outdoor adventure: warmer, drier days, lower humidity and generally more settled conditions. The **wet season, roughly November to April**, brings heavier rain, higher humidity and the regional cyclone risk. For abseiling and canyoning specifically, rainfall is the key variable. Heavy rain raises water levels and makes rock treacherous, and operators may reasonably cancel or reschedule on safety grounds.
 
 | Season | Approx. months | What to expect for adventure |
-
 |---|---|---|
-
 | Dry season | May to October | Warm, drier days and lower humidity; the most reliable window for waterfall and canyon activities. Peak visitor season, so book ahead. |
-
 | Shoulder months | May and September | Often the best balance, good weather with thinner crowds than the mid-year peak. |
-
 | Wet season | November to April | Heavier rain, high humidity and cyclone risk. Water levels can spike; activities may be cancelled at short notice. Watch conditions closely. |
 
 Whatever the season, treat forecasts and recent rainfall as part of your go/no-go decision, and accept an operator's call to postpone. On moving-water and waterfall terrain, a cancellation is a sign of a professional operator, not a disappointing one.

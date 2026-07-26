@@ -27,7 +27,7 @@ faq:
 
 - Kolombangara is a near-perfectly circular, forest-clad extinct volcano in the Solomon Islands' Western Province, with a summit ring of peaks around a wide caldera, the highest being Mt Veve at roughly 1,770 m.
 
-- The headline adventure here is a guided multi-day rainforest trek to the crater rim and Mt Veve. This is genuine trekking on steep, rugged, muddy terrain, not technical bolted rock climbing, and despite the title there are no established sport-climbing crags on the mountain.
+- The headline adventure here is a guided multi-day rainforest trek to the crater rim and Mt Veve. This is genuine trekking on steep, rugged, muddy terrain, not technical bolted rock climbing. Despite the title, there are no established sport-climbing crags on the mountain.
 
 - Access is managed by KIBCA (the Kolombangara Island Biodiversity Conservation Association), the landowner-led conservation body that oversees the island above 400 m. Every walk requires a local guide, and most treks start from Imbu Rano Lodge.
 
@@ -37,17 +37,17 @@ faq:
 
 ---
 
-Kolombangara is one of those places that looks almost too neat to be real: a nearly circular volcanic island rising straight out of the sea in the New Georgia group of the Solomon Islands' Western Province, its slopes wrapped in dense rainforest all the way up to a cloud-wreathed rim of summits. For Australian adventurers who've worked through the Pacific and want somewhere that still feels genuinely off the beaten track, a Kolombangara volcano trek is about as close to real exploration as you'll find within a few hours' flying of home.
+Kolombangara is one of those places that looks almost too neat to be real. It's a nearly circular volcanic island rising straight out of the sea in the New Georgia group of the Solomon Islands' Western Province, its slopes wrapped in dense rainforest all the way up to a cloud-wreathed rim of summits. Plenty of Australian adventurers have worked through the Pacific and want somewhere that still feels genuinely off the beaten track. A Kolombangara volcano trek is about as close to real exploration as you'll find within a few hours' flying of home.
 
-This is a spoke in our wider [Rock Climbing & Abseiling in the Pacific Islands: The Complete Guide](/rock-climbing-abseiling-in-the-pacific-islands-the-complete-guide/). Before we go any further, one honest word on the title. This page is filed under "climbing & abseiling" because that's how the broader adventure sits in a climber's mind, but the reality on Kolombangara is a **guided multi-day volcano trek** through steep, rugged, often muddy rainforest, not technical rock climbing on bolted routes. There are no developed sport crags on the mountain that we can verify, and you won't be clipping quickdraws up Mt Veve. What you get instead is one of the most atmospheric wilderness treks in the South Pacific. We'd rather tell you that straight than sell you something the mountain doesn't deliver.
+This is a spoke in our wider [Rock Climbing & Abseiling in the Pacific Islands: The Complete Guide](/rock-climbing-abseiling-in-the-pacific-islands-the-complete-guide/). One honest word on the title first. This page is filed under "climbing & abseiling" because that's how the broader adventure sits in a climber's mind. The reality on Kolombangara is a **guided multi-day volcano trek** through steep, rugged, often muddy rainforest, not technical rock climbing on bolted routes. There are no developed sport crags on the mountain that we can verify, and you won't be clipping quickdraws up Mt Veve. What you get instead is one of the most atmospheric wilderness treks in the South Pacific. We'd rather tell you that straight than sell you something the mountain doesn't deliver.
 
 ## Where is Kolombangara, and what kind of mountain is it?
 
-Kolombangara sits in the Western Province of the Solomon Islands, part of the New Georgia Islands. It's a stratovolcano forming an almost perfectly round island roughly 15 km across, and it's long dormant, commonly described as extinct, with no known historic eruptions. Its summit is truncated by a broad caldera several kilometres wide, ringed by a handful of named peaks. The highest of these is Mt Veve at around 1,770 m, which makes Kolombangara one of the highest mountains in the Solomon Islands outside Guadalcanal.
+Kolombangara sits in the Western Province of the Solomon Islands, part of the New Georgia Islands. It's a stratovolcano forming an almost perfectly round island roughly 15 km across. It's long dormant, commonly described as extinct, with no known historic eruptions. Its summit is truncated by a broad caldera several kilometres wide, ringed by a handful of named peaks. The highest of these is Mt Veve at around 1,770 m, which makes Kolombangara one of the highest mountains in the Solomon Islands outside Guadalcanal.
 
-The nearest town is Gizo, the Western provincial capital, on neighbouring Ghizo Island, the usual jumping-off point for the region. From there it's a short boat crossing to Kolombangara itself. The island is heavily forested and lightly populated, with communities and logging history concentrated on the coastal fringe and an intact, biodiverse rainforest cloaking the interior and upper slopes.
+The nearest town is Gizo, the Western provincial capital, on neighbouring Ghizo Island. That's the usual jumping-off point for the region, and from there it's a short boat crossing to Kolombangara itself. The island is heavily forested and lightly populated, with communities and logging history concentrated on the coastal fringe and an intact, biodiverse rainforest cloaking the interior and upper slopes.
 
-That upper rainforest is the reason people come. Above about 400 m the island is protected as a conservation area, and the higher you climb the more distinctive it gets: lowland rainforest gives way to montane cloud forest, then to gnarled, moss-draped vegetation near the rim. Kolombangara is known among naturalists for locally endemic species, including the Kolombangara White-eye, a small bird found only above around 700 m, along with endemic frogs and a rich birdlife that makes even the walk-in memorable.
+That upper rainforest is the reason people come. Above about 400 m the island is protected as a conservation area, and the higher you climb the more distinctive it gets: lowland rainforest gives way to montane cloud forest, then to gnarled, moss-draped vegetation near the rim. Kolombangara is known among naturalists for locally endemic species. They include the Kolombangara White-eye, a small bird found only above around 700 m, plus endemic frogs and a rich birdlife that makes even the walk-in memorable.
 
 ## The trek: crater rim and Mt Veve
 
@@ -60,21 +60,13 @@ The character of the walking is worth understanding before you commit. This is n
 ### What this trek is and isn't
 
 | Aspect | The reality on Kolombangara |
-
 |---|---|
-
 | Activity type | Guided multi-day rainforest trek to a volcanic crater rim and summit, a hiking/trekking objective |
-
 | Technical rock climbing | No verified bolted sport crags or graded rock routes on the mountain |
-
 | Abseiling | Not a feature of the standard trek; this is a walking/scrambling route, not a roped descent venue |
-
 | Difficulty | Rated hard: steep, muddy, rugged terrain over multiple days with camps |
-
 | Highest point | Mt Veve, around 1,770 m (the crater rim itself is reached lower, around 1,700 m) |
-
 | Typical duration | Around 2-4 days, depending on objective and conditions |
-
 | Guide | Required. All walks on the mountain are guided, arranged through KIBCA |
 
 If a genuinely non-technical high-altitude trek appeals, Kolombangara pairs naturally with Papua New Guinea's Mt Wilhelm, which we cover in [Adventure Climbing & Abseiling in PNG: Mt Wilhelm & Beyond](/adventure-climbing-abseiling-in-png-mt-wilhelm-beyond/), another walking summit rather than a roped climb, and a useful comparison for anyone weighing up where to spend their Pacific adventure time.

@@ -27,7 +27,7 @@ faq:
 
 - **Bouldering in Western Australia is more dispersed than in the eastern states.** There is no single mega-venue, so the scene is spread across Perth Hills granite, the South West and scattered Wheatbelt outcrops, and getting the most out of it usually means a bit of driving.
 
-- **The most accessible problems are in the Perth Hills granite**, including the same quarry areas used for roped climbing (Statham's Quarry at Gooseberry Hill and Mountain (Boya) Quarry in Greenmount National Park have boulder problems as well as routes) plus granite outcrops further out through the South West and Wheatbelt.
+- **The most accessible problems are in the Perth Hills granite**, including the same quarry areas used for roped climbing (Statham's Quarry at Gooseberry Hill and Mountain (Boya) Quarry in Greenmount National Park have boulder problems as well as routes), plus granite outcrops further out through the South West and Wheatbelt.
 
 - **Many Perth Hills DBCA sites require advance booking**, the same access rule that applies to climbing and abseiling: you contact the Parks and Wildlife Mundaring office and receive a gate code, so always check before you go.
 

@@ -47,7 +47,7 @@ This spoke sits inside our wider [complete guide to rock climbing and abseiling 
 
 ## The mountain: where Mt Wilhelm sits and why it matters
 
-Mt Wilhelm rises to **4,509 metres**, making it the highest point in Papua New Guinea and one of the most prominent peaks in the Bismarck Range. Its summit sits at the meeting point of three provinces (Simbu (also spelled Chimbu), Jiwaka and Madang) high above the surrounding highlands. In the local Kuman language the peak carries traditional names, and the mountain is closely tied to the communities who live on its lower slopes and whose land you cross on the way up.
+Mt Wilhelm rises to **4,509 metres**, making it the highest point in Papua New Guinea and one of the most prominent peaks in the Bismarck Range. Its summit sits at the meeting point of three provinces Simbu (also spelled Chimbu), Jiwaka and Madang, high above the surrounding highlands. In the local Kuman language the peak carries traditional names, and the mountain is closely tied to the communities who live on its lower slopes and whose land you cross on the way up.
 
 The reason Mt Wilhelm draws trekkers, rather than being the preserve of expedition mountaineers, is accessibility. It is widely regarded as the most accessible major summit in PNG. According to the [Papua New Guinea Tourism Promotion Authority](https://papuanewguinea.travel/natural-landmarks/mount-wilhelm-png/), most climbers approach from the Keglsugl and Gembogl side in Simbu Province, which has the most established route and facilities. From the regional hub of Kundiawa, the main trailhead near Keglsugl is roughly 60 kilometres away, around 1.5 to 2 hours by road, depending on conditions. Goroka, in the Eastern Highlands, sits about 90 kilometres away and acts as another gateway.
 
@@ -56,23 +56,14 @@ Along the way you pass through moss forest and open alpine grassland, past a clu
 ### Fast facts
 
 | Attribute | Detail |
-
 |---|---|
-
 | Elevation | 4,509 metres (PNG's highest peak) |
-
 | Range | Bismarck Range |
-
 | Location | Border of Simbu, Jiwaka and Madang provinces |
-
 | Typical duration | 2 to 3 days (guided) |
-
 | Difficulty | Moderate to challenging: high-altitude trek, non-technical |
-
 | Best months | June to September (drier season) |
-
 | Temperature at altitude | 0°C to 10°C by day; below freezing at night |
-
 | Ropes/abseiling gear | Not required on the standard route |
 
 *Source: Papua New Guinea Tourism Promotion Authority. Figures are indicative; confirm current details with your operator and the relevant authorities before travel.*
@@ -82,13 +73,9 @@ Along the way you pass through moss forest and open alpine grassland, past a clu
 The standard climb is usually broken into stages, with an overnight stay near the lakes to rest and (crucially) to acclimatise. The PNG Tourism Promotion Authority describes a typical progression from the trailhead up to base camp near the lakes, a pre-dawn summit push, and a long descent back down. The summit attempt generally begins well before sunrise so that you reach the peak while conditions are calmer and the views clearer, then return most of the way in daylight.
 
 | Stage | Altitude | Approx. time | What to expect |
-
 |---|---|---|---|
-
 | Trailhead to base camp | ~2,800 m to ~3,500 m | 3 to 5 hours | Gradual ascent through forest and grassland to the lakes (Piunde and Aunde); simple hut accommodation. |
-
 | Base camp to summit | ~3,500 m to 4,509 m | 4 to 7 hours | Pre-dawn start, rocky terrain, cold temperatures, sunrise from the ridge near the peak. |
-
 | Summit to trailhead | 4,509 m to ~2,800 m | 6 to 8 hours | Long descent to base camp and the lodge; careful footing on rock above the lakes. |
 
 *Source: Papua New Guinea Tourism Promotion Authority. Times vary widely with weather, fitness and group pace.*

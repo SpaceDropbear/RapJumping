@@ -37,7 +37,7 @@ faq:
 
 ---
 
-"Should I book a guide or do it myself?" is one of the biggest forks in adventure-travel planning, and it's rarely a clean either/or. Australia and the Pacific are set up for both styles (you can join a fully supervised abseiling session in the Blue Mountains one weekend and self-navigate a coastal hike the next) so the real question isn't which camp you belong to. It's which approach fits *this particular activity, at this particular skill level, in this particular place*.
+"Should I book a guide or do it myself?" is one of the biggest forks in adventure-travel planning, and it's rarely a clean either/or. Australia and the Pacific are set up for both styles. You can join a fully supervised abseiling session in the Blue Mountains one weekend and self-navigate a coastal hike the next. So the real question isn't which camp you belong to. It's which approach fits *this particular activity, at this particular skill level, in this particular place*.
 
 This guide gives you a decision framework rather than a verdict. We'll cover exactly what a guided experience folds in, what DIY genuinely demands of you, a factor-by-factor checklist and comparison table you can run each activity through, and the "do both" reality that most seasoned adventure travellers settle into. One thing we won't hedge on: for rope-based activities like climbing, abseiling and rap jumping, beginners should always start guided. The reasons for that are safety, not snobbery, and we'll explain them properly below. For the wider planning picture, this sits under our [complete adventure-travel planning guide](/adventure-travel-in-australia-the-pacific-the-complete-planning-guide/).
 
@@ -79,7 +79,7 @@ Instead of deciding guided-or-DIY for a whole trip, run each individual activity
 
 ### Experience level
 
-The most important factor. If you're a beginner at an activity (or experienced at it elsewhere but new to Australian or Pacific conditions) lean guided. Local knowledge and supervision matter most exactly when your own margin for error is smallest.
+The most important factor. If you're a beginner at an activity (or experienced at it elsewhere but new to Australian or Pacific conditions), lean guided. Local knowledge and supervision matter most exactly when your own margin for error is smallest.
 
 ### Activity risk
 
@@ -106,23 +106,14 @@ Guided costs more per session; DIY costs more up front in gear, training and cer
 Here's the same trade-off in table form. Read it as "which column better fits *this activity, for me, right now*" rather than a scorecard for your whole personality.
 
 | Factor | Guided is the stronger fit when… | DIY can work when… |
-
 |---|---|---|
-
 | Experience level | You're a beginner, or new to the region/conditions | You're genuinely competent and current at the activity |
-
 | Activity risk | Consequences of a mistake are serious (rope work, water, height) | The activity is low-consequence and forgiving of error |
-
 | Remoteness | The site is remote, with slow or costly rescue access | You're close to help, reception and services |
-
 | Group makeup | Mixed abilities, families, or solo travellers | A tight, mutually experienced, well-matched team |
-
 | Gear | You don't own correct, rated, maintained equipment | You own and maintain the right gear and know its history |
-
 | Permits & access | The site needs permits, bookings or licensed-operator status | Access is open and you understand the rules and closures |
-
 | Self-rescue | You couldn't confidently manage a rope jam, injury or weather turn | You have the training, kit and plan to get yourselves out |
-
 | Insurance | You want the simplest, most defensible cover position | You've declared the activity and hold appropriate cover |
 
 ## The "do both" reality
@@ -141,7 +132,7 @@ We'll be direct about this one because the stakes justify it. For climbing, abse
 
 - **Gear you can't assess is gear you can't trust.** Beginners can't yet judge whether a rope, harness or anchor is sound. A guided session removes that variable entirely. Every piece of equipment is checked by a qualified instructor before you commit your weight to it.
 
-Before any descent (guided or, later, independent) a proper pre-descent check of every part of the system is non-negotiable; the site's [rappelling safety checklist](/rappelling-safety-checklist-before-every-descent/) walks through what that looks like. A guided [rap jumping](/) (forward abseiling) experience is a genuinely good first step into the rope-based world: it's fully supervised, all equipment is supplied and checked, no prior experience is needed, and it teaches you to trust a rope system in a controlled setting. Many people use it as their introduction before progressing to climbing or canyoning, the right way round: guided first, independent only once you've built real skills.
+Before any descent (guided or, later, independent), a proper pre-descent check of every part of the system is non-negotiable; the site's [rappelling safety checklist](/rappelling-safety-checklist-before-every-descent/) walks through what that looks like. A guided [rap jumping](/) (forward abseiling) experience is a genuinely good first step into the rope-based world: it's fully supervised, all equipment is supplied and checked, no prior experience is needed, and it teaches you to trust a rope system in a controlled setting. Many people use it as their introduction before progressing to climbing or canyoning, the right way round: guided first, independent only once you've built real skills.
 
 **Book it:** guided rope sessions to start on
 
@@ -150,7 +141,7 @@ Before any descent (guided or, later, independent) a proper pre-descent check of
 
 ## Where insurance fits the decision
 
-Guided-vs-DIY isn't only a safety and skills question. It's an insurance one too, and the two are linked. According to [Smartraveller](https://www.smartraveller.gov.au/before-you-go/activities/adventure), the Australian Government's official travel advisory service, most travel insurance policies don't automatically include adventure activities and sports; cover is often an optional extra, and riskier activities cost more to insure. Their core advice is to tell your insurer about every activity before you do it (even a one-off) read the product disclosure statement (PDS) in detail, and make sure your policy covers remote-location rescues, which are exactly the costs that spiral if something goes wrong far from a hospital.
+Guided-vs-DIY isn't only a safety and skills question. It's an insurance one too, and the two are linked. According to [Smartraveller](https://www.smartraveller.gov.au/before-you-go/activities/adventure), the Australian Government's official travel advisory service, most travel insurance policies don't automatically include adventure activities and sports; cover is often an optional extra, and riskier activities cost more to insure. Their core advice is to tell your insurer about every activity before you do it (even a one-off), read the product disclosure statement (PDS) in detail, and make sure your policy covers remote-location rescues, which are exactly the costs that spiral if something goes wrong far from a hospital.
 
 How does that connect to guided vs DIY? Smartraveller's [safety guidance](https://www.smartraveller.gov.au/before-you-go/activities/adventure) is to research and confirm your operator is properly licensed, and to check the activity is legal and regulated at your destination, which a reputable guided operator makes straightforward. Going DIY doesn't void your cover, but it puts the whole burden of doing the activity safely and within the rules squarely on you, and insurers expect you to have taken reasonable care. Either way, Smartraveller is blunt on the basics: if you can't afford travel insurance, you can't afford to travel, because the Australian Government won't pay your overseas medical bills or evacuation. Our [adventure travel insurance guide](/adventure-travel-insurance-for-australia-the-pacific-what-you-actually-need/) goes deeper on what to actually look for in a policy.
 

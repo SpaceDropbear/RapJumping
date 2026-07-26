@@ -60,19 +60,12 @@ If you're an experienced abseiler after adrenaline and waterfalls, you'll be hap
 Here's how the main destinations stack up across the factors that actually decide a trip. The discipline, how hard it is, when to go, how easy the site is to reach once you're in-country, and how far you're flying from Australia. Flight-proximity notes are indicative directional guidance from an Australian east-coast capital, not scheduling advice; confirm current routes and times when you book.
 
 | Destination | Main activity | Difficulty | Best season | Access difficulty | Flight proximity from AU |
-
 |---|---|---|---|---|---|
-
 | Fiji: Upper Navua Gorge (Viti Levu) & Taveuni (Tavoro Falls) | Canyoning, gorge rafting, waterfall hikes / abseiling | Moderate; guided, suits confident beginners upward | Dry season, roughly May-Oct | Easy-moderate; Viti Levu sites are well serviced, Taveuni needs a domestic hop | Closest / most direct, the easy entry point |
-
 | Vanuatu: Efate (Mele Cascades) & Espiritu Santo (Millennium Cave) | Canyoning, waterfall abseiling, cave & rainforest trekking | Moderate; Millennium Cave is a demanding full-day trek | Dry season, roughly May-Oct | Efate easy; Santo remote, needs a domestic flight to Luganville | Very close: short direct routes to Port Vila |
-
 | New Caledonia: Koumac (northern Grande Terre) | Sport rock climbing on limestone | Varies; broad grade spread across many single-pitch routes | Cooler, drier months, roughly Apr-Nov | Moderate-hard; Koumac is a long drive north of Nouméa | Close: short flights to Nouméa, then significant road transfer |
-
 | Tonga: 'Eua Island | Sport rock climbing on coastal limestone | Varies; small, developing scene, indicative grades in the mid-to-hard range | Dry season, roughly May-Oct | Hard; small, remote scene reached via Tongatapu then a short hop/ferry to 'Eua | Moderate, usually via Tongatapu (Nuku'alofa) |
-
 | Papua New Guinea: Mt Wilhelm (Bismarck Range) | High-altitude trekking (non-technical), 4,509 m | Hard; serious fitness & altitude, typically 3-4 days | Drier months, roughly Apr-Nov (climbs generally not run late Nov-Mar) | Hard; remote, needs domestic flights and road transfer to the trailhead | Moderate: flights to Port Moresby, then domestic legs |
-
 | Solomon Islands: Kolombangara (Western Province) | Volcano trekking (guided, multi-day) to the crater rim | Hard; steep, overgrown trail, typically 2-4 days | Dry season, roughly May-Oct | Hard; reached via Honiara then Gizo, with local guides essential | Moderate: flights to Honiara, then domestic legs |
 
 The pattern is clear: proximity and ease of access run roughly opposite to remoteness and challenge. Fiji and Vanuatu are the closest, easiest, most guided and most abseiler-friendly. New Caledonia gives you real climbing but a long road transfer. Tonga, PNG and the Solomons deliver the wildest experiences but demand the most planning, fitness and tolerance for logistics.

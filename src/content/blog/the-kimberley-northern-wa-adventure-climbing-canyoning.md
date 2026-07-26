@@ -111,7 +111,7 @@ The Kimberley is not a place to improvise. The gap between "scenic walk" and "se
 
 - **Use qualified guides for anything technical.** Any abseil or canyon objective in this region is expedition-grade and rare, and should only be undertaken with genuinely qualified, experienced guides and appropriate equipment, not attempted on the strength of scrambling experience alone.
 
-If your interest in the Kimberley is really an interest in the vertical (in rope work, abseiling and controlled exposure) the smart path is to build those skills in a managed setting first, and to keep remote wilderness for when you are genuinely ready for it. Learning to trust a rope, a harness and your own judgement is far better done under qualified supervision close to home than improvised in a gorge with no rescue nearby.
+If your interest in the Kimberley is really an interest in the vertical (in rope work, abseiling and controlled exposure), the smart path is to build those skills in a managed setting first, and to keep remote wilderness for when you are genuinely ready for it. Learning to trust a rope, a harness and your own judgement is far better done under qualified supervision close to home than improvised in a gorge with no rescue nearby.
 
 ## Explore more WA & Australia climbing
 

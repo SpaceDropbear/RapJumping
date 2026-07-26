@@ -39,7 +39,7 @@ faq:
 
 ## What the Millennium Cave adventure actually is
 
-Search results and travel chatter often file the Millennium Cave under "canyoning" or "abseiling", which sets the wrong expectation. Here is the honest version: the Millennium Cave is a **full-day guided adventure** that strings together a rainforest trek, a walk right through Vanuatu's largest cave, and a scramble-and-swim down a river canyon. It is action-packed and genuinely adventurous, but it is not a technical, bolted rope venue with graded abseils. Think guided wilderness expedition, not sport crag.
+Search results and travel chatter often file the Millennium Cave under "canyoning" or "abseiling", which sets the wrong expectation. The Millennium Cave is a **full-day guided adventure** that strings together a rainforest trek, a walk right through Vanuatu's largest cave, and a scramble-and-swim down a river canyon. It is action-packed and genuinely adventurous, but it is not a technical, bolted rope venue with graded abseils. Think guided wilderness expedition, not sport crag.
 
 This guide is written for Australian travellers and adventurers who want a clear, safety-first picture of what the day involves. What it is, where it is, when to go, how access works, and how to arrive ready. It is a spoke of our wider [complete guide to rock climbing and abseiling in the Pacific Islands](/rock-climbing-abseiling-in-the-pacific-islands-the-complete-guide/), so if you are comparing island destinations, start there and return here for the Espiritu Santo detail. If you are also looking at Vanuatu's more accessible waterfall abseiling on the main island, see our companion guide to [Vanuatu abseiling and adventure activities](/vanuatu-abseiling-edge-cascades-adventure-activities/).
 
@@ -88,13 +88,9 @@ For current, official guidance on visiting sites and respecting local custom, th
 Vanuatu has two broad seasons, and for a river-canyon adventure the difference is not just comfort. It is safety. The **dry season runs roughly May to October** and is the sensible window: drier days, lower humidity, more settled conditions and generally lower, more manageable water. The **wet season, roughly November to April**, brings heavier rain, higher humidity and the regional cyclone risk. It is worth being clear-eyed: even in the drier months, Vanuatu still receives real rainfall, so recent weather always matters more than the calendar alone.
 
 | Season | Approx. months | What to expect for the Millennium Cave |
-
 |---|---|---|
-
 | Dry season | May to October | The reliable window: drier days, lower river levels and safer canyon conditions. Peak visitor season, so book ahead. |
-
 | Shoulder months | May and September / October | Often the best balance of settled weather and thinner crowds. Still check recent rainfall before committing. |
-
 | Wet season | November to April | Heavier rain, high humidity and cyclone risk. River levels can rise fast; tours are more likely to be cancelled at short notice for safety. |
 
 Whatever the season, treat the forecast and recent rainfall as a genuine go/no-go input, and accept a guide's call to postpone. On a river-canyon route, a cancellation is a sign of a professional operation, not a disappointing one.

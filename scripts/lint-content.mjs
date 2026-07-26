@@ -119,6 +119,27 @@ for (const sub of ['blog', 'pages']) {
 // Routes that exist without a content file backing them.
 const ROUTES = new Set(['', 'blog', 'about', 'privacy', 'terms-conditions', '404', 'rss.xml']);
 
+// ---- markdown table integrity ---------------------------------------------------
+// A table whose rows are separated by BLANK LINES is not a table - every row renders
+// as a literal "| Age band | ... |" paragraph. It is valid markdown, it builds clean,
+// and no other gate notices; it is only visible by looking at the page. 18 posts
+// shipped 19 tables that way because the HTML converter appended each row as its own
+// block. Structural damage from a converter needs a structural check.
+function badTables(raw) {
+  const L = raw.split(/\r?\n/);
+  const out = [];
+  L.forEach((line, i) => {
+    if (!/^\s*\|\s*:?-{2,}/.test(line)) return; // the |---|---| separator row
+    const above = i > 0 ? L[i - 1].trim() : '';
+    const below = i + 1 < L.length ? L[i + 1].trim() : '';
+    if (!above.startsWith('|')) out.push(`${i + 1}: separator has no header row directly above`);
+    else if (below !== '' && !below.startsWith('|'))
+      out.push(`${i + 1}: separator not followed by a row`);
+    else if (below === '') out.push(`${i + 1}: blank line after separator (rows orphaned)`);
+  });
+  return out;
+}
+
 function badLinks(text) {
   const out = [];
   const rx = /\]\((\/[^)#?\s]*)/g;
@@ -137,6 +158,7 @@ if (IS_CLI) {
 const ALL = [...ERRORS, ...WARNINGS];
 const found = Object.fromEntries(ALL.map((c) => [c.id, []]));
 found['dead-link'] = [];
+found['bad-table'] = [];
 found['long-sentence'] = [];
 found['modal-sentence'] = [];
 found['tail-mass'] = [];
@@ -174,6 +196,8 @@ for (const file of walk(ROOT)) {
         found['register-drift'].push(`${short}  «mean ${mean.toFixed(1)}w/sentence»  outside [14,26]`);
     }
   }
+
+  for (const t of badTables(raw)) found['bad-table'].push(`${short}:${t}`);
 
   const lines = raw.split(/\r?\n/);
   lines.forEach((line, i) => {
@@ -226,6 +250,7 @@ warned += dump('register-drift', 'WARN', 'REGISTER DRIFT: 2026+ post mean outsid
 
 let bad = report(ERRORS, 'FAIL', (s) => console.error(s));
 bad += dump('dead-link', 'FAIL', 'INTERNAL LINK 404 (target slug does not exist)', (s) => console.error(s));
+bad += dump('bad-table', 'FAIL', 'MALFORMED MARKDOWN TABLE (renders as literal | pipes |)', (s) => console.error(s));
 bad += dump('long-sentence', 'FAIL', 'SENTENCE >=60 WORDS (split it; do not pad elsewhere)', (s) => console.error(s));
 bad += dump('modal-sentence', 'FAIL', 'SAFETY-MODAL SENTENCE >40 WORDS (must/never/do not/required: split, preserving condition and scope)', (s) => console.error(s));
 
@@ -235,7 +260,7 @@ if (bad) {
 }
 console.log(
   `OK - ${files} content files: no dashes, no /contact CTA, no dead internal links, ` +
-    `no sentence >=60w, no safety-modal sentence >40w.` +
+    `no sentence >=60w, no safety-modal sentence >40w, no malformed tables.` +
     (warned ? ` (${warned} non-blocking warning(s) above)` : '')
 );
 

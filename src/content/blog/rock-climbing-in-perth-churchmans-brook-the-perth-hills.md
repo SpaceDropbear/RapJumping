@@ -25,7 +25,7 @@ faq:
 
 ## TL;DR
 
-- **Perth's outdoor rock climbing is concentrated in the granite of the Perth Hills** (the Darling Scarp) much of it in former stone quarries a short drive east of the CBD, with Statham's Quarry, Mountain Quarry (Boya) and Churchman's Brook the best-known venues.
+- **Perth's outdoor rock climbing is concentrated in the granite of the Perth Hills** (the Darling Scarp), much of it in former stone quarries a short drive east of the CBD, with Statham's Quarry, Mountain Quarry (Boya) and Churchman's Brook the best-known venues.
 
 - **You must book in advance to climb or abseil at Statham's Quarry and Mountain Quarry.** These sites are managed by the Department of Biodiversity, Conservation and Attractions (DBCA); you contact the Parks and Wildlife Mundaring office (08 9290 6100, Mon-Fri 8:30am-4pm) beforehand and are given a code to access the gate.
 
@@ -41,7 +41,7 @@ Ask where you can climb outdoors near Perth and the answer points east, to the D
 
 These venues sit on land managed by the Department of Biodiversity, Conservation and Attractions (DBCA), through the Parks and Wildlife Service, and they come with a genuinely important practical catch that trips up first-time visitors: at the main quarries you cannot simply turn up and climb. This article is one spoke in a wider series on rock climbing across Queensland and Western Australia, and Perth's Hills crags are the natural companion to the sea cliffs and boulders further south.
 
-This guide covers what the Perth Hills granite is like, the main venues (Statham's Quarry, Mountain Quarry (formerly Boya) and Churchman's Brook) the DBCA booking system and gate code you will need, the water-catchment sensitivity around Churchman's Brook, when to go, and the gear and safety mindset the quarries demand. Rock climbing shares its DNA with [rap jumping](/) and abseiling. All three depend on sound anchors, careful rope-work and a calm head at height. So if the idea of a Perth Hills quarry wall appeals but you are new to rope systems, a guided rap jumping session is a controlled, well-supervised way to get comfortable on rope before you ever tie in on real rock.
+This guide covers what the Perth Hills granite is like, the main venues Statham's Quarry, Mountain Quarry (formerly Boya) and Churchman's Brook, the DBCA booking system and gate code you will need, the water-catchment sensitivity around Churchman's Brook, when to go, and the gear and safety mindset the quarries demand. Rock climbing shares its DNA with [rap jumping](/) and abseiling. All three depend on sound anchors, careful rope-work and a calm head at height. So if the idea of a Perth Hills quarry wall appeals but you are new to rope systems, a guided rap jumping session is a controlled, well-supervised way to get comfortable on rope before you ever tie in on real rock.
 
 ## About the Perth Hills: granite, quarries and character
 
@@ -55,7 +55,7 @@ The styles you will meet in the Hills are broadly two: granite friction and slab
 
 ### Statham's Quarry (Gooseberry Hill)
 
-Statham's Quarry, on Gooseberry Hill in the Perth Hills, is one of the city's most popular and accessible climbing venues. Opened as a stone quarry in 1894 (its stone paved early-1900s Perth streets) it now offers a spread of grades from beginner-friendly upward on granite, which makes it a common first outdoor destination for Perth climbers. It is managed by DBCA, and, importantly, both rock climbing and abseiling here must be booked in advance (see the booking section below).
+Statham's Quarry, on Gooseberry Hill in the Perth Hills, is one of the city's most popular and accessible climbing venues. Opened as a stone quarry in 1894 (its stone paved early-1900s Perth streets), it now offers a spread of grades from beginner-friendly upward on granite, which makes it a common first outdoor destination for Perth climbers. It is managed by DBCA, and, importantly, both rock climbing and abseiling here must be booked in advance (see the booking section below).
 
 ### Mountain Quarry (formerly Boya Quarry)
 

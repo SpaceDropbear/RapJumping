@@ -132,7 +132,7 @@ Bouldering areas are fragile, and the near-city outcrops in South East Queenslan
 
 ## Explore more Queensland & WA climbing
 
-Bouldering near Brisbane is one small piece of a much bigger climbing landscape across Queensland and Western Australia. If you want to see where SEQ bouldering sits in the wider picture (and where to go when you are ready for roped climbing on bigger rock) these companion guides cover the region.
+Bouldering near Brisbane is one small piece of a much bigger climbing landscape across Queensland and Western Australia. If you want to see where SEQ bouldering sits in the wider picture (and where to go when you are ready for roped climbing on bigger rock), these companion guides cover the region.
 
 - [Frog Buttress Rock Climbing: QLD's World-Class Rhyolite Crag](/frog-buttress-rock-climbing-qlds-world-class-rhyolite-crag/), the historic trad crag at the head of this series, and the natural next step onto rope.
 

@@ -10,7 +10,7 @@ featured: false
 readingTime: 15
 faq:
   - question: "Can you actually go abseiling in Fiji?"
-    answer: "Yes, but in a limited way. Fiji has no developed network of documented abseiling crags; instead, roped abseiling is offered as an operator-run activity (usually descending into a cave or over a cliff, often combined with ziplining) mainly on Viti Levu near Nadi, Momi and the Coral Coast. It's a guided, supervised experience rather than independent abseiling, so you book it through a local licensed operator rather than turning up and rigging your own descent."
+    answer: "Yes, but in a limited way. Fiji has no developed network of documented abseiling crags; instead, roped abseiling is offered as an operator-run activity (usually descending into a cave or over a cliff, often combined with ziplining), mainly on Viti Levu near Nadi, Momi and the Coral Coast. It's a guided, supervised experience rather than independent abseiling, so you book it through a local licensed operator rather than turning up and rigging your own descent."
   - question: "Is the Upper Navua Gorge an abseiling site?"
     answer: "No. The Upper Navua Gorge is a Ramsar-listed conservation area, and the way you experience it is by guided whitewater rafting through a narrow river gorge, not by roping down the walls. It's one of Fiji's most dramatic adventure landscapes, but it's a river-and-conservation experience run through a community-partnered operator, not a venue for abseiling."
   - question: "Can I abseil the Tavoro (Bouma) Falls on Taveuni?"
@@ -39,7 +39,7 @@ faq:
 
 Search for "abseiling in Fiji" and you'll get a mix of zipline-and-cave adventure tours, waterfall hikes and whitewater rafting trips, and very little that resembles the bolted abseiling crags or cliff-top rap-jumping sites you'd recognise from Australia. That's not a gap in your research; it's an accurate picture of the market. Fiji is a genuinely spectacular adventure destination, but it is not, in 2026, an abseiling destination in the technical sense, and this guide is deliberately honest about that.
 
-What Fiji does have is two world-class adventure landscapes that keep coming up alongside "abseiling", the **Upper Navua Gorge** on Viti Levu, and the **Tavoro (Bouma) Falls** in Bouma National Heritage Park on Taveuni. Both are extraordinary; neither is primarily an abseiling site. Below we cover what each one actually is, where the limited roped abseiling in Fiji sits, and how an Australian abseiler should prepare before travelling. This is a spoke of Rap Jumping's [Rock Climbing & Abseiling in the Pacific Islands: The Complete Guide](/rock-climbing-abseiling-in-the-pacific-islands-the-complete-guide/), and it follows the same rule that hub does: where we can't verify a specific route, grade, price or permit, we say so and point you to a local licensed operator rather than inventing detail.
+What Fiji does have is two world-class adventure landscapes that keep coming up alongside "abseiling", the **Upper Navua Gorge** on Viti Levu, and the **Tavoro (Bouma) Falls** in Bouma National Heritage Park on Taveuni. Both are extraordinary; neither is primarily an abseiling site. Below we cover what each one actually is, where the limited roped abseiling in Fiji sits, and how an Australian abseiler should prepare before travelling. This is a spoke of Rap Jumping's [Rock Climbing & Abseiling in the Pacific Islands: The Complete Guide](/rock-climbing-abseiling-in-the-pacific-islands-the-complete-guide/), and it follows the same rule that hub does. Where we can't verify a specific route, grade, price or permit, we say so and point you to a local licensed operator rather than inventing detail.
 
 ## Is there really abseiling in Fiji? An honest answer
 
@@ -47,7 +47,7 @@ The short version: not in the way Australians usually mean it. Australia has a m
 
 What exists instead is a small number of commercial adventure operators, concentrated around Nadi, Momi and the Coral Coast on Viti Levu, who offer roped abseiling as part of packaged experiences, typically descending into a cave or over a cliff, often bundled with ziplining or a guided nature walk. These can be genuinely enjoyable and, with the right operator, run to a good standard. But they are curated tourist experiences delivered by the operator's own guides and equipment, not open venues you turn up to and rig yourself. We're not naming or ranking specific operators here, in line with the rest of the Rap Jumping Pacific Islands series; the point is simply that abseiling in Fiji means "join an operator's activity," not "go abseiling independently."
 
-That distinction matters. It sets realistic expectations (if you're picturing multi-pitch descents down Fijian sea cliffs, that's not the trip on offer) and it's a safety point: in a market with less standardised regulation than home, the quality of the operator is the safety system, so choosing well matters more, not less, than it would in Australia.
+That distinction matters. It sets realistic expectations. If you're picturing multi-pitch descents down Fijian sea cliffs, that's not the trip on offer. It is also a safety point. In a market with less standardised regulation than home, the operator is the safety system, so choosing well matters more, not less, than it would in Australia.
 
 ## Upper Navua Gorge: a rafting and conservation experience
 
@@ -61,7 +61,7 @@ So while the Upper Navua Gorge belongs on any Fiji adventure list, it is a **riv
 
 Fiji's other headline landscape is on the "Garden Island" of Taveuni, in **Bouma National Heritage Park**. The park protects a large area of coastal and inland rainforest (reported at around 150 square kilometres, roughly a third of Taveuni) and is one of Fiji's best-known examples of community-based conservation, established in 1990 with local villages central to its management. It's rich habitat, home to rare birds like the orange dove and the silktail, and its centrepiece for visitors is the **Tavoro Waterfalls** (often called the Bouma Falls).
 
-The Tavoro Falls are a series of three waterfalls, reported at roughly 24 metres, 15 metres and 10 metres respectively, each with a natural swimming pool at its base. The first fall is only a short, flat walk from the visitor centre; the second and third are reached by a steeper track with steps, handrails and lookout points. Entry is paid at the park visitor centre, and (as with the Upper Navua arrangement) those fees support the park and the local community that owns and manages the land.
+The Tavoro Falls are a series of three waterfalls, reported at roughly 24 metres, 15 metres and 10 metres respectively, each with a natural swimming pool at its base. The first fall is only a short, flat walk from the visitor centre; the second and third are reached by a steeper track with steps, handrails and lookout points. Entry is paid at the park visitor centre, and (as with the Upper Navua arrangement), those fees support the park and the local community that owns and manages the land.
 
 It's important to be clear about what this is: Tavoro Falls is a **hiking-and-swimming destination on a maintained walking track**, not an abseiling site. The falls are beautiful and the pools are a highlight of any Taveuni trip, but there is no established, sanctioned abseiling of the Tavoro Falls, and it would be inappropriate (and unsafe) to treat a community-managed heritage trail as a self-rigged rope venue. If you see abseiling and Tavoro Falls mentioned together, treat it as loose adventure-travel framing rather than a real activity on offer at the falls.
 
@@ -74,13 +74,9 @@ We're deliberately keeping this general. We haven't verified (and won't invent) 
 ### How Fiji's "abseiling" sites really compare
 
 | Site | Island | What it actually is | Abseiling? | How you access it |
-
 |---|---|---|---|---|
-
 | Upper Navua Gorge | Viti Levu | Ramsar-listed conservation area; deep, narrow river gorge | No. It's a guided whitewater rafting experience | Booked rafting trip through the conservation-area operator |
-
 | Tavoro (Bouma) Falls | Taveuni | Three-tier waterfall system in Bouma National Heritage Park | No. It's a hiking-and-swimming trail | Entry fee at the park visitor centre; walking track |
-
 | Cave / cliff abseiling (Nadi, Momi, Coral Coast) | Viti Levu | Operator-run adventure activity, often with ziplining | Yes, but curated, guided and operator-equipped | Booked package with a local licensed operator |
 
 ## Land access, permits and respecting the community
@@ -93,11 +89,11 @@ In practice, the fees you pay (the Bouma park entry, the Upper Navua rafting cha
 
 Fiji's **dry season runs roughly from May to October**, and that's the more settled window for any outdoor activity, drier trails, better river conditions and generally more stable weather. June and July are peak months (partly thanks to Australians escaping the southern winter), so expect higher prices and busier sites then; May and October are quieter shoulder months with similar conditions. The wet season, roughly November to April, is also cyclone season, and heavy rain can make gorges, rivers and waterfall tracks hazardous or off-limits, an important consideration for anything water-adjacent.
 
-Beyond the weather, a few health and safety points are worth flagging, because a good abseiling holiday starts with good planning. The Australian Government's Smartraveller service is the authoritative place to check current advice; at the time of writing it advises taking normal safety precautions in Fiji, but conditions change, so check it yourself close to departure. Smartraveller has also noted that medical care standards in Fiji are more limited than in Australia (relevant if anything goes wrong on an adventure activity) and has flagged health risks including leptospirosis (a reason not to swim in or wade through flooded rivers and creeks) and an ongoing HIV outbreak declared by the Fiji Government. None of this should put you off Fiji; it's simply sensible preparation.
+Beyond the weather, a few health and safety points are worth flagging, because a good abseiling holiday starts with good planning. The Australian Government's Smartraveller service is the authoritative place to check current advice; at the time of writing it advises taking normal safety precautions in Fiji, but conditions change, so check it yourself close to departure. Smartraveller has also noted that medical care standards in Fiji are more limited than in Australia. That matters if anything goes wrong on an adventure activity. It has also flagged health risks including leptospirosis, which is a reason not to swim in or wade through flooded rivers and creeks, and an ongoing HIV outbreak declared by the Fiji Government. None of this should put you off Fiji; it's simply sensible preparation.
 
 ## Gear and safety standards: what to check
 
-Wherever ropes, harnesses, helmets and anchors are involved, the international benchmarks are the same as they are at home. Dynamic climbing ropes are commonly tested against the **EN 892** standard and climbing helmets against **EN 12492**, with the UIAA (International Climbing and Mountaineering Federation) offering an additional voluntary safety label above the mandatory European CE requirements. If an operator is supplying your gear (which, in Fiji, they almost always will be) those markings are a reasonable baseline to ask about.
+Wherever ropes, harnesses, helmets and anchors are involved, the international benchmarks are the same as they are at home. Dynamic climbing ropes are commonly tested against the **EN 892** standard and climbing helmets against **EN 12492**, with the UIAA (International Climbing and Mountaineering Federation) offering an additional voluntary safety label above the mandatory European CE requirements. If an operator is supplying your gear (which, in Fiji, they almost always will be), those markings are a reasonable baseline to ask about.
 
 What you can't assume in Fiji is Australian-style regulation of the operators themselves. Licensing, insurance and guide-training standards are far less standardised than at home, so the burden of vetting falls more heavily on you. Before booking any abseiling, canyoning or cave activity in Fiji:
 
@@ -115,7 +111,7 @@ If you'd like a view of how Fiji sits alongside Vanuatu's genuinely abseiling-ri
 
 ### Can you actually go abseiling in Fiji?
 
-Yes, but in a limited way. Fiji has no developed network of documented abseiling crags; instead, roped abseiling is offered as an operator-run activity (usually descending into a cave or over a cliff, often combined with ziplining) mainly on Viti Levu near Nadi, Momi and the Coral Coast. It's a guided, supervised experience rather than independent abseiling, so you book it through a local licensed operator rather than turning up and rigging your own descent.
+Yes, but in a limited way. Fiji has no developed network of documented abseiling crags; instead, roped abseiling is offered as an operator-run activity (usually descending into a cave or over a cliff, often combined with ziplining), mainly on Viti Levu near Nadi, Momi and the Coral Coast. It's a guided, supervised experience rather than independent abseiling, so you book it through a local licensed operator rather than turning up and rigging your own descent.
 
 ### Is the Upper Navua Gorge an abseiling site?
 

@@ -39,7 +39,7 @@ faq:
 
 Australia and the Pacific pack an extraordinary spread of adventure into one region, sandstone canyons an hour from Sydney, orange quartzite cliffs on the Victorian plains, urban abseiling crags in the middle of Brisbane, and reef-fringed volcanic islands a short flight from the east coast. The catch is that no single destination is "best" in isolation. A crag that's magic in April can be brutally hot in January, and a Pacific island that's idyllic in July sits squarely inside cyclone season come February. Choosing well means matching a place to your activity, your experience level and the time of year you can actually go.
 
-This guide is the destination companion to our broader [adventure travel planning hub](/adventure-travel-in-australia-the-pacific-the-complete-planning-guide/). Rather than a ranked list, it's a regional tour (Southern Australia, the tropical north, the outback, and the Pacific islands, with a nod across the ditch to New Zealand) naming real, well-established destinations, the signature activities each is known for, who they suit, and a general timing note grounded in Australia's climate and the official cyclone season. We won't quote prices or permit rules here (those change and vary by site); for the money side, see our [budget adventure travel guide](/budget-adventure-travel-in-australia-how-to-do-it-for-under-150-day/), and for a deeper season-by-season breakdown, our [best time to visit guide](/best-time-to-visit-australia-the-pacific-for-adventure-activities/).
+This guide is the destination companion to our broader [adventure travel planning hub](/adventure-travel-in-australia-the-pacific-the-complete-planning-guide/). Rather than a ranked list, it's a regional tour (Southern Australia, the tropical north, the outback, and the Pacific islands, with a nod across the ditch to New Zealand), naming real, well-established destinations, the signature activities each is known for, who they suit, and a general timing note grounded in Australia's climate and the official cyclone season. We won't quote prices or permit rules here (those change and vary by site); for the money side, see our [budget adventure travel guide](/budget-adventure-travel-in-australia-how-to-do-it-for-under-150-day/), and for a deeper season-by-season breakdown, our [best time to visit guide](/best-time-to-visit-australia-the-pacific-for-adventure-activities/).
 
 If you're weighing up any of these destinations and want a low-barrier way to test your head for heights and rope work first, a guided [rap jumping](/) (forward abseiling) session is a genuinely good starting point, fully supervised, all equipment supplied, no experience needed, and a natural warm-up for the climbing, abseiling and canyoning trips below.
 
@@ -99,7 +99,7 @@ Not every great adventure destination is remote. Some of the most useful (especi
 
 Australia's interior and tropical north deliver a completely different flavour of adventure, vast, remote and heavily season-dependent. These are less about a single crag and more about landscape-scale travel.
 
-In the **tropical north** (think Cairns, the Top End and the Kimberley) the headline activities are reef diving and snorkelling, gorge and waterfall walks, and, in places, canyoning and wildlife touring. The wet season (roughly November to April) brings heat, humidity, heavy rain and cyclone risk, so the dry season (roughly May to October) is overwhelmingly the better window for outdoor activity. Reef trips in particular reward good timing and good insurance.
+In the **tropical north** (think Cairns, the Top End and the Kimberley), the headline activities are reef diving and snorkelling, gorge and waterfall walks, and, in places, canyoning and wildlife touring. The wet season (roughly November to April) brings heat, humidity, heavy rain and cyclone risk, so the dry season (roughly May to October) is overwhelmingly the better window for outdoor activity. Reef trips in particular reward good timing and good insurance.
 
 In the **outback and remote interior**, adventure means 4WD touring, remote hiking, and wildlife and cultural experiences across genuinely isolated country. The cooler months are generally preferred. Summer heat in the interior is extreme and, combined with remoteness, raises the stakes considerably. This is the terrain where self-sufficiency, careful planning and leaving an itinerary with someone at home matter most. Because these are landscape-scale trips rather than fixed crags, they're also where the [guided vs DIY decision](/guided-vs-diy-adventure-in-australia-the-pacific-how-to-decide/) weighs heaviest: guided operators fold in local knowledge and logistics that are hard to replicate solo.
 
@@ -130,31 +130,18 @@ No adventure-travel roundup of this region is complete without New Zealand, an e
 Use this as a shortlist against your dates and experience level. Timing notes are general guidance grounded in the climate facts above. Always check current, destination-specific advice before booking.
 
 | Destination | Signature activities | Best suited to | General timing note |
-
 |---|---|---|---|
-
 | Blue Mountains, NSW | Climbing, abseiling, canyoning, bushwalking | All levels: great first world-class hub | Spring & autumn; canyoning in warmer months |
-
 | Grampians (Gariwerd) & Mt Arapiles, VIC | Climbing, abseiling, bouldering | Committed climbers & abseilers | Autumn & spring; summer too hot on exposed rock |
-
 | Tasmania | Alpine hiking, trekking, sea-cliff climbing | Hikers & experienced climbers | Late spring to early autumn; weather turns fast |
-
 | Kangaroo Point, Brisbane, QLD | Abseiling, rock climbing | Beginners & city-based travellers | Cooler months; summer hot & humid |
-
 | Frog Buttress, QLD | Crack & trad climbing | Intermediate to experienced climbers | Autumn to spring; avoid midsummer heat |
-
 | Perth Hills, WA | Climbing, abseiling, bushwalking | Beginners to experienced; western base | Autumn, winter & spring; hot dry summers |
-
 | Tropical north (Cairns, Top End, Kimberley) | Diving, snorkelling, gorge/waterfall walks | Divers & landscape travellers | Dry season (roughly May-October) |
-
 | Outback / remote interior | 4WD touring, remote hiking, cultural travel | Self-sufficient, well-planned travellers | Cooler months; extreme summer heat |
-
 | Fiji | Diving, snorkelling, river adventures, hiking | Divers & first-time Pacific travellers | Outside cyclone season (1 Nov to 30 Apr) |
-
 | Vanuatu | Canyoning, abseiling, diving, volcanic hiking | More adventurous, guided travellers | Outside cyclone season (1 Nov to 30 Apr) |
-
 | New Caledonia | Diving, snorkelling, hiking, limestone climbing | Divers & hikers wanting a different flavour | Outside cyclone season (1 Nov to 30 Apr) |
-
 | New Zealand | Tramping, alpine climbing, abseiling, caving | Committed hikers & multi-sport travellers | Roughly November-April for alpine trails |
 
 ## Choosing your first destination

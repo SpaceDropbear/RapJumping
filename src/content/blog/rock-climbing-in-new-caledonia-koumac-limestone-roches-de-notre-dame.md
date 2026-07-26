@@ -43,7 +43,7 @@ It's still a small scene by Australian or European standards, and it rewards cli
 
 ## Where is New Caledonia's climbing, and why Koumac?
 
-New Caledonia is an overseas territory of France in the southwest Pacific, with its capital Nouméa on the main island of Grande Terre. For Australians it's one of the most accessible international climbing-adjacent destinations there is: direct flights from several east-coast cities put you in Nouméa in a few hours, and because it's French territory, the climbing culture, the bolting standards and the federation involvement all follow the French model that produced places like the Verdon and the Calanques.
+New Caledonia is an overseas territory of France in the southwest Pacific, with its capital Nouméa on the main island of Grande Terre. For Australians it's one of the most accessible international climbing-adjacent destinations there is. Direct flights from several east-coast cities put you in Nouméa in a few hours. Because it's French territory, the climbing culture, the bolting standards and the federation involvement all follow the French model that produced places like the Verdon and the Calanques.
 
 The centre of gravity for rock climbing sits well away from the capital, though. The best-developed limestone is at Koumac, a town on the west coast in the far north of Grande Terre, roughly 400 km up the main highway from Nouméa. It's a long drive north (realistically a full day's travel from the capital, or a leg of a broader northern road trip) so most climbers build a trip around several days at the crags rather than a day visit. Camping and accommodation are available in and around the town; confirm current options with the Koumac municipality or the New Caledonia tourism office before you commit to dates.
 
@@ -78,21 +78,13 @@ New Caledonia uses the French grading system rather than the Australian (Ewbank)
 - Your own first-aid kit and a plan for what happens if something goes wrong at a remote crag (see the safety section below).
 
 | Aspect | What to expect at Koumac |
-
 |---|---|
-
 | Climbing type | Single-pitch sport climbing on limestone (bolted, with lower-offs) |
-
 | Main venues | Les Roches de Notre Dame (flagship crag); Les Grottes de Koumac (caves) |
-
 | Grade system | French grades (not Australian Ewbank), broad range from easy to very hard |
-
 | Location | Near Koumac, far north of Grande Terre, roughly 400 km / a day's travel north of Nouméa |
-
 | Best season | Cooler, drier austral winter, roughly May to October; June-August most comfortable |
-
 | Scene size | Small, locally maintained by a climbing club with FFME support, not a commercial resort |
-
 | Self-sufficiency | High. Bring your own gear, water, first aid and current topo; limited on-site services |
 
 ## When to go: season and weather
@@ -103,7 +95,7 @@ Even in the cooler months, some walls will be in full sun and others shaded, so 
 
 ## Access, the local club and the FFME
 
-The Koumac crags exist and stay climbable because of local effort. The development and ongoing maintenance of the Roches de Notre Dame has been driven by a New Caledonian climbing club, working with the regional committee of the French climbing federation (the FFME, Fédération française de la montagne et de l'escalade) and with the support of local authorities including the Koumac municipality. Funding for bolting and site development has historically come from federation and tourism-authority sources rather than commercial operators.
+The Koumac crags exist and stay climbable because of local effort. The development and ongoing maintenance of the Roches de Notre Dame has been driven by a New Caledonian climbing club. That club works with the regional committee of the French climbing federation (the FFME, Fédération française de la montagne et de l'escalade) and with the support of local authorities including the Koumac municipality. Funding for bolting and site development has historically come from federation and tourism-authority sources rather than commercial operators.
 
 What this means for you as a visiting climber:
 

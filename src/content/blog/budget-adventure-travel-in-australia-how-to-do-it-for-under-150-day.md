@@ -46,19 +46,12 @@ This guide is a practical, numbers-led how-to for keeping adventure travel in Au
 The clearest way to see how this adds up is to build a sample day. The breakdown below assumes a solo budget traveller moving through regional and outdoor Australia. Think a base near the Blue Mountains, the Grampians or the Glass House Mountains rather than a five-star harbourside hotel. Share costs with a travel partner and several of these figures drop further per person.
 
 | Category | Budget approach | Indicative daily estimate (AUD) |
-
 |---|---|---|
-
 | Accommodation | Hostel dorm bed, or a powered/unpowered campsite | ~$0-$45 |
-
 | Food | Self-catering: supermarket shop, hostel kitchen, packed lunch | ~$20-$35 |
-
 | Transport | Fuel share, regional bus, or public transport day pass | ~$15-$40 |
-
 | Activity | Mostly free (bushwalk, national park, beach) with a low-cost day thrown in | ~$0-$30 |
-
 | Buffer / incidentals | Coffee, park fees, laundry, contingency | ~$10-$20 |
-
 | **Typical daily total** |  | **~$60-$150** |
 
 The point of the range isn't that every day costs $150. It's that a genuinely good adventure day can sit near the bottom of that band, which is exactly what gives you room to splurge. String together several $70-$90 days built around free bushwalks and self-catered meals, and you bank enough headroom to spend on one guided experience without breaking the average. That's the core budgeting move in this whole guide: keep your everyday spend low and deliberate so a standout day doesn't blow the trip.
@@ -99,9 +92,9 @@ The strategy is to make free activities your default and paid activities the exc
 
 When you travel changes what you pay more than almost anything else. Accommodation, transport and tours all tend to cost more during school holidays, long weekends and each region's peak season, and they ease off in the shoulder seasons. For adventure travel, the good news is that shoulder seasons are often the *better* time to be outdoors anyway.
 
-In southern Australia (around Melbourne, Sydney, Hobart and Adelaide) autumn and spring are generally the most comfortable windows for climbing, abseiling and hiking, since summer heat can be brutal on exposed rock and winter brings cold snaps at altitude. Those same shoulder months often sit outside the busiest, most expensive holiday peaks. In tropical northern Australia (Cairns, Darwin, the Kimberley) the dry season (roughly May to October) is the better window for outdoor activity, and travelling at the edges of it can mean lower prices with still-workable weather. Avoiding school holidays and long weekends wherever you can is the simplest version of this rule: fewer crowds, lower prices, and often better conditions.
+In southern Australia (around Melbourne, Sydney, Hobart and Adelaide), autumn and spring are generally the most comfortable windows for climbing, abseiling and hiking, since summer heat can be brutal on exposed rock and winter brings cold snaps at altitude. Those same shoulder months often sit outside the busiest, most expensive holiday peaks. In tropical northern Australia (Cairns, Darwin, the Kimberley), the dry season (roughly May to October) is the better window for outdoor activity, and travelling at the edges of it can mean lower prices with still-workable weather. Avoiding school holidays and long weekends wherever you can is the simplest version of this rule: fewer crowds, lower prices, and often better conditions.
 
-Whenever you travel, sun protection is non-negotiable and, helpfully, free. Cancer Council Australia's SunSmart guidance is that whenever the UV Index is 3 or above you should protect your skin (just 15 minutes unprotected at UV 3 or higher can start skin damage) using the "Slip, Slop, Slap, Seek, Slide" approach: slip on clothing, slop on sunscreen, slap on a hat, seek shade and slide on sunglasses. A hat and sunscreen are two of the cheapest and most important items in any Australian adventure budget.
+Whenever you travel, sun protection is non-negotiable and, helpfully, free. Cancer Council Australia's SunSmart guidance is that whenever the UV Index is 3 or above you should protect your skin (just 15 minutes unprotected at UV 3 or higher can start skin damage), using the "Slip, Slop, Slap, Seek, Slide" approach: slip on clothing, slop on sunscreen, slap on a hat, seek shade and slide on sunglasses. A hat and sunscreen are two of the cheapest and most important items in any Australian adventure budget.
 
 ## Gear: hire vs buy
 

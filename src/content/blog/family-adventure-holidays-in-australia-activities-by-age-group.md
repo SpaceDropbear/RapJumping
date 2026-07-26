@@ -52,13 +52,9 @@ Because of this, the smartest approach for families is to lean heavily on guided
 The table below is a quick-reference orientation. Read it as a planning starting point, then confirm specifics (especially minimum ages for climbing and abseiling) directly with any operator you're considering. The sections underneath expand on each band.
 
 | Age band | Well-suited activities | Key safety focus | Confirm with operator |
-
 |---|---|---|---|
-
 | Toddlers & preschool (roughly 1-4) | Sheltered coastal and beach walks, wildlife parks and sanctuaries, shallow rock pools, easy nature trails in a carrier or pram-friendly path | Constant close supervision near water; sun protection; heat and shade management | Pram/carrier access; shade and facilities; any minimum age for wildlife encounters |
-
 | Primary-age (roughly 5-11) | Guided rock-pool and reef snorkelling in calm, shallow water; short day hikes and bushwalks; wildlife encounters; some junior indoor climbing sessions | Water competence and flotation; footwear and footing on trails; correctly sized snorkel and climbing gear | Swimming/confidence requirements; minimum age for junior climbing; child gear sizing and supervision ratio |
-
 | Teens (roughly 12+) | Guided outdoor rock climbing and abseiling; longer and steeper hikes; deeper guided snorkelling; multi-activity adventure days | Following technical instruction under pressure; harness/helmet fit; fatigue on longer routes | Exact minimum age for abseiling/climbing; whether a parent must attend or sign consent; fitness expectations |
 
 ### Toddlers and preschoolers (roughly 1-4)

@@ -74,15 +74,10 @@ The safe default everywhere is the same: book through a locally licensed or comm
 Wherever ropes, harnesses, helmets and anchors are involved, the same international benchmarks apply in the Pacific Islands as they do in Australia. The difference is that here you can't assume an operator enforces them, so knowing the markings yourself is worth the few minutes it takes.
 
 | Marking | Applies to | What it means | Mandatory or voluntary |
-
 |---|---|---|---|
-
 | EN 892 | Dynamic climbing / abseiling ropes | European standard for dynamic ropes: tests fall resistance, energy absorption and elongation. A rope must survive a set minimum number of standardised test falls without breaking. | Mandatory basis for CE marking in Europe |
-
 | EN 12492 | Climbing & mountaineering helmets | European standard covering protection from falling objects, penetration and front/side/rear impacts. | Mandatory basis for CE marking in Europe |
-
 | CE marking | PPE generally (ropes, harnesses, helmets, hardware) | Indicates the item conforms to the applicable European safety standard(s) and is authorised for sale in the EU. | Mandatory for sale in the EU/EEA |
-
 | UIAA Safety Label | Climbing & mountaineering equipment | The International Climbing and Mountaineering Federation's voluntary label, indicating the gear meets the UIAA's additional (often stricter) criteria on top of the relevant EN standard. | Voluntary, additional assurance |
 
 In practice: if you are supplying your own gear for a Pacific Islands trip, checking that ropes carry EN 892, helmets carry EN 12492, hardware is CE-marked, and (ideally) the equipment also bears the UIAA voluntary [safety label](https://www.theuiaa.org/safety/safety-standards/) is a sensible baseline regardless of which country you're visiting. If you're using an operator's gear, ask to see the markings, and ask how often ropes, harnesses and helmets are inspected and retired. A reputable operator will answer without hesitation. Rap Jumping's Australian abseiling content covers what "in-date, inspected gear" should look like in more detail, and building that eye at home is genuinely useful before you rely on it abroad.

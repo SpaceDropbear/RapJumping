@@ -55,7 +55,7 @@ If there is one line in this whole guide to remember, it is this: tell your insu
 
 The reason this matters so much is that an undeclared activity can void a claim entirely. If you are injured doing something your policy did not know about and did not cover, the insurer can decline the claim, not just for that activity, but potentially for related medical treatment and evacuation that flowed from it. The cost of a phone call to declare an activity is nothing. The cost of an undeclared adventure activity going wrong overseas is potentially everything.
 
-Build the declaration into your planning the same way you would build in a packing list or a weather check. When you know the shape of your trip (see our guide on [what to pack for an Australian climbing and abseiling trip](/what-to-pack-for-an-australian-climbing-abseiling-trip/) for how to nail down the activity list early) you have everything you need to give the insurer a complete picture. If the itinerary changes and you add an activity mid-trip, ring the insurer and get the new activity added before you do it, not after.
+Build the declaration into your planning the same way you would build in a packing list or a weather check. When you know the shape of your trip (see our guide on [what to pack for an Australian climbing and abseiling trip](/what-to-pack-for-an-australian-climbing-abseiling-trip/) for how to nail down the activity list early), you have everything you need to give the insurer a complete picture. If the itinerary changes and you add an activity mid-trip, ring the insurer and get the new activity added before you do it, not after.
 
 ## How to read the PDS (and why you must)
 
@@ -73,7 +73,7 @@ When you open a PDS, go looking for a few specific things:
 
 - **Conditions of cover.** Cover is often conditional on using a licensed operator, wearing the right equipment, or following safety instructions. Break the condition and you can break the cover.
 
-If any of it is unclear (and PDS language often is) call the insurer and ask them to confirm in writing that your specific activity is covered. A verbal "yeah, that's fine" from a call centre is not the same as a documented confirmation you can point to at claim time.
+If any of it is unclear (and PDS language often is), call the insurer and ask them to confirm in writing that your specific activity is covered. A verbal "yeah, that's fine" from a call centre is not the same as a documented confirmation you can point to at claim time.
 
 ## Remote-location rescue and medical evacuation cover
 
