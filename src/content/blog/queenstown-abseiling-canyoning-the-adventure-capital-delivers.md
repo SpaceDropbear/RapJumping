@@ -112,9 +112,10 @@ Queenstown is the marquee name, but it is not the only place where abseiling and
 
 It is also easy to assume, from the name alone, that the famous Sleeping God Canyon belongs to Queenstown. It does not. Sleeping God is on the North Island, in the Coromandel; our dedicated guide, [Sleeping God Canyon Abseiling: Coromandel, Not Queenstown](/sleeping-god-canyon-abseiling-coromandel-not-queenstown/), sets the record straight on where it really sits and what that big, committing canyon involves. New Zealand's canyoning is spread across both islands, but for a first-class introduction with real range, from beginner half-days to wild World Heritage gorges, Queenstown remains hard to beat.
 
-**Book it:** guided canyoning in the Queenstown gorges
+**Book it:** guided canyoning, and the bridge it runs past
 
 - [Queenstown: Gibbston Valley half-day canyoning](https://www.getyourguide.com/queenstown-l498/queenstown-gibbston-valley-half-day-canyoning-adventure-t172491/) - the abseils, slides and down-climbs described above, in the gorges past the Kawarau bungy bridge.
+- [Kawarau Bridge bungy, Gibbston](https://www.getyourguide.com/gibbston-l91032/queenstown-kawarau-bridge-bungy-world-s-first-bungy-t1053787/) - the world's first commercial bungy, on the same stretch of river. Not abseiling, but the other half of what Queenstown is known for.
 
 ## Frequently asked questions
 

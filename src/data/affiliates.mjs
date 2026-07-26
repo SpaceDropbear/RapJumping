@@ -70,6 +70,7 @@ const GYG_REGIONS = {
   203: 'SA', 163954: 'SA', 385: 'WA', 596: 'WA', 209: 'TAS',      // Adelaide, Onkaparinga, Perth, WA, Tasmania
   168949: 'AU',                                                   // Australia-wide category pages
   498: 'NZ_Sth_Island', 946: 'NZ_Sth_Island', 32635: 'NZ_Sth_Island',
+  91032: 'NZ_Sth_Island',                                        // Gibbston (Kawarau Bridge)
   821: 'NZ_Nth_Island', 822: 'NZ_Nth_Island', 32442: 'NZ_Nth_Island',
   35827: 'NZ_Nth_Island', 32634: 'NZ_Nth_Island',
   32388: 'VU', 169192: 'VU', 143138: 'VU',                        // Port Vila, Luganville
@@ -111,6 +112,7 @@ export const GYG_VERIFIED = {
     'waitomo-l32442/black-labyrinth-the-legendary-black-water-rafting-co-t140739',
     'auckland-region-l821/auckland-canyoning-rainforest-adventure-t27030',
     'queenstown-l498/queenstown-gibbston-valley-half-day-canyoning-adventure-t172491',
+    'gibbston-l91032/queenstown-kawarau-bridge-bungy-world-s-first-bungy-t1053787',
   ],
 };
 
