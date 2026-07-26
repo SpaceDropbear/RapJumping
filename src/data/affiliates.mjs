@@ -57,6 +57,12 @@ export const GYG_PARTNER_ID = 'ZSYYGUT'; // Derek Whittingham, 8% commission, si
 // Derived from the GetYourGuide location id - the `-l<id>` segment of the destination URL -
 // because that is the only place the build can learn where an activity actually is. Slugs
 // are localised and unreliable; the numeric ids are canonical.
+//
+// CODE FORMAT, confirmed by Derek 2026-07-26: AU states use their usual abbreviation
+// (QLD, NSW, VIC, WA, SA, TAS), NZ splits by island, and every other country uses its
+// TWO-LETTER ISO code - FJ, VU. Links built by hand in the portal may read `cmp=Fiji`,
+// but the build always overwrites cmp from this map, so the reporting stays consistent
+// no matter how a URL was originally generated. Do not "fix" a portal link to match.
 const GYG_REGIONS = {
   1122: 'NSW', 1485: 'NSW', 200: 'NSW', 160800: 'NSW',            // Blue Mtns, Katoomba, Sydney
   7908: 'VIC', 202: 'VIC', 167: 'VIC', 158051: 'VIC',             // Grampians, Melbourne, Victoria, Halls Gap
