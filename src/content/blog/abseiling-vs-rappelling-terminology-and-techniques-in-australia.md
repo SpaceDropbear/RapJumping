@@ -31,6 +31,8 @@ Abseiling and rappelling are the same rope-descent technique - the name changes 
 
 ---
 
+*Part of our guide to [abseiling in Australia](/abseiling-in-australia-the-complete-guide/), which covers where to go in every state, what it costs and how to start.*
+
 ## Compare abseiling and rappelling
 
 Abseiling and rappelling both refer to using a rope to descend a near-vertical surface. In Australia, people typically say “abseiling.” If you travel or read climbing forums, you might see “rappelling” (common in the US and parts of Europe) sprinkled in. Regardless of the name, the technique is all about controlling friction on the rope so you can glide down rock faces, canyon walls, or even building structures for urban rope access.

@@ -35,6 +35,8 @@ faq:
 
 ---
 
+*Part of our guide to [abseiling in Australia](/abseiling-in-australia-the-complete-guide/), which covers venues, costs and how the activity is regulated here.*
+
 Even if you're an experienced climber or just starting out, abseiling safety deserves your full attention. According to mountaineering reports, around 25% of climbing deaths happen during abseiling, often because of failing anchors or inadequate backups. While that statistic may sound intimidating, it's also a reminder that the right preparation, technique, and mindset can make your descents both exciting and safe. This ultimate guide walks you step by step through essential gear checks, environment considerations, and emergency procedures, so you feel confident every time you clip in.
 
 By the end of this guide, you'll know how to select reliable gear, set up proper anchors, handle high temperatures, and tackle unexpected mishaps with ease. Let's get started.

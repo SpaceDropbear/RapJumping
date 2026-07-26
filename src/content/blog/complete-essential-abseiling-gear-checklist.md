@@ -38,6 +38,8 @@ Safe, controlled abseiling starts with the right gear and consistent maintenance
 
 ---
 
+*Part of our guide to [abseiling in Australia](/abseiling-in-australia-the-complete-guide/). On a guided session the operator supplies all of this, so read that first if you have not booked a descent yet.*
+
 ## Know the essential abseiling gear
 
 Abseiling, also known as rappelling in some parts of the world, relies on a specific set of equipment that helps you descend safely and smoothly. If you are eager to explore steep cliffs, towering rock faces, or even industrial structures, selecting the right abseiling gear is your first priority. Without it, you risk losing control on the rope or damaging essential components such as anchors and harnesses. You might feel a little overwhelmed at first, but rest assured, once you get familiar with these essentials, you will appreciate just how straightforward abseiling preparation can be.

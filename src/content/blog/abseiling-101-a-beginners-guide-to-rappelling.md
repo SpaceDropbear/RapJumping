@@ -46,6 +46,8 @@ faq:
 
 ---
 
+*Part of our guide to [abseiling in Australia](/abseiling-in-australia-the-complete-guide/), which covers where to go in every state, what it costs and who regulates it.*
+
 ## Explore abseiling basics
 
 So, you're curious about abseiling, also known as rappelling in some parts of the world. It's one of those exhilarating activities that allows you to descend a steep face, such as a cliff or tall building, using a rope and a friction device. The thrill of stepping off the edge is real, but so is the need to learn proper technique. These abseiling basics will guide you through the essentials: what gear you need, how to handle ropes correctly, why safety is paramount, and where to find formal training if you want to improve. By the end, you'll have a solid foundation to embark on your first descents with confidence.
