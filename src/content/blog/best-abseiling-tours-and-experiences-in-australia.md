@@ -39,6 +39,8 @@ faq:
 
 ---
 
+*Part of our guide to [abseiling in Australia](/abseiling-in-australia-the-complete-guide/), which covers what the activity is, venues in every state, costs and how it is regulated.*
+
 ## Embrace abseiling thrills
 
 Imagine stepping off a cliff, gripping a rope, and feeling that rush of excitement as you descend toward solid ground. If you're eager for an adventure that blends adrenaline, nature, and a fresh perspective, abseiling tours in Australia are a perfect match. You'll discover diverse locations, guided expertise, and plenty of ways to make unforgettable memories.

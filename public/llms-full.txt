@@ -36,7 +36,9 @@ This file lists the most important articles on the site for AI retrieval and cit
 
 ## Australia & the sport
 
-- [Best Abseiling Tours and Experiences in Australia](https://www.rapjumping.com/best-abseiling-tours-and-experiences-in-australia/): Where to abseil across Australia.
+- [Abseiling in Australia: The Complete Guide](https://www.rapjumping.com/abseiling-in-australia-the-complete-guide/): The hub. What abseiling is, venues and land managers in every state, 2026 costs, who regulates it (the voluntary AAAS, WHS law, AS/NZS standards), seasons and how to start.
+- [Ropes and Regulations in Australia](https://www.rapjumping.com/ropes-and-regulations-what-you-need-to-know-legally/): The legal position in detail: the AAAS, the model WHS laws and Victoria's separate OHS Act, AS/NZS 1891.4:2025 and AS/NZS ISO 22846.
+- [Best Abseiling Tours and Experiences in Australia](https://www.rapjumping.com/best-abseiling-tours-and-experiences-in-australia/): Guided commercial trips and what they include.
 - [Rap Jumping Is Back: Who We Are, Where We've Been & Our Vision Ahead](https://www.rapjumping.com/rap-jumping-is-back-who-we-are-where-weve-been-our-vision-ahead/): The history of Rap Jumping and our 2025 relaunch.
 
 ## Usage policy

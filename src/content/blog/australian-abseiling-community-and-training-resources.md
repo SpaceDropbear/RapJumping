@@ -35,6 +35,8 @@ Start with a beginner abseil course, practise on easy single-pitch drops, and le
 
 ---
 
+*Part of our guide to [abseiling in Australia](/abseiling-in-australia-the-complete-guide/), which covers venues in every state, costs and how the activity is regulated here.*
+
 If you've ever felt that tug of excitement when you see photos of people abseiling down a cliff or lowering themselves from a bridge, you're definitely not alone. The abseiling community in Australia is huge, diverse, and welcoming to everyone from casual weekend hobbyists to serious career professionals. This ultimate guide is here to help you explore training options, trusted resources, and ways to become an active part of Australia's thriving abseiling scene.
 
 Whether you're aiming to perfect your outdoor skills, join a group of like-minded enthusiasts, or even build a career in rope access, you'll find practical insights to get started. So, grab a mug of your favourite drink, settle in, and let's talk about everything you need to know to become part of the Australian abseiling family.
@@ -111,7 +113,7 @@ Before you set out, do a quick search on weather conditions and land closures. P
 
 ## Follow good practice and stay legal
 
-You've probably heard that abseiling can be done safely if you respect the rules. This is where Australian Adventure Activity Standard (AAAS) and its Good Practice Guides step in. They aren't mandatory laws, but they're widely accepted as best practices to ensure you look after your safety, the safety of others, and the environment around you.
+You've probably heard that abseiling can be done safely if you respect the rules. This is where the Australian Adventure Activity Standard (AAAS) and its Good Practice Guides step in, published by the Outdoor Council of Australia. The Council is explicit that these are not statutory standards and that liability runs through contract and negligence law. They still carry real weight, because land managers, regulators and insurers routinely require compliance as a condition of access or cover. Our guide to [what is actually required legally](/ropes-and-regulations-what-you-need-to-know-legally/) covers the AAAS, work health and safety law and the relevant AS/NZS standards in full.
 
 ### Australian Adventure Activity Standard (AAAS)
 
