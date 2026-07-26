@@ -89,6 +89,12 @@ Around Port Vila you will also find ziplining, cave exploration, snorkelling and
 
 One planning note for adventurers: the more committing rope activities are not evenly spread across the country. Efate and the Cascades are the easy, accessible introduction close to the capital; the more serious canyon and cave descents tend to be a flight away on the outer islands, and they demand a genuine step up in skill, fitness and commitment. Deciding early whether you want a taster near Port Vila or a bigger expedition further afield will shape your whole itinerary, your budget and how much preparation you should do before you leave home.
 
+**Book it:** ziplining in the same valley as the Cascades
+
+- [Mele Bay jungle zipline, Port Vila](https://www.getyourguide.com/port-vila-l32388/mele-bay-port-vila-vanuatu-jungle-zipline-t297650/) - a guided zipline course above Mele Bay, minutes from the Cascades.
+
+This is a zipline rather than a rope descent. It is the most established adventure product in the Mele area and pairs naturally with a Cascades visit on the same day.
+
 ## When to go: season and conditions
 
 Vanuatu has two broad seasons. The **dry season runs roughly May to October** and is the sweet spot for outdoor adventure: warmer, drier days, lower humidity and generally more settled conditions. The **wet season, roughly November to April**, brings heavier rain, higher humidity and the regional cyclone risk. For abseiling and canyoning specifically, rainfall is the key variable. Heavy rain raises water levels and makes rock treacherous, and operators may reasonably cancel or reschedule on safety grounds.

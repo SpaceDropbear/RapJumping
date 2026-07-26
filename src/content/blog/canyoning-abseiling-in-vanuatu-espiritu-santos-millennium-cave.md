@@ -83,6 +83,12 @@ In practical terms that means:
 
 For current, official guidance on visiting sites and respecting local custom, the [Vanuatu Tourism Office](https://www.vanuatu.travel/) is the authoritative starting point. For anything touching your safety and consular situation as an Australian, check [Smartraveller](https://www.smartraveller.gov.au/destinations/pacific/vanuatu) before and during your trip. Because access, permits and community arrangements across the Pacific vary so much, our overview of [safety and permits for adventure activities in the Pacific Islands](/safety-permits-for-adventure-activities-in-the-pacific-islands/) is worth reading alongside this before you commit to a plan.
 
+**Book it:** the Millennium Cave day
+
+- [Millennium Cave tour from Luganville, with hotel pickup](https://www.getyourguide.com/luganville-l143138/luganville-millennium-cave-tour-with-hotel-pickup-t1389634/) - the full-day guided jungle trek, cave crossing and canyon river journey described above.
+
+Book through a licensed operator or the village's own arrangement. The fee goes back to Vunaspef, the landowning community, which is the basis on which visitors are welcome at all.
+
 ## When to go: season and conditions
 
 Vanuatu has two broad seasons, and for a river-canyon adventure the difference is not just comfort. It is safety. The **dry season runs roughly May to October** and is the sensible window: drier days, lower humidity, more settled conditions and generally lower, more manageable water. The **wet season, roughly November to April**, brings heavier rain, higher humidity and the regional cyclone risk. It is worth being clear-eyed: even in the drier months, Vanuatu still receives real rainfall, so recent weather always matters more than the calendar alone.

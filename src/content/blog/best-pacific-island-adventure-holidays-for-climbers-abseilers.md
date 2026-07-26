@@ -86,6 +86,13 @@ Vanuatu punches well above its weight for abseilers. Just outside Port Vila on E
 
 **Pick Vanuatu if:** canyoning and waterfall abseiling are your priority, you're reasonably fit, and you want the region's best-value adventure a very short flight from Australia. Efate suits shorter trips; add Espiritu Santo if you want the full expedition.
 
+**Book it:** the two most accessible guided adventures in the region
+
+- [Millennium Cave tour, Espiritu Santo](https://www.getyourguide.com/luganville-l143138/luganville-millennium-cave-tour-with-hotel-pickup-t1389634/) - Vanuatu's big full-day trek, cave crossing and canyon river journey.
+- [Nadi: Fiji's largest zipline and cave exploration](https://www.getyourguide.com/nadi-l2472/largest-fiji-zipline-in-the-south-pacific-cave-exploration-t162803/) - the easiest first taste of Fijian adventure, close to the main airport.
+
+Neither is roped climbing. They are the guided zipline, cave and canyon products the region genuinely does well, which is the honest answer to "what can I actually book here".
+
 ## Best for genuine rock climbing: New Caledonia and Tonga
 
 If you're a sport climber who wants to actually clip bolts and climb rock, forget the canyoning islands. Only two Pacific destinations genuinely deliver, and they're very different in character.

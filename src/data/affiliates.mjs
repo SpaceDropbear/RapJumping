@@ -66,7 +66,8 @@ const GYG_REGIONS = {
   498: 'NZ_Sth_Island', 946: 'NZ_Sth_Island', 32635: 'NZ_Sth_Island',
   821: 'NZ_Nth_Island', 822: 'NZ_Nth_Island', 32442: 'NZ_Nth_Island',
   35827: 'NZ_Nth_Island', 32634: 'NZ_Nth_Island',
-  32388: 'VU', 169192: 'VU', 2472: 'FJ', 2471: 'FJ', 103962: 'FJ', 169098: 'FJ',
+  32388: 'VU', 169192: 'VU', 143138: 'VU',                        // Port Vila, Luganville
+  2472: 'FJ', 2471: 'FJ', 103962: 'FJ', 169098: 'FJ', 103953: 'FJ', // Nadi, Sigatoka/Coral Coast
 };
 
 /**
@@ -96,6 +97,10 @@ export const GYG_VERIFIED = {
     'katoomba-l1485/blue-mountains-abseiling-and-juggler-canyon-adventure-tour-t836975',
     'blue-mountains-l1122/blue-mountains-abseiling-and-canyoning-experience-t322948',
     'victoria-australia-l167/yarra-valley-seven-acre-rock-abseiling-adventure-t774545',
+    'nadi-l2472/largest-fiji-zipline-in-the-south-pacific-cave-exploration-t162803',
+    'sigatoka-l103953/largest-zipline-cave-exploration-from-sigatoka-coral-coast-t777352',
+    'luganville-l143138/luganville-millennium-cave-tour-with-hotel-pickup-t1389634',
+    'port-vila-l32388/mele-bay-port-vila-vanuatu-jungle-zipline-t297650',
     'waitomo-l32442/black-abyss-the-legendary-black-water-tour-t140742',
     'waitomo-l32442/black-labyrinth-the-legendary-black-water-rafting-co-t140739',
     'auckland-region-l821/auckland-canyoning-rainforest-adventure-t27030',

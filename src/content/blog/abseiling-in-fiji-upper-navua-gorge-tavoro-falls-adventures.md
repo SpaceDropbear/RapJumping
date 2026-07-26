@@ -79,6 +79,13 @@ We're deliberately keeping this general. We haven't verified (and won't invent) 
 | Tavoro (Bouma) Falls | Taveuni | Three-tier waterfall system in Bouma National Heritage Park | No. It's a hiking-and-swimming trail | Entry fee at the park visitor centre; walking track |
 | Cave / cliff abseiling (Nadi, Momi, Coral Coast) | Viti Levu | Operator-run adventure activity, often with ziplining | Yes, but curated, guided and operator-equipped | Booked package with a local licensed operator |
 
+**Book it:** the zipline-and-cave adventures Fiji actually runs
+
+- [Nadi: Fiji's largest zipline and cave exploration](https://www.getyourguide.com/nadi-l2472/largest-fiji-zipline-in-the-south-pacific-cave-exploration-t162803/) - the zipline course and cave walk in the Nadi hinterland, the pairing described above.
+- [Sigatoka: zipline and cave exploration](https://www.getyourguide.com/sigatoka-l103953/largest-zipline-cave-exploration-from-sigatoka-coral-coast-t777352/) - the same combination from the Coral Coast side.
+
+Both are zipline and cave tours rather than roped abseiling. They are what a search for "abseiling in Fiji" mostly turns up, and they are run by licensed commercial operators.
+
 ## Land access, permits and respecting the community
 
 One of the biggest differences between abseiling in Australia and adventuring in Fiji is land tenure. A large majority of land in Fiji is **iTaukei (customary) land**, communally owned by landowning clans (mataqali) and held in trust by the iTaukei Land Trust Board (TLTB), which administers leases and licences with the consent of the landowners. This is not a technicality. It means that access to gorges, waterfalls, caves and cliffs frequently depends on the involvement and permission of the landowning community, usually through a village-endorsed or licensed operator.
