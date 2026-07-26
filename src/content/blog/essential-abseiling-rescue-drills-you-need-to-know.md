@@ -212,7 +212,7 @@ This level of preparation helps you react calmly rather than fumbling with gear 
 
 ## Stay updated with standards and regulations
 
-In Australia, the [Australian Adventure Activity Standard](https://australianaas.org.au/) includes guidelines (Good Practice Guide for Abseiling & Climbing) that cover equipment checks, skill levels, and led-outdoor activity planning. Being in line with these regulations ensures that you follow current best practices. Plus, abiding by local rules is often a requirement for insurance and land access.
+In Australia, the [Australian Adventure Activity Standard](https://www.outdoorcouncilaustralia.com/aaas) includes guidelines (Good Practice Guide for Abseiling & Climbing) that cover equipment checks, skill levels, and led-outdoor activity planning. Being in line with these regulations ensures that you follow current best practices. Plus, abiding by local rules is often a requirement for insurance and land access.
 
 It's also wise to keep track of environmental restrictions; some areas prohibit abseiling to protect fragile ecosystems or prevent conflicts with climbers ascending. Always do some research on the region you'll be visiting.
 

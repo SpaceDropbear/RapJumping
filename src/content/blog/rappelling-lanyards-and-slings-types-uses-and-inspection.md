@@ -136,7 +136,7 @@ Use this rough timeline as a guide:
 There's a lot to consider when you're picking and maintaining lanyards, slings, or any piece of abseiling gear. Still, a sensible routine helps ensure you're always prepared when you head for the cliff's edge. Below are some final pointers to tie it all together.
 
 - Use lanyards that match your climbing style: Recreational abseilers or novices might opt for dynamic rope-based lanyards, while industrial rope access technicians often rely on shock-absorbing models.
-- Check for certifications: CE markings indicate tested reliability. OSHA guidelines specify strength, corrosion resistance, and gate requirements for connectors.
+- Check for certifications: CE and UIAA markings indicate tested reliability, with EN 12275 covering connectors and EN 566 covering slings. For work at height in Australia, AS/NZS 1891.4:2025 governs selection, use and maintenance.
 - Back it up: If you use a chain style PAS, consider adding a short rope-based tether for additional absorption. Or keep a double lanyard so you can stay clipped in twice as you move around an anchor station.
 - Make a rescue plan: Whenever you're working at height, especially with gear like Self-Retracting Lifelines (SRLs), have a plan in place if something goes wrong.
 - Pair lanyards with other essentials: Good gloves protect against rope burns. A backup friction hitch or autoblock can give you an extra layer of safety during descents.

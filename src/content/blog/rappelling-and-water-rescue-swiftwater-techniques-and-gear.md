@@ -208,7 +208,7 @@ FAST 1 typically involves:
 
 ### Standards worth knowing
 
-In Australia, the [Australian Adventure Activity Standard](https://australianaas.org.au/) and its Good Practice Guide cover abseiling on natural and artificial surfaces. For industrial and professional contexts, IRATA and ISO 22846 detail safe systems of work at height ([IRATA International](https://irata.org/publications)), and ANSI Z459 requires full-body harnesses, two-rope systems and 3,600-lb autolocking connectors ([PMI Rope](https://pmirope.com/ansi-z459-1-standard-on-safety-requirements-for-rope-access-systems/?srsltid=AfmBOor3qkMJZ3lQtKATatYP_SDV4mRxkbQHpvZ8yK3qBTeq4MoCPF1x)).
+In Australia, the [Australian Adventure Activity Standard](https://www.outdoorcouncilaustralia.com/aaas) and its Good Practice Guide cover abseiling on natural and artificial surfaces. For industrial and professional contexts, IRATA and ISO 22846 detail safe systems of work at height ([IRATA International](https://irata.org/publications)), and ANSI Z459 requires full-body harnesses, two-rope systems and 3,600-lb autolocking connectors ([PMI Rope](https://pmirope.com/ansi-z459-1-standard-on-safety-requirements-for-rope-access-systems/?srsltid=AfmBOor3qkMJZ3lQtKATatYP_SDV4mRxkbQHpvZ8yK3qBTeq4MoCPF1x)).
 
 ## Run emergency drills
 

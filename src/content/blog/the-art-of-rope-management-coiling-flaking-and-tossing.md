@@ -62,7 +62,7 @@ Now that your rope is selected, inspect it thoroughly before heading off. Even n
 - Note any discoloration, which could indicate chemical exposure.
 - Bend the rope into a tight loop to see if the sheath separates from the core. If it does, it might be time for a downgrade.
 
-If something seems off, be cautious. In critical scenarios, it's safer to swap the rope than to risk a major mishap. Keeping a simple rope inspection log can help you track wear over time. If you're climbing in a safety-critical environment, logging is more than a convenience, it's often a requirement of industry standards like OSHA or NFPA 1983.
+If something seems off, be cautious. In critical scenarios, it's safer to swap the rope than to risk a major mishap. Keeping a simple rope inspection log can help you track wear over time. If you're working in a safety-critical environment, logging is more than a convenience, it's often a requirement. In Australia that expectation comes from AS/NZS 1891.4:2025 for work at height and from IRATA's logbook system for rope access.
 
 ## Coil for easy carrying
 

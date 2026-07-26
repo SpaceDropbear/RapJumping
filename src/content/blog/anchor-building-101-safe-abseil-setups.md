@@ -199,7 +199,7 @@ Natural anchors: before every use. Fixed and industrial anchors: on a schedule -
 | Industrial building anchor | 6 months or per local regulations |
 | Vehicle-based anchor | Each time you set up |
 
-In Australia, the [Australian Adventure Activity Standard (AAAS)](https://australianaas.org.au/) and its Abseiling & Climbing Good Practice Guide set out risk management, leader competencies and equipment requirements; for industrial and commercial rope access, [IRATA](https://irata.org/publications) guidance applies. In the UK, eyebolt and abseil points commonly require six-monthly testing - a sensible benchmark anywhere. And use certified inspectors for fixed installations: a qualified sign-off ensures compliance and lowers liability.
+In Australia, the [Australian Adventure Activity Standard (AAAS)](https://www.outdoorcouncilaustralia.com/aaas) and its Abseiling & Climbing Good Practice Guide set out risk management, leader competencies and equipment requirements; for industrial and commercial rope access, [IRATA](https://irata.org/publications) guidance applies. In the UK, eyebolt and abseil points commonly require six-monthly testing - a sensible benchmark anywhere. And use certified inspectors for fixed installations: a qualified sign-off ensures compliance and lowers liability.
 
 **Bottom line: natural anchors get checked every time, fixed hardware gets checked on a calendar - and an out-of-date inspection means the anchor is off-limits.**
 

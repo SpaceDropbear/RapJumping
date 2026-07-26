@@ -54,11 +54,11 @@ When you abseil, your weight is supported by multiple pieces of equipment, inclu
 
 - Considering that falls are a leading cause of injuries in climbing and rope access activities (as indicated by industry data from [Fall Protection Distributors, LLC](https://standingseamroofanchor.com/latest-news/fall-protection-anchor-point-inspections/?srsltid=AfmBOooj839cMpMSVFb2XqbI3uBcnKzePpuKXvkCKckGfdA-dM31bkbB)), it's obvious why anchor integrity is paramount.
 - An anchor system should hold up under dynamic stress. Any wear from repeated use or exposure to the elements reduces the anchor's strength.
-- Don't forget: a personal fall arrest system also depends on stable anchorages, as spelled out by [OSHA](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.140).
+- Don't forget: a personal fall arrest system also depends on stable anchorages. In Australian workplaces that requirement sits in AS/NZS 1891.4:2025 and AS 5532, which was revised in 2025.
 
 ### Key standards and guidelines
 
-If you're abseiling in Australia, you've likely heard about the Australian Adventure Activity Standard (AAAS) and its Abseiling & Climbing Good Practice Guide (GPG) ([Australian Adventure Activity Standard](https://australianaas.org.au/)). These documents outline best practices for managing risk, including anchor inspections. While these aren't strictly law, they reflect the collective wisdom of experts dedicated to keeping you safe on those ropes.
+If you're abseiling in Australia, you've likely heard about the Australian Adventure Activity Standard (AAAS) and its Abseiling & Climbing Good Practice Guide (GPG) ([Australian Adventure Activity Standard](https://www.outdoorcouncilaustralia.com/aaas)). These documents outline best practices for managing risk, including anchor inspections. While these aren't strictly law, they reflect the collective wisdom of experts dedicated to keeping you safe on those ropes.
 
 Internationally, you'll find references to British Standards like BS EN 795:2012 and BS EN 365:2004 for fall protection equipment, as well as the Lift Operations and Lifting Equipment Regulations (LOLER) and HSE guidelines in the UK. Even if you're based in Australia, reviewing these guidelines can give you a broader perspective on best practices for anchor safety.
 
@@ -158,7 +158,7 @@ Wind, water, fluctuations in temperature, and even salty sea air if you're near 
 
 ## Stay compliant with Australian standards
 
-Australia has its own guidelines for abseiling and rope access. The [Australian Adventure Activity Standard](https://australianaas.org.au/) (AAAS) and the Abseiling & Climbing Good Practice Guide (GPG) serve as voluntary frameworks designed to keep you on track with safety and risk management. They outline:
+Australia has its own guidelines for abseiling and rope access. The [Australian Adventure Activity Standard](https://www.outdoorcouncilaustralia.com/aaas) (AAAS) and the Abseiling & Climbing Good Practice Guide (GPG) serve as voluntary frameworks designed to keep you on track with safety and risk management. They outline:
 
 - Proper anchor setups for natural and artificial surfaces.
 - Procedures for group supervision if you're leading a team.

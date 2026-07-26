@@ -130,7 +130,7 @@ Anchor building often involves a blend of technical know-how, personal judgement
 
 ### Reference local Australian guidelines
 
-The AAAS forms a benchmark for risk and safety management of outdoor adventure activities, including abseiling ([Australian AAS](https://australianaas.org.au/)). Different regions may have additional requirements or permit systems, especially in national parks. The best practice is to research local guidelines before drilling any bolts or establishing new routes. Corrosion is a big factor on coastal cliffs, so stainless steel or titanium bolts might be mandated in certain areas ([Climbing Bolt Supplies](https://climbingboltsupplies.com/anchor-selection/)).
+The AAAS forms a benchmark for risk and safety management of outdoor adventure activities, including abseiling ([Australian AAS](https://www.outdoorcouncilaustralia.com/aaas)). Different regions may have additional requirements or permit systems, especially in national parks. The best practice is to research local guidelines before drilling any bolts or establishing new routes. Corrosion is a big factor on coastal cliffs, so stainless steel or titanium bolts might be mandated in certain areas ([Climbing Bolt Supplies](https://climbingboltsupplies.com/anchor-selection/)).
 
 Glue-in anchors, particularly the 150 mm deep versions, are increasingly common due to their reliability in softer or conglomerate rock. This approach helps secure the bolt deep enough to handle a fall without fracturing the rock's matrix ([Climbing Bolt Supplies](https://climbingboltsupplies.com/anchor-selection/)). If you're placing new gear, always check that you've got the right materials for the rock type. For existing gear, take time to see if it's showing signs of wear or weathering.
 

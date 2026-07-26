@@ -169,7 +169,7 @@ Nothing replaces hands-on practice. Set up mock scenarios where you build an anc
 
 ### Useful references and next steps
 
-If you prefer reading a comprehensive guide, “Down” by Andy Kirkpatrick is a recommended resource for deeper exploration of rope-rescue strategy. ([Mountain Journeys](https://www.mountain-journeys.co.uk/advanced-climbing-techniques/)) You might also check out the Australian Adventure Activity Standard for Abseiling & Climbing, which covers broad safety guidelines. ([Australian Adventure Activity Standard](https://australianaas.org.au/))
+If you prefer reading a comprehensive guide, “Down” by Andy Kirkpatrick is a recommended resource for deeper exploration of rope-rescue strategy. ([Mountain Journeys](https://www.mountain-journeys.co.uk/advanced-climbing-techniques/)) You might also check out the Australian Adventure Activity Standard for Abseiling & Climbing, which covers broad safety guidelines. ([Australian Adventure Activity Standard](https://www.outdoorcouncilaustralia.com/aaas))
 
 - Consider a refresher on strong anchor building and rope maintenance. ([DMM Wales](https://dmmwales.com/blogs/knowledge))
 - Familiarise yourself with best practices from IRATA's safety bulletins if rope access is part of your professional work. ([IRATA](https://irata.org/publications))

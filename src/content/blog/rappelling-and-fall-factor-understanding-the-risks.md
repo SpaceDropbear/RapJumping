@@ -137,9 +137,11 @@ A back-up device, such as a prusik or a dedicated auto-block, could have provide
 
 ## Plan for emergencies
 
-### Stay within OSHA thresholds (when applicable)
+### Keep impact forces low: what the workplace numbers tell us
 
-Though primarily referring to industrial settings, the Occupational Safety and Health Administration (OSHA) sets guidelines for maximum fall distance (6 feet) and impact forces (around 4 kN with a body belt and up to 8 kN with a harness). Recreational climbing often exceeds 6 feet, but it's helpful food for thought: keep your falls as short as possible to reduce the knockout punch on your body and rope. If you can reduce slack, do so.
+Workplace fall-protection rules are a useful sanity check on impact force, even though they are written for industrial settings rather than crags. The UIAA caps a single rope's peak impact force at 12kN in an EN 892 test fall, and industrial fall-arrest practice targets far lower figures again, around 4 to 6kN on the body. In Australia, AS/NZS 1891.4:2025 governs this for work at height. As a US reference point, OSHA sets a 6-foot maximum free-fall distance and roughly 4kN with a body belt or 8kN with a harness.
+
+None of these are recreational limits and none of them bind you on a weekend abseil. The transferable lesson is simply this: keep falls short and slack minimal, because impact force rises with fall factor, not with distance alone.
 
 ### Checklist for rescue readiness
 
