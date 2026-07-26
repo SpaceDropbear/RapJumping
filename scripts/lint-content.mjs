@@ -35,6 +35,17 @@ const ERRORS = [
     rx: /[—–]/g,
   },
   {
+    // Look-alike hyphens. These RENDER as an ordinary hyphen, so no amount of reading the
+    // page finds them, and the em/en dash rule above does not match them. 54 non-breaking
+    // hyphens (U+2011) were sitting in 7 posts, almost certainly from the Ghost migration.
+    // They break copy-paste, in-page search and anything that string-matches the text.
+    // U+2010 hyphen, U+2011 non-breaking hyphen, U+2012 figure dash, U+2015 horizontal bar,
+    // U+2212 minus sign, U+00AD soft hyphen (invisible), U+FF0D fullwidth hyphen-minus.
+    id: 'fake-hyphen',
+    label: 'LOOK-ALIKE HYPHEN (renders as "-" but is not one; use a plain ASCII hyphen)',
+    rx: /[‐‑‒―−­－]/g,
+  },
+  {
     id: 'contact-cta',
     label: 'BOOKING CTA to /contact (the site takes no bookings)',
     rx: /\]\(\/contact\/?\)/g,

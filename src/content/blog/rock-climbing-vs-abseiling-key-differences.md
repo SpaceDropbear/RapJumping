@@ -29,7 +29,7 @@ faq:
 - Climbing prioritises strength, technique, route-reading; abseiling prioritises rope handling, anchors, descent control
 - Gyms teach climbing first; outdoor abseiling needs extra instruction
 - Costs: climbing can be pricier (shoes, draws, ropes, pro); abseiling basics are cheaper
-- Big risks: climbing-falls/rockfall; abseiling-rope‑end slip‑offs, mis‑rigs (tie stopper knots, use backups)
+- Big risks: climbing-falls/rockfall; abseiling-rope-end slip-offs, mis-rigs (tie stopper knots, use backups)
 - Top Aussie spots: Blue Mountains (NSW), Arapiles (VIC), Glass House Mountains (QLD), WA sea cliffs, Cradle Mountain (TAS)
 - Best pick: choose climbing for sustained challenge/community; choose abseiling for quick adrenaline and scenic descents-do both for full skills
 

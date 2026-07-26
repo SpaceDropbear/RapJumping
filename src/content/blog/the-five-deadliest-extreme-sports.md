@@ -1,6 +1,6 @@
 ---
 title: "The Five Deadliest Extreme Sports"
-description: "Explore the 5 deadliest extreme sports-FREE SOLO climbing, BASE jumping, big‑wave surfing & more"
+description: "Explore the 5 deadliest extreme sports-FREE SOLO climbing, BASE jumping, big-wave surfing & more"
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/Deadliest-Extreme-Sports.webp"
@@ -43,18 +43,18 @@ BASE (Buildings, Antennas, Spans, Earth) jumps carry roughly **1 fatality per 60
 
 ---
 
-### 3. Big‑Wave Surfing
+### 3. Big-Wave Surfing
 
-Sites like Jaws (Maui), Cortes Bank (CA), and Teahupo'o (Tahiti) produce waves well over 20m. In the U.S., big‑wave surfers suffer **about 1 death per 12,000 waves** ([gitnux.org](https://gitnux.org/most-dangerous-activities-statistics/)).
+Sites like Jaws (Maui), Cortes Bank (CA), and Teahupo'o (Tahiti) produce waves well over 20m. In the U.S., big-wave surfers suffer **about 1 death per 12,000 waves** ([gitnux.org](https://gitnux.org/most-dangerous-activities-statistics/)).
 
 - HBO's *100FootWave* docuseries confirmed surfers like Garrett McNamara have endured **hundreds of concussions** and at least one major injury ([People.com](https://people.com/hbo-100-foot-wave-docuseries-dangers-big-wave-surfers-face-exclusive-11730503)).
 - **Helmet movement:** Olympic surfers now wear helmets at Teahupo'o due to shallow reef dangers ([SELF](https://www.self.com/story/surfing-helmets-olympics-2024)).
 
 ---
 
-### 4. Creeking (White‑Water Kayaking)
+### 4. Creeking (White-Water Kayaking)
 
-Creeking means steep, low‑volume rapids with serious hydraulics. White‑water kayaking registers around **1 fatality per 2,500 paddlers per year** ([gitnux.org](https://gitnux.org/most-dangerous-activities-statistics/)).
+Creeking means steep, low-volume rapids with serious hydraulics. White-water kayaking registers around **1 fatality per 2,500 paddlers per year** ([gitnux.org](https://gitnux.org/most-dangerous-activities-statistics/)).
 
 - A West Virginia study found that **51% of injuries occurred while in the raft**, and **40% while swimming**, often involving being struck by submerged objects ([Kayak Manual](https://kayakmanual.com/injuries-in-whitewater-rafting-and-kayaking/)).
 - **Advice:** Only paddle Class IV+ rivers with certified guides, helmets, and PFDs.
@@ -74,4 +74,4 @@ Called “the most dangerous eight seconds in sports,” bull riding injuries to
 
 ## Final Take
 
-These five death‑defying sports-free solo climbing, BASE jumping, big‑wave surfing, creeking, and bull riding-come with real, documented fatality and injury stats. If you're seeking a controlled adrenaline experience, Rap Jumping™ offers all the thrills, none of the body bags.
+These five death-defying sports-free solo climbing, BASE jumping, big-wave surfing, creeking, and bull riding-come with real, documented fatality and injury stats. If you're seeking a controlled adrenaline experience, Rap Jumping™ offers all the thrills, none of the body bags.

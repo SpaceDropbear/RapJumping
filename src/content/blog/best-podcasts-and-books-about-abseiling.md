@@ -14,13 +14,13 @@ faq:
   - question: "Are these resources useful for beginners?"
     answer: "Yes-beginners and experienced climbers will find practical insights on technique, safety, and mindset."
   - question: "How do books complement podcasts?"
-    answer: "Podcasts inspire and add context; books give structured, step‑by‑step methods and diagrams you can reference anytime."
+    answer: "Podcasts inspire and add context; books give structured, step-by-step methods and diagrams you can reference anytime."
   - question: "Which books are recommended?"
-    answer: "Mountaineering: The Freedom of the Hills, Rock Climbing: Mastering Basic Skills, and Self‑Rescue for knots, anchors, rappelling, and problem‑solving."
+    answer: "Mountaineering: The Freedom of the Hills, Rock Climbing: Mastering Basic Skills, and Self-Rescue for knots, anchors, rappelling, and problem-solving."
   - question: "What abseiling themes do the podcasts touch on?"
     answer: "Rope management, controlling friction, anchor choices, descent planning, and lessons learned from mishaps."
   - question: "How does joining a community help?"
-    answer: "You get partner checks, hands‑on feedback, workshops, and safer progression with experienced members."
+    answer: "You get partner checks, hands-on feedback, workshops, and safer progression with experienced members."
   - question: "Is the guidance relevant in Australia?"
     answer: "Yes-the principles are universal, and local groups help you adapt to Australian conditions and venues."
 ---
@@ -134,16 +134,16 @@ A. They deliver real experiences, safety lessons, and gear tips you can absorb o
 A. Yes-beginners and experienced climbers will find practical insights on technique, safety, and mindset.
 
 **Q. How do books complement podcasts?**  
-A. Podcasts inspire and add context; books give structured, step‑by‑step methods and diagrams you can reference anytime.
+A. Podcasts inspire and add context; books give structured, step-by-step methods and diagrams you can reference anytime.
 
 **Q. Which books are recommended?**  
-A. Mountaineering: The Freedom of the Hills, Rock Climbing: Mastering Basic Skills, and Self‑Rescue for knots, anchors, rappelling, and problem‑solving.
+A. Mountaineering: The Freedom of the Hills, Rock Climbing: Mastering Basic Skills, and Self-Rescue for knots, anchors, rappelling, and problem-solving.
 
 **Q. What abseiling themes do the podcasts touch on?**  
 A. Rope management, controlling friction, anchor choices, descent planning, and lessons learned from mishaps.
 
 **Q. How does joining a community help?**  
-A. You get partner checks, hands‑on feedback, workshops, and safer progression with experienced members.
+A. You get partner checks, hands-on feedback, workshops, and safer progression with experienced members.
 
 **Q. Is the guidance relevant in Australia?**  
 A. Yes-the principles are universal, and local groups help you adapt to Australian conditions and venues.

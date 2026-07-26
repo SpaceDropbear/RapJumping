@@ -26,9 +26,9 @@ faq:
 ## TL;DR
 
 - **Start with the right gear:** helmet, harness, static rope, rappel device, locking carabiners, and a friction hitch backup.
-- **Master basic techniques:** figure‑8 device for smooth descents, Munter hitch as a backup.
-- **Prioritise safety:** double‑check anchors, use a Prusik/autoblock, communicate with your climbing partner, and do buddy inspections.
-- **Try guided tours:** expert‑led sessions at beginner‑friendly spots like Kangaroo Point or Mount Ngungun.
+- **Master basic techniques:** figure-8 device for smooth descents, Munter hitch as a backup.
+- **Prioritise safety:** double-check anchors, use a Prusik/autoblock, communicate with your climbing partner, and do buddy inspections.
+- **Try guided tours:** expert-led sessions at beginner-friendly spots like Kangaroo Point or Mount Ngungun.
 - **Avoid mistakes:** check rope length, inspect gear for wear, and never skip backups - even if you're confident.
 
 ---
@@ -108,15 +108,15 @@ Small missteps can turn a fun day out into a stressful experience. Thankfully, a
 ### FAQs for Beginner Rappelling / Abseiling in Australia
 
 1. **What equipment do I need for beginner abseiling?**  
-   You'll need a helmet, harness, static rope, rappel device (such as a figure‑8 or ATC), locking carabiners, and a friction hitch backup like a Prusik or Autoblock.
+   You'll need a helmet, harness, static rope, rappel device (such as a figure-8 or ATC), locking carabiners, and a friction hitch backup like a Prusik or Autoblock.
 2. **Is abseiling safe for beginners?**  
-   Yes - with the right gear, proper instruction, and safety backups, abseiling is safe for beginners. Always double‑check anchors, use backups, and follow guide instructions.
+   Yes - with the right gear, proper instruction, and safety backups, abseiling is safe for beginners. Always double-check anchors, use backups, and follow guide instructions.
 3. **Where can I learn abseiling in Australia?**  
    Popular beginner locations include Kangaroo Point Cliffs in Brisbane, Mount Ngungun on the Sunshine Coast, and various guided tours in Victoria, NSW, and WA.
-4. **What's the difference between the figure‑8 and Munter hitch for abseiling?**  
-   The figure‑8 provides smooth, controlled descents, while the Munter hitch is a quick backup method that can be tied directly on a carabiner but may twist the rope.
+4. **What's the difference between the figure-8 and Munter hitch for abseiling?**  
+   The figure-8 provides smooth, controlled descents, while the Munter hitch is a quick backup method that can be tied directly on a carabiner but may twist the rope.
 5. **Do I need a guide for my first abseil?**  
-   It's highly recommended. A qualified guide will set up anchors, provide gear, teach technique, and ensure your first experience is safe and confidence‑building.
+   It's highly recommended. A qualified guide will set up anchors, provide gear, teach technique, and ensure your first experience is safe and confidence-building.
 
 ---
 

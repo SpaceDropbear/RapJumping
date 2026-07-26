@@ -10,13 +10,13 @@ featured: false
 readingTime: 11
 faq:
   - question: "Why use a digital logbook for abseiling/climbing?"
-    answer: "It makes sessions searchable, auto‑backs up your history, shows progress charts, and keeps you motivated over time."
+    answer: "It makes sessions searchable, auto-backs up your history, shows progress charts, and keeps you motivated over time."
   - question: "What should I record after each session?"
-    answer: "Date, location, route/problem, style (e.g. abseil, boulder, top‑rope), grade/difficulty, gear setup, conditions, how you felt, wins, and lessons."
+    answer: "Date, location, route/problem, style (e.g. abseil, boulder, top-rope), grade/difficulty, gear setup, conditions, how you felt, wins, and lessons."
   - question: "Do these apps work for abseiling as well as climbing?"
     answer: "Yes-many general climbing log apps let you tag or categorise abseiling sessions alongside other styles."
   - question: "How does logging improve accountability and progress?"
-    answer: "A consistent record highlights strengths and weaknesses, reveals patterns (e.g. time of day or gear choices), and makes goal‑setting easier."
+    answer: "A consistent record highlights strengths and weaknesses, reveals patterns (e.g. time of day or gear choices), and makes goal-setting easier."
   - question: "Do I need an internet connection to log?"
     answer: "Some apps support offline logging and sync later; check the app's features before you choose."
   - question: "Can I export my data if I switch apps?"
@@ -176,16 +176,16 @@ Take a moment to consider whether you need a pure logging tool, a training guide
 ### FAQs
 
 **Q. Why use a digital logbook for abseiling/climbing?**  
-A. It makes sessions searchable, auto‑backs up your history, shows progress charts, and keeps you motivated over time.
+A. It makes sessions searchable, auto-backs up your history, shows progress charts, and keeps you motivated over time.
 
 **Q. What should I record after each session?**  
-A. Date, location, route/problem, style (e.g. abseil, boulder, top‑rope), grade/difficulty, gear setup, conditions, how you felt, wins, and lessons.
+A. Date, location, route/problem, style (e.g. abseil, boulder, top-rope), grade/difficulty, gear setup, conditions, how you felt, wins, and lessons.
 
 **Q. Do these apps work for abseiling as well as climbing?**  
 A. Yes-many general climbing log apps let you tag or categorise abseiling sessions alongside other styles.
 
 **Q. How does logging improve accountability and progress?**  
-A. A consistent record highlights strengths and weaknesses, reveals patterns (e.g. time of day or gear choices), and makes goal‑setting easier.
+A. A consistent record highlights strengths and weaknesses, reveals patterns (e.g. time of day or gear choices), and makes goal-setting easier.
 
 **Q. Do I need an internet connection to log?**  
 A. Some apps support offline logging and sync later; check the app's features before you choose.
