@@ -19,8 +19,8 @@ faq:
     answer: "A higher sheath percentage improves abrasion resistance and rope lifespan."
   - question: "Are EN standards relevant outside Europe?"
     answer: "Yes-many products meet EN, CE, and UIAA standards for global acceptance and safety."
-  - question: "What US standards apply to climbing gear?"
-    answer: "OSHA regulations plus ANSI Z89.1 (helmets) and ASTM F887 (harnesses) outline safety requirements."
+  - question: "What Australian standards apply to abseiling gear?"
+    answer: "Recreational abseiling gear sold in Australia is certified to the European EN and UIAA standards, not to an Australian one, so EN 892 (ropes), EN 12277 (harnesses), EN 12275 (carabiners) and EN 12492 (helmets) are the marks to look for. Australia's own standards cover work at height instead: AS/NZS 1891.4:2025 for personal equipment, AS 5532 for anchor devices, and AS/NZS ISO 22846 for industrial rope access, which superseded the older AS/NZS 4488."
   - question: "How do I read climbing gear labels?"
     answer: "Look for standard numbers (e.g., EN 892), certification marks, fall ratings, elongation, and impact force data."
   - question: "How often should I replace climbing gear?"
@@ -36,7 +36,7 @@ faq:
 - Testing includes fall count, dynamic elongation, and impact force.
 - Sheath percentage affects rope durability against abrasion.
 - CE mark = European safety conformity; UIAA label = additional, often stricter, mountaineering standard.
-- US regulations (OSHA, ANSI, ASTM) also set equipment requirements.
+- Australia has no recreational climbing-gear standard of its own, so EN and UIAA marks are what to look for; AS/NZS 1891.4:2025 and AS/NZS ISO 22846 govern work at height instead.
 - Understanding multiple standards ensures gear is accepted globally.
 - Check gear labels for EN/UIAA/CE marks, ratings, and expiry.
 - Maintain and retire gear responsibly; follow eco-friendly climbing practices.
@@ -87,23 +87,33 @@ Some manufacturers opt for both CE and UIAA labels to tell you their gear isn't 
 
 For rappelling specifically, the rope's dynamic properties might not seem as critical as in lead climbing, where big falls are more common. However, a dynamic rope still cushions you if you slip or jolt during your descent. The UIAA standard ensures the rope's maximum fall impact force stays within safe limits, generally in the 8-12kN range for single ropes. Keeping that impact force under control helps protect your back and joints from harsh shocks.
 
-## Other key regulations and certifications
+## The other EN numbers worth knowing
 
-If you climb or guide in the United States, you may notice a different set of numbers. That's because the Occupational Safety and Health Administration (OSHA) outlines certain requirements for personal fall protection under 29 CFR Part 1910.140. Groups like ANSI (American National Standards Institute) also publish guidelines for things such as helmets, harnesses, and carabiners.
+EN 892 covers ropes, but two more numbers are stamped on gear you will handle on every descent.
 
-### Regulatory agencies in the US
+**EN 12275** is the carabiner standard. It sets minimum breaking strengths along the major axis (gate closed), the minor axis and with the gate open, which is why a carabiner carries three numbers rather than one. For abseiling, a locking connector rated at or above 22kN on the major axis is the sensible floor, and the open-gate figure is the one that matters when a gate gets nudged against rock.
 
-In simple terms, US regulations ensure your gear must withstand specific static loads, pass mechanical performance metrics, and protect you from injuries and fatalities due to equipment failures. Although the US doesn't strictly require EN certifications, many climbing and abseiling products sold stateside already include CE and UIAA labels to broaden their acceptance worldwide.
+**EN 12492** is the mountaineering helmet standard. It tests impact from above and from the front, sides and rear, plus retention-system strength, which is what separates a climbing helmet from a cycling or industrial one. A helmet certified only to a workplace head-protection standard is not tested for the side and rear strikes that a swinging abseiler actually takes.
 
-1. 29 CFR Part 1910 Subpart I: Sets general standards for personal protective equipment
-2. ANSI Z89.1: Covers industrial head protection (helmets)
-3. ASTM F887: Tests mechanical performance for certain harness designs
+**EN 12277** covers harnesses, with type letters for the style: type C is a sit harness, type B is a child's, and type A is a full body.
 
-All that legal talk really comes down to one idea: your climbing helmet or harness must do what it's supposed to do. If you're teaching or guiding in the US, you'll want to confirm your gear is up to code, because official standards may come into play should there be an accident or inspection.
+### Australian standards: what applies here
 
-### Why EN standards rappelling matters for global adventure
+Australia does not publish its own recreational climbing-gear standards. Recreational abseiling equipment sold here is certified to the **EN and UIAA** numbers above, and those are the marks to look for on the label.
 
-You might be thinking, “I'll climb in Europe this summer, but the rest of the year I'm in the US. Does it really matter which standard I follow?” Short answer: yes. Since climbing is a global sport, it helps if your equipment meets widely recognised benchmarks. That can be the difference between easy acceptance on local crags or your guide service requiring you to rent gear on-site because your harness lacks the right markings.
+Where Australia does have its own standards is **work at height**, which is a different regime with different assumptions. If you abseil as part of a job, or you are being guided commercially, the relevant documents are:
+
+- **AS/NZS 1891.4:2025**, *Personal equipment for work at height, Part 4: Selection, use and maintenance*. This is the third edition, released in 2025 and the largest revision in over a decade. It now draws a clear line between fall-arrest, restraint and rope-access systems, which had been a persistent source of confusion.
+- **AS 5532**, covering anchor devices, also updated in 2025.
+- **AS/NZS ISO 22846**, the current industrial rope-access standard. It superseded the older AS/NZS 4488 series, so if you find a supplier or course still citing AS/NZS 4488, that reference is out of date.
+
+The important distinction: **work-at-height standards are written for workplaces, not crags.** A recreational abseil on a weekend is governed by the EN and UIAA marks on your gear, not by AS/NZS 1891. Knowing which regime you are in tells you which numbers to care about.
+
+### Who enforces it, and the Victorian exception
+
+Work health and safety law in Australia is written nationally and enforced by the states. **Safe Work Australia** develops the model WHS laws but regulates nobody. Enforcement sits with SafeWork NSW, Workplace Health and Safety Queensland, WorkSafe WA, SafeWork SA, WorkSafe Tasmania, WorkSafe ACT, NT WorkSafe, and Comcare for federal workplaces.
+
+One quirk is worth knowing. The Commonwealth, NSW, Queensland, the ACT and the NT adopted the model laws in 2012, South Australia and Tasmania in 2013, and Western Australia in 2022. **Victoria has not adopted them** and continues under its own *Occupational Health and Safety Act 2004*. That is why Victorians say OHS while the rest of the country says WHS, and why a Victorian operator's paperwork will cite a different Act.
 
 ## Choosing the right gear responsibly
 
@@ -125,7 +135,7 @@ You might also see references to “Sheath Slippage” testing, which indicates 
 
 Even a top-rated rope won't do you much good if you ignore maintenance. That means avoiding stepping on your rope (which grinds dirt into the core), washing it according to manufacturer guidelines, and storing it somewhere cool and dry. Helmets should be retired if they've sustained any significant impact or are reaching their recommended expiry date. Harnesses often have a five-year recommended lifespan, but replace them sooner if you see visible wear or stitching damage.
 
-Being responsible also includes how you treat the environment and local communities. Whenever you head outside to abseil, pack out your rubbish, stay on established trails, and respect climbing closures. Complying with safety standards isn't just about ticking boxes; it's part of showing respect for the wild places that make our adventures possible. For more on anchoring guidelines and eco-friendly practices, check out [abseiling safety standards](/understanding-en-standards-for-rappelling-gear/).
+Being responsible also includes how you treat the environment and local communities. Whenever you head outside to abseil, pack out your rubbish, stay on established trails, and respect climbing closures. Complying with safety standards isn't just about ticking boxes; it's part of showing respect for the wild places that make our adventures possible. For more on anchoring guidelines and low-impact practice, see our guides to [eco-friendly abseiling](/eco-friendly-abseiling-leave-no-trace-principles/) and [safe anchor building](/anchor-building-101-safe-abseil-setups/).
 
 ## Practical tips for gear selection
 
@@ -174,8 +184,8 @@ A. A higher sheath percentage improves abrasion resistance and rope lifespan.
 **Q. Are EN standards relevant outside Europe?**  
 A. Yes-many products meet EN, CE, and UIAA standards for global acceptance and safety.
 
-**Q. What US standards apply to climbing gear?**  
-A. OSHA regulations plus ANSI Z89.1 (helmets) and ASTM F887 (harnesses) outline safety requirements.
+**Q. What Australian standards apply to abseiling gear?**  
+A. Recreational abseiling gear sold in Australia is certified to the European EN and UIAA standards, not to an Australian one, so EN 892 (ropes), EN 12277 (harnesses), EN 12275 (carabiners) and EN 12492 (helmets) are the marks to look for. Australia's own standards cover work at height instead: AS/NZS 1891.4:2025 for personal equipment, AS 5532 for anchor devices, and AS/NZS ISO 22846 for industrial rope access, which superseded the older AS/NZS 4488.
 
 **Q. How do I read climbing gear labels?**  
 A. Look for standard numbers (e.g., EN 892), certification marks, fall ratings, elongation, and impact force data.
@@ -193,7 +203,7 @@ A. Matching rope type, belay device, and harness to the activity and terrain max
 
 ## Conclusion
 
-There's a lot to unpack with the myriad EN, CE, and UIAA labels out there, yet it all boils down to one core principle: using properly certified gear gives you a safety net that's been tested and approved by major regulatory bodies. For rappelling specifically, you'll want to pay close attention to rope standards like EN 892 and UIAA 101, harness standards under UIAA 105, and helmet standards under UIAA 106. If you're climbing or guiding in the United States, be aware of OSHA regulations outlined in 29 CFR Part 1910.140 and industry standards like ANSI Z89.1 and ASTM F887, ensuring your gear also aligns with local rules.
+There's a lot to unpack with the myriad EN, CE, and UIAA labels out there, yet it all boils down to one core principle: using properly certified gear gives you a safety net that's been tested and approved by major regulatory bodies. For rappelling specifically, you'll want to pay close attention to rope standards like EN 892 and UIAA 101, harness standards under UIAA 105, and helmet standards under UIAA 106. If you abseil in Australia, those EN and UIAA marks are the ones that matter for your own kit, because Australia publishes no recreational equivalent. The Australian numbers, AS/NZS 1891.4:2025 and AS/NZS ISO 22846, belong to work at height, so they apply to the operator guiding you rather than to the harness you bought for weekends.
 
 So, what's next for you? First, check your current setup. Did you confirm your rope's fall rating and dynamic elongation? How about your harness expiration date and helmet compliance? If something seems blurry, do a quick read-through of the product labels or manufacturer specs. And if you're looking for a deeper dive on best practices when lowering off a cliff, or details about anchor construction, you'll find plenty of further resources in abseiling safety standards.
 

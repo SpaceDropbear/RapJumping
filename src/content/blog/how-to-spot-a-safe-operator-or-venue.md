@@ -123,7 +123,7 @@ Rain can make surfaces slippery, and strong winds can push you off-balance. A co
 
 ## Confirm they meet abseiling safety standards
 
-Industry-wide guidelines like those you'll find in [abseiling safety standards](/understanding-en-standards-for-rappelling-gear/) exist for a reason: they've been developed through years of data on what goes right and what can easily go wrong during an abseil. A responsible venue will align with these standards by keeping gear logs, performing regular anchor inspections, and training staff in advanced rescue procedures. Operators committed to these standards are often transparent about their protocols. They might even host or attend workshops, ensuring they remain up-to-date on best practices.
+Industry-wide guidelines like those you'll find in [abseiling safety standards](/abseiling-safety-standards-and-en-regulations-explained/) exist for a reason: they've been developed through years of data on what goes right and what can easily go wrong during an abseil. A responsible venue will align with these standards by keeping gear logs, performing regular anchor inspections, and training staff in advanced rescue procedures. Operators committed to these standards are often transparent about their protocols. They might even host or attend workshops, ensuring they remain up-to-date on best practices.
 
 You can ask a few direct questions: “How frequently do you inspect your ropes?” “What's your anchor checking process?” “Do you practice rescue scenarios?” Their answers will reveal a lot. A safe provider won't dodge these questions. Instead, they'll likely be delighted that you care enough to ask, because it shows you're taking your own safety seriously too.
 

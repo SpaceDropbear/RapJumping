@@ -69,7 +69,7 @@ Common rules include whether a permit is needed, what gear you're allowed to use
 2. Anchoring rules: Some areas forbid placing new bolts, while others require low-impact devices.
 3. Group size limits: Overcrowding can harm flora and lead to excessive erosion.
 
-If you want to dig deeper into official norms, you may want to review [abseiling safety standards](/understanding-en-standards-for-rappelling-gear/). This resource has great details on correct anchor systems and industry-wide protocols. By following set guidelines, you protect your own safety and keep fragile ecosystems out of harm's way.
+If you want to dig deeper into official norms, you may want to review [abseiling safety standards](/abseiling-safety-standards-and-en-regulations-explained/). This resource has great details on correct anchor systems and industry-wide protocols. By following set guidelines, you protect your own safety and keep fragile ecosystems out of harm's way.
 
 ### Understanding liability and insurance
 

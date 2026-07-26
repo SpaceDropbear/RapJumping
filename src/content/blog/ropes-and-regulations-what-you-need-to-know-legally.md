@@ -191,6 +191,6 @@ When you're juggling rope systems, anchor points, and government oversight, it's
 - Invest in formal training and certification programs
 - Keep your logbooks up to date, especially if you're seeking an upgrade in your rope access level
 - Consult reliable sources like IRATA guidelines or OSHA publications for clarity
-- If you want a deeper dive into abseiling protocols, take a look at additional [abseiling safety standards](/understanding-en-standards-for-rappelling-gear/)
+- If you want a deeper dive into abseiling protocols, take a look at additional [abseiling safety standards](/abseiling-safety-standards-and-en-regulations-explained/)
 
 Ropes regulations are there to protect you and everyone else who relies on a secure rope line, so embrace them with open arms. By combining proper gear maintenance, sound training, and diligent compliance, you'll enjoy a safer, more rewarding abseiling or rope access experience every single time.
