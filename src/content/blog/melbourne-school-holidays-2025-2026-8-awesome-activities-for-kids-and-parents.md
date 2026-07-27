@@ -6,7 +6,7 @@ updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/playground.webp"
 heroAlt: "Colourful outdoor playground with a red tube slide, green climbing mound, tunnel and orange rope-net frames under blue sky."
 tags: ["school holidays", "melbourne", "victoria"]
-featured: true
+featured: false
 readingTime: 6
 ---
 

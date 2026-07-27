@@ -9,16 +9,30 @@ import { sortByDate, tagSlug } from '../utils';
 const posts = (await getCollection('blog')).filter((p) => !p.data.draft).sort(sortByDate);
 const bySlug = new Map(posts.map((p) => [p.id.replace(/\.md$/, ''), p]));
 
-// Featured row: explicit, ordered pick (the site's top pages by search clicks). Edit to change.
+// Featured row: explicit, ordered pick. Reviewed 2026-07-27 against GOOGLE + BING clicks
+// for 2026-06-01..06-26. Bing is NOT optional here: it is ~5% of impressions but ~23% of
+// clicks on this site, so a Google-only ranking of "top pages" is wrong (see the amended
+// cannibalisation rule in KB projects/rapjumping.md).
+//
+// Combined clicks that month: tactical-rappelling 35 · rappel-devices 23 · gear-checklist 22
+// · descender-showdown 19 · rappelling-ropes 13.
+//
+// Slot 1 is the exception to the clicks rule and is deliberate: the abseiling hub is the
+// cluster's entry point and the target the nav now points at, so it leads even though it
+// published today with zero clicks. Slots 2-3 are the genuine top performers.
+// Keep this at THREE - `.grid` is auto-fill, so a 4th card orphans on a 3-column layout.
 const featuredSlugs = [
+  'abseiling-in-australia-the-complete-guide',
   'tactical-rappelling-australian-rappel-techniques',
-  'rappel-devices-compared-best-descenders-for-safety-speed-control-atc-figure-8-grigri',
   'complete-essential-abseiling-gear-checklist',
 ];
 const featured = featuredSlugs.map((s) => bySlug.get(s)).filter(Boolean);
 
 // Popular guides: evergreen high-performers + fast-rising pages, surfaced for internal linking.
+// `rappel-devices-compared` moved here from Featured 2026-07-27 - it is #2 by combined clicks,
+// so it leads this list rather than dropping off the home page entirely.
 const popularSlugs = [
+  'rappel-devices-compared-best-descenders-for-safety-speed-control-atc-figure-8-grigri',
   'the-ultimate-guide-to-rappelling-ropes',
   'abseiling-vs-rappelling-terminology-and-techniques-in-australia',
   'carabiners-explained-top-types-strength-ratings-best-uses-for-rappelling',

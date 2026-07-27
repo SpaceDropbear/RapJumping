@@ -6,7 +6,7 @@ heroImage: "/images/2026/07/abseiling-in-australia-the-complete-guide.webp"
 heroAlt: "A lone abseiler part-way down a huge ochre sandstone cliff, rope hanging plumb from the clifftop, with a forested valley and distant escarpments stretching to the horizon in late afternoon light"
 draft: false
 tags: ["abseiling", "australia"]
-featured: false
+featured: true
 readingTime: 14
 faq:
   - question: "What is abseiling?"
