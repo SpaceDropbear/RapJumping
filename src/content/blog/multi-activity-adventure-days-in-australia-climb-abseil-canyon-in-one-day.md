@@ -55,7 +55,7 @@ The single most common planning mistake with multi-activity days is underestimat
 
 Independent, self-organised activities (planning your own canyon descent, for instance) demand real time for logistics, gear checks and route planning: time that eats into a multi-activity day fast. Guided activities remove most of that overhead: a qualified guide manages timing, safety calls and transitions, letting you focus purely on the activity itself rather than the planning around it. If you're trying to fit two or three activities into a single day, prioritising guided options over independent ones is usually the difference between a smooth day and a rushed, stressful one.
 
-## Where Rap Jumping fits into a multi-activity day
+## Where rap jumping fits into a multi-activity day
 
 A guided rap jumping session is a genuinely useful building block for a multi-activity day, in either direction. As a warm-up, it's a low-commitment way to check your group's comfort with height and rope systems before a bigger climbing or canyoning activity later in the day. As a finale, it demands less sustained physical output than climbing or canyoning, making it a satisfying way to close out a day when your group is already tired but still wants one more adrenaline hit.
 

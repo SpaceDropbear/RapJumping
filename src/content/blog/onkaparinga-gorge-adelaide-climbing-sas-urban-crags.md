@@ -118,6 +118,6 @@ Check South Australian Government park alerts for Onkaparinga River National Par
 
 ## New to climbing? Start on a rope first
 
-Onkaparinga Gorge is one of the easiest genuine outdoor crags to reach from Adelaide, but "easy to reach" does not mean "risk-free." If the idea of climbing above the gorge's rock pools appeals but you have never clipped into a harness or trusted a rope system, the smartest first step is a guided, fully supervised introduction to rope work.
+Onkaparinga Gorge is one of the easiest genuine outdoor crags to reach from Adelaide, but "easy to reach" does not mean "risk-free". If the idea of climbing above the gorge's rock pools appeals but you have never clipped into a harness or trusted a rope system, the smartest first step is a guided, fully supervised introduction to rope work.
 
 Rap Jumping ran guided forward-abseiling sessions until 2020, teaching exactly the fundamentals a climber uses at a venue like Onkaparinga Gorge. Book the same kind of introduction with a qualified operator who supplies equipment, and use it to find out whether the vertical world is for you before you spend anything on gear.

@@ -63,7 +63,7 @@ Standard park opening hours are 7am to 5pm, extending to 7am-6pm during daylight
 
 ## A nearby second option: Brisbane Ranges National Park
 
-If you're building a bigger climbing day west of Melbourne, it's worth knowing that Brisbane Ranges National Park, near Anakie, is another destination Parks Victoria lists for climbing and abseiling. We haven't gone deep on Brisbane Ranges in this article (it deserves its own dedicated look in a future guide), but it's a genuine, park-authority-recognised option in the same general area as the You Yangs, and worth a mention if you're scouting more than one crag for a west-of-Melbourne trip.
+If you're building a bigger climbing day west of Melbourne, it's worth knowing that Brisbane Ranges National Park, near Anakie, is another destination Parks Victoria lists for climbing and abseiling. Brisbane Ranges is not covered in depth here, but it's a genuine, park-authority-recognised option in the same general area as the You Yangs, and worth a mention if you're scouting more than one crag for a west-of-Melbourne trip.
 
 ## Gear and safety at the You Yangs
 

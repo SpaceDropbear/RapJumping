@@ -1,5 +1,5 @@
 ---
-title: "Best High Ropes Courses & Adventure Parks in Australia"
+title: "High Ropes Courses & Adventure Parks in Australia: What to Expect"
 description: "High ropes courses and adventure parks are Australia's most accessible aerial adventure activity. What to expect, safety standards, and how to choose one."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/best-high-ropes-courses-adventure-parks-in-australia.webp"

@@ -53,7 +53,7 @@ Margaret River, in Western Australia's South West region, is by a clear margin A
 
 ## Smaller pockets: NSW North Coast and Tasmania
 
-Outside Margaret River, coasteering exists in Australia on a much smaller scale. The NSW North Coast, a short drive south of Byron Bay on the country's most easterly coastline, offers coasteering adventures along a similarly dramatic stretch of coast. Tasmania's Tasman Peninsula, within Tasman National Park south-east of Hobart, also offers coasteering opportunities, taking advantage of the peninsula's sea cliffs and rugged coastal terrain. Both are worth knowing about if you are travelling in those regions, though options and operator availability are considerably more limited than at Margaret River.
+Outside Margaret River, coasteering exists in Australia on a much smaller scale. The far north coast of NSW, around Byron Bay on the country's most easterly point, offers coasteering along a similarly dramatic stretch of coast. Tasmania's Tasman Peninsula, within Tasman National Park south-east of Hobart, also offers coasteering opportunities, taking advantage of the peninsula's sea cliffs and rugged coastal terrain. Both are worth knowing about if you are travelling in those regions, though options and operator availability are considerably more limited than at Margaret River.
 
 ## Who coasteering suits, and how to prepare
 

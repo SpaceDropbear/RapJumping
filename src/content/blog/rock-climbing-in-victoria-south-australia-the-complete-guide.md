@@ -33,7 +33,7 @@ faq:
 
 - **South Australia splits into accessible Adelaide gorges and remote wilderness terrain.** Morialta and Onkaparinga sit within 35km of the Adelaide CBD, while Moonarie and the wider Flinders Ranges are roughly five hours north and demand real self-sufficiency.
 
-- **Whichever crag you're aiming for, rope skills come first.** If you're new to height and exposure, a guided Rap Jumping session is a controlled, supervised way to build the fundamentals before you climb.
+- **Whichever crag you're aiming for, rope skills come first.** If you're new to height and exposure, a guided rap jumping session is a controlled, supervised way to build the fundamentals before you climb.
 
 ---
 

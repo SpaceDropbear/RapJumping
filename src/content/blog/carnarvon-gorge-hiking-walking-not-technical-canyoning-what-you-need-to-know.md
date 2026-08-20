@@ -18,7 +18,7 @@ faq:
   - question: "How many days should I spend at Carnarvon Gorge?"
     answer: "A minimum of three days is recommended to properly explore the main gorge trail, its side gorges and the Aboriginal art sites, rather than rushing through in a single day."
   - question: "Where can I actually go canyoning in Queensland?"
-    answer: "Behana Gorge near Cairns and Cedar Creek Falls in the Gold Coast hinterland are Queensland's genuine canyoning and swimming-hole destinations, covered in our dedicated Queensland canyoning guide."
+    answer: "Behana Gorge near Cairns is Queensland's established guided-canyoning destination, and Cedar Creek Falls in the Gold Coast hinterland is a self-guided swimming-hole walk rather than a technical canyon. Both are covered in our dedicated Queensland canyoning guide."
   - question: "How far ahead should I book a Carnarvon Gorge trip?"
     answer: "Rangers recommend contacting them at least 10 days ahead of a planned walk to confirm current conditions, and booking camping or Carnarvon Great Walk permits at least six weeks in advance given demand."
 ---
@@ -33,7 +33,7 @@ faq:
 
 - **A minimum of three days is recommended** to properly explore the main gorge, its side gorges and the Aboriginal art sites, and rangers recommend contacting them at least 10 days ahead of a planned walk to check conditions.
 
-- **If technical canyoning is what you're after**, Behana Gorge near Cairns and the Gold Coast hinterland are Queensland's genuine canyoning destinations. See our dedicated Queensland canyoning guide instead.
+- **If technical canyoning is what you're after**, Behana Gorge near Cairns is Queensland's established guided-canyoning destination. See our dedicated Queensland canyoning guide instead.
 
 ---
 
@@ -61,7 +61,7 @@ No permit is required for a day visit to Carnarvon Gorge. If you're planning to 
 
 ## Where to actually go canyoning in Queensland instead
 
-If technical canyoning (abseiling, rock slides and swimming through a gorge) is genuinely what you're after, Carnarvon Gorge isn't the destination. Behana Gorge, near Cairns in North Queensland, and Cedar Creek Falls in the Gold Coast hinterland are Queensland's real canyoning and swimming-hole destinations; see our [Queensland canyoning guide](/canyoning-in-queensland-from-the-gold-coast-hinterland-to-north-qld/) for the detail on each. If you're after height and exposure more broadly across Australia, our [rock climbing](/rock-climbing-in-australia-the-complete-guide/) and [abseiling](/abseiling-in-australia-the-complete-guide/) national guides cover the wider picture.
+If technical canyoning (abseiling, rock slides and swimming through a gorge) is genuinely what you're after, Carnarvon Gorge isn't the destination. Behana Gorge, near Cairns in North Queensland, is the state's established guided-canyoning destination, while Cedar Creek Falls in the Gold Coast hinterland is a self-guided swimming-hole walk. See our [Queensland canyoning guide](/canyoning-in-queensland-from-the-gold-coast-hinterland-to-north-qld/) for the detail on each. If you're after height and exposure more broadly across Australia, our [rock climbing](/rock-climbing-in-australia-the-complete-guide/) and [abseiling](/abseiling-in-australia-the-complete-guide/) national guides cover the wider picture.
 
 ## Frequently asked questions
 
@@ -83,7 +83,7 @@ A minimum of three days is recommended to properly explore the main gorge trail,
 
 ### Where can I actually go canyoning in Queensland?
 
-Behana Gorge near Cairns and Cedar Creek Falls in the Gold Coast hinterland are Queensland's genuine canyoning and swimming-hole destinations, covered in our dedicated Queensland canyoning guide.
+Behana Gorge near Cairns is Queensland's established guided-canyoning destination, and Cedar Creek Falls in the Gold Coast hinterland is a self-guided swimming-hole walk rather than a technical canyon. Both are covered in our dedicated Queensland canyoning guide.
 
 ### How far ahead should I book a Carnarvon Gorge trip?
 
