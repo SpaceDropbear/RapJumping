@@ -44,3 +44,13 @@
 /essential-abseiling-gear-checklist/ /complete-essential-abseiling-gear-checklist/ 301
 /outdoor-gear-what-to-wear-abseiling-in-australia /what-to-wear-abseiling-in-australia/ 301
 /outdoor-gear-what-to-wear-abseiling-in-australia/ /what-to-wear-abseiling-in-australia/ 301
+
+# Cannibalisation merge 2026-08-21. canyoning-and-abseiling-combos-in-australia was hit
+# from three directions by the new Adventure & Canyoning cluster. Checked on BOTH engines
+# before removing it (the rule added after Bing data saved two pages from deletion):
+#   Google  76 impr / 0 clicks / pos 18.21 over 90d, rank 100 of 220
+#   Bing     2 impr / 0 clicks,                      rank 122 of 140
+# Weak on both, but "Submitted and indexed" in GSC, so it earns a 301 not a silent delete.
+# All 3 of its GetYourGuide links already live on the absorbing posts, so no revenue moves.
+/canyoning-and-abseiling-combos-in-australia /adventure-activities-canyoning-in-australia-the-complete-guide/ 301
+/canyoning-and-abseiling-combos-in-australia/ /adventure-activities-canyoning-in-australia-the-complete-guide/ 301

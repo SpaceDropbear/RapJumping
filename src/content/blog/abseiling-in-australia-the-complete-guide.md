@@ -59,7 +59,7 @@ It is an Australian invention. Macka MacKail pioneered the forward-facing techni
 
 Abseiling is a skill before it is a sport, which is why it turns up inside other activities. Canyoning uses abseils to get down waterfalls and into slot canyons, and in Australia it is the most common way people end up on a rope. Caving uses the same systems underground. Industrial rope access uses them on buildings and infrastructure.
 
-If the appeal is the setting rather than the cliff, canyoning is usually the better first booking, and our guide to [canyoning and abseiling combinations in Australia](/canyoning-and-abseiling-combos-in-australia/) explains how the two fit together.
+If the appeal is the setting rather than the cliff, canyoning is usually the better first booking, and our guide to [canyoning and abseiling combinations in Australia](/adventure-activities-canyoning-in-australia-the-complete-guide/) explains how the two fit together.
 
 ## Where to abseil in Australia
 
@@ -197,7 +197,7 @@ If you enjoy it, the sensible progression is a beginners' course rather than buy
 
 **If you want more than a cliff.**
 
-- [Canyoning and Abseiling Combos in Australia](/canyoning-and-abseiling-combos-in-australia/) - where the two overlap, and why canyoning is often the better first booking.
+- [Canyoning and Abseiling Combos in Australia](/adventure-activities-canyoning-in-australia-the-complete-guide/) - where the two overlap, and why canyoning is often the better first booking.
 - [Rap Jumping: Forward Abseiling in Australia](/rap-jumping-forward-abseiling-experiences-in-australia/) - the Australian forward-facing variant and its history.
 - [Becoming an Abseiling Guide in Australia](/becoming-an-abseiling-guide-in-australia/) - if you want to make a career of it.
 

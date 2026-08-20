@@ -173,7 +173,7 @@ If you're looking to cover more ground in a single descent, [multi pitch rappell
 
 ### Tandem abseil and canyoning techniques
 
-Have you ever wanted to descend alongside a partner? [Tandem abseil](/tandem-abseils-rappelling-with-a-partner/) lets two people share the same belay device. It's often used in rescue scenarios or when guiding a less experienced climber. Meanwhile, [canyoning abseiling](/canyoning-and-abseiling-combos-in-australia/) involves descending wet or slippery terrain-sometimes next to waterfalls-so you'll need to adapt your friction settings and wear suitable waterproof gear.
+Have you ever wanted to descend alongside a partner? [Tandem abseil](/tandem-abseils-rappelling-with-a-partner/) lets two people share the same belay device. It's often used in rescue scenarios or when guiding a less experienced climber. Meanwhile, [canyoning abseiling](/adventure-activities-canyoning-in-australia-the-complete-guide/) involves descending wet or slippery terrain-sometimes next to waterfalls-so you'll need to adapt your friction settings and wear suitable waterproof gear.
 
 ### Home practice and backyard setups
 
