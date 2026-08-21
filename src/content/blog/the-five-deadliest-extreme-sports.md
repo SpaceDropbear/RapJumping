@@ -16,7 +16,7 @@ readingTime: 2
 - BASE jumping carries roughly one fatality per 60 jumps, with 28 recorded deaths in 2023 - the highest since 2018 - and 118 deaths at Lauterbrunnen, Switzerland since 1994.
 - Free soloing is estimated at one death per 1,000 climbers annually, while big-wave surfers suffer about one death per 12,000 waves.
 - Bull riding logs 28-48 injuries per 1,000 rides - double other rodeo events - and creeking registers around one fatality per 2,500 paddlers per year.
-- For a controlled adrenaline experience instead, Rap Jumping offers all the thrills with none of the documented body count.
+- For a controlled adrenaline experience instead, rap jumping delivers all the thrills with none of the documented body count.
 
 ---
 

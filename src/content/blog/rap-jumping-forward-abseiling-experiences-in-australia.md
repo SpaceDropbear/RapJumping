@@ -104,7 +104,7 @@ Worth being straight about the gap: the Melbourne and Gold Coast urban rap jumpi
 
 ## Plan group adventures
 
-Ready to host a team-building day that no one will forget? Rap jumping offers a literal leap of faith that brings people closer together. Picture cheering on your co-workers or classmates as they inch toward the ledge, finally pluck up courage, and leap forward. That shared surge of accomplishment can do more to build group morale than a dozen icebreakers in a conference room.
+A team-building day built around rap jumping delivers a literal leap of faith that brings people closer together. Picture cheering on your co-workers or classmates as they inch toward the ledge, finally pluck up courage, and leap forward. That shared surge of accomplishment can do more to build group morale than a dozen icebreakers in a conference room.
 
 Families celebrating birthdays or milestone events often find rap jumping is a big hit for teens and adults who crave excitement. Schools sometimes incorporate forward abseiling into school camps or outdoor programs, giving students a chance to work through their fears in a safe environment. Couples can opt for an unforgettable date-there's nothing like stepping side by side off a ledge to bond over an adrenaline buzz. Want to really stand out when searching for a gift? Surprise your mate with a rap jumping voucher. It's the kind of present that friends and relatives will talk about for months.
 

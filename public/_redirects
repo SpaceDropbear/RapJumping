@@ -54,3 +54,58 @@
 # All 3 of its GetYourGuide links already live on the absorbing posts, so no revenue moves.
 /canyoning-and-abseiling-combos-in-australia /adventure-activities-canyoning-in-australia-the-complete-guide/ 301
 /canyoning-and-abseiling-combos-in-australia/ /adventure-activities-canyoning-in-australia-the-complete-guide/ 301
+
+# Legacy Ghost/WordPress-era URLs, mapped 2026-08-21. Vikunja #1004.
+# 19 of 20 of these were taking THREE redirect hops (http -> https -> www -> trailing
+# slash) and then 404ing. They are trading-era URLs, the kind that carry inbound links,
+# so every one was burning three requests and returning nothing. Two had live content
+# sitting right there. Targets were all verified 200 before this block was written.
+#
+# Exact content matches - the page exists, only the old slug was dead:
+/five-deadliest-extreme-sports /the-five-deadliest-extreme-sports/ 301
+/five-deadliest-extreme-sports/ /the-five-deadliest-extreme-sports/ 301
+/down-the-line-of-duty-helicopter-rappelling-in-australia /down-the-line-of-duty-helicopter-rappelling-in-australia-and-beyond/ 301
+/down-the-line-of-duty-helicopter-rappelling-in-australia/ /down-the-line-of-duty-helicopter-rappelling-in-australia-and-beyond/ 301
+#
+# Functional equivalents:
+/feed /rss.xml 301
+/feed/ /rss.xml 301
+/sitemap /sitemap-index.xml 301
+/sitemap/ /sitemap-index.xml 301
+/geo-sitemap.xml /sitemap-index.xml 301
+#
+# The three old "conquer your fear" posts all map to the one surviving article on the topic:
+/discover-face-fears /abseiling-psychology-overcoming-fear-of-heights-rappelling-confidence/ 301
+/discover-face-fears/ /abseiling-psychology-overcoming-fear-of-heights-rappelling-confidence/ 301
+/escape-comfort-zone /abseiling-psychology-overcoming-fear-of-heights-rappelling-confidence/ 301
+/escape-comfort-zone/ /abseiling-psychology-overcoming-fear-of-heights-rappelling-confidence/ 301
+/face-thought-monsters-break-fears /abseiling-psychology-overcoming-fear-of-heights-rappelling-confidence/ 301
+/face-thought-monsters-break-fears/ /abseiling-psychology-overcoming-fear-of-heights-rappelling-confidence/ 301
+#
+# Old group/corporate booking pages. NOTE: these deliberately do NOT go anywhere that
+# implies this site takes bookings - it ceased trading 31 Mar 2020. They point at the
+# group content and the third-party tour listing instead.
+/bucks-and-hens /group-and-couples-abseiling-adventures/ 301
+/bucks-and-hens/ /group-and-couples-abseiling-adventures/ 301
+/everything-you-need-to-know-to-plan-the-perfect-office-holiday-party /group-and-couples-abseiling-adventures/ 301
+/everything-you-need-to-know-to-plan-the-perfect-office-holiday-party/ /group-and-couples-abseiling-adventures/ 301
+/book-now /best-abseiling-tours-and-experiences-in-australia/ 301
+/book-now/ /best-abseiling-tours-and-experiences-in-australia/ 301
+/book-now/ultimate-experience /best-abseiling-tours-and-experiences-in-australia/ 301
+/book-now/ultimate-experience/ /best-abseiling-tours-and-experiences-in-australia/ 301
+#
+# Old business pages:
+/courses /becoming-an-abseiling-guide-in-australia/ 301
+/courses/ /becoming-an-abseiling-guide-in-australia/ 301
+/faq /abseiling-in-australia-the-complete-guide/ 301
+/faq/ /abseiling-in-australia-the-complete-guide/ 301
+/faqs /abseiling-in-australia-the-complete-guide/ 301
+/faqs/ /abseiling-in-australia-the-complete-guide/ 301
+/contact-us /about/ 301
+/contact-us/ /about/ 301
+/become-a-distributor /about/ 301
+/become-a-distributor/ /about/ 301
+/category/uncategorized /blog/ 301
+/category/uncategorized/ /blog/ 301
+/5-ways-to-break-through-the-tourist-bubble /blog/ 301
+/5-ways-to-break-through-the-tourist-bubble/ /blog/ 301

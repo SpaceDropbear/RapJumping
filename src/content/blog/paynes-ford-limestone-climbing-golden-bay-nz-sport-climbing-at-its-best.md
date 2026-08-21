@@ -35,7 +35,7 @@ faq:
 
 If you've spent any time around New Zealand's climbing community, you've heard the name Paynes Ford. Tucked into a pocket of native bush just south of Tākaka in Golden Bay, this line of limestone bluffs has been pulling climbers to the top of the South Island for decades, and for good reason. It's not an alpine objective or a multi-day mission; it's a proper sport climbing destination, with bolted routes, a swimming hole across the road, and a laid-back Golden Bay pace that makes it easy to stay a lot longer than you planned.
 
-Here at [Rap Jumping](/), our guides cover the rope side of vertical terrain, abseiling, rappelling and the rope skills that translate straight into confident, safety-first climbing. Paynes Ford is a great example of why those skills matter: it's a crag where good rope management, a solid belay and genuine respect for the exposure make all the difference. This guide covers the rock, the access, who it suits, and how to plan a visit that does right by the place and the people who look after it.
+Our coverage at [Rap Jumping](/) focuses on the rope side of vertical terrain: abseiling, rappelling and the rope skills that translate straight into confident, safety-first climbing. Paynes Ford is a great example of why those skills matter: it's a crag where good rope management, a solid belay and genuine respect for the exposure make all the difference. This guide covers the rock, the access, who it suits, and how to plan a visit that does right by the place and the people who look after it.
 
 ## The crag: rock, style and character
 
