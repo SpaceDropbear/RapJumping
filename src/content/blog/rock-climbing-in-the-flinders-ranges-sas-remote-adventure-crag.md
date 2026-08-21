@@ -1,14 +1,16 @@
 ---
-title: "Rock Climbing in the Flinders Ranges: SA's Remote Adventure Crag"
-description: "Planning climbing in the Flinders Ranges? Remote-travel practicalities, best season, permits and camping for Ikara-Flinders Ranges National Park."
+title: "Rock Climbing in the Flinders Ranges: Moonarie, Warren Gorge & Arkaroola"
+description: "Rock climbing across the Flinders Ranges: Moonarie on Wilpena Pound, council-run Warren Gorge near Quorn, and privately owned Arkaroola. Access, seasons and remote-travel planning."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/rock-climbing-in-the-flinders-ranges-sas-remote-adventure-crag.webp"
 heroAlt: "Ancient red ranges under hard light, a climber barely visible on a distant wall"
 draft: false
 tags: ["rock climbing", "south australia"]
 featured: false
-readingTime: 9
+readingTime: 11
 faq:
+  - question: "Is Moonarie the only rock climbing in the Flinders Ranges?"
+    answer: "No. Moonarie is the best known and most serious crag, but the region also includes Warren Gorge near Quorn, which is managed by the Flinders Ranges Council and is far easier to reach, and Arkaroola in the northern Flinders, which is a privately owned wilderness sanctuary. Climbing databases list further areas including Devil's Peak, Buckaringa, Mount Eyre, Rawnsley Bluff and Partacoona. Check who manages a crag before planning a trip, because tenure across the Flinders varies."
   - question: "What is the main climbing destination in the Flinders Ranges?"
     answer: "Moonarie, on the rim of Wilpena Pound (Ikara) within Ikara-Flinders Ranges National Park, is the region's flagship trad climbing destination. This article covers the broader regional planning picture; see our dedicated Moonarie guide for crag-specific detail."
   - question: "Is mobile phone reception reliable in the Flinders Ranges?"
@@ -25,7 +27,9 @@ faq:
 
 ## TL;DR
 
-- **The Flinders Ranges is South Australia's premier remote adventure-climbing region**, anchored by Moonarie on the rim of Wilpena Pound within Ikara-Flinders Ranges National Park: this guide covers the broader planning picture, with Moonarie's climbing-specific detail covered in its own dedicated article.
+- **The Flinders Ranges is South Australia's premier remote adventure-climbing region**, and it is more than one crag: Moonarie on the rim of Wilpena Pound is the flagship, but Warren Gorge near Quorn and the privately owned Arkaroola sanctuary sit under entirely different land managers: this guide covers the broader planning picture, with Moonarie's climbing-specific detail covered in its own dedicated article.
+
+- **Three different land-management regimes cover the region's climbing**: NPWS SA for the national park, the Flinders Ranges Council for Warren Gorge, and a private owner at Arkaroola. Who you ask about access depends entirely on which crag you mean.
 
 - **This is remote, arid national park country.** Self-sufficiency matters: carry more water and fuel than you think you need, and understand that mobile phone reception is limited and unreliable across much of the region.
 
@@ -46,6 +50,16 @@ This guide is the higher-level, planning-focused companion to our dedicated Moon
 The Flinders Ranges, and Ikara-Flinders Ranges National Park in particular, is widely regarded as South Australia's premier remote adventure-climbing region. Its flagship destination is Moonarie, a trad crag on the rim of Wilpena Pound (Ikara), roughly five hours' drive north of Adelaide. We have covered Moonarie's climbing style, camping and crag-specific detail in depth in its own guide (see [Moonarie: South Australia's Premier Wilderness Climbing Destination](/moonarie-south-australias-premier-wilderness-climbing-destination/)), so this article deliberately stays at the regional planning level rather than repeating that detail.
 
 What makes the Flinders Ranges distinctive as a climbing region is less about any single wall and more about the character of the country itself: vast distances, dramatic geology, genuine remoteness, and a landscape that rewards climbers and hikers alike who come prepared for arid, self-sufficient travel. The region is managed by National Parks and Wildlife Service South Australia (NPWS SA), which oversees both the climbing zones and the broader visitor infrastructure across the park.
+
+## Beyond Moonarie: the region's other climbing areas
+
+Moonarie's reputation makes it easy to assume it is the only climbing in the Flinders Ranges. It is not. The region holds several distinct areas, and the useful planning point is that they sit under three different land-management regimes, each with its own rules and its own people to ask.
+
+**Warren Gorge, near Quorn, is the most accessible.** It lies about 21km north of Quorn on the sealed Arden Vale Road, and South Australian tourism material describes it as offering some of the best rock climbing in the Flinders Ranges. It is managed by the Flinders Ranges Council rather than NPWS SA, so its fees and registration sit outside any national park pass. Day visitors pay around $5 per vehicle and camping is around $15 per vehicle per night, with self-registration at the gorge entrance or at the Flinders Ranges Visitor Information Centre in the Quorn Railway Station. There are bush camping sites with fire pits and pit toilets, a 5.2km loop walking trail, and yellow-footed rock wallabies that are most active at dawn and dusk. Confirm current fees before you travel, because council charges change.
+
+**Arkaroola, in the northern Flinders, is privately owned.** The Arkaroola Wilderness Sanctuary covers roughly 610 square kilometres of granite peaks and gorges, about 670km north of Adelaide and 130km east of Leigh Creek. Because it is private land rather than national park, access for climbing is the sanctuary's decision and not NPWS SA's. Climbing community guidance for the area is that there are no permanent bolts and that parties leave the rock as they found it. Contact the sanctuary directly before you plan a climbing trip there.
+
+**Other areas appear in climbing databases**, among them Devil's Peak, Buckaringa, Mount Eyre, Rawnsley Bluff and Partacoona. Land tenure across the Flinders is a patchwork of national park, council reserve, pastoral lease and private station, so establish who manages a given crag before you plan around it. That single habit is the most useful one you can bring to climbing in this region.
 
 ## Remote-travel practicalities: water, fuel and reception
 
@@ -92,6 +106,10 @@ If you are new to climbing generally, the Flinders Ranges is not the place to st
 Finally, respect the remoteness and the landscape: pack out everything you bring in, follow any fire restrictions in force (open fires are strictly prohibited at Moonarie's Top Camp, for example), and plan your trip with genuine self-sufficiency rather than assuming help is close by.
 
 ## Frequently asked questions
+
+### Is Moonarie the only rock climbing in the Flinders Ranges?
+
+No. Moonarie is the best known and most serious crag, but the region also includes Warren Gorge near Quorn, which is managed by the Flinders Ranges Council and is far easier to reach, and Arkaroola in the northern Flinders, which is a privately owned wilderness sanctuary. Climbing databases list further areas including Devil's Peak, Buckaringa, Mount Eyre, Rawnsley Bluff and Partacoona. Check who manages a crag before planning a trip, because tenure across the Flinders varies.
 
 ### What is the main climbing destination in the Flinders Ranges?
 

@@ -85,7 +85,7 @@ This hub sits above nine in-depth guides covering the specific crags and regions
 | [Moonarie: South Australia's Premier Wilderness Climbing Destination](/moonarie-south-australias-premier-wilderness-climbing-destination/) | Trad climbing on the rim of Wilpena Pound, Ikara-Flinders Ranges | South Australia |
 | [Onkaparinga Gorge & Adelaide Climbing: SA's Urban Crags](/onkaparinga-gorge-adelaide-climbing-sas-urban-crags/) | Gorge top-rope and lead climbing 35km from Adelaide | South Australia |
 | [Morialta Gorge Climbing: Adelaide's Hidden Trad Gem](/morialta-gorge-climbing-adelaides-hidden-trad-gem/) | Historic quartzite crag minutes from the Adelaide CBD | South Australia |
-| [Rock Climbing in the Flinders Ranges: SA's Remote Adventure Crag](/rock-climbing-in-the-flinders-ranges-sas-remote-adventure-crag/) | Regional planning guide for remote, arid-zone climbing trips | South Australia |
+| [Rock Climbing in the Flinders Ranges: Moonarie, Warren Gorge & Arkaroola](/rock-climbing-in-the-flinders-ranges-sas-remote-adventure-crag/) | Regional planning guide for remote, arid-zone climbing trips | South Australia |
 
 For the national picture (grading systems, gear standards and general safety fundamentals that apply everywhere in this series), see [Rock Climbing in Australia: The Complete Guide](/rock-climbing-in-australia-the-complete-guide/).
 
