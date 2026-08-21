@@ -7,7 +7,7 @@ heroAlt: "A climber small on a wide sandstone wall, dry eucalypt ranges stretchi
 draft: false
 tags: ["rock climbing", "victoria", "south australia"]
 featured: false
-readingTime: 11
+readingTime: 12
 faq:
   - question: "Is there a permit needed to climb in the Grampians (Gariwerd)?"
     answer: "Not yet. A free, online climbing permit is in development and will become mandatory once launched, but as of this guide's last update it is not yet live. Parks Victoria's own FAQ material describes the rollout as something that could take up to a year. The current interim rule is to climb only within designated climbing areas."
@@ -51,11 +51,13 @@ Closer to Melbourne, Werribee Gorge State Park and the You Yangs Regional Park g
 
 One Victorian landmark deliberately isn't a climbing destination, despite how often it's searched for one: Hanging Rock, in the Macedon Ranges, is a protected geological and cultural heritage site with a managed summit walking trail, not a designated crag. Our [Hanging Rock guide](/can-you-rock-climb-at-hanging-rock-the-real-answer-alternatives/) sets the record straight and points you to the genuine nearby alternatives.
 
-## South Australia: two Adelaide gorges and a wilderness stronghold
+## South Australia: two Adelaide gorges, a wilderness stronghold and the Flinders beyond
 
-South Australia's climbing scene centres on Adelaide's two accessible gorge crags, plus one remote destination that's earned a reputation as the state's premier trad venue. Morialta Conservation Park, around 10-12km from the Adelaide CBD, is one of the oldest recreational climbing areas in the state: quartzite rock, free entry, and heavy-duty top-anchor rings fitted at the top of most routes. Onkaparinga River National Park, about 35km south of the city, offers gorge cliffs up to roughly 30m with large permanent rock pools at their base, popular for both guided beginner sessions and independent top-rope and lead climbing. Our [Morialta guide](/morialta-gorge-climbing-adelaides-hidden-trad-gem/) and [Onkaparinga guide](/onkaparinga-gorge-adelaide-climbing-sas-urban-crags/) cover access, crag layout and safety for each.
+South Australia's climbing runs from two accessible gorge crags on Adelaide's doorstep to remote walls in the Flinders Ranges, and the land manager changes as you go. Morialta Conservation Park, around 10-12km from the Adelaide CBD, is one of the oldest recreational climbing areas in the state: quartzite rock, free entry, and heavy-duty top-anchor rings fitted at the top of most routes. Onkaparinga River National Park, about 35km south of the city, offers gorge cliffs up to roughly 30m with large permanent rock pools at their base, popular for both guided beginner sessions and independent top-rope and lead climbing. Our [Morialta guide](/morialta-gorge-climbing-adelaides-hidden-trad-gem/) and [Onkaparinga guide](/onkaparinga-gorge-adelaide-climbing-sas-urban-crags/) cover access, crag layout and safety for each.
 
 For a genuinely different kind of trip, Moonarie sits on the rim of Wilpena Pound (Ikara) within Ikara-Flinders Ranges National Park, roughly five hours' drive north of Adelaide, and is widely regarded as South Australia's premier trad climbing destination. It's a serious step up in remoteness and self-sufficiency from the Adelaide gorges, and it anchors a broader regional picture of Flinders Ranges climbing that's worth planning separately. See our [Moonarie guide](/moonarie-south-australias-premier-wilderness-climbing-destination/) for the crag-specific detail and our [Flinders Ranges guide](/rock-climbing-in-the-flinders-ranges-sas-remote-adventure-crag/) for the wider regional planning picture: season, camping, fuel and reception.
+
+Moonarie is not the only climbing in the Flinders, and the practical catch is that the region's crags sit under different land managers. Warren Gorge, about 21km north of Quorn on the sealed Arden Vale Road, is run by the Flinders Ranges Council rather than NPWS SA, so its modest day-use and camping fees sit outside any national park pass. Arkaroola, in the northern Flinders, is a privately owned wilderness sanctuary, which makes climbing access its owner's decision rather than a parks matter. Establish who manages a crag before you plan around it.
 
 ## Access, permits and cultural heritage: what's actually in force right now
 

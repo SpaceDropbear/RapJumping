@@ -7,7 +7,7 @@ heroAlt: "Climber hanging from an overhanging boulder outdoors while a spotter w
 draft: false
 tags: ["rock climbing", "australia"]
 featured: false
-readingTime: 12
+readingTime: 18
 faq:
   - question: "Is rock climbing safe for complete beginners?"
     answer: "Yes, when you learn the right way. Indoor gyms and guided outdoor sessions are designed for first-timers, with certified equipment, supervision and top-rope setups that keep falls short and controlled. Risk rises when people climb unsupervised before they have mastered belaying, anchors and descent."
@@ -122,7 +122,7 @@ Victoria holds two of the most storied climbing areas in the country. [Mt Arapil
 
 ### South Australia
 
-South Australia's climbing runs from urban gorges twenty minutes from the Adelaide CBD out to genuinely remote wilderness walls. [Morialta](/morialta-gorge-climbing-adelaides-hidden-trad-gem/) and [Onkaparinga Gorge](/onkaparinga-gorge-adelaide-climbing-sas-urban-crags/) are the state's two accessible city crags, both quartzite and both free to climb. Further north, [Moonarie](/moonarie-south-australias-premier-wilderness-climbing-destination/) on the rim of Wilpena Pound is the crag South Australian climbers measure themselves against, and it sits inside the wider [Flinders Ranges](/rock-climbing-in-the-flinders-ranges-sas-remote-adventure-crag/) adventure-climbing region. Our [Victoria and South Australia climbing guide](/rock-climbing-in-victoria-south-australia-the-complete-guide/) covers access, seasons and logistics across both states.
+South Australia's climbing runs from urban gorges twenty minutes from the Adelaide CBD out to genuinely remote wilderness walls. [Morialta](/morialta-gorge-climbing-adelaides-hidden-trad-gem/) and [Onkaparinga Gorge](/onkaparinga-gorge-adelaide-climbing-sas-urban-crags/) are the state's two accessible city crags, both quartzite and both free to climb. Further north, [Moonarie](/moonarie-south-australias-premier-wilderness-climbing-destination/) on the rim of Wilpena Pound is the crag South Australian climbers measure themselves against, and it sits inside the wider [Flinders Ranges](/rock-climbing-in-the-flinders-ranges-sas-remote-adventure-crag/) adventure-climbing region. That region also holds far more accessible rock: Warren Gorge, north of Quorn, is council-managed and reachable on a sealed road, and the privately owned Arkaroola sanctuary sits further north again. Our [Victoria and South Australia climbing guide](/rock-climbing-in-victoria-south-australia-the-complete-guide/) covers access, seasons and logistics across both states.
 
 ### New South Wales
 
