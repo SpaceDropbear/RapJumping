@@ -10,7 +10,7 @@ featured: false
 readingTime: 10
 faq:
   - question: "What fabrics are best for abseiling clothing?"
-    answer: "Merino wool and synthetic blends-they wick moisture, regulate temperature, and dry quickly."
+    answer: "Merino wool and synthetic blends: they wick moisture, regulate temperature, and dry quickly."
   - question: "Can I wear shorts for abseiling?"
     answer: "Yes, in warm weather, but protect your knees with pads or sleeves to avoid scrapes."
   - question: "Why is layering important in abseiling?"
@@ -189,7 +189,7 @@ Below is a short summary of gear categories you’ll likely need. While not exha
 ### FAQs
 
 **Q: What fabrics are best for abseiling clothing?**  
-A: Merino wool and synthetic blends-they wick moisture, regulate temperature, and dry quickly.
+A: Merino wool and synthetic blends: they wick moisture, regulate temperature, and dry quickly.
 
 **Q: Can I wear shorts for abseiling?**  
 A: Yes, in warm weather, but protect your knees with pads or sleeves to avoid scrapes.

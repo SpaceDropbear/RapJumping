@@ -32,7 +32,7 @@ But for former SAS soldier Macka MacKail, it's a passion.
 
 **Macka:**  
 We've got the permits, and we've been operating for about 21 years.  
-We started at the Pacific Hotel-and my last gig in Cairns, back in 2000, was at the Rydges Plaza here.
+We started at the Pacific Hotel, and my last gig in Cairns, back in 2000, was at the Rydges Plaza here.
 
 **Matthew:**  
 Now in his late 50s, Macka has returned to the town where he pioneered the extreme sport of Rap Jumping, revisiting the places he trekked decades ago.
@@ -44,7 +44,7 @@ Jumping all the different sites and showing people what Rap Jumping is-its origi
 Macka started by jumping off the city's first skyscrapers and natural wonders-including Barron Gorge, where he even has a cliff named after him.
 
 **Macka:**  
-This town-without a doubt, more than any other town in Australia-would be the capital of facing your fears:  
+This town, without a doubt, more than any other town in Australia, would be the capital of facing your fears:  
 Your bungee, your rafting, your diving… it just goes on and on and on.
 
 **Matthew:**  
@@ -52,7 +52,7 @@ Now operating out of Melbourne, Macka takes up to seventy people a day off the s
 And with far north Queensland being the home of adventure, he wants to make Rap Jumping a permanent fixture in the region.
 
 **Macka:**  
-I love Queensland-it's my hometown.  
+I love Queensland: it's my hometown.  
 I'm an old Yorkeys Knob boy, as they say, which is a good change here.  
 We'll wait for that casino to go up and see if we can get a permit out there.
 

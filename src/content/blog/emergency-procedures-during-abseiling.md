@@ -38,7 +38,7 @@ These issues commonly catch people off-guard, especially if they're rushing or u
 
 ### Why quick action matters
 
-Emergencies unfurl fast when you're hanging on a rope. Reacting promptly can prevent further harm or even a fatal fall. Small measures-like using a personal locator beacon (PLB), actively supervising each other, and staying calm-can make a world of difference. Statistics show that falls remain the leading cause of severe injuries in outdoor climbing settings, and abseiling is no exception. Swift intervention stops a minor mistake from spiralling into tragedy.
+Emergencies unfurl fast when you're hanging on a rope. Reacting promptly can prevent further harm or even a fatal fall. Small measures, like using a personal locator beacon (PLB), actively supervising each other, and staying calm, can make a world of difference. Statistics show that falls remain the leading cause of severe injuries in outdoor climbing settings, and abseiling is no exception. Swift intervention stops a minor mistake from spiralling into tragedy.
 
 ## Prepare for the worst to avoid it
 
@@ -95,7 +95,7 @@ A relaxed, upright position reduces the chance of your feet slipping or tangling
 
 ## Emergency abseil methods
 
-Sometimes your friction device or harness isn't available-maybe you lost gear in a fall, or you need to get down quickly to assist someone else. In these extremely rare situations, rope-only abseiling methods can come into play. They're not your everyday approach, but you need to know them in case of an abseiling emergency.
+Sometimes your friction device or harness isn't available, maybe you lost gear in a fall, or you need to get down quickly to assist someone else. In these extremely rare situations, rope-only abseiling methods can come into play. They're not your everyday approach, but you need to know them in case of an abseiling emergency.
 
 ### The Classic Abseil
 
@@ -140,7 +140,7 @@ Time is everything. In the worst cases, we know from climbing data that around 4
 
 ## Preventing injuries while descending
 
-You might wonder whether injuries are simply part of the deal in abseiling. In truth, most serious accidents are preventable with careful technique and risk awareness. According to research, men make up nearly 79% of climbing accidents, but the main hazards-like ignoring helmet use or climbing unroped-apply to everyone.
+You might wonder whether injuries are simply part of the deal in abseiling. In truth, most serious accidents are preventable with careful technique and risk awareness. According to research, men make up nearly 79% of climbing accidents, but the main hazards, like ignoring helmet use or climbing unroped: apply to everyone.
 
 ### Common injury patterns
 

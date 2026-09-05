@@ -61,7 +61,7 @@ Each of these small choices adds up to reduced impact on the ecosystem. The Nati
 
 ## Check legal and safety standards
 
-It's not enough to simply show up at a cliff and start descending. Many places have specific guidelines or regulations. These aren't in place just to make your life complicated-they exist to preserve delicate habitats, ensure climbers' and rappellers' safety, and maintain a positive experience for everyone.
+It's not enough to simply show up at a cliff and start descending. Many places have specific guidelines or regulations. These aren't in place just to make your life complicated: they exist to preserve delicate habitats, ensure climbers' and rappellers' safety, and maintain a positive experience for everyone.
 
 Common rules include whether a permit is needed, what gear you're allowed to use, and how many people can rappel together to avoid overcrowding. Some parks even limit the times of year you can go, especially if there's nesting wildlife or seasonal conditions that affect rock stability. Before heading out, always confirm:
 
@@ -89,7 +89,7 @@ If you want to ensure top-quality protection, check for gear that meets standard
 
 ### Maintain rope condition
 
-Friction from rope movement is one of the biggest sources of environmental wear-and rope wear too. When you rappel, ropes slide against rock edges, which can dislodge small pieces of stone, especially if you pull too aggressively. To minimise rope damage (and the rock's), inspect everything thoroughly:
+Friction from rope movement is one of the biggest sources of environmental wear, and rope wear too. When you rappel, ropes slide against rock edges, which can dislodge small pieces of stone, especially if you pull too aggressively. To minimise rope damage (and the rock's), inspect everything thoroughly:
 
 - Check the rope for cuts, frays, or discoloration before each trip.
 - Opt for ropes with a durable sheath designed for rugged terrain.
@@ -192,7 +192,7 @@ A. Join clean-ups, tree planting, or advocacy groups, and mentor others on eco-f
 
 ## Wrap-up and next steps
 
-By now, you've seen that environmental rappelling is more than just hooking a rope and leaning off a ledge. It's an ongoing practice of planning, caution, and reverence for the habitat beneath your feet. Every time you test an anchor, every piece of litter you pack away, every courtesy you show to nesting wildlife-these moments define your impact more than the number of routes you complete.
+By now, you've seen that environmental rappelling is more than just hooking a rope and leaning off a ledge. It's an ongoing practice of planning, caution, and reverence for the habitat beneath your feet. Every time you test an anchor, every piece of litter you pack away, every courtesy you show to nesting wildlife: these moments define your impact more than the number of routes you complete.
 
 If there's one big takeaway here, it might be this: your careful stewardship ensures tomorrow's climbers can experience these same awe-inspiring canyons, cliffs, and forested walls. To keep building your safety knowledge, check out abseiling safety standards for even more in-depth insights on anchor systems, knot tying, and gear maintenance. Then, the next time you uncoil your rope, you'll be fully equipped to protect both yourself and the fragile realm you're about to explore.
 

@@ -53,6 +53,8 @@ This matters because hardware sold for "general use", in hardware shops, camping
 
 The numbers stamped on the spine are in **kilonewtons (kN)**, a unit of *force*. One kilonewton is about 102 kilograms of static force, so a carabiner rated 20 kN can hold roughly **two tonnes** hanging still before it breaks. That sounds like overkill until you realise climbing falls are dynamic, not static: the energy of a falling body multiplies the force briefly. Even so, the UIAA notes that a real climbing fall, caught on a stretchy dynamic rope, produces a peak force of only around **5 kN** on the climber, and the force on the top piece of protection is very unlikely to exceed about **10 kN**. The generous margin between those numbers and a 20 kN+ carabiner is exactly the point.
 
+For the abseiling side of the same arithmetic, including a kilograms to kilonewtons conversion table, see [the physics of abseiling](/the-physics-of-abseiling-friction-and-force/).
+
 There is an important caveat the UIAA is blunt about. The big safety margin only exists when there is a dynamic rope in the system to absorb energy. If a climber is connected to an anchor by only slings, quickdraws and carabiners, with no rope stretch in the chain, a fall or shock load can generate forces in excess of **25 kN**, which is enough to break a carabiner even with the gate closed. That is why you adjust slings to remove slack at an anchor, and why you never clip into a fixed via-ferrata-style cable with just a sling and carabiner.
 
 ### The three numbers: major axis, minor axis, gate open

@@ -46,7 +46,7 @@ You're probably excited to step up your abseiling skills without leaving home. T
 
 ## Prepare your backyard
 
-Before you buckle into your harness, you want to make sure your backyard abseiling area is as safe as possible. Chances are, you have a few obstacles around you-trees, fences, sheds-that could influence your descent. Here's how to get it under control.
+Before you buckle into your harness, you want to make sure your backyard abseiling area is as safe as possible. Chances are, you have a few obstacles around you-trees, fences, sheds: that could influence your descent. Here's how to get it under control.
 
 1. Clear the ground space
    - Remove loose debris like branches, toys, and furniture.
@@ -294,6 +294,6 @@ A. Unrated/weak anchors, no knots in rope ends, and skipping a partner-style fin
 
 Home abseiling practice gives you the freedom to polish your technique at your own pace. You can experiment with different friction setups, fine-tune your stance, and manage unexpected rope scenarios. The key is remaining vigilant about safety, from your anchor integrity to your harness fit. Every small detail counts.
 
-If you're aiming to challenge yourself further, introduce minor variations-like using different ropes or practising advanced transitions. Just remember, stay patient, respect the limits of your gear, and keep that backup hitch within reach. Abseiling might look simple, but it's all about precision and caution.
+If you're aiming to challenge yourself further, introduce minor variations, like using different ropes or practising advanced transitions. Just remember, stay patient, respect the limits of your gear, and keep that backup hitch within reach. Abseiling might look simple, but it's all about precision and caution.
 
 So, are you ready for the next step? Take a day to set up your backyard abseil spot, gather your gear, and perform a few checks and descents. Each time you lean back on the rope, you'll feel your confidence grow. And when you return to the cliffs or the climbing gym, you'll bring sharper skills and a deeper awareness of what real control feels like on a rope. Enjoy your practice, and stay safe!

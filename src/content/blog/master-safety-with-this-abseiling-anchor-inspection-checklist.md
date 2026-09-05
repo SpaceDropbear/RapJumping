@@ -25,7 +25,7 @@ faq:
 
 ## TL;DR
 
-Before every abseil-whether you're a veteran or pushing into more advanced terrain-inspect your anchors thoroughly.
+Before every abseil, whether you're a veteran or pushing into more advanced terrain-inspect your anchors thoroughly.
 
 - **Why:** Anchors are your lifeline; one overlooked crack, loose bolt, or corroded fitting can turn a safe descent into a serious incident.
 - **What to Check:**

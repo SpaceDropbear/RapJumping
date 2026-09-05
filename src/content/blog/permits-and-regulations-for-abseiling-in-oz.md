@@ -37,7 +37,7 @@ faq:
 
 ## Understanding abseiling permits
 
-If you love abseiling-also called rappelling-you've probably pictured the exhilarating moment you lean back on your rope, ready to descend. But before you clip in, there's one piece of paper you may need: abseiling permits. These official documents confirm you're allowed to practice your rope skills in a specific area under set conditions. They're not just red tape, either. Permits help keep you, wildlife, and the surrounding environment safe.
+If you love abseiling, also called rappelling: you've probably pictured the exhilarating moment you lean back on your rope, ready to descend. But before you clip in, there's one piece of paper you may need: abseiling permits. These official documents confirm you're allowed to practice your rope skills in a specific area under set conditions. They're not just red tape, either. Permits help keep you, wildlife, and the surrounding environment safe.
 
 You'll often see abseiling permits mentioned side by side with rock climbing or general outdoor activity regulations. While these can sometimes feel like a hassle, think of them as a safety net. Local authorities enforce permit rules to ensure that the location's natural resources aren't damaged, that outdoor enthusiasts aren't taking reckless risks, and that everyone knows what to do if things go wrong. In some places, ignoring the paperwork can mean fines up to hundreds of dollars, or even a temporary ban from the parks you love to explore.
 
@@ -85,7 +85,7 @@ Once you know you need abseiling permits, how do you actually secure them? The p
 
 1. Check local authority websites. Search for city codes, national park guidelines, or the official tourism board notices. These sites often provide downloadable forms or direct you to an online application.
 2. Gather essential documents. Depending on the location, you may need to show proof of training, a waiver form for liability, or even a medical clearance. Some authorities demand a logbook of hours on rope if you're applying for advanced or supervisory-level permits.
-3. Pay any fees. You might have to pay a small application fee, a refundable environmental deposit, or a premium rate if it's a highly sought-after route. Fees range widely, from a few dollars up to thousands, depending on the location and the level of risk.
+3. Pay any fees. You might have to pay a small application fee, a refundable environmental deposit, or a premium rate if it's a highly sought, after route. Fees range widely, from a few dollars up to thousands, depending on the location and the level of risk.
 4. Confirm the validity period. Some permits are valid for a year, like January 1 through December 31, 2025, while others limit you to specific dates. Always check your permit's expiration date so you don't show up at the crag with an invalid pass.
 
 ### Common permit types
@@ -170,4 +170,4 @@ A. They limit environmental impact, manage visitor numbers, ensure safety standa
 
 Abseiling permits might sound like one more line item on your to-do list, but they serve a bigger purpose: ensuring you're prepared, responsible, and ready to adapt if things go sideways. Plus, the process is usually clearer than it looks at first glance. By checking local requirements, gathering the right documents, and brushing up on best practices, you'll stay safe, preserve your favourite abseiling spots, and avoid any annoying fines.
 
-Ready to take the next step? Start with a thorough gear check, review the guidelines for your chosen location, and submit that permit application as soon as you can. Be sure to keep honing your rope skills, too-there's a world of incredible descents out there, and each one is more fun when you know you're operating within the rules. Most importantly, stay curious, stay cautious, and enjoy the rush of abseiling with confidence. If you're hungry for more tips on equipment checks or emergency planning, have a look at our abseiling safety guide. Stay safe, and have fun out there!
+Ready to take the next step? Start with a thorough gear check, review the guidelines for your chosen location, and submit that permit application as soon as you can. Be sure to keep honing your rope skills, too: there's a world of incredible descents out there, and each one is more fun when you know you're operating within the rules. Most importantly, stay curious, stay cautious, and enjoy the rush of abseiling with confidence. If you're hungry for more tips on equipment checks or emergency planning, have a look at our abseiling safety guide. Stay safe, and have fun out there!

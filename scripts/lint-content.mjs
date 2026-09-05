@@ -23,6 +23,23 @@ const IS_CLI = fileURLToPath(import.meta.url) === (argv[1] ? fileURLToPath(new U
 
 const ROOT = 'src/content';
 
+// Compounds that legitimately chain a function word. Without these, `dash-hyphen` below
+// reports "before-and-after" as an artifact.
+const KEEP_COMPOUND =
+  /\b(?:either-or|give-and-take|before-and-after|trial-and-error|back-and-forth|wear-and-tear|out-and-back|cat-and-mouse|all-or-nothing)\b/gi;
+
+// Blank out spans a prose rule must never inspect: link targets and bare URLs (slugs are full
+// of "-and-"), inline code, image/alt frontmatter, and the KEEP_COMPOUND phrases. Rules opt in
+// via `pre`, so the existing character rules keep scanning the raw line.
+function stripInline(line) {
+  return line
+    .replace(/^\s*(?:heroImage|heroAlt|slug|image):.*$/, '')
+    .replace(/\]\([^)]*\)/g, ']( _)')
+    .replace(/https?:\/\/\S+/g, '_')
+    .replace(/`[^`]*`/g, '_')
+    .replace(KEEP_COMPOUND, '_');
+}
+
 // ERRORS fail the build. Only unambiguous invariants belong here - a gate that cries wolf
 // gets switched off, and then it protects nothing.
 const ERRORS = [
@@ -49,6 +66,25 @@ const ERRORS = [
     id: 'contact-cta',
     label: 'BOOKING CTA to /contact (the site takes no bookings)',
     rx: /\]\(\/contact\/?\)/g,
+  },
+  {
+    // A plain ASCII hyphen left standing where an em dash belonged. The July 2026 dash purges
+    // resolved ~1,400 dashes to commas, colons and full stops, but in 308 places the dash was
+    // swapped for a bare "-" with no spacing ("A built-in tarp is key-it keeps your rope dry").
+    // Neither rule above catches it: U+002D is legal everywhere, so it renders as an ordinary
+    // hyphen and no amount of reading the page flags it as anything but a typo.
+    //
+    // Detected by the RIGHT-hand word: a conjunction, pronoun or function word can never be
+    // the second half of an English compound. Two guards keep it from crying wolf:
+    //   - the LEFT word must not itself be a function word, or "before-and-after" trips on
+    //     "and-after" (it did, and the fix pass broke that phrase before this guard existed);
+    //   - KEEP_COMPOUND exempts the fixed phrases that legitimately chain function words.
+    // `like` is deliberately NOT in the list: "ropes-like nylon" is an artifact but
+    // "basket-like coil" is a real compound adjective, and nothing separates them by pattern.
+    id: 'dash-hyphen',
+    label: 'HYPHEN USED AS A DASH (e.g. "key-it keeps"; use a comma, colon or full stop)',
+    rx: /\b(?!(?:and|or|but|nor|yet|the|for|any|all|one|two|its|his|her|our|not|who)-)[A-Za-z][a-z]{2,}-(?:and|but|or|yet|so|because|while|although|perhaps|this|that|these|those|it|its|they|their|there|then|you|your|we|our|who|which|now|the|an|without|whether|before|after|until|unless|rather|instead|though|even|also|most|some|each|every|both|plus|maybe|can|will|would|should|could|often|always|never|sometimes|usually|simply|just|really)(?![-\w])/g,
+    pre: stripInline,
   },
 ];
 
@@ -218,10 +254,11 @@ for (const file of walk(ROOT)) {
       );
     }
     for (const c of ALL) {
+      const subject = c.pre ? c.pre(line) : line;
       c.rx.lastIndex = 0;
-      if (!c.rx.test(line)) continue;
+      if (!c.rx.test(subject)) continue;
       c.rx.lastIndex = 0;
-      const hit = (line.match(c.rx) || [])[0];
+      const hit = (subject.match(c.rx) || [])[0];
       found[c.id].push(
         `${file.replace(/\\/g, '/')}:${i + 1}  «${String(hit).trim()}»  ${line.trim().slice(0, 110)}`
       );
@@ -270,8 +307,8 @@ if (bad) {
   process.exit(1);
 }
 console.log(
-  `OK - ${files} content files: no dashes, no /contact CTA, no dead internal links, ` +
-    `no sentence >=60w, no safety-modal sentence >40w, no malformed tables.` +
+  `OK - ${files} content files: no dashes, no hyphens used as dashes, no /contact CTA, ` +
+    `no dead internal links, no sentence >=60w, no safety-modal sentence >40w, no malformed tables.` +
     (warned ? ` (${warned} non-blocking warning(s) above)` : '')
 );
 

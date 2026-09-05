@@ -98,4 +98,4 @@ It's normal for you or your kids to feel a few jitters on the edge of a cliff. B
 
 Ready to build more abseiling memories with your family? You can level up to waterfalls or step into multi-day guided tours once you've mastered the basics. Australia is brimming with options for those hungry to see impressive landscapes from fresh angles. With beginner-friendly setups, kid-sized gear, and knowledgeable guides, your family abseiling day can be both secure and inspiring.
 
-Abseiling is your ticket to shared thrills, personal growth, and the simple joy of trying something new together. So, gather your harnesses, pick a scenic spot, and let the adventure begin. You'll be surprised how a single rope can bring everyone closer-both literally and figuratively!
+Abseiling is your ticket to shared thrills, personal growth, and the simple joy of trying something new together. So, gather your harnesses, pick a scenic spot, and let the adventure begin. You'll be surprised how a single rope can bring everyone closer, both literally and figuratively!

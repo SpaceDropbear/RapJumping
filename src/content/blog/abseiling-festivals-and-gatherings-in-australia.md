@@ -12,7 +12,7 @@ faq:
   - question: "What is an abseiling festival?"
     answer: "It's a multi-day gathering focused on rope descents, skills workshops, and community connection, often with clinics, gear demos, and social events."
   - question: "Are abseiling festivals beginner-friendly?"
-    answer: "Yes-most events offer beginner clinics, gear support, and guidance from experienced climbers."
+    answer: "Yes, most events offer beginner clinics, gear support, and guidance from experienced climbers."
   - question: "Where can I find abseiling events in Australia?"
     answer: "Check local clubs, guiding companies, climbing forums, and the abseiling community online for upcoming festivals and meet-ups."
   - question: "What gear do I need for an abseiling event?"
@@ -136,7 +136,7 @@ Abseiling festivals often follow a conscientious approach to outdoor recreation.
 
 ### Volunteering and stewardship
 
-Many gatherings would not be possible without a supportive volunteer crew. Volunteering can involve helping with check-ins, guiding newcomers, or assisting with rope setups. You gain behind-the-scenes insights that can deepen your appreciation for event planning. Plus, volunteering is a wonderful gateway to meeting key players-experienced climbers, gear sponsors, or local guides-who can open doors in your personal outdoors journey.
+Many gatherings would not be possible without a supportive volunteer crew. Volunteering can involve helping with check-ins, guiding newcomers, or assisting with rope setups. You gain behind-the-scenes insights that can deepen your appreciation for event planning. Plus, volunteering is a wonderful gateway to meeting key players-experienced climbers, gear sponsors, or local guides: who can open doors in your personal outdoors journey.
 
 ## Plan for festival success
 
@@ -191,7 +191,7 @@ Sharing your perspective not only cements your own understanding, it also encour
 
 ## Expand your horizons
 
-Australia is packed with eye-catching abseiling destinations, and your festival experiences can open doors to even bigger adventures. Maybe you'll get an invite to a desert gorge in the Northern Territory, or a hidden coastal cliff in Western Australia that only a handful of people know about. The thrill you felt at your first festival might soon fuel an entire wish list of trips around the country-or, for the truly ambitious, overseas.
+Australia is packed with eye-catching abseiling destinations, and your festival experiences can open doors to even bigger adventures. Maybe you'll get an invite to a desert gorge in the Northern Territory, or a hidden coastal cliff in Western Australia that only a handful of people know about. The thrill you felt at your first festival might soon fuel an entire wish list of trips around the country, or, for the truly ambitious, overseas.
 
 Australia's community of passionate abseilers grows each year, forming a vibrant network that respects nature while pushing personal limits. Dive in wholeheartedly. It's a path filled with supportive folks eager to show you the ropes-quite literally. And who knows, the next time you join a big abseiling gathering, you might sign up to volunteer, lead a workshop, or even plan parts of the event. That's the beauty of this close-knit scene: it's shaped by enthusiastic people like you, always ready to lend a hand.
 
@@ -203,7 +203,7 @@ Australia's community of passionate abseilers grows each year, forming a vibrant
 A. It's a multi-day gathering focused on rope descents, skills workshops, and community connection, often with clinics, gear demos, and social events.
 
 **Q. Are abseiling festivals beginner-friendly?**  
-A. Yes-most events offer beginner clinics, gear support, and guidance from experienced climbers.
+A. Yes, most events offer beginner clinics, gear support, and guidance from experienced climbers.
 
 **Q. Where can I find abseiling events in Australia?**  
 A. Check local clubs, guiding companies, climbing forums, and the abseiling community online for upcoming festivals and meet-ups.

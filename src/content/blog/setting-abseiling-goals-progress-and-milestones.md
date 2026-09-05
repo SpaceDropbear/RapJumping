@@ -22,7 +22,7 @@ faq:
   - question: "How should I track progress?"
     answer: "Keep a log (route, height, device, weather, lessons); add 30-second clips of starts/edge transitions for form checks."
   - question: "When should I level up to multi-pitch, waterfalls, or thinner ropes?"
-    answer: "After 8-10 clean single-pitch descents with consistent brake-hand discipline, anchor competence, and controlled downslope resets-then progress under supervision."
+    answer: "After 8-10 clean single-pitch descents with consistent brake-hand discipline, anchor competence, and controlled downslope resets: then progress under supervision."
   - question: "What safety goals belong on my list?"
     answer: "“Zero unverified anchors,” “verbal partner checks every pitch,” “knot in rope ends,” and “pre-rigged contingency/haul where appropriate.”"
 ---
@@ -49,7 +49,7 @@ Before you pick up a rope or tighten your harness, it helps to get mentally read
 - Acknowledge the risks. About 25% of climbing deaths occur during abseiling, often due to failed anchors or inadequate precautions. By addressing these dangers up front, you'll plan your goals more thoughtfully.
 - Stay realistic. There's a difference between aiming high and setting impossible tasks. Make sure your goals reflect your experience level, resources, and schedule.
 
-When you're clear about both the rewards and the risks, you're more likely to set goals that you actually care about-and reach them too.
+When you're clear about both the rewards and the risks, you're more likely to set goals that you actually care about, and reach them too.
 
 ## Use the SMART framework
 
@@ -67,7 +67,7 @@ Edwin Locke's research in the 1960s found that setting specific, challenging goa
 
 Once you've settled on a SMART goal or two, check whether those goals truly resonate with you. This is where deeper motivation comes into play. If you're excited about improving your techniques or conquering a familiar route you once feared, you'll feel more inclined to follow through.
 
-- **Tie goals to your values**: Maybe you love connecting with nature or testing your boundaries. By aligning your objectives with what you care about-like preserving the environment or pushing your own limits-you create a more powerful drive.
+- **Tie goals to your values**: Maybe you love connecting with nature or testing your boundaries. By aligning your objectives with what you care about, like preserving the environment or pushing your own limits: you create a more powerful drive.
 - **Write them down**: Jotting down each goal in a journal or on an app increases your sense of commitment. Studies show that when you physically record your ambitions, you're more likely to accomplish them. Try starting each goal with “I will” for an extra motivational push.
 - **Aim for incremental growth**: If your bigger-picture dream is to become an expert rope technician, start by mastering smaller details like setting up your own anchor. These mini-milestones keep you energised and offer quick confidence boosts.
 
@@ -90,10 +90,10 @@ Tracking your improvements is a powerful way to stay motivated, spot weaknesses,
 
 - **Keep a log**: Jot down details like route difficulty, weather conditions, and how you felt during each abseil. This data helps you identify patterns and areas for improvement.
 - **Try digital tools**: Smartphone apps can be great for quick notes or performance metrics. A simple spreadsheet also works wonders if you prefer a customised approach.
-- **Take videos or pictures**: Watching yourself move can reveal habits you didn't know you had-like how your brake hand might drift when you get nervous. Visual feedback is valuable for refining your technique.
+- **Take videos or pictures**: Watching yourself move can reveal habits you didn't know you had, like how your brake hand might drift when you get nervous. Visual feedback is valuable for refining your technique.
 - **Celebrate small wins**: Maybe you tackled a slightly longer drop or overcame your hesitation to lean back on a tricky ledge. Acknowledging these milestones keeps morale high.
 
-It's not all about measuring times or distances. Sometimes, progress can show up in less obvious ways-like feeling more confident with rope management or staying calmer when you're halfway down a cliff.
+It's not all about measuring times or distances. Sometimes, progress can show up in less obvious ways, like feeling more confident with rope management or staying calmer when you're halfway down a cliff.
 
 ## Find a supportive community
 
@@ -113,7 +113,7 @@ Abseiling has its thrills, but it also comes with risks. The good news is that t
 - **Keep safety at the forefront**: The American Alpine Club's accident reports often attribute fatalities to overlooked protocols like inadequate rope length or failing to double-check anchors. Always inspect your gear, use reliable anchor points, and evaluate environmental conditions.
 - **Refine your rope skills**: Successful abseiling depends on controlling friction. If you're using smaller ropes (like 8mm instead of 11mm), practise in a safe environment first. Lighter ropes can amplify rope stretch and require extra technique to avoid jolts or slips.
 - **Manage your nerves**: Anxiety is common before you step off the edge. Deep breathing, visualisation, and focusing on process goals (like maintaining a steady brake hand) can help you regain composure.
-- **Vary your terrains**: Stepping out of your comfort zone-perhaps descending waterfalls or attempting multi-pitch routes-keeps you mentally sharp and helps you learn. Just be sure any new challenge is in line with your skill level.
+- **Vary your terrains**: Stepping out of your comfort zone, perhaps descending waterfalls or attempting multi-pitch routes-keeps you mentally sharp and helps you learn. Just be sure any new challenge is in line with your skill level.
 
 Staying motivated is easier when you position each session as part of a bigger picture. You're not just abseiling for the thrill right now; you're building towards a long-term, purposeful set of goals.
 
@@ -127,7 +127,7 @@ Below is a simple table showing how you can categorise your abseiling objectives
 | Performance | Targets beating your personal best | “Abseil a 50m cliff in under 2 min” |
 | Process | Centres on technique and controllable actions | “Use smoother friction control” |
 
-Each type has its upsides. Outcome goals can be very motivating, but they might trigger anxiety since factors beyond your control-like weather or competition-will influence the result. Performance goals are great for measurable improvements, though missing a benchmark might disappoint you. Process goals help you hone specific skills within your command, creating a solid base for both performance and outcome success.
+Each type has its upsides. Outcome goals can be very motivating, but they might trigger anxiety since factors beyond your control, like weather or competition, will influence the result. Performance goals are great for measurable improvements, though missing a benchmark might disappoint you. Process goals help you hone specific skills within your command, creating a solid base for both performance and outcome success.
 
 ---
 
@@ -152,12 +152,12 @@ A. 1 skill session (rigging/edge work), 1 descent day, 1-2 cross-training blocks
 A. Keep a log (route, height, device, weather, lessons); add 30-second clips of starts/edge transitions for form checks.
 
 **Q. When should I level up to multi-pitch, waterfalls, or thinner ropes?**  
-A. After 8-10 clean single-pitch descents with consistent brake-hand discipline, anchor competence, and controlled downslope resets-then progress under supervision.
+A. After 8-10 clean single-pitch descents with consistent brake-hand discipline, anchor competence, and controlled downslope resets: then progress under supervision.
 
 **Q. What safety goals belong on my list?**  
 A. “Zero unverified anchors,” “verbal partner checks every pitch,” “knot in rope ends,” and “pre-rigged contingency/haul where appropriate.”
 
-**Q. I've plateaued-now what?**  
+**Q. I've plateaued: now what?**  
 A. Switch terrain (slab → vertical), change device/rope diameter in training settings, set a 30-day micro-goal (e.g., perfect edge transitions).
 
 **Q. Do I need to buy gear to start?**  

@@ -37,7 +37,7 @@ faq:
 
 Climbing conservation is more than a buzzword. It is the ongoing effort to protect the cliffs, crags, and wild environments you explore while abseiling. By understanding how your actions on these towering rock faces impact local ecosystems, you can help safeguard natural habitats for generations of adventurers to come. You might be curious about what first steps you can take or how you can abseil responsibly without compromising your sense of fun. That's where a few practical guidelines can make a world of difference.
 
-Below, you'll find simple ways to minimise your environmental footprint, stay safe, and even contribute to meaningful projects-so you can abseil confidently while giving back to the places you love. Whether you're gearing up for your first descent or seeking more advanced tips, there's something here for every curious climber who wants to do the right thing by nature.
+Below, you'll find simple ways to minimise your environmental footprint, stay safe, and even contribute to meaningful projects, so you can abseil confidently while giving back to the places you love. Whether you're gearing up for your first descent or seeking more advanced tips, there's something here for every curious climber who wants to do the right thing by nature.
 
 ## Recognise your outdoor impact
 
@@ -63,7 +63,7 @@ Abseiling itself doesn't have to leave a mark on the environment if you do it mi
 
 - Use fixed anchors where permitted, instead of placing or removing gear repeatedly in sensitive rock.
 - If you're unsure about an anchor's legality or safety, check local regulations and speak to park rangers or local climber advocacy groups like Access Fund or The Mountaineers.
-- Inspect anchor gear for wear. A worn-out bolt or rusty chain can be more than an eyesore-it can become a hazardous weak point in your system.
+- Inspect anchor gear for wear. A worn-out bolt or rusty chain can be more than an eyesore: it can become a hazardous weak point in your system.
 
 ### Rope management
 
@@ -74,7 +74,7 @@ Keeping your abseil technique clean and controlled not only preserves the rock, 
 
 ## Use an emergency action plan
 
-Abseiling can be unpredictable, and planning for the unexpected helps protect you, your climbing partners, and the environment. An accident often leads to rushed, high-impact interventions-like additional foot traffic, helicopter landings, or emergency extractions-that can cause damage. By having an emergency plan, you reduce the chances of panic and minimise the scope of rescue efforts.
+Abseiling can be unpredictable, and planning for the unexpected helps protect you, your climbing partners, and the environment. An accident often leads to rushed, high-impact interventions, like additional foot traffic, helicopter landings, or emergency extractions: that can cause damage. By having an emergency plan, you reduce the chances of panic and minimise the scope of rescue efforts.
 
 ### Key steps to include
 
@@ -87,7 +87,7 @@ When you know what to do if things go wrong, you're more likely to resolve issue
 
 ## Pick low-impact gear
 
-Not all climbing and abseiling equipment is created equal. Some ropes, harnesses, or slings are manufactured with fewer chemicals or from partially recycled materials. Even chalk-often overlooked-can hold trace elements that might harm delicate plant life. Thankfully, companies today are innovating on gear so you don't have to choose between performance and planet-friendly design.
+Not all climbing and abseiling equipment is created equal. Some ropes, harnesses, or slings are manufactured with fewer chemicals or from partially recycled materials. Even chalk, often overlooked, can hold trace elements that might harm delicate plant life. Thankfully, companies today are innovating on gear so you don't have to choose between performance and planet-friendly design.
 
 ### Gear considerations
 
@@ -173,4 +173,4 @@ A. Volunteer for trail building, crag cleanups, or donate to organisations like 
 
 You have the power to make a significant difference each time you head out for an abseiling session. By familiarising yourself with safe techniques, preparing for emergencies, and following environmental guidelines, you ensure that your adventures remain low-impact and fulfilling. A little forethought about gear, plus involvement in local stewardship efforts, can help maintain the natural beauty of these rugged cliffs.
 
-So, the next time you toss a rope over the edge, know that you're not just looking after your own safety, you're also preserving a cherished space for future climbers and the wildlife that call it home. Take the time to share what you learn with your fellow adventurers, and keep the conversation going-because preserving today's climbing areas calls for everyone's help. And if you want an extra boost of confidence before your next descent, don't forget to check out abseiling safety for more practical pointers. Enjoy your journey, and remember to leave every crag better than you found it.
+So, the next time you toss a rope over the edge, know that you're not just looking after your own safety, you're also preserving a cherished space for future climbers and the wildlife that call it home. Take the time to share what you learn with your fellow adventurers, and keep the conversation going, because preserving today's climbing areas calls for everyone's help. And if you want an extra boost of confidence before your next descent, don't forget to check out abseiling safety for more practical pointers. Enjoy your journey, and remember to leave every crag better than you found it.

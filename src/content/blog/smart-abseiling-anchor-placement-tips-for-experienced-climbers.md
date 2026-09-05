@@ -61,7 +61,7 @@ On rare occasions, you might use a vehicle for an anchor if no suitable natural 
 
 ## Secure your anchor setup
 
-Once you identify strong anchors-be they big gum trees or well-placed bolts-the next step is linking them together into a safe system. Your choice of single or multipoint anchors will depend on the terrain, number of descent stages, and the gear you have left in your rack.
+Once you identify strong anchors-be they big gum trees or well-placed bolts: the next step is linking them together into a safe system. Your choice of single or multipoint anchors will depend on the terrain, number of descent stages, and the gear you have left in your rack.
 
 ### Single point anchors
 
@@ -120,7 +120,7 @@ Slings made of nylon or Dyneema can be used to link anchor points, but you must 
 
 ### Protecting your equipment
 
-Few things kill gear faster than friction over a sharp edge. Grit, water, and constant rub can wear away the sheath of your cord. You don't need a complicated solution to fix this issue-just a bit of tubular webbing, a sturdy mat, or a rope protector ([Mountain Project](https://www.mountainproject.com/forum/topic/116233451/scary-anchors-and-how-to-avoid-them)). Make it part of your standard kit to check how your rope and slings run along the rock. If contact is unavoidable, pad it.
+Few things kill gear faster than friction over a sharp edge. Grit, water, and constant rub can wear away the sheath of your cord. You don't need a complicated solution to fix this issue, just a bit of tubular webbing, a sturdy mat, or a rope protector ([Mountain Project](https://www.mountainproject.com/forum/topic/116233451/scary-anchors-and-how-to-avoid-them)). Make it part of your standard kit to check how your rope and slings run along the rock. If contact is unavoidable, pad it.
 
 Carabiners also require frequent inspection. Check the gate mechanism for dirt or grit that might keep it from locking. A sticky gate is a red flag. Brush away debris gently and, if necessary, apply a suitable light lubricant. DMM Wales emphasises the importance of regular maintenance for cams and other hardware ([DMM Wales](https://dmmwales.com/blogs/knowledge)), so don't neglect them. The last thing you want is a stuck cam or gritty gate at the top of a 30-metre abseil.
 
@@ -170,12 +170,12 @@ If you love exploring new abseiling routes or pushing into more adventurous mult
 
 It's also helpful to keep track of how your gear performs. For instance, how did that used-but-trusted static line hold up against abrasive rock? Did your new rope protector slip out of place? Were your quickdraw slings showing signs of wear at the edges?
 
-Yes, it might seem like a lot of detail, but these small observations add up to keep you safer. Plus, the sense of satisfaction when you know all your gear is in top shape-and you can confidently descend remote cliff faces-is well worth a bit of effort.
+Yes, it might seem like a lot of detail, but these small observations add up to keep you safer. Plus, the sense of satisfaction when you know all your gear is in top shape, and you can confidently descend remote cliff faces-is well worth a bit of effort.
 
 ## Summary and next steps
 
 Building reliable anchors is both an art and a science. You're juggling multiple factors: the structural integrity of your chosen anchor points, the way you rig them, the hardware you trust, and the environment you're in. If you keep to these abseiling anchor placement tips, you'll be well positioned to manage potential mishaps and give yourself the best chance of a smooth descent every time.
 
-Keep practising, stay curious, and chat with fellow climbers who share new tricks or highlight gear improvements. For an in-depth look at various configurations and rigging options that can help you tackle unique scenarios, take a peek at our guide on [abseiling anchor systems](/improve-your-technique-with-these-abseiling-anchor-systems/). And remember, if something looks or feels off, take a step back and adjust your approach. Anchors deserve your full attention-after all, they're quite literally supporting your life on the line.
+Keep practising, stay curious, and chat with fellow climbers who share new tricks or highlight gear improvements. For an in-depth look at various configurations and rigging options that can help you tackle unique scenarios, take a peek at our guide on [abseiling anchor systems](/improve-your-technique-with-these-abseiling-anchor-systems/). And remember, if something looks or feels off, take a step back and adjust your approach. Anchors deserve your full attention, after all, they're quite literally supporting your life on the line.
 
 Got any personal anchor hacks you'd swear by? Or maybe a cautionary tale from a sketchy anchor encounter? Share your experiences with your climbing partners, compare notes, and help raise the collective safety standard. With each bit of knowledge you pick up, you're better prepared for Australia's diverse climbing landscapes, from lush rainforest gullies to epic sandstone cliffs. Stay safe, stay curious, and keep discovering new ways to climb and descend smoothly!

@@ -11,7 +11,7 @@ readingTime: 12
 faq:
   - question: "What kinds of abseiling competitions can I find in Australia?"
     answer: "A. Expect friendly time trials, festival or club events with parallel lines, and multi-sport races that include an abseil segment. Pure abseil-only comps are less common than climbing events but do pop up."
-  - question: "I'm new-should I start with a competition or a tour?"
+  - question: "I'm new, should I start with a competition or a tour?"
     answer: "A. Start with a guided abseil or charity event to learn descent control, stance, and device handling. Level up to comps once you're smooth with anchors, backups, and rope management."
   - question: "What safety basics matter most on the day?"
     answer: "A. Redundant/equalised anchors, knots in rope ends, correct device orientation, an autoblock/prusik backup, buddy checks, and clear comms. Skip windy/storm conditions and respect park regulations."
@@ -43,7 +43,7 @@ Abseiling for a good cause is one of the most uplifting ways to experience a des
 
 Charity abseils typically welcome participants of various experience levels and often provide certified instructors, harnesses, and other essential equipment. You'll usually get a short training session before stepping off the edge, giving you a chance to learn core techniques such as rope control and proper body positioning. Once you start descending, you'll likely hear enthusiastic cheers from fellow participants and onlookers at the bottom.
 
-If you have a competitive streak, there might be friendly timings or “fastest descent” contests woven into the event. Prizes could range from medals to simple bragging rights, adding a lighthearted sense of competition to an already great experience. As an added bonus, you're raising money for a worthy cause. Don't forget to snap a few photos of your big moment-you'll want to look back on this day with pride.
+If you have a competitive streak, there might be friendly timings or “fastest descent” contests woven into the event. Prizes could range from medals to simple bragging rights, adding a lighthearted sense of competition to an already great experience. As an added bonus, you're raising money for a worthy cause. Don't forget to snap a few photos of your big moment: you'll want to look back on this day with pride.
 
 ## Try a group challenge
 
@@ -65,7 +65,7 @@ Because these contests can be physically demanding, organisers generally require
 
 If you're an adrenaline junkie who loves variety, think about entering a multi-sport event where abseiling is one part of the overall challenge. Adventure races often mix running, kayaking, hiking, and cycling with a swift abseiling segment. Sometimes, the abseil is a game-changer: you'll see participants who excel in speed descent soar past others who may have led earlier sections.
 
-These events are perfect if you enjoy pushing yourself across different disciplines. The abseil portion typically occurs at a scenic spot-maybe a waterfall or a gorge-letting you soak in the view for a split second before focusing on your rope. Because you're usually on the clock, you need to descend quickly but safely. One misstep, such as a tangled harness or a badly timed brake, could cost you precious minutes.
+These events are perfect if you enjoy pushing yourself across different disciplines. The abseil portion typically occurs at a scenic spot, maybe a waterfall or a gorge-letting you soak in the view for a split second before focusing on your rope. Because you're usually on the clock, you need to descend quickly but safely. One misstep, such as a tangled harness or a badly timed brake, could cost you precious minutes.
 
 For training, consider brushing up on basic climbing and rappelling skills at an indoor facility. Remember, speed climbing (though not exactly the same skill set as abseiling) can help you develop the upper body strength and explosive motion needed to handle ropes confidently. Ab workouts, squats, and overall conditioning are also beneficial for the dynamic demands of multi-sport races. When you finally reach that abseil segment in a competition, you'll be grateful for every gym session you squeezed in.
 
@@ -100,7 +100,7 @@ The sooner you set your date, the easier it will be to lock in any necessary per
 **Q. What kinds of abseiling competitions can I find in Australia?**  
 A. A. Expect friendly time trials, festival or club events with parallel lines, and multi-sport races that include an abseil segment. Pure abseil-only comps are less common than climbing events but do pop up.
 
-**Q. I'm new-should I start with a competition or a tour?**  
+**Q. I'm new, should I start with a competition or a tour?**  
 A. A. Start with a guided abseil or charity event to learn descent control, stance, and device handling. Level up to comps once you're smooth with anchors, backups, and rope management.
 
 **Q. What safety basics matter most on the day?**  
@@ -118,6 +118,6 @@ A. A. Rated rope (or use organiser's), properly fitted harness, belay/descender 
 
 At the heart of it, you're seeking that joyful adrenaline surge the moment you ease off the edge and trust your gear. You don't need a massive abseiling competition to feel that excitement, though it can add an extra spark for those who thrive on a bit of rivalry. Australia's abseiling scene offers everything from charitable descents for worthy causes to group exercises that double as friendly challenges. If you're hoping to scratch that competitive itch, look for local clubs that host time-trial abseils or incorporate descent challenges as part of multi-sport races.
 
-Above all, remember to soak up every second. The first time you step back onto open air is unforgettable-your heart pounding, your eyes on the stunning views, your attention locked on each move. Whether you're racing down the rope to beat a clock or simply gliding at a relaxed pace with friends, this experience is one you'll likely replay in your mind over and over. Don't be surprised if you're already planning your next abseil before you even unclip your harness.
+Above all, remember to soak up every second. The first time you step back onto open air is unforgettable: your heart pounding, your eyes on the stunning views, your attention locked on each move. Whether you're racing down the rope to beat a clock or simply gliding at a relaxed pace with friends, this experience is one you'll likely replay in your mind over and over. Don't be surprised if you're already planning your next abseil before you even unclip your harness.
 
-Whether you aim to fundraise for a charity, surprise a friend with an adventurous gift, or test your limits in a timed event, abseiling is as thrilling as it is rewarding. With the right planning and proper gear, you can transform a simple descent into a lifelong memory. So grab your rope, pick a date, and get ready to step boldly off that ledge-you'll never see the world in quite the same way again.
+Whether you aim to fundraise for a charity, surprise a friend with an adventurous gift, or test your limits in a timed event, abseiling is as thrilling as it is rewarding. With the right planning and proper gear, you can transform a simple descent into a lifelong memory. So grab your rope, pick a date, and get ready to step boldly off that ledge: you'll never see the world in quite the same way again.

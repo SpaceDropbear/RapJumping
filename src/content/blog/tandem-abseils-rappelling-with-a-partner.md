@@ -94,7 +94,7 @@ There's a reason pro climbers carry a prusik cord on every outing. A third hand 
 
 ## Handle an injured partner
 
-A frequent scenario for using a tandem abseil is when your partner can't descend alone. If they're hurt-or just not fully mobile-you'll need extra caution to get them down safely.
+A frequent scenario for using a tandem abseil is when your partner can't descend alone. If they're hurt, or just not fully mobile, you'll need extra caution to get them down safely.
 
 1. Pre-attach a clip-in. Before you leave each station, attach your partner to the anchor with a releasable clip-in, like a cord tied with a munter-mule-overhand knot. Back it up with a sling. This way, if anything goes awry, you can lower or free them more easily.
 2. Secure them at each station. Every time you reach a new anchor, repeat the process of clipping your injured partner in. This prevents accidental slips and shares the load.
@@ -113,7 +113,7 @@ Heading down a vertical face together creates new opportunities for slip-ups, ev
 - Neglecting friction. Overloading a minimal belay device can lead to rope slippage. If you notice it's tough to brake, add an extra twist in the rope or use a belay device known for high friction.
 - Improper rope retrieval. If you try advanced methods like the Reepschnur technique, be prepared that knots or carabiners can jam when you pull the rope. Keep a calm head if you need to climb back up a bit to free it.
 
-Staying systematic is the name of the game. Develop a routine-like muscle memory-that you follow for every descent.
+Staying systematic is the name of the game. Develop a routine, like muscle memory: that you follow for every descent.
 
 ---
 
@@ -155,6 +155,6 @@ A. Yes, but expect snags. Keep calm and be ready to climb a little to free it if
 
 Tandem abseiling is a powerful tool to have in your climbing repertoire. It opens the door to more complex adventures, especially if you're helping an injured partner or simply want a fast way to descend. The key is practising on low-stakes terrain first. If you have access to a short cliff-such as the Kangaroo Point Cliffs in Brisbane or an easy abseil line near your home crag-run through the steps until you can do them in your sleep.
 
-Don't forget to keep exploring higher-level rope-work so you can adapt to different scenarios. If you're keen to continue sharpening your know-how, check out other abseiling techniques that dive deeper into topics like mechanical advantage systems and self-rescue fundamentals. As you log more vertical descents, you'll discover that a calm mind-and a consistent safety routine-is the best safeguard you can bring on a climb.
+Don't forget to keep exploring higher-level rope-work so you can adapt to different scenarios. If you're keen to continue sharpening your know-how, check out other abseiling techniques that dive deeper into topics like mechanical advantage systems and self-rescue fundamentals. As you log more vertical descents, you'll discover that a calm mind, and a consistent safety routine-is the best safeguard you can bring on a climb.
 
 Take your time, double-check every point of contact, and communicate clearly with your partner at all times. Tandem abseils may be more involved than solo descents, but they can also deepen your trust in each other. After all, there's something thrilling about sharing that final drop, together, on the same rope. It's a satisfying reminder that exploration in the mountains is rarely a solo act, and often, the best memories are forged side by side.

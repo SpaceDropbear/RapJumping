@@ -35,7 +35,7 @@ Below you'll find a curated list of thrilling and memorable adventures to consid
 
 If your mum loves to get out and about, an outdoor exploration is a wonderful way to bond. Whether you choose a hike, a beach picnic, or just strolling through a botanical garden, you'll share quality time together in the fresh air. Spending a day outdoors works especially well if you both want a break from screens and cluttered indoor spaces. It's also a chance to discover new wonders right in your backyard or a short drive away.
 
-A nature scavenger hunt is a great way to keep things fun. Arm yourselves with a simple list of items to spot-think interesting leaves, bird sightings, or unusual rocks-and tick them off as you go. This playful challenge can break up the walk, spark conversations, and give you a sense of completion at the end. Plus, the fresh perspective might help you see how lovely your local green patch really is.
+A nature scavenger hunt is a great way to keep things fun. Arm yourselves with a simple list of items to spot-think interesting leaves, bird sightings, or unusual rocks, and tick them off as you go. This playful challenge can break up the walk, spark conversations, and give you a sense of completion at the end. Plus, the fresh perspective might help you see how lovely your local green patch really is.
 
 - Tip: If you live somewhere that has a botanical garden, check whether they offer guided walks or special exhibits. Some gardens have staff on hand who can share fascinating tidbits about local and exotic plants.
 
@@ -57,7 +57,7 @@ Resorts often feature wellness amenities such as spas, jacuzzis, and hammams for
 
 ## Take a cooking class
 
-If Mum's a foodie (or just curious about culinary adventures), a cooking class can become a brilliant mothers day adventure. Cooking is not only a fun skill-it's also collaborative, letting you bounce ideas and techniques off each other. You might choose a local class hosted by professional chefs or search for a more intimate setting run by a passionate home cook who teaches family recipes.
+If Mum's a foodie (or just curious about culinary adventures), a cooking class can become a brilliant mothers day adventure. Cooking is not only a fun skill: it's also collaborative, letting you bounce ideas and techniques off each other. You might choose a local class hosted by professional chefs or search for a more intimate setting run by a passionate home cook who teaches family recipes.
 
 You could try making chocolate treats, artisanal pasta, or even dabble in global cuisine. Some classes include tastings, so you'll sample homemade goodness as you learn. Besides sharpening your kitchen skills, you'll likely walk away with favourite new recipes to recreate, plus a warm sense of achievement from your shared effort.
 
@@ -83,9 +83,9 @@ For extra pampering, consider giving her a soothing massage. If you're not sure 
 
 If Mum's a thrill-seeker at heart, a Mother's Day trip to an amusement park could be right up her alley. Rides, games, shows, and all that energetic hustle can feel like a true adventure for the entire family. Many parks offer kids' zones, roller coasters, water rides, and live entertainment, so there's something for every speed. You can even surprise her with a VIP pass, ensuring shorter waits and more time for the roller coaster or spooky haunted ride.
 
-In addition to the obvious excitement, theme parks spark laughter and silliness-both great ways for families to bond. Paying attention to the start times of special shows or fireworks helps you tick multiple attractions off your list. If you want to immortalise the moment, pose for a family photo in front of the park's iconic centerpiece.
+In addition to the obvious excitement, theme parks spark laughter and silliness, both great ways for families to bond. Paying attention to the start times of special shows or fireworks helps you tick multiple attractions off your list. If you want to immortalise the moment, pose for a family photo in front of the park's iconic centerpiece.
 
-- Tip: Plan your itinerary. Some parks are huge, and you can easily flit from ride to ride and feel overwhelmed. Skim a map beforehand so you know your priorities-perhaps you'll manage to try every single coaster or catch that midday parade.
+- Tip: Plan your itinerary. Some parks are huge, and you can easily flit from ride to ride and feel overwhelmed. Skim a map beforehand so you know your priorities, perhaps you'll manage to try every single coaster or catch that midday parade.
 
 ## Camp in your backyard
 
@@ -113,7 +113,7 @@ Plus, experiences can be easily personalised. If your mum loves epic journeys, c
 
 ### FAQs
 
-**Q1: She's never done adventure sports-will abseiling be too much?**  
+**Q1: She's never done adventure sports, will abseiling be too much?**  
 A: Not if you book a beginner-friendly, guided session. Start with a low practice wall, go at her pace, and focus on comfort (good shoes, layers, water).
 
 **Q2: We're on a budget-what's still special?**  
@@ -134,6 +134,6 @@ A: Have a Plan B ready-swap hike for a museum or cooking class, move the picnic 
 
 Planning an unforgettable mothers day adventure doesn't have to be complicated or extravagant. It's really about finding ways to spend genuine, quality time with your mum, matched to her personal style. For a thrill, maybe abseiling tours are perfect. If she loves tranquillity, you can opt for a spa package or a local nature walk. Cooking classes, gourmet meals, and theme park trips each bring their own flavour of fun.
 
-You don't need to spend a fortune either. A backyard campout, a homemade bubble bath retreat, or a scenic stroll can be just as special as a fancy holiday if it's planned with care and thoughtfulness. Experiences let you create new memories and-most importantly-show Mum how much you value her.
+You don't need to spend a fortune either. A backyard campout, a homemade bubble bath retreat, or a scenic stroll can be just as special as a fancy holiday if it's planned with care and thoughtfulness. Experiences let you create new memories and, most importantly, show Mum how much you value her.
 
 So pick an idea, gather your supplies or bookings, and let the excitement begin. Chances are, your mum will appreciate the time you spend together more than anything. Let Mother's Day be the moment you kick off a new tradition and build happy recollections you'll both cherish. Here's to embracing adventures together, one step at a time!

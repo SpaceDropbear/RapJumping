@@ -12,7 +12,7 @@ faq:
   - question: "What is fall factor in rappelling?"
     answer: "A measure of the force generated in a fall, calculated by dividing the fall distance by the rope length available to absorb the impact."
   - question: "What is the maximum fall factor?"
-    answer: "A fall factor of 2, which happens if you fall twice the rope length available-usually in climbing above an anchor, not typical rappelling."
+    answer: "A fall factor of 2, which happens if you fall twice the rope length available, usually in climbing above an anchor, not typical rappelling."
   - question: "Why does rope length matter for fall factor?"
     answer: "Longer rope stretches more, absorbing more energy and reducing the force of a fall."
   - question: "How does friction affect fall factor?"
@@ -68,7 +68,7 @@ When you fall, your weight plus gravity can generate surprising levels of force.
 
 ### The role of rope length
 
-If you're rappelling on a single 40-foot length, it's more forgiving than using only 10 feet of rope. Basically, the longer the rope, the more it can elongate and reduce jarring shocks. This principle explains why a short fall on minimal rope can still hurt just as badly, or worse, than a longer fall on plenty of rope.
+If you're rappelling on a single 40-foot length, it's more forgiving than using only 10 feet of rope. Basically, the longer the rope, the more it can elongate and reduce jarring shocks. This principle explains why a short fall on minimal rope can still hurt just as badly, or worse, than a longer fall on plenty of rope. For the numbers underneath all of this, our guide to [abseiling friction, force and rope loads](/the-physics-of-abseiling-friction-and-force/) works through what a rope actually carries in kilonewtons.
 
 ## Combat friction and rope drag
 
@@ -158,7 +158,7 @@ None of these are recreational limits and none of them bind you on a weekend abs
 A. A measure of the force generated in a fall, calculated by dividing the fall distance by the rope length available to absorb the impact.
 
 **Q. What is the maximum fall factor?**  
-A. A fall factor of 2, which happens if you fall twice the rope length available-usually in climbing above an anchor, not typical rappelling.
+A. A fall factor of 2, which happens if you fall twice the rope length available, usually in climbing above an anchor, not typical rappelling.
 
 **Q. Why does rope length matter for fall factor?**  
 A. Longer rope stretches more, absorbing more energy and reducing the force of a fall.
@@ -175,7 +175,7 @@ A. Keep slack minimal, use smooth rope paths to reduce friction, secure anchors,
 
 Fall factor rappelling isn't just a fancy term, it's a practical reminder of how physics can catch you off-guard if you're not prepared. A short slip can generate huge forces when there's minimal rope to stretch. That's why things like rope length, friction management, gear checks, and a healthy respect for environmental conditions matter so much.
 
-Nothing replaces real hands-on training, so consider working with a qualified instructor if you're unsure about any step. You can also learn more about abseiling best practices in places with controlled environments, like climbing gyms or official training courses. If you're going outdoors, remember that each rappel is a chance to do everything right-the final margin is in your vigilance.
+Nothing replaces real hands-on training, so consider working with a qualified instructor if you're unsure about any step. You can also learn more about abseiling best practices in places with controlled environments, like climbing gyms or official training courses. If you're going outdoors, remember that each rappel is a chance to do everything right: the final margin is in your vigilance.
 
 Above all, keep your fall factor well under control by staying disciplined about rope usage, anchor positioning, and friction minimisation. Before you know it, these habits will be second nature, letting you focus on the thrill of the descent rather than worrying about a costly misstep.
 

@@ -110,7 +110,7 @@ Moisture can weaken certain rock types found in tropical areas, making them more
 
 ## Handle emergencies calmly
 
-Quick thinking can help you stay in control during a crisis. If something goes wrong while rainforest abseiling-like a snapped rope, equipment failure, or a serious slip-the most important step is to keep a cool head.
+Quick thinking can help you stay in control during a crisis. If something goes wrong while rainforest abseiling, like a snapped rope, equipment failure, or a serious slip: the most important step is to keep a cool head.
 
 1. Stop and assess the situation. Don't rush to fix the problem without understanding the cause or severity.
 2. Communicate clearly. Use whistles or rope signals if you can't speak loudly enough through the rain.

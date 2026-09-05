@@ -1,6 +1,6 @@
 ---
 title: "Adventure Travel Insurance for Australia & the Pacific: What You Actually Need"
-description: "Standard travel insurance often excludes adventure activities. Here's what to declare, what to read in the PDS, and the cover you actually need for Australia & the Pacific."
+description: "Standard travel insurance often excludes adventure activities. What to declare, what to read in the PDS, and the cover you need for Australia & the Pacific."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/adventure-travel-insurance-for-australia-the-pacific-what-you-actually-need.webp"
 heroAlt: "Hikers picking their way along a remote rocky gorge trail far from any road"

@@ -73,7 +73,7 @@ Ready for some Western Australia magic? Head about six hours north of Perth, and
 
 Kalbarri's guided abseiling typically accommodates small to medium-sized groups. If you're celebrating a special occasion, like a milestone birthday or an anniversary, there's no better way to make memories than by stepping over the edge together. The camaraderie you feel after cheering each other on from the top is priceless. Many abseiling operators in Kalbarri also offer add-ons, such as gorge hiking or canoeing, so you can make it a full weekend of outdoor fun.
 
-- Location perks: Outback-like desert scenery, striking red rock gorges, a quieter destination away from the city buzz.
+- Location perks: Outback, like desert scenery, striking red rock gorges, a quieter destination away from the city buzz.
 - Ideal group vibe: Adventure-seeking couples or families who don't mind driving that extra distance for a unique setting.
 - Quick tip: Hydration is key in Western Australia's arid climate, so pack more water than you think you need. And don't forget broad-brimmed hats for the group.
 

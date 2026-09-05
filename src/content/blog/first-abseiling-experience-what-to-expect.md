@@ -43,7 +43,7 @@ Double-checking your gear is a habit worth developing. In fact, routinely verify
 
 ## Practise rope techniques
 
-Your rope is your lifeline, so getting familiar with a few key techniques is crucial for building confidence in your essential abseiling skills. Most abseilers learn a handful of knots right away-like the Figure 8 knot for tying yourself into your harness and a Double Fisherman's knot for connecting two ropes if needed ([REI](https://www.rei.com/learn/expert-advice/climbing-knots.html)).
+Your rope is your lifeline, so getting familiar with a few key techniques is crucial for building confidence in your essential abseiling skills. Most abseilers learn a handful of knots right away, like the Figure 8 knot for tying yourself into your harness and a Double Fisherman's knot for connecting two ropes if needed ([REI](https://www.rei.com/learn/expert-advice/climbing-knots.html)).
 
 Consider forming a habit of backing up your abseil with a Prusik knot. A Prusik acts as a safety brake by automatically locking the rope if you accidentally let go (VDiff Climbing). It's a good friend to have on any descent.
 
@@ -62,6 +62,6 @@ Don't forget to examine the environment around you. Look out for any loose rocks
 
 ## Wrap up your experience
 
-Once you've mastered setting up your rope, using friction to descend, and staying alert for any hazards, you've got the foundation for a confident abseil. You don't need to be an expert climber or have next-level bravery-you just need the right gear, a basic grasp of how to control friction, and a healthy respect for safety precautions. That's all it takes to start exploring cliffs, canyons, or even tall urban structures.
+Once you've mastered setting up your rope, using friction to descend, and staying alert for any hazards, you've got the foundation for a confident abseil. You don't need to be an expert climber or have next-level bravery: you just need the right gear, a basic grasp of how to control friction, and a healthy respect for safety precautions. That's all it takes to start exploring cliffs, canyons, or even tall urban structures.
 
 If you catch the abseiling bug, keep building on your knowledge and hone your rope techniques on gentle slopes before taking on steeper, more challenging drops. There are always new skills to learn and fresh adventures to enjoy. Soon enough, you'll be the one convincing your nervous friends to join you for their first abseiling experience. Enjoy the journey!

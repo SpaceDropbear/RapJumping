@@ -234,7 +234,7 @@ Use mild soap and soak in lukewarm water. Air-dry completely before storage.
 
 ## **16. Cost Considerations: Is Expensive Always Better?**
 
-Expensive ropes often mean better materials, tighter weaves, and longer lifespan-but not always.
+Expensive ropes often mean better materials, tighter weaves, and longer lifespan, but not always.
 
 ### **Budget vs Premium Options**
 
@@ -263,7 +263,7 @@ Fraying, flat spots, fuzziness, or chemical exposure are all signs to retire you
 Bright colours are easier to see in low-light or rescue situations.
 
 **Q6. Can I use climbing ropes for rappelling?**  
-Yes, if they are certified and undamaged-but know whether it's static or dynamic.
+Yes, if they are certified and undamaged, but know whether it's static or dynamic.
 
 ---
 

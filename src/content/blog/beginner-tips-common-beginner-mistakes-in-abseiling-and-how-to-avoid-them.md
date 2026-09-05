@@ -65,7 +65,7 @@ Ever catch yourself chatting mid-descent? Distractions are major triggers for ac
 
 ## Examine your gear regularly
 
-Worn-out harness straps, cracked carabiners, and old ropes are accidents waiting to happen. Regular inspections shield you from heartbreak-or worse.
+Worn-out harness straps, cracked carabiners, and old ropes are accidents waiting to happen. Regular inspections shield you from heartbreak, or worse.
 
 - Look for wear and tear: Frayed rope sheaths, rust spots on metal gear, or faded stitching can be your early warning signs. Replace them before any major breakage occurs.
 - Practice proper storage: Moisture and grime break down materials faster than you think. Keep everything clean and dry in a dedicated gear bag.
@@ -75,6 +75,6 @@ Worn-out harness straps, cracked carabiners, and old ropes are accidents waiting
 
 Abseiling is thrilling, but it's no secret that simple abseiling mistakes can turn a memorable day into a painful lesson. Stay vigilant about your harness checks, use a good backup hitch, manage your friction, and keep your rope properly secured. It only takes a few extra moments to double-check each step, but those moments can make all the difference in keeping your adventure safe and fun.
 
-If you're looking to refine your technique or overcome a [fear of heights](/abseiling-psychology-overcoming-fear-of-heights-rappelling-confidence/), remember that consistent practice and proper attention will boost your skills and confidence. Abseiling can be a fantastic family activity too-just look into [family abseiling](/kids-rappelling-family-friendly-abseiling-adventures-in-australia/) sessions, where instructors teach solid safety habits from the start.
+If you're looking to refine your technique or overcome a [fear of heights](/abseiling-psychology-overcoming-fear-of-heights-rappelling-confidence/), remember that consistent practice and proper attention will boost your skills and confidence. Abseiling can be a fantastic family activity too, just look into [family abseiling](/kids-rappelling-family-friendly-abseiling-adventures-in-australia/) sessions, where instructors teach solid safety habits from the start.
 
 Got your own tips for dodging first-time slip-ups? Share what's helped you most, so others can learn from your experiences too! Then get out there, enjoy the fresh air, and trust that careful preparation keeps you secure on every descent.

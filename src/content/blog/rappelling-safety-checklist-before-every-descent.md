@@ -78,7 +78,7 @@ Evaluate if you really need to rappel or if a walk-off route is safer. Sometimes
 
 ## Confirm knots and rope ends
 
-Every year, accidents happen because people rappel off the end of their rope-or misjudge its length. Knots act as a final fail-safe, preventing rope slip or unexpected freefall if you miscalculate.
+Every year, accidents happen because people rappel off the end of their rope, or misjudge its length. Knots act as a final fail-safe, preventing rope slip or unexpected freefall if you miscalculate.
 
 - Tie a simple stopper knot in both rope ends before you begin.
 - When using one rope, make sure you have the middle mark at the anchor if possible.
@@ -98,7 +98,7 @@ This extra precaution might slow you down a bit, but ask yourself: would you rat
 
 ## Test your rappel line
 
-Once your rope is threaded through the anchor, do a gentle test. Put weight on the rope while you're still secured by a personal anchor or tether. It sounds obvious, but small mistakes-like incomplete threading or a loose anchor-can lead to catastrophic falls.
+Once your rope is threaded through the anchor, do a gentle test. Put weight on the rope while you're still secured by a personal anchor or tether. It sounds obvious, but small mistakes, like incomplete threading or a loose anchor, can lead to catastrophic falls.
 
 1. Stand securely and clip a backup tether from your harness to the anchor.
 2. Lean your weight into the rappel rope, just enough to confirm the anchor holds.
@@ -155,7 +155,7 @@ Here's a condensed overview of the essential steps in your checklist. You can pr
 
 ## Summary and next steps
 
-A thorough rappelling safety checklist is more than just a box-ticking exercise. It's a mindset that keeps you and your climbing partners alert and ready for the unexpected. Every piece of gear, from carabiners to harnesses, deserves regular inspection. Every anchor needs scrutiny. And above all, your own decisions-like whether to rappel or walk off-can determine how you fare on the descent.
+A thorough rappelling safety checklist is more than just a box-ticking exercise. It's a mindset that keeps you and your climbing partners alert and ready for the unexpected. Every piece of gear, from carabiners to harnesses, deserves regular inspection. Every anchor needs scrutiny. And above all, your own decisions, like whether to rappel or walk off, can determine how you fare on the descent.
 
 If you want some broader guidance on safe descents and rope work, take a look at [abseiling safety](/abseiling-safety-and-emergency-procedures-guide/). Building your knowledge base can help you make better choices in tricky spots. The rope, helmet, harness, and anchor are your main building blocks, but good judgment sets the tone for a secure rappel.
 
@@ -182,4 +182,4 @@ A. A final gear and knot inspection done by a partner before descent to catch an
 
 Finally, never underestimate the comfort of an extra pair of eyes. Buddy checks might not seem trendy, but they're the simplest way for you to avoid a life-threatening oversight. Go through this routine before every single descent. Once you're determined to adopt these safety steps, you'll enjoy your rap lines so much more, without that nagging worry at the back of your mind.
 
-Stay safe out there, and have an awesome climb (and descent)! Feel free to share any tips or experiences below-your input might be exactly what helps someone else make it safely down their next rappel.
+Stay safe out there, and have an awesome climb (and descent)! Feel free to share any tips or experiences below: your input might be exactly what helps someone else make it safely down their next rappel.

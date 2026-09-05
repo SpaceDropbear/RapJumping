@@ -16,7 +16,7 @@ faq:
   - question: "What's the purpose of a belay escape?"
     answer: "It frees you from holding a partner's weight so you can set up another rescue system or assist differently."
   - question: "How much gear should I leave behind for a bail anchor?"
-    answer: "Use older or spare gear-never compromise your primary safety kit for future pitches."
+    answer: "Use older or spare gear, never compromise your primary safety kit for future pitches."
   - question: "What's the benefit of a 3:1 hauling system?"
     answer: "It triples your pulling force, making it easier to lift a partner or gear with less strain."
 ---
@@ -188,7 +188,7 @@ A: When a partner can't descend on their own due to injury, fear, or gear failur
 A: It frees you from holding a partner's weight so you can set up another rescue system or assist differently.
 
 **Q: How much gear should I leave behind for a bail anchor?**  
-A: Use older or spare gear-never compromise your primary safety kit for future pitches.
+A: Use older or spare gear, never compromise your primary safety kit for future pitches.
 
 **Q: What's the benefit of a 3:1 hauling system?**  
 A: It triples your pulling force, making it easier to lift a partner or gear with less strain.

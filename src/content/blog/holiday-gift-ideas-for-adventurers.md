@@ -16,7 +16,7 @@ faq:
   - question: "What's the best season for popular picks?"
     answer: "It varies by region/activity. Example: whale-shark swims at Ningaloo typically run late April-July. For everything else, ask operators about local weather/visibility and plan for early starts in warmer months."
   - question: "Can I gift this as a voucher?"
-    answer: "Yes-most providers offer date-flexible vouchers (great for birthdays/holidays). Include a note on blackout dates, age/weight limits, and what's included (gear, photos, meals)."
+    answer: "Yes, most providers offer date-flexible vouchers (great for birthdays/holidays). Include a note on blackout dates, age/weight limits, and what's included (gear, photos, meals)."
   - question: "What should they bring on the day?"
     answer: "Closed-toe shoes, sun protection (hat, SPF, sunglasses), water, layered clothing, and any personal meds. Optional: compact camera/GoPro, lightweight daypack, and a towel for water activities."
 ---
@@ -27,7 +27,7 @@ faq:
 
 - Swap “stuff” for stories: gift an Aussie adventure-bridge climbs, waterfall abseils, whale-shark swims, whitewater, great-white cage dives, epic hikes, Kimberley cruises, wine-with-wilderness, and outback 4WD.
 - Match the thrill level, duration, and season to your giftee (from 2-hour city views to multi-day remote expeditions).
-- Go guided for safety and simplicity-most operators include gear, briefings, and flexible vouchers.
+- Go guided for safety and simplicity, most operators include gear, briefings, and flexible vouchers.
 - Add personal touches (journal, camera case, brunch booking) to turn an experience into a lifelong memory.
 
 ---
@@ -122,7 +122,7 @@ A. Usually not. Bridge climbs, guided abseils, snorkel-based marine encounters, 
 A. It varies by region/activity. Example: whale-shark swims at Ningaloo typically run late April-July. For everything else, ask operators about local weather/visibility and plan for early starts in warmer months.
 
 **Q. Can I gift this as a voucher?**  
-A. Yes-most providers offer date-flexible vouchers (great for birthdays/holidays). Include a note on blackout dates, age/weight limits, and what's included (gear, photos, meals).
+A. Yes, most providers offer date-flexible vouchers (great for birthdays/holidays). Include a note on blackout dates, age/weight limits, and what's included (gear, photos, meals).
 
 **Q. What should they bring on the day?**  
 A. Closed-toe shoes, sun protection (hat, SPF, sunglasses), water, layered clothing, and any personal meds. Optional: compact camera/GoPro, lightweight daypack, and a towel for water activities.

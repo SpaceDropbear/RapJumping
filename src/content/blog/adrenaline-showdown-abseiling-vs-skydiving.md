@@ -29,7 +29,7 @@ faq:
 - Abseiling offers pace control, lower cost, and minimal gear; skydiving delivers intense adrenaline, higher cost, and regulated equipment.
 - Abseiling needs anchor and rope skills; skydiving (tandem) needs no licence but solo jumps require certification.
 - Abseiling hotspots: Blue Mountains (NSW) and coastal cliffs; skydiving: Great Ocean Road, Brisbane, Sydney.
-- Choose based on budget, fear factor, thrill preference, and local access-or do both for variety.
+- Choose based on budget, fear factor, thrill preference, and local access, or do both for variety.
 
 ---
 
@@ -41,14 +41,14 @@ In this guide, you'll discover what makes abseiling and skydiving different, how
 
 ## Know abseiling basics
 
-Abseiling, often called rappelling in the United States, is all about controlling your descent down a rope. You clip into a harness, lean back-sometimes over a dramatic cliff edge-and steadily move downward, feeding the rope through a belay device at your hip. It's used by climbers, mountaineers, cavers, canyoners, and rescue teams when the terrain is too steep or risky to tackle unprotected.
+Abseiling, often called rappelling in the United States, is all about controlling your descent down a rope. You clip into a harness, lean back, sometimes over a dramatic cliff edge, and steadily move downward, feeding the rope through a belay device at your hip. It's used by climbers, mountaineers, cavers, canyoners, and rescue teams when the terrain is too steep or risky to tackle unprotected.
 
 Abseiling demands a certain level of trust in your gear and your technique. Most accidents (around 25% of climbing-related fatalities, according to American Alpine Club accident reports) happen because of an anchor failure or something equally preventable, like running off the end of your rope. So proper training, good-quality equipment, and a calm head are absolute musts.
 
 ### Where abseiling fits in
 
 - Perfect for cliff or canyon adventures.
-- Offers control-you choose your speed and rhythm.
+- Offers control: you choose your speed and rhythm.
 - Minimal gear to start with: a rope, harness, and sturdy anchor.
 
 Abseiling in many regions is allowed, though some places discourage it for environmental or safety reasons. This can happen when there's a clash between those trying to climb up and those coming down, or if hey, it's just too risky in certain spots. Before you pop on your harness, always check local regulations.
@@ -100,7 +100,7 @@ Whether you choose to abseil or skydive, you'll need to respect each sport's ris
 - Pay attention to the briefing: from exit procedure to canopy control.
 - Keep your head clear. Most mistakes happen when people panic.
 
-Skydiving gear is strictly regulated in most places, so you can trust it's been inspected recently. Abseiling gear might be more variable-especially if you're renting or borrowing-so don't be shy about asking questions or requesting to see the equipment's condition before you take off.
+Skydiving gear is strictly regulated in most places, so you can trust it's been inspected recently. Abseiling gear might be more variable-especially if you're renting or borrowing, so don't be shy about asking questions or requesting to see the equipment's condition before you take off.
 
 ## Explore Aussie hotspots
 
@@ -108,7 +108,7 @@ Australia's vast landscapes and coastal treasures mean you can find prime places
 
 Prefer to jump from a plane? There's plenty of that too. Skydiving over the Great Ocean Road near Melbourne gives you a jaw-dropping coastal panorama. If you're more into city views, you can skydive near Brisbane or Sydney to watch those iconic skylines from above.
 
-If you're hunting for more tension-taming entertainment, you could check out other activities in the region-like bungee jumping or indoor skydiving-for a safer or more contained version of the free-fall thrill. You'll find plenty of adventurous inspiration in [adventure sports Australia](/abseiling-and-adventure-sport-crossovers/). It's a quick reference to spots that might just scratch your daredevil itch, whether you want to dive off a platform with a bungee cord or repel down a cliff face.
+If you're hunting for more tension-taming entertainment, you could check out other activities in the region, like bungee jumping or indoor skydiving-for a safer or more contained version of the free-fall thrill. You'll find plenty of adventurous inspiration in [adventure sports Australia](/abseiling-and-adventure-sport-crossovers/). It's a quick reference to spots that might just scratch your daredevil itch, whether you want to dive off a platform with a bungee cord or repel down a cliff face.
 
 ## Weigh cost and accessibility
 
@@ -121,7 +121,7 @@ Abseiling is often more accessible if you live near cliffs or climbing gyms that
 
 ## Consider training time
 
-You don't typically need a licence to abseil. A short session or course can teach you the basics, and you're good to go. Just remember that the environment matters-a short cliff is one thing, a tricky canyon descent is another. Start small and graduate to more challenging descents once you're confident in your anchoring and rope-handling skills.
+You don't typically need a licence to abseil. A short session or course can teach you the basics, and you're good to go. Just remember that the environment matters: a short cliff is one thing, a tricky canyon descent is another. Start small and graduate to more challenging descents once you're confident in your anchoring and rope-handling skills.
 
 Skydiving has more of a formal structure if you decide to go beyond tandem. You'd need to enrol in an Accelerated Freefall (AFF) programme to work toward jumping solo. Expect multiple jumps with instructors who'll guide you on stable body position, canopy control, and safe landings. Over time, you can earn licenses that allow you to jump with friends, perform formation skydives, and even try big-way skydiving events.
 
@@ -140,7 +140,7 @@ If you're still on the fence about whether abseiling or skydiving suits you best
 - Are you ready to jump straight into free-fall, or do you want a slower-paced descent?
 - Is there easy access to cliffs or local drop zones near you?
 
-Neither choice is wrong-both can be wild, memorable, and a little addictive. Worst-case scenario: you love them both and add “thrill-seeker” to your CV. If you get hooked, you can even start mixing adventures: maybe do some abseiling one weekend, then gear up for a plane jump the next.
+Neither choice is wrong, both can be wild, memorable, and a little addictive. Worst-case scenario: you love them both and add “thrill-seeker” to your CV. If you get hooked, you can even start mixing adventures: maybe do some abseiling one weekend, then gear up for a plane jump the next.
 
 ---
 

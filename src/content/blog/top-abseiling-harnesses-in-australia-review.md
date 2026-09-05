@@ -56,7 +56,7 @@ Harnesses that meet UIAA 105 or EN-12277 standards have been tested for critical
 
 ### Comfort and fit
 
-Abseiling can mean hanging in your harness much longer than you might in a quick top-rope situation. You'll want enough padding to distribute pressure, plus a snug waist belt that fits above your hips without sliding around. If you're often layering clothes-maybe for ice abseils or chilly mornings-an adjustable design around the legs can make life easier.
+Abseiling can mean hanging in your harness much longer than you might in a quick top-rope situation. You'll want enough padding to distribute pressure, plus a snug waist belt that fits above your hips without sliding around. If you're often layering clothes, maybe for ice abseils or chilly mornings: an adjustable design around the legs can make life easier.
 
 ### Gear loops
 
@@ -120,7 +120,7 @@ Keep in mind that the lighter the harness, the less bulky padding you'll get. Th
 
 ### Petzl Sitta harness
 
-The Petzl Sitta harness is known for being both light and versatile. It's marketed heavily for climbing, but hybrid abseilers-those who love being on both sides of the rope-embrace it too. With four gear loops and minimal bulk, it's a solid companion if you're combining long hikes, climbing sections, and abseils all in one day.
+The Petzl Sitta harness is known for being both light and versatile. It's marketed heavily for climbing, but hybrid abseilers: those who love being on both sides of the rope-embrace it too. With four gear loops and minimal bulk, it's a solid companion if you're combining long hikes, climbing sections, and abseils all in one day.
 
 - Highlights:
   - Sleek profile reduces interference when moving
@@ -131,7 +131,7 @@ If you're leaning toward advanced rope work, including multi-pitch abseils or ic
 
 ### Mammut Sender harness
 
-The Mammut Sender harness focuses on comfort during big projects. It features flexible materials that adapt to your body without feeling floppy. If you anticipate lots of rope time-either climbing or abseiling-this harness can be a helpful ally. It's also built to be breathable, so you stay cooler on the harness line.
+The Mammut Sender harness focuses on comfort during big projects. It features flexible materials that adapt to your body without feeling floppy. If you anticipate lots of rope time-either climbing or abseiling: this harness can be a helpful ally. It's also built to be breathable, so you stay cooler on the harness line.
 
 - Highlights:
   - Supports long hangs without digging in

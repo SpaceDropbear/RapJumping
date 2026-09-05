@@ -1,10 +1,10 @@
 ---
 title: "Melbourne Weekender"
-description: "Join Jade as she faces her fears with rap jumping in Melbourne's CBD. From rooftop nerves to adrenaline-fueled fun-this is urban adventure at its best."
+description: "Join Jade as she faces her fears with rap jumping in Melbourne's CBD. From rooftop nerves to adrenaline-fuelled fun, this is urban adventure at its best."
 pubDate: "2025-07-21"
 updatedDate: "2026-06-12"
 heroImage: "/images/2025/07/melbourne-weekender-logo.webp"
-heroAlt: ""
+heroAlt: "Melbourne Weekender programme logo"
 tags: ["stories"]
 featured: false
 readingTime: 2
@@ -30,7 +30,7 @@ Aired: 26 Apr 2016
 But first up, Jade is hanging around in the city.
 
 **Jade:**  
-I'm here in the city, amongst the rooftops-and when you're standing up this high, you don't want to look down.  
+I'm here in the city, amongst the rooftops, and when you're standing up this high, you don't want to look down.  
 But things are done a little differently here at Urban Central Rap Jumping.
 
 I just looked down… they run down.

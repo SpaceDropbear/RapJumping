@@ -107,7 +107,7 @@ If you're still mastering your anchor knots, practise the rethreaded figure-eigh
 
 ## Try multi-point anchor techniques
 
-Sometimes you don't have a single perfect anchor-maybe you have three smaller trees or a couple of good cracks for wires. Multi-point anchors, or load-sharing anchors, are your next step. They distribute forces across multiple points, introducing a neat layer of redundancy.
+Sometimes you don't have a single perfect anchor, maybe you have three smaller trees or a couple of good cracks for wires. Multi-point anchors, or load-sharing anchors, are your next step. They distribute forces across multiple points, introducing a neat layer of redundancy.
 
 ### Equalised anchor approach
 
@@ -144,7 +144,7 @@ While you build or adjust your anchor, keep yourself clipped in. A personal teth
 
 ### Consider gear checks and training
 
-No matter how advanced you are, it's valuable to revisit anchor-building fundamentals and rescue readiness. Check out abseiling rescue procedures for an overview of dealing with sudden issues mid-descent. Safe abseiling isn't just about the anchor-it's also about your readiness to respond.
+No matter how advanced you are, it's valuable to revisit anchor-building fundamentals and rescue readiness. Check out abseiling rescue procedures for an overview of dealing with sudden issues mid-descent. Safe abseiling isn't just about the anchor: it's also about your readiness to respond.
 
 ## Maintain and inspect anchors
 

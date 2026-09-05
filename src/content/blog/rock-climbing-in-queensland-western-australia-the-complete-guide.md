@@ -1,6 +1,6 @@
 ---
 title: "Rock Climbing in Queensland & Western Australia: The Complete Guide"
-description: "The complete guide to rock climbing in Queensland & Western Australia: crags, grades, seasons and access via QPWS (parks.qld.gov.au), Brisbane City Council and DBCA WA."
+description: "The complete guide to rock climbing in Queensland & Western Australia: crags, grades, seasons and access via QPWS, Brisbane City Council and DBCA WA."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/rock-climbing-in-queensland-western-australia-the-complete-guide.webp"
 heroAlt: "A climber high on a warm-toned Australian crack line, dry eucalypt bush far below"

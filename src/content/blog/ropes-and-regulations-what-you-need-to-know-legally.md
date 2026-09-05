@@ -139,7 +139,7 @@ When choosing a rope, consider:
 - Frequency of use (occasional vs. daily)
 - Local regulations that might require specific materials or load ratings
 
-Renco Nets, for example, has over 40 years of industry expertise, offering a range of ropes adapted to different fields, from high-rise construction work to general climbing. This is illustrative of how important it is to get expert advice before you place your weight-and life-on a rope.
+Renco Nets, for example, has over 40 years of industry expertise, offering a range of ropes adapted to different fields, from high-rise construction work to general climbing. This is illustrative of how important it is to get expert advice before you place your weight, and life-on a rope.
 
 ## Commit to training and certification
 
@@ -153,7 +153,7 @@ Training providers often have the authority to bar you from courses if they feel
 
 ## Carry out regular risk assessments
 
-Working at height always involves some level of risk, but you can drastically reduce it with systematic checks. Risk assessments generally include a site evaluation-a chance to spot hazards such as unstable structures, unforgiving weather, or compromised anchor points. Once identified, these risks can be ranked and addressed through formal control measures. You might, for instance, swap out a rope that looks a bit worn or use a secondary anchor if you suspect the primary one isn't rock-solid.
+Working at height always involves some level of risk, but you can drastically reduce it with systematic checks. Risk assessments generally include a site evaluation: a chance to spot hazards such as unstable structures, unforgiving weather, or compromised anchor points. Once identified, these risks can be ranked and addressed through formal control measures. You might, for instance, swap out a rope that looks a bit worn or use a secondary anchor if you suspect the primary one isn't rock-solid.
 
 Communication is also crucial:
 
@@ -207,7 +207,7 @@ A. Keep up with regulation updates, maintain records/logbooks, and follow recogn
 
 ## Summarise your next steps
 
-When you're juggling rope systems, anchor points, and government oversight, it's easy to feel swamped. But staying on top of the rules does more than shield you from fines-it could literally save your life. As you continue honing your rope access skills, remember to:
+When you're juggling rope systems, anchor points, and government oversight, it's easy to feel swamped. But staying on top of the rules does more than shield you from fines: it could literally save your life. As you continue honing your rope access skills, remember to:
 
 - Follow thorough inspection routines, ideally every day you use your ropes
 - Invest in formal training and certification programs

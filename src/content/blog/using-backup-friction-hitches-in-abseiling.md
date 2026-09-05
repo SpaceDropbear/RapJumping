@@ -196,7 +196,7 @@ By keeping a prusik cord handy, you're better prepared for those unexpected mome
 
 ## Stay mindful of time and energy
 
-One of the arguments people make against using a prusik backup is that it takes extra time to set up. Realistically, it might only add a minute or two to your total rigging. Compare that small investment to the potential risks of abseiling without a backup-most would agree it's time well spent.
+One of the arguments people make against using a prusik backup is that it takes extra time to set up. Realistically, it might only add a minute or two to your total rigging. Compare that small investment to the potential risks of abseiling without a backup, most would agree it's time well spent.
 
 - Quick rigging tips
   - Pre-cut your cord to the right length.
@@ -219,7 +219,7 @@ To ensure you have a quick reference guide, here's a summary of how to set up an
 
 ## Check your overall abseiling safety
 
-A prusik backup is just one part of a larger picture. Safe abseiling involves a handful of procedures and constant vigilance. If you'd like more guidance on anchor checks, rope inspection, or emergency planning, you might want to explore abseiling safety. It's all about covering your bases so your descent goes smoothly-even if surprises pop up.
+A prusik backup is just one part of a larger picture. Safe abseiling involves a handful of procedures and constant vigilance. If you'd like more guidance on anchor checks, rope inspection, or emergency planning, you might want to explore abseiling safety. It's all about covering your bases so your descent goes smoothly, even if surprises pop up.
 
 - Inspect your gear
   - Examine your harness for wear on the belay loop and webbing.

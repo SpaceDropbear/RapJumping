@@ -25,7 +25,7 @@ faq:
 
 ## TL;DR
 
-- Around 25% of climbing deaths occur during abseiling-most preventable with good gear, planning, and backups.
+- Around 25% of climbing deaths occur during abseiling, most preventable with good gear, planning, and backups.
 - Use certified, well-maintained gear: harness, helmet, belay device, locking carabiners, and inspected ropes.
 - Always double-check anchors, rope length, and knots before descent.
 - Employ backups like prusik loops or autoblocs for added safety.
@@ -139,7 +139,7 @@ One basic principle is never to grab the rope above the belay device. Your brake
 
 ### Watch out for tangles
 
-Loose clothing, jewellery, and long hair can get caught in your belay device. This can cause panic-and potentially a fall if you end up letting go of the rope. Tie back long hair and remove accessories that may dangle.
+Loose clothing, jewellery, and long hair can get caught in your belay device. This can cause panic, and potentially a fall if you end up letting go of the rope. Tie back long hair and remove accessories that may dangle.
 
 ### Avoid rope run-out
 
@@ -171,7 +171,7 @@ Rope snags, unexpected weather changes, or gear malfunctions can happen no matte
 
 ### Know your rescue options
 
-If you get stuck mid-descent-say your rope jams or you lose tension-you can perform a self-rescue with prusiks or an ascender. For step-by-step guidance, check out [rappelling self rescue](/losing-control-on-a-rappel-self-rescue-techniques/). Another valuable skill is [self arrest rappelling](/rappelling-and-self-arrest-emergency-braking-techniques/), which can help you recover control if you slip.
+If you get stuck mid-descent-say your rope jams or you lose tension: you can perform a self-rescue with prusiks or an ascender. For step-by-step guidance, check out [rappelling self rescue](/losing-control-on-a-rappel-self-rescue-techniques/). Another valuable skill is [self arrest rappelling](/rappelling-and-self-arrest-emergency-braking-techniques/), which can help you recover control if you slip.
 
 ### Carry a first-aid kit and comms
 
@@ -197,7 +197,7 @@ IRATA (Industrial Rope Access Trade Association) and SPRAT (Society of Professio
 - IRATA: Often used for industrial applications like building maintenance and offshore work.
 - SPRAT: Focuses on rope access in North America and internationally, with a strong emphasis on safe practice and rigorous testing.
 
-Many training providers-like Altius Technical Services-offer dual certifications. If you don't pass the first time, you can usually reattempt the assessment within 60 days. After completing either program, you'll have a logbook to track hours and experience. Keep it up to date, because revalidating or upgrading your level depends on verifiable real-world experience.
+Many training providers, like Altius Technical Services-offer dual certifications. If you don't pass the first time, you can usually reattempt the assessment within 60 days. After completing either program, you'll have a logbook to track hours and experience. Keep it up to date, because revalidating or upgrading your level depends on verifiable real-world experience.
 
 ### Medical fitness
 
@@ -230,7 +230,7 @@ A. Yes-certifications like IRATA or SPRAT teach anchor-building, rope-handling, 
 
 ## Wrap up your knowledge
 
-Abseiling is an exhilarating way to explore cliffs, caves, and high places that most people never see from above. By now, you've seen how important it is to use reliable gear, perform regular checks, and understand backup systems. Simple steps-like tying stopper knots, double-checking harness connections, and installing a prusik backup-are often the difference between a smooth journey and a nerve-wracking close call.
+Abseiling is an exhilarating way to explore cliffs, caves, and high places that most people never see from above. By now, you've seen how important it is to use reliable gear, perform regular checks, and understand backup systems. Simple steps, like tying stopper knots, double-checking harness connections, and installing a prusik backup-are often the difference between a smooth journey and a nerve-wracking close call.
 
 Don't forget environmental factors, either. Heat can sap your energy and clarity of thought, so stay hydrated and take breaks in the shade when needed. Buddy up, communicate clearly, and carry a rescue plan, because an abseiling emergency can escalate quickly if you're not prepared. If you're planning more advanced or commercial rope access, consider IRATA or SPRAT certification to sharpen your expertise.
 

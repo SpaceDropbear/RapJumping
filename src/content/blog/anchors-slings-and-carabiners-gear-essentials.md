@@ -33,7 +33,7 @@ Anchor slings are a critical link in your abseiling system, connecting you secur
 
 Getting ready for a day of abseiling often means double-checking your harness, ropes, and carabiners. One item that definitely deserves top billing is anchor slings. These essential loops of webbing (or sometimes cable or chain) connect you securely to your anchor point, giving you peace of mind while you focus on a smooth, safe descent. If you're diving into abseiling for the first time or simply updating your kit, understanding how these slings work, which materials to pick, and how to keep them in top shape is key to a worry-free experience.
 
-You might be asking yourself, “Why do I even need specialised slings at all?” The short answer: proper anchor slings reduce your risk of gear failure and let you set up consistent, solid anchor points. In abseiling, every connection matters-and few connections are more important than the one holding you to a stable rock face or beam.
+You might be asking yourself, “Why do I even need specialised slings at all?” The short answer: proper anchor slings reduce your risk of gear failure and let you set up consistent, solid anchor points. In abseiling, every connection matters, and few connections are more important than the one holding you to a stable rock face or beam.
 
 Before you clip in and lean back in confidence, let's cover the sling basics, compare different materials, explore carabiner choices, and outline inspection tips. By the time you reach the end, you'll have the know-how to select gear you can trust at any drop.
 
@@ -105,7 +105,7 @@ In most typical abseiling scenarios, you'll likely reach for nylon or Dyneema sl
 
 ## Inspect and maintain your gear
 
-So, you've chosen your preferred anchor slings. Next up is making sure they stay in top condition for years to come. Regular inspection, care, and maintenance aren't just suggestions-they're essential steps in preventing accidents.
+So, you've chosen your preferred anchor slings. Next up is making sure they stay in top condition for years to come. Regular inspection, care, and maintenance aren't just suggestions: they're essential steps in preventing accidents.
 
 ### Inspect slings thoroughly
 
@@ -156,7 +156,7 @@ Non-locking carabiners are smaller, lighter, and good for clipping quickdraws or
 
 ### Carabiner shapes and materials
 
-There are many shapes-pear (HMS), D, or offset-D, for instance-and each offers slight advantages. For anchor building, pear-shaped carabiners give you extra room for multiple knots or slings. You'll also find carabiners in materials like aluminium (lightweight and common for mainstream abseiling) or steel (heavier but extremely durable).
+There are many shapes-pear (HMS), D, or offset-D, for instance, and each offers slight advantages. For anchor building, pear-shaped carabiners give you extra room for multiple knots or slings. You'll also find carabiners in materials like aluminium (lightweight and common for mainstream abseiling) or steel (heavier but extremely durable).
 
 Ultimately, you want a carabiner rated to at least 22kN for climbing and abseiling tasks. Check the stamped rating before buying.
 
@@ -212,9 +212,9 @@ You might still have a few nagging questions about anchor slings, so here are so
 - “How often should I replace my synthetic slings?”  
   It depends on frequency of use, storage conditions, and any signs of damage. Many climbers and abseilers work with a retirement timeline of about 5-10 years for well-maintained nylon slings, but damage (even slight) is a reason to retire immediately.
 - “Can I use climbing slings for abseiling anchors?”  
-  Absolutely, as long as they meet the required strength standards (commonly 22kN). Most climbing slings are very suitable for abseiling tasks-just be sure to monitor wear and tear closely.
+  Absolutely, as long as they meet the required strength standards (commonly 22kN). Most climbing slings are very suitable for abseiling tasks, just be sure to monitor wear and tear closely.
 - “What's the difference between an anchor sling and a runner?”  
-  These terms can sometimes be used interchangeably in climbing contexts. Typically, a runner is a loop of webbing used to extend protection placements or reduce rope drag, while an anchor sling might indicate a loop specifically designed for anchor setups. Functionally, both are often made the same way-just watch the strength rating.
+  These terms can sometimes be used interchangeably in climbing contexts. Typically, a runner is a loop of webbing used to extend protection placements or reduce rope drag, while an anchor sling might indicate a loop specifically designed for anchor setups. Functionally, both are often made the same way, just watch the strength rating.
 
 ## Strength in knowledge
 
@@ -245,6 +245,6 @@ A: Depending on use and storage, synthetic slings can last 5-10 years, but retir
 
 ## Conclusion
 
-Anchor slings are indispensable in abseiling, creating that critical link between your harness and a solid anchor point. By choosing the right material-be it nylon, Dyneema, wire rope, or even chain-you can tailor your setup to different environments and demands. Regular cleaning, lubrication (for metal slings), and inspection keep your gear performing at a top-notch level, so no single abseil is left to chance. And let's not forget the role of carabiners, harnesses, ropes, and other accessories that form your complete system.
+Anchor slings are indispensable in abseiling, creating that critical link between your harness and a solid anchor point. By choosing the right material-be it nylon, Dyneema, wire rope, or even chain: you can tailor your setup to different environments and demands. Regular cleaning, lubrication (for metal slings), and inspection keep your gear performing at a top-notch level, so no single abseil is left to chance. And let's not forget the role of carabiners, harnesses, ropes, and other accessories that form your complete system.
 
 Your next step? Do a quick inventory of your current gear. Inspect your slings for any fraying or worn spots, and pick up replacements if you notice any weak links. If you want a broader rundown of what might round out your gear closet, drop by our overview of abseiling gear for more handy tips and product suggestions. Then head out to your favourite descent, clip in confidently, and enjoy one of the most thrilling perspectives on the planet.

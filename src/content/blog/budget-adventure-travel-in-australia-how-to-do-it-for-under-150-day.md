@@ -1,6 +1,6 @@
 ---
 title: "Budget Adventure Travel in Australia: How to Do It for Under $150/Day"
-description: "Do adventure travel in Australia for under $150/day. A realistic budget breakdown, free activities, gear hire tips and where the money really goes. Indicative AUD."
+description: "Do adventure travel in Australia for under $150/day. A realistic budget breakdown, free activities, gear hire tips and where the money really goes."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/budget-adventure-travel-in-australia-how-to-do-it-for-under-150-day.webp"
 heroAlt: "Two backpackers wading across a rocky creek on a bush walk, packs high on their shoulders"

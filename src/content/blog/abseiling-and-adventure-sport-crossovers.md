@@ -42,7 +42,7 @@ faq:
 
 ---
 
-If you're on the hunt for exhilarating adventure sports Australia has to offer, abseiling might already be on your radar. But did you know abseiling can easily blend into other adrenaline activities and expand your thrill-seeking horizons? By combining multiple sports-everything from skydiving to cave exploration-you can craft a personalised adventure that matches your comfort level and challenges you to push your limits. In this ultimate guide, you'll find out how abseiling fits into Australia's booming adventure scene, what to expect if you're mixing abseiling with other heart-pounding options, and how to stay safe following national standards.
+If you're on the hunt for exhilarating adventure sports Australia has to offer, abseiling might already be on your radar. But did you know abseiling can easily blend into other adrenaline activities and expand your thrill-seeking horizons? By combining multiple sports-everything from skydiving to cave exploration: you can craft a personalised adventure that matches your comfort level and challenges you to push your limits. In this ultimate guide, you'll find out how abseiling fits into Australia's booming adventure scene, what to expect if you're mixing abseiling with other heart-pounding options, and how to stay safe following national standards.
 
 Whether you're a seasoned adventurer or just curious about your first descent, let's take a deep dive into what abseiling crossovers look like, and how you can plan an epic trip.
 
@@ -84,7 +84,7 @@ If you're specifically eyeing abseiling as a launchpad, you'll find it integrate
 
 ### Abseiling and rock climbing
 
-Rock climbing is the primary cousin to abseiling. Often, you'll climb up a route, then abseil back down. You can also plan a multi-activity day, alternating between both. If you want a deeper dive into these differences, take a peek at [rock climbing vs rappelling](/rock-climbing-vs-abseiling-key-differences/). This will help you decide if you'd prefer the mental puzzle of climbing or the thrill of a controlled descent-or both!
+Rock climbing is the primary cousin to abseiling. Often, you'll climb up a route, then abseil back down. You can also plan a multi-activity day, alternating between both. If you want a deeper dive into these differences, take a peek at [rock climbing vs rappelling](/rock-climbing-vs-abseiling-key-differences/). This will help you decide if you'd prefer the mental puzzle of climbing or the thrill of a controlled descent, or both!
 
 ### Abseiling and skydiving
 

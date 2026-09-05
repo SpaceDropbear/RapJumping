@@ -22,7 +22,7 @@ faq:
   - question: "How does joining a community help?"
     answer: "You get partner checks, hands-on feedback, workshops, and safer progression with experienced members."
   - question: "Is the guidance relevant in Australia?"
-    answer: "Yes-the principles are universal, and local groups help you adapt to Australian conditions and venues."
+    answer: "Yes: the principles are universal, and local groups help you adapt to Australian conditions and venues."
 ---
 
 ---
@@ -112,7 +112,7 @@ Though it's more advanced in scope, you can still benefit from reading it early 
 
 ## Join an abseiling community
 
-Reading and listening to experts can get you far, but nothing beats real-life practice in a supportive group. If you're based in Australia-or planning a visit-check out the abseiling community australia. Local communities often hold workshops, group outings, and social events that fast-track trust-building and skill-development. You'll swap stories and gear tips in person, make new climbing friends, and gain confidence under the watchful eyes of experienced members.
+Reading and listening to experts can get you far, but nothing beats real-life practice in a supportive group. If you're based in Australia, or planning a visit-check out the abseiling community australia. Local communities often hold workshops, group outings, and social events that fast-track trust-building and skill-development. You'll swap stories and gear tips in person, make new climbing friends, and gain confidence under the watchful eyes of experienced members.
 
 Joining or forming a club also helps you:
 
@@ -146,7 +146,7 @@ A. Rope management, controlling friction, anchor choices, descent planning, and 
 A. You get partner checks, hands-on feedback, workshops, and safer progression with experienced members.
 
 **Q. Is the guidance relevant in Australia?**  
-A. Yes-the principles are universal, and local groups help you adapt to Australian conditions and venues.
+A. Yes: the principles are universal, and local groups help you adapt to Australian conditions and venues.
 
 ---
 
@@ -154,7 +154,7 @@ A. Yes-the principles are universal, and local groups help you adapt to Australi
 
 There's a reason so many climbers call abseiling “controlled falling.” You want adequate friction on the rope, proper anchor setups, and an extra margin of safety, especially when you're hundreds of feet off the ground. Learning from a solid abseiling podcast, backed by trusted climbing books, teaches you how to manage those risks and helps you avoid the common pitfalls of hasty descents.
 
-Don't forget to set clear personal goals before you press play or crack open the first page. Maybe you want to transition from gym climbing to multi-pitch routes, or you're aiming to become a certified guide one day. Either way, a blend of real-world mentorship, online audio learning, and honest reading-even if it's just a chapter a week-gives you a serious advantage.
+Don't forget to set clear personal goals before you press play or crack open the first page. Maybe you want to transition from gym climbing to multi-pitch routes, or you're aiming to become a certified guide one day. Either way, a blend of real-world mentorship, online audio learning, and honest reading, even if it's just a chapter a week-gives you a serious advantage.
 
 Below is a quick recap on how to make the most of these curated resources:
 
@@ -164,6 +164,6 @@ Below is a quick recap on how to make the most of these curated resources:
 - Continuously review your technique. Small adjustments can drastically reduce fatigue or friction burns.
 - Never ignore safety. A thoroughly inspected rope, properly fitted harness, and a reliable anchor are non-negotiable.
 
-Sharing your experiences-both good and embarrassing-enriches the entire climbing community. So be open: talk about your first shaky abseil or the time you forgot your gloves. You'll inspire others to learn from your mistakes and remind yourself just how far you've come.
+Sharing your experiences, both good and embarrassing-enriches the entire climbing community. So be open: talk about your first shaky abseil or the time you forgot your gloves. You'll inspire others to learn from your mistakes and remind yourself just how far you've come.
 
-Happy descending, and remember-you're never alone on the rope when you have the wisdom of expert climbers, podcast hosts, and published authors right by your side!
+Happy descending, and remember: you're never alone on the rope when you have the wisdom of expert climbers, podcast hosts, and published authors right by your side!

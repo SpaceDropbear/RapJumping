@@ -64,11 +64,11 @@ When it comes to abseiling gear, two harness designs typically dominate conversa
   - Reduced chance of flipping upside-down during a fall
   - Ideal for rescue situations or for kids
 
-A sit harness is incredibly popular for everyday abseiling and climbing because it's simple, comfortable, and straightforward to use. For more complex scenarios-like rescue teams operating in tough conditions, or workers who spend hours suspended-a full-body design may be the safer bet. Whichever you choose, it's crucial to test drive it in-store or at home before hitting the cliffside.
+A sit harness is incredibly popular for everyday abseiling and climbing because it's simple, comfortable, and straightforward to use. For more complex scenarios, like rescue teams operating in tough conditions, or workers who spend hours suspended: a full-body design may be the safer bet. Whichever you choose, it's crucial to test drive it in-store or at home before hitting the cliffside.
 
 ## Choose the right harness for you
 
-The goal isn't to just buy a harness-it's to feel confident when you're about to step off a ledge and trust your gear. So, which harness is right for you?
+The goal isn't to just buy a harness: it's to feel confident when you're about to step off a ledge and trust your gear. So, which harness is right for you?
 
 A big factor is your body shape. If you have a standard torso-to-leg ratio, then you'll likely find a sit harness easy to adjust and comfortable for most abseiling. Heavier climbers or those with unique body proportions often prefer the extra security of a combination chest and sit harness, or a full-body harness, so they're less likely to flip in a fall. Children especially benefit from a full-body setup because it sits higher, giving better stability and more security around their chest and shoulders.
 
@@ -107,7 +107,7 @@ A harness might last up to 10 years, but it depends on how often you use it and 
 
 - Look for worn webbing, frayed stitching, or tears, especially around tie-in points and gear loops.
 - Check buckles to ensure they haven't warped or lost their spring tension.
-- Pay attention to any changes in thickness or texture of the webbing-it could indicate weakening.
+- Pay attention to any changes in thickness or texture of the webbing: it could indicate weakening.
 - Read the manufacturer's instructions for recommended retirement conditions, and do not push your harness beyond its safe limit.
 
 When you store your harness, keep it away from direct sunlight, chemicals, or sharp edges that might degrade the material. Travelling to a crag? Don't just toss your harness in the trunk with leaky fuel cans or toss it in the corner of a shed. Cleanliness and dryness extend your harness' life significantly.
@@ -164,6 +164,6 @@ A: It prevents inversion during a fall and improves load distribution when used 
 
 ## Final thoughts and next steps
 
-You can't go wrong with a reliable sit harness if standard abseiling and climbing are your norms. It's the do-it-all option that's easy to put on, comfortable to hang in, and widely available in different fits for men, women, and children. On the other hand, if your abseiling ops get technical-or if you're new and keen on a harness that offers more coverage-then a full-body harness has you covered. Always do a hang test, check your harness after each climb, and retire it once it shows signs of damage or hits its age limit.
+You can't go wrong with a reliable sit harness if standard abseiling and climbing are your norms. It's the do-it-all option that's easy to put on, comfortable to hang in, and widely available in different fits for men, women, and children. On the other hand, if your abseiling ops get technical, or if you're new and keen on a harness that offers more coverage, then a full-body harness has you covered. Always do a hang test, check your harness after each climb, and retire it once it shows signs of damage or hits its age limit.
 
 If you're still fine-tuning the rest of your kit, check out our abseiling gear to find everything else you need for a safe drop. Here's the bottom line: whichever harness you choose, the key is practising good fit, thorough inspections, and correct usage every single time. Stay safe out there, and enjoy those descents!

@@ -18,7 +18,7 @@ faq:
   - question: "Can I rappel with a belay device?"
     answer: "Yes-many belay devices (tube, guide mode, assisted braking) double as rappel devices when used properly."
   - question: "What rope diameter should I match with my device?"
-    answer: "Check the manufacturer's guidelines-most handle 8-11 mm, but canyoning or rescue devices may have wider ranges."
+    answer: "Check the manufacturer's guidelines, most handle 8-11 mm, but canyoning or rescue devices may have wider ranges."
 ---
 
 ---
@@ -181,7 +181,7 @@ A: Tube devices like the Black Diamond ATC can weigh as little as 60 g, making t
 A: Yes-many belay devices (tube, guide mode, assisted braking) double as rappel devices when used properly.
 
 **Q: What rope diameter should I match with my device?**  
-A: Check the manufacturer's guidelines-most handle 8-11 mm, but canyoning or rescue devices may have wider ranges.
+A: Check the manufacturer's guidelines, most handle 8-11 mm, but canyoning or rescue devices may have wider ranges.
 
 ---
 
@@ -191,6 +191,6 @@ With such a wide range of devices available, it is easy to feel overwhelmed. The
 
 Also, do not forget that your entire system matters. Picking the best device is just part of the puzzle. You need well-maintained ropes, a solid harness, reliable anchor points, and thoughtful technique. If you want a broader look at harnesses, slings, and more, check out our abseiling gear resource. It is a good idea to keep safety backups in place, such as your personal anchor tether, and pay special attention to double-checking knots.
 
-Above all, remember that abseiling is a skill, not just a piece of equipment. Spend time practising with a partner so you can gain confidence in using your descender-before you are perched atop a big drop. Whether you are planning to do short descents at your local crag or tackling epic canyons, it pays to be thorough. By picking a reputable, certified device that aligns with your style and by perfecting your setup technique, you can descend with less stress and more enjoyment.
+Above all, remember that abseiling is a skill, not just a piece of equipment. Spend time practising with a partner so you can gain confidence in using your descender, before you are perched atop a big drop. Whether you are planning to do short descents at your local crag or tackling epic canyons, it pays to be thorough. By picking a reputable, certified device that aligns with your style and by perfecting your setup technique, you can descend with less stress and more enjoyment.
 
 Have fun exploring the vertical world, and always keep safety first. If you have a go-to tip for making rappels feel more controlled, feel free to pass it along. You never know who might benefit from your experience. Now grab your gear and get out there. You have got some beautiful cliffs to descend. Enjoy the view!

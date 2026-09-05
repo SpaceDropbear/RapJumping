@@ -18,7 +18,7 @@ faq:
   - question: "What's the best way to store carabiners?"
     answer: "Keep them clean, dry, and away from corrosive materials or extreme temperatures-ideally in a gear bag or bin."
   - question: "Do I need to lubricate carabiners?"
-    answer: "Yes-apply a wax- or Teflon-based lubricant to gate and hinge points after cleaning to keep them smooth and free of grit."
+    answer: "Yes: apply a wax- or Teflon-based lubricant to gate and hinge points after cleaning to keep them smooth and free of grit."
 ---
 
 ---
@@ -63,7 +63,7 @@ This is where your detective hat comes in. Inspecting your gear regularly might 
 - Flex your rope gently and see if there are any flat spots, cuts or stiff sections.
 - Tug on buckles or webbing to feel for weak spots.
 
-If you spot major damage-like a cracked carabiner or a harness with structural wear-retire that item immediately. The same goes for a rope that's taken a heavy fall. Safety always comes first.
+If you spot major damage, like a cracked carabiner or a harness with structural wear-retire that item immediately. The same goes for a rope that's taken a heavy fall. Safety always comes first.
 
 ## Clean your carabiners
 
@@ -71,7 +71,7 @@ Carabiners are often the workhorses of your climbing system. They can last over 
 
 ### Step 1: Soak and scrub
 
-Place your carabiners in a bucket or sink filled with warm, soapy water. Gently swirl them around, then let them soak for a few minutes to loosen dirt. Use a soft brush to focus on the pivot points and inside the gate area. If you've noticed burrs or small sharp edges, a light sanding with fine-grit sandpaper can help smooth things out. Make sure you don't remove too much metal-just a gentle pass to eliminate rough spots.
+Place your carabiners in a bucket or sink filled with warm, soapy water. Gently swirl them around, then let them soak for a few minutes to loosen dirt. Use a soft brush to focus on the pivot points and inside the gate area. If you've noticed burrs or small sharp edges, a light sanding with fine-grit sandpaper can help smooth things out. Make sure you don't remove too much metal, just a gentle pass to eliminate rough spots.
 
 ### Step 2: Rinse away debris
 
@@ -165,7 +165,7 @@ A: With light use, up to 7 years; heavy use or visible wear means replacing much
 A: Keep them clean, dry, and away from corrosive materials or extreme temperatures-ideally in a gear bag or bin.
 
 **Q: Do I need to lubricate carabiners?**  
-A: Yes-apply a wax- or Teflon-based lubricant to gate and hinge points after cleaning to keep them smooth and free of grit.
+A: Yes: apply a wax- or Teflon-based lubricant to gate and hinge points after cleaning to keep them smooth and free of grit.
 
 ---
 

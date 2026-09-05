@@ -10,11 +10,11 @@ featured: false
 readingTime: 10
 faq:
   - question: "Do I really need gloves for abseiling?"
-    answer: "Yes-while not mandatory, gloves reduce rope burn risk, improve control, and make descents more comfortable."
+    answer: "Yes, while not mandatory, gloves reduce rope burn risk, improve control, and make descents more comfortable."
   - question: "Which is better: full-finger or half-finger gloves?"
     answer: "Full-finger gloves offer maximum protection, especially in cold or rough environments, while half-finger gloves provide better dexterity for knot-tying and handling gear."
   - question: "Can I use work gloves for abseiling?"
-    answer: "Work gloves aren't ideal-they often lack the grip, heat resistance, and fit needed for safe, controlled rope handling."
+    answer: "Work gloves aren't ideal: they often lack the grip, heat resistance, and fit needed for safe, controlled rope handling."
   - question: "How should abseiling gloves fit?"
     answer: "Snug but not tight-loose gloves can bunch and twist on the rope, while overly tight gloves can restrict blood flow and cause fatigue."
   - question: "How do I maintain abseiling gloves?"
@@ -67,7 +67,7 @@ You might think only your palms need protection, but your knuckles and fingertip
 
 ### Breathable back materials
 
-It is easy to forget that your hands can get sweaty when you focus on your feet and rope. Gloves that have breathable backs-often made of lightweight nylon or a mesh fabric-help prevent sweaty palms and keep your hands comfortable for longer periods.
+It is easy to forget that your hands can get sweaty when you focus on your feet and rope. Gloves that have breathable backs, often made of lightweight nylon or a mesh fabric-help prevent sweaty palms and keep your hands comfortable for longer periods.
 
 ### Secure closure system
 
@@ -79,7 +79,7 @@ When you visit an outdoor supply store or browse gear online, you will likely co
 
 ### Full-finger gloves
 
-Full-coverage gloves deliver maximum protection for your entire hand. Most models come with robust palm reinforcement, knuckle pads, and even double-layer leather in areas prone to wear. The downside is that you sacrifice a bit of fine motor control-which might matter if you need to tie knots or manipulate small gear at the anchor.
+Full-coverage gloves deliver maximum protection for your entire hand. Most models come with robust palm reinforcement, knuckle pads, and even double-layer leather in areas prone to wear. The downside is that you sacrifice a bit of fine motor control: which might matter if you need to tie knots or manipulate small gear at the anchor.
 
 ### Half-finger gloves
 
@@ -110,7 +110,7 @@ Gloves may show wear and tear faster than you expect, especially if you push the
 
 ### Clean them regularly
 
-Abseiling tends to kick up dirt, grit, and even bits of loose stone. If you do not clean your gloves from time to time, this debris can grind away at the fabric. After your outing, you can shake them out, then spot-clean any particularly dirty patches with mild soap and water. Check the manufacturer's recommendations first-some gloves handle machine washing well, while others need a gentle hand-clean.
+Abseiling tends to kick up dirt, grit, and even bits of loose stone. If you do not clean your gloves from time to time, this debris can grind away at the fabric. After your outing, you can shake them out, then spot-clean any particularly dirty patches with mild soap and water. Check the manufacturer's recommendations first, some gloves handle machine washing well, while others need a gentle hand-clean.
 
 ### Dry them thoroughly
 
@@ -135,13 +135,13 @@ Buying your first pair of abseiling gloves can feel overwhelming, especially whe
 ### FAQs
 
 **Q: Do I really need gloves for abseiling?**  
-A: Yes-while not mandatory, gloves reduce rope burn risk, improve control, and make descents more comfortable.
+A: Yes, while not mandatory, gloves reduce rope burn risk, improve control, and make descents more comfortable.
 
 **Q: Which is better: full-finger or half-finger gloves?**  
 A: Full-finger gloves offer maximum protection, especially in cold or rough environments, while half-finger gloves provide better dexterity for knot-tying and handling gear.
 
 **Q: Can I use work gloves for abseiling?**  
-A: Work gloves aren't ideal-they often lack the grip, heat resistance, and fit needed for safe, controlled rope handling.
+A: Work gloves aren't ideal: they often lack the grip, heat resistance, and fit needed for safe, controlled rope handling.
 
 **Q: How should abseiling gloves fit?**  
 A: Snug but not tight-loose gloves can bunch and twist on the rope, while overly tight gloves can restrict blood flow and cause fatigue.

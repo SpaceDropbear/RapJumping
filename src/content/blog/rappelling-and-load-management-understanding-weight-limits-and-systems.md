@@ -53,7 +53,7 @@ You'll find that consistent safety checks, strong anchors, correct rope deployme
 
 ### What is load management in rappelling?
 
-In rappelling, load management refers to controlling the forces you place on your rope, anchors, and descent device. When you manage load effectively, you reduce the chance of sudden shock loads, rope burns, heat build-up, and system failures. You might see load management defined in sports science as well, where athletes balance exertion to maintain performance over time. It's a similar concept in rope work-you want to preserve the integrity of your gear and your own safety by modulating pressure and speed.
+In rappelling, load management refers to controlling the forces you place on your rope, anchors, and descent device. When you manage load effectively, you reduce the chance of sudden shock loads, rope burns, heat build-up, and system failures. You might see load management defined in sports science as well, where athletes balance exertion to maintain performance over time. It's a similar concept in rope work: you want to preserve the integrity of your gear and your own safety by modulating pressure and speed.
 
 From a rope rescue perspective, load management is key because multiple devices, backup lines, or heavy equipment might be in play. You're also actively protecting your team, so the stakes are higher than a casual weekend climb. If you oversee training, load management helps you teach newcomers how to descend carefully, check their backup friction hitch, and respect the anchor's capacity.
 
@@ -81,7 +81,7 @@ Before you go over the edge, test-load your anchor system by weighting it briefl
 
 ### Figure 8 devices versus other options
 
-Figure 8 belay devices are classic for rappelling. They feature a large loop for the rope to pass through, plus a smaller loop that keeps everything tidy. You feed a bight of rope through the large opening and loop it around the small hole-then you're set to rappel. This design reduces rope twist and can be a good choice for swift descents in search-and-rescue missions.
+Figure 8 belay devices are classic for rappelling. They feature a large loop for the rope to pass through, plus a smaller loop that keeps everything tidy. You feed a bight of rope through the large opening and loop it around the small hole: then you're set to rappel. This design reduces rope twist and can be a good choice for swift descents in search-and-rescue missions.
 
 However, figure 8 devices aren't your only option. Tubers, brake-assisted devices, and even auto-locking descenders can work for load management rappelling. Each has its own friction properties. You want a device that:
 
@@ -123,7 +123,7 @@ Any friction hitch belongs below your main device (on the rope between your bela
 
 ### Setup tips and best practices
 
-Keep your friction hitch short. Four to six wraps are typical. Too few wraps, and it may slip. Too many, and it might jam. Always test your backup hitch before leaning your full weight on the rappel system. If your friction hitch randomly loosens-or your rope is too thick for the hitch you're using-switch to a different method.
+Keep your friction hitch short. Four to six wraps are typical. Too few wraps, and it may slip. Too many, and it might jam. Always test your backup hitch before leaning your full weight on the rappel system. If your friction hitch randomly loosens, or your rope is too thick for the hitch you're using-switch to a different method.
 
 It's also wise to secure your hitch cord to a leg loop or belay loop with a locking carabiner. If you're wearing heavy gloves, make sure you can still manipulate the hitch. Even the strongest friction hitch does no good if you can't release or adjust it on the fly.
 
@@ -142,7 +142,7 @@ If your brake hand slips, your friction hitch backup should engage, but you don'
 
 A key principle in load management rappelling is controlling your rate of descent. Going too fast generates friction-induced heat in your device and rope, which can lead to glazed rope sheaths or dangerously hot metal edges. You also lose reaction time if an anchor shifts or a rock dislodges unexpectedly.
 
-A slow, steady descent keeps the rope from whipping around. It also gives you time to spot hazards below-like debris, uneven ground, or a waiting teammate. Plus, you'll reduce the stress on your anchor, which is especially important in unfamiliar rescue environments where anchor materials could be compromised.
+A slow, steady descent keeps the rope from whipping around. It also gives you time to spot hazards below, like debris, uneven ground, or a waiting teammate. Plus, you'll reduce the stress on your anchor, which is especially important in unfamiliar rescue environments where anchor materials could be compromised.
 
 ## Minimise risk with backups
 
@@ -164,7 +164,7 @@ Rappelling accidents often come from rushed or sloppy setups. You can mitigate t
 4. Communicate with your partner or team.
 5. Keep rope ends clear and secured; knot them if necessary.
 
-Remember that simul-rappelling-where two people rappel at once on opposite ends of the rope-can raise the risk factor even for well-trained pros. Any imbalance in weight or a sudden shift can send both rappelers tumbling.
+Remember that simul-rappelling-where two people rappel at once on opposite ends of the rope, can raise the risk factor even for well-trained pros. Any imbalance in weight or a sudden shift can send both rappelers tumbling.
 
 ## Know your load limits
 
@@ -206,7 +206,7 @@ Sometimes, you might find yourself without a purpose-built device. Perhaps your 
 
 ### Australian rappel technique
 
-The Australian rappel (harness worn backwards) lets you descend facing forward. While this can help you see directly below for rescue work, it carries unique risks-your harness isn't designed for backward loads, and a sudden jolt might jarringly compress your spine. It's generally not recommended in standard rescue ops, but you could encounter it in tactical or specialised contexts. If you ever try it, proceed with caution and test under controlled conditions first.
+The Australian rappel (harness worn backwards) lets you descend facing forward. While this can help you see directly below for rescue work, it carries unique risks: your harness isn't designed for backward loads, and a sudden jolt might jarringly compress your spine. It's generally not recommended in standard rescue ops, but you could encounter it in tactical or specialised contexts. If you ever try it, proceed with caution and test under controlled conditions first.
 
 ## Put it all together
 
@@ -255,6 +255,6 @@ A. They work in emergencies but may twist the rope or increase risk; use only wh
 
 ## Final thoughts
 
-Load management rappelling is about more than just gear and knots-it reflects a mindset of respect for forces, friction, and teamwork. You reduce stress on your rope, protect your anchors, and ensure a smoother descent for everyone involved. Whether you're lowering an injured person off a cliff or training your team in complex rope access manoeuvres, attention to detail is everything.
+Load management rappelling is about more than just gear and knots: it reflects a mindset of respect for forces, friction, and teamwork. You reduce stress on your rope, protect your anchors, and ensure a smoother descent for everyone involved. Whether you're lowering an injured person off a cliff or training your team in complex rope access manoeuvres, attention to detail is everything.
 
 Remember, your brake hand should never leave the rope. Double-check that friction hitch, knot your rope ends if there's any doubt, and always remain linked to the anchor until you're sure your system is stable. Each time you gear up, you're carrying not only your weight but also the trust of teammates relying on your rigging. Take care of your ropes, set solid anchors, and keep your friction balanced. That way, when it's time for you to step over the edge, you'll do so with the confidence that your load management plan is in place, and your rappel is under complete control.

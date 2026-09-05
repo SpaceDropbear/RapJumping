@@ -135,7 +135,7 @@ After you've captured your images and thoroughly tested your adrenaline levels, 
 4. Organise and edit  
    Once you get home, transfer your images to a safe backup device. Sort them into folders labeled by location or date. Editing software can help bring out the textures of the rock face, the vibrant colours of a sunset, or highlight the climber's expressive face. A few tweaks to contrast and colour balance can transform a decent shot into a stunner.
 5. Celebrate your progress  
-   Don't forget to admire the images you've put so much effort into creating. Show a few of your favourites to friends-maybe on social media or in a personal gallery. You've combined two thrilling pursuits: exploring Australia's epic terrains and immersing yourself in photography. That's something to celebrate.
+   Don't forget to admire the images you've put so much effort into creating. Show a few of your favourites to friends, maybe on social media or in a personal gallery. You've combined two thrilling pursuits: exploring Australia's epic terrains and immersing yourself in photography. That's something to celebrate.
 
 ---
 

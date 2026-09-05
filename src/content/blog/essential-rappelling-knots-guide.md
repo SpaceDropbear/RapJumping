@@ -93,7 +93,7 @@ Downside? It can snag on edges or cracks when you pull your rope. Many climbers 
 
 ### 3. Flat Overhand Bend (FOB) for ropes of similar diameter
 
-You might hear “Flat Overhand Bend” used interchangeably with the Offset Overhand Bend. In some references, the difference is minimal. Still, the key is that you're tying an overhand with rope ends offset-but each rope end is roughly the same diameter (within about 3 mm). This knot nestles nicely and resists snagging better than bigger, more complicated knots.
+You might hear “Flat Overhand Bend” used interchangeably with the Offset Overhand Bend. In some references, the difference is minimal. Still, the key is that you're tying an overhand with rope ends offset, but each rope end is roughly the same diameter (within about 3 mm). This knot nestles nicely and resists snagging better than bigger, more complicated knots.
 
 To tie it:
 
@@ -104,7 +104,7 @@ To tie it:
 
 ### 4. Triple Barrel (Stopper Knot)
 
-When you want to stop the rope from slipping through your device, the Triple Barrel (also called the Triple Overhand) is a clean choice. It's typically used at the free ends of your rope when you fear the possibility of rappelling off the ends-always a nightmare scenario.
+When you want to stop the rope from slipping through your device, the Triple Barrel (also called the Triple Overhand) is a clean choice. It's typically used at the free ends of your rope when you fear the possibility of rappelling off the ends, always a nightmare scenario.
 
 1. Wrap the rope end around two fingers three times.
 2. Thread the end back through these wraps.

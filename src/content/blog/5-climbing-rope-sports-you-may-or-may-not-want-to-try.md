@@ -20,7 +20,7 @@ readingTime: 5
 
 ---
 
-Got a thirst for **adventure**? Do you chase that exhilarating **adrenaline** rush? If so, the world of climbing and rope sports offers an incredible spectrum of experiences. From the heart-stopping intensity of **free soloing** to the controlled thrills of **rappelling**, there's an option out there to suit every level of ability-and, perhaps more importantly, every set of nerves!
+Got a thirst for **adventure**? Do you chase that exhilarating **adrenaline** rush? If so, the world of climbing and rope sports offers an incredible spectrum of experiences. From the heart-stopping intensity of **free soloing** to the controlled thrills of **rappelling**, there's an option out there to suit every level of ability, and, perhaps more importantly, every set of nerves!
 
 Get ready to explore some of the most captivating vertical and rope-based activities on the planet. Which one will ignite your adventurous spirit?
 
@@ -75,7 +75,7 @@ Originally a training method for mountaineering and longer rope climbs, boulderi
 
 ## Free Soloing: The Edge of Human Endeavor (Extreme Risk)
 
-Perhaps the most extreme-and undoubtedly the most dangerous-climbing sport, **free soloing** is similar to bouldering in its lack of ropes and harnesses. However, unlike bouldering's relatively safe heights, free soloing involves scaling towering cliff faces, often thousands of feet high, with **absolutely no safety equipment** **or partners.**
+Perhaps the most extreme, and undoubtedly the most dangerous-climbing sport, **free soloing** is similar to bouldering in its lack of ropes and harnesses. However, unlike bouldering's relatively safe heights, free soloing involves scaling towering cliff faces, often thousands of feet high, with **absolutely no safety equipment** **or partners.**
 
 **The Stark Reality:** A fall during free soloing almost certainly results in serious injury or death. This is a sport reserved for an incredibly select few climbers with unparalleled physical ability, mental fortitude, and "nerves of steel."
 

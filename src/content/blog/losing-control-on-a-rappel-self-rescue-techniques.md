@@ -111,7 +111,7 @@ If your friction hitch is locked off, that's your first line of defence. If not,
 
 ### Step 2: Evaluate your position
 
-Ask yourself: Can you stand on anything? Is there a ledge nearby, or are you entirely suspended? If you have a ledge, step onto it gently. If you're dangling, stay calm-your harness and rope system are built to carry your weight.
+Ask yourself: Can you stand on anything? Is there a ledge nearby, or are you entirely suspended? If you have a ledge, step onto it gently. If you're dangling, stay calm: your harness and rope system are built to carry your weight.
 
 ### Step 3: Re-anchor if possible
 
@@ -167,7 +167,7 @@ For extra clarity, here's a brief summary of your main steps when dealing with a
 7. Ascend or descend using the appropriate friction hitch setup if your rope is jammed.
 8. Inspect rope ends to avoid rappelling off the rope's cut-off point.
 
-A little caution goes a long way. If you run into bigger snags-like a jam you can't fix or an injured partner-knowing how to call or signal for professional rescue is crucial.
+A little caution goes a long way. If you run into bigger snags, like a jam you can't fix or an injured partner-knowing how to call or signal for professional rescue is crucial.
 
 ---
 

@@ -189,7 +189,7 @@ A. Wear helmets for both sports, double-check anchors, tie stopper knots, scout 
 
 ## Wrap up your adventure
 
-Embarking on a day that pairs mountain biking with abseiling is like tasting two totally different desserts at once-you'll get a blast of contrasting flavors and a bigger sense of accomplishment. If you've been hunting for an exciting new way to spend your weekends or your annual holiday, this could be exactly what you need.
+Embarking on a day that pairs mountain biking with abseiling is like tasting two totally different desserts at once: you'll get a blast of contrasting flavors and a bigger sense of accomplishment. If you've been hunting for an exciting new way to spend your weekends or your annual holiday, this could be exactly what you need.
 
 Think about it this way: you've just tackled rocky trails at speed, weaving through trees and bounding over roots. Minutes later, you're upright on a cliff ledge, harness clipped in, about to lean backward into a descent. Each move requires focus, yet each environment feels refreshingly different. And in the end, you'll carry the thrill of stepping outside your comfort zone long after you've unclipped from the rope.
 

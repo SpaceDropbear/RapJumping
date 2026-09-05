@@ -28,7 +28,7 @@ If you're looking for a fresh challenge, a new way to stay fit, or just an excit
 
 ## Rock Climbing: The Ultimate Full-Body Workout
 
-Think rock climbing is just about upper body strength? Think again! While a strong back and arms are definitely a plus, beginners are often surprised to learn that successful climbing-or "sending" a route-engages your entire body.
+Think rock climbing is just about upper body strength? Think again! While a strong back and arms are definitely a plus, beginners are often surprised to learn that successful climbing, or "sending" a route-engages your entire body.
 
 - **Muscle Engagement:** From your fingertips gripping holds to your core stabilising every movement, and your legs driving you upwards with precise footwork, climbing activates often-neglected muscle groups. It builds lean muscle, enhances flexibility, and improves balance and coordination.
 - **Serious Calorie Burn:** An hour of moderate to intense climbing can torch as many as 500-900 calories, making it a highly effective cardio and strength workout combined. It's a far more engaging alternative to traditional gym routines or endless jogging.

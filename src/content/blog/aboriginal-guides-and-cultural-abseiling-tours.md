@@ -12,7 +12,7 @@ faq:
   - question: "Do I need prior abseiling experience?"
     answer: "Most Aboriginal-led tours welcome beginners. You'll get a full safety briefing, practice on easy ground, and a controlled first descent with guide oversight."
   - question: "What makes an Aboriginal abseiling tour different?"
-    answer: "Culture is woven into the day-stories, language, bush tucker, and site etiquette-so you leave with skills and a deeper sense of place."
+    answer: "Culture is woven into the day-stories, language, bush tucker, and site etiquette, so you leave with skills and a deeper sense of place."
   - question: "Are there cultural rules I should know about?"
     answer: "Yes. Protocols vary by Country (e.g., men's/women's business, restricted sites, photo limits). Your guides will brief you-follow their lead respectfully."
   - question: "What should I bring and wear?"
@@ -27,7 +27,7 @@ faq:
 
 - Aboriginal-led abseiling blends adrenaline + culture: descend epic cliffs while learning living traditions, stories, language, bush foods, and Country etiquette.
 - Guides prioritise safety, respect, and protocols (men's/women's business, site permissions, photography rules) and tailor routes to your group.
-- Pick regions that match your vibe-rainforest, desert gorges, coastal cliffs-and the right season. Small groups = deeper cultural exchange.
+- Pick regions that match your vibe-rainforest, desert gorges, coastal cliffs, and the right season. Small groups = deeper cultural exchange.
 - Come prepared: closed-toe shoes, layers, water, sun protection, and curiosity. Expect briefings, practice lowers, and plenty of time for yarns and scenery.
 - Your booking supports local communities and Traditional Owners sharing knowledge on their terms.
 
@@ -121,7 +121,7 @@ When browsing through different regions, be mindful of the best season for absei
 A. Most Aboriginal-led tours welcome beginners. You'll get a full safety briefing, practice on easy ground, and a controlled first descent with guide oversight.
 
 **Q. What makes an Aboriginal abseiling tour different?**  
-A. Culture is woven into the day-stories, language, bush tucker, and site etiquette-so you leave with skills and a deeper sense of place.
+A. Culture is woven into the day-stories, language, bush tucker, and site etiquette, so you leave with skills and a deeper sense of place.
 
 **Q. Are there cultural rules I should know about?**  
 A. Yes. Protocols vary by Country (e.g., men's/women's business, restricted sites, photo limits). Your guides will brief you-follow their lead respectfully.

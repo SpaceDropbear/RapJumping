@@ -35,7 +35,7 @@ faq:
 
 Rappelling devices-commonly called **descenders**-are essential tools for controlling your descent on a rope. Whether you're canyoneering, rock climbing, or performing a tactical rescue, the right device can make the difference between a smooth rappel and a dangerous mishap.
 
-There are multiple types of **rappel devices**, including the **ATC, Figure 8, and Grigri**, each with its strengths and ideal uses. Choosing the correct one isn't just about personal preference-it's about safety, control, and the specific needs of your adventure.
+There are multiple types of **rappel devices**, including the **ATC, Figure 8, and Grigri**, each with its strengths and ideal uses. Choosing the correct one isn't just about personal preference: it's about safety, control, and the specific needs of your adventure.
 
 ---
 

@@ -85,7 +85,7 @@ One of the coolest parts of the abseiling community is how social it can be. Man
 
 ### Finding abseiling clubs
 
-Australia's major cities-like Sydney, Melbourne, and Perth-have numerous clubs dedicated to climbing and abseiling. Organised meets allow you to experience various formats (single-pitch, multi-pitch, or even a bit of canyoning). Each group often has beginners' meetups, letting you test the waters with minimal pressure. For a club near you, see [abseiling clubs](/australian-abseiling-clubs-and-online-communities/) and get plugged into events in your area.
+Australia's major cities, like Sydney, Melbourne, and Perth-have numerous clubs dedicated to climbing and abseiling. Organised meets allow you to experience various formats (single-pitch, multi-pitch, or even a bit of canyoning). Each group often has beginners' meetups, letting you test the waters with minimal pressure. For a club near you, see [abseiling clubs](/australian-abseiling-clubs-and-online-communities/) and get plugged into events in your area.
 
 ### Going beyond clubs: festivals and podcasts
 
@@ -97,7 +97,7 @@ If you've ever wanted to combine epic views with the thrill of descending on rop
 
 ### Mount Arapiles
 
-Mount Arapiles is often hailed as an iconic spot, featuring more than 2,000 designated climbs across a range of difficulties-most with spectacular views. It's ideal for abseilers seeking traditional rock routes or multi-pitch experiences. You'll find everything from gentle descents for your first outdoor attempt to advanced lines that will test your skills and nerve.
+Mount Arapiles is often hailed as an iconic spot, featuring more than 2,000 designated climbs across a range of difficulties, most with spectacular views. It's ideal for abseilers seeking traditional rock routes or multi-pitch experiences. You'll find everything from gentle descents for your first outdoor attempt to advanced lines that will test your skills and nerve.
 
 ### The Grampians (Gariwerd) National Park
 
@@ -151,7 +151,7 @@ When you're ready to dive deeper, check out the [rappelling training](/the-impor
 
 ## Keep track of your progress and goals
 
-Abseiling skills develop over time, and your confidence grows as you tackle more pitches or explore different locations. Tracking those milestones isn't just about bragging rights-it helps you see your progress and plan your next objectives. Maybe you dream of completing a multi-pitch abseil in the Grampians, or you want to guide a small group down a canyon. Witnessing your evolution in real time is both motivating and humbling.
+Abseiling skills develop over time, and your confidence grows as you tackle more pitches or explore different locations. Tracking those milestones isn't just about bragging rights: it helps you see your progress and plan your next objectives. Maybe you dream of completing a multi-pitch abseil in the Grampians, or you want to guide a small group down a canyon. Witnessing your evolution in real time is both motivating and humbling.
 
 - Use the climbing logbook app to record completed descents, environment notes, and personal observations.
 - Share your achievements with others in the abseiling community in Australia, whether online or at the next meetup, to get feedback and encouragement.

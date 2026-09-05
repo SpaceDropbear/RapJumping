@@ -34,7 +34,7 @@ Hi, I'm Mikey Mendoza, professional skateboarder, and I'm here with Damien, Rap 
 So tell me, Damien, what exactly is Rap Jumping™?
 
 **Damien:**  
-Rap Jumping is face-forward abseiling-and today we're doing it off the top of a building, just like Spider-Man.
+Rap Jumping is face-forward abseiling, and today we're doing it off the top of a building, just like Spider-Man.
 
 **Mikey:**  
 Where's the coolest place you've been rap jumping?
@@ -46,7 +46,7 @@ I've been Rap Jumping all over the place, but the coolest place would have to be
 What skills do you think it takes to be an amazing climber, just like Spider-Man?
 
 **Damien:**  
-Well, it takes a fair bit of fitness to pull yourself around, of course strength-but what I think is really important is fearlessness… just like Spider-Man.
+Well, it takes a fair bit of fitness to pull yourself around, of course strength, but what I think is really important is fearlessness… just like Spider-Man.
 
 All right, Mikey. First of all, we're gonna get you into this harness.  
 This is a standard rock climbing harness. The only difference today is we're turning it back to front-enabling you to go forward.
@@ -94,7 +94,7 @@ I couldn't believe it-flying down the building like that made me feel just like 
 That's right. I'm that good.
 
 **Mikey:**  
-Thanks, Damien-you've been absolutely great, mate.  
+Thanks, Damien: you've been absolutely great, mate.  
 Well, I guess being Spider-Man isn't a walk in the park... or climbing down a building, for that matter.
 
 And if you want more Spider-Man action, don't forget to check out Marvel's Avengers Assemble, right here on Disney XD.

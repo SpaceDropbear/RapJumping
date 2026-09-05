@@ -14,7 +14,7 @@ faq:
   - question: "How often should I practise rescue drills?"
     answer: "Recreational climbers should refresh skills a few times a year; professional teams may train monthly or quarterly."
   - question: "What's the most essential rescue skill to master first?"
-    answer: "Self-rescue with prusiking and knot passing-these give you independence if you get stuck."
+    answer: "Self-rescue with prusiking and knot passing: these give you independence if you get stuck."
   - question: "When should I use tandem abseiling?"
     answer: "When assisting an injured or less experienced climber who can't descend independently."
   - question: "What are common causes of rope jams?"
@@ -69,7 +69,7 @@ A master point is where all anchor components converge. Make it highly visible, 
 
 ## Inspect personal safety gear
 
-Even with a bombproof anchor, your gear can be a weak link if it's not in top shape. Rescues-whether self-rescue or partner rescue-demand you trust your harness, belay device, rope, carabiners, and friction hitches to hold up under extra strain.
+Even with a bombproof anchor, your gear can be a weak link if it's not in top shape. Rescues, whether self-rescue or partner rescue-demand you trust your harness, belay device, rope, carabiners, and friction hitches to hold up under extra strain.
 
 ### Regular checks and maintenance
 
@@ -78,7 +78,7 @@ Inspection isn't just for the day of your abseil. Give your gear periodic once-o
 - Look for frayed spots on ropes and harness webbing.
 - Check for dents or cracks in metal hardware.
 - Inspect belay devices and figure-of-8 descenders for any sharp edges or grooves.  
-  Hard gear is precious-your life is literally hanging from it. If something looks off, retire it. Gear is replaceable, but a mistake here could be fatal.
+  Hard gear is precious: your life is literally hanging from it. If something looks off, retire it. Gear is replaceable, but a mistake here could be fatal.
 
 ### Include backups in your kit
 
@@ -120,7 +120,7 @@ A Prusik-based “third hand” backup (also called an autoblock) is something y
 
 ### Setting up an autoblock
 
-Using a short cord, form a Prusik or Klemheist around both rope strands below your belay device, then clip it to your leg loop with a carabiner. According to the [UNSW Outdoors Club](https://unswoc.org/wordpress/2013/12/22/safer-abseiling/), this method is especially useful in emergencies where you get stuck out of reach. You can let go with your hands, and the friction hitch will grab the rope. Just be sure your rope length and friction hitch are suitable for the diameter of your main line-a mismatch can cause slipping or jamming.
+Using a short cord, form a Prusik or Klemheist around both rope strands below your belay device, then clip it to your leg loop with a carabiner. According to the [UNSW Outdoors Club](https://unswoc.org/wordpress/2013/12/22/safer-abseiling/), this method is especially useful in emergencies where you get stuck out of reach. You can let go with your hands, and the friction hitch will grab the rope. Just be sure your rope length and friction hitch are suitable for the diameter of your main line: a mismatch can cause slipping or jamming.
 
 ### When it's most helpful
 
@@ -152,7 +152,7 @@ A classic technique for assisting a partner who's nervous or unsure is the firem
 
 ### Releasable anchor systems
 
-In a more complex rescue, consider using a releasable anchor system-a munter-mule-overhand knot, for instance. If your partner gets stuck midway, you can lower them from the anchor instead of relying on them to manage themselves. The VDiff Climbing guide suggests always backing up that knot with a quick overhand so it doesn't accidentally release.
+In a more complex rescue, consider using a releasable anchor system: a munter-mule-overhand knot, for instance. If your partner gets stuck midway, you can lower them from the anchor instead of relying on them to manage themselves. The VDiff Climbing guide suggests always backing up that knot with a quick overhand so it doesn't accidentally release.
 
 ### Tandem abseil for rescue
 
@@ -180,7 +180,7 @@ Abseiling rescue drills are just one piece of the puzzle. Solid risk management 
 
 ### Conduct thorough risk assessments
 
-Start with identifying hazards: potential rockfall, weather changes, or loose anchor points. Then rank these hazards by likelihood and potential severity. Decide your controls-maybe that's wearing a helmet, double-checking anchor hardware, or leaving yourself an escape route if a storm rolls in.
+Start with identifying hazards: potential rockfall, weather changes, or loose anchor points. Then rank these hazards by likelihood and potential severity. Decide your controls, maybe that's wearing a helmet, double-checking anchor hardware, or leaving yourself an escape route if a storm rolls in.
 
 ### Reinforce team preparedness
 
@@ -199,7 +199,7 @@ Below is a simple table outlining frequent abseiling hiccups, their common cause
 
 ## Refine your drills with real scenarios
 
-It's one thing to read about these techniques, but physically rehearsing them is where the learning happens. You don't have to venture into highly dangerous territory to practice advanced skills. Find a low-risk environment-a short cliff, a training facility, or even a climbing gym that allows abseiling-and methodically run through each scenario.
+It's one thing to read about these techniques, but physically rehearsing them is where the learning happens. You don't have to venture into highly dangerous territory to practice advanced skills. Find a low-risk environment, a short cliff, a training facility, or even a climbing gym that allows abseiling, and methodically run through each scenario.
 
 ### Scenario-based learning
 
@@ -238,7 +238,7 @@ A: They build muscle memory, improve calm decision-making under stress, and help
 A: Recreational climbers should refresh skills a few times a year; professional teams may train monthly or quarterly.
 
 **Q: What's the most essential rescue skill to master first?**  
-A: Self-rescue with prusiking and knot passing-these give you independence if you get stuck.
+A: Self-rescue with prusiking and knot passing: these give you independence if you get stuck.
 
 **Q: When should I use tandem abseiling?**  
 A: When assisting an injured or less experienced climber who can't descend independently.
@@ -257,7 +257,7 @@ In a nutshell, here's what you'll want to follow through on:
 - Double-check all gear and anchors before every descent.
 - Practise personal rescue drills like prusiking and passing knots.
 - Learn tandem abseiling and fireman's belays for partner assistance.
-- Embrace regular training-whether from pros like IRATA, SPRAT, or local Australian rescue courses.
+- Embrace regular training, whether from pros like IRATA, SPRAT, or local Australian rescue courses.
 - Set up a schedule for periodic rescue drill refreshers.
 
 Abseiling should be exhilarating, not nerve-racking. When you've dialed in your rescue drills, you can explore deeper canyons, taller cliffs, and more challenging terrain with real peace of mind. If you're keen to refine your anchor setups or learn more about redundancy techniques, head over to abseiling anchor systems. Let's keep things safe, efficient, and, yes, still a little bit thrilling. After all, that's the heart of abseiling-merging adventure with the firm knowledge that you're prepared for whatever the rope might throw at you.

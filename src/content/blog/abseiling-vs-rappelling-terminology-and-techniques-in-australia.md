@@ -1,108 +1,114 @@
 ---
-title: "Abseiling vs Rappelling: Same Thing, Different Word"
-description: "Abseiling and rappelling are the same technique. Why the word changes by country, and what it means for your gear, technique and safety in Australia."
+title: "Abseiling vs Rappelling vs Rap Jumping: The Difference"
+description: "Abseiling and rappelling are the same technique under two names. Rap jumping is genuinely different. What separates them, and which one to learn first."
 pubDate: "2025-07-26"
-updatedDate: "2026-06-12"
+updatedDate: "2026-09-05"
 heroImage: "/images/2025/07/Abseiling-vs-Rappelling.webp"
 heroAlt: "Overhead view of a man in a red helmet and blue shirt abseiling a grey rock face above dense green eucalyptus forest."
 tags: ["fundamentals"]
 featured: false
-readingTime: 5
+readingTime: 6
 faq:
   - question: "Is abseiling the same as rappelling?"
-    answer: "Yes. Abseiling and rappelling are the same rope-descent technique. In Australia, the UK, and most of the world it's called abseiling, while in the United States it's called rappelling."
-  - question: "Why do Australians say abseiling instead of rappelling?"
-    answer: "Australia follows British English climbing terminology, where 'abseiling' comes from the German word abseilen (meaning 'to rope down'). The US military popularised 'rappelling,' which stuck in North America."
-  - question: "Are there any technical differences between abseiling and rappelling?"
-    answer: "No - the technique, gear, and safety principles are identical. Both involve anchoring a rope, attaching a harness and descender, and controlling your speed during a vertical descent."
-  - question: "Which countries use the term rappelling?"
-    answer: "'Rappelling' is most common in the United States, Canada, and parts of Europe influenced by American climbing culture. Australia, New Zealand, the UK, and South Africa generally use 'abseiling.'"
-  - question: "Is abseiling safe for beginners?"
-    answer: "Yes, if done with proper gear, instruction, and safety checks. Many beginners start at indoor climbing gyms or guided outdoor abseiling tours to learn correct technique."
----
-
-If you're ready to explore Australia's adventurous cliffs or even just a local indoor climbing gym, mastering beginner abseiling techniques is a fantastic first step. In other parts of the world, you may hear friends call it “rappelling.” They're essentially the same thing. In Australia, however, you'll find that “abseiling” rolls off the tongue more often than not. Below, you'll learn how these two terms align, the gear you need, and a few pro tips for a safe descent.
-
+    answer: "Yes. They describe exactly the same activity, a controlled descent of a fixed rope using a friction device. The difference is regional dialect: abseiling is standard in Australia, the UK and New Zealand, while rappelling is standard in North America."
+  - question: "Why are there two different words?"
+    answer: "They entered English from different languages. Abseil comes from the German abseilen, meaning to rope down. Rappel comes from the French rappeler, to recall or pull back, referring to retrieving the rope after the last person has descended."
+  - question: "How is rap jumping different from abseiling?"
+    answer: "Rap jumping uses the same equipment and the same controlled-friction principle, but the participant faces forwards and walks or runs down the wall looking at the ground, rather than facing the wall and travelling backwards into the drop."
+  - question: "What is the Australian rappel?"
+    answer: "The Australian rappel, or Aussie rappel, is the international name for the forward-facing descent. It originated in Australian Army rope work of the late 1960s, where it was known as the carabiner rundown."
+  - question: "Do Australians call it the Australian rappel?"
+    answer: "Generally no. Within Australia the forward-facing technique is more often called Geneva style, and the ordinary backward technique is simply called abseiling. Australians rarely use the word rappelling at all."
+  - question: "Which technique should a beginner learn first?"
+    answer: "Conventional backward-facing abseiling, under qualified instruction. It is the transferable skill that carries over to canyoning, caving and climbing descents. Rap jumping is better treated as a guided experience than as a technique to learn."
 ---
 
 ## TL;DR
 
-Abseiling and rappelling are the same rope-descent technique - the name changes with location. In the United States, it's known as rappelling, while in Australia, the UK, and most of the world, it's called abseiling. Both involve using a harness, rope, and friction device to make a controlled descent down a cliff, wall, or structure.
+- **Abseiling and rappelling are the same activity under two different names.** The difference is dialect, not technique. Abseiling is standard in Australia, the UK and New Zealand; rappelling is standard in North America.
+- **Rap jumping is genuinely different.** It is the same controlled-friction rope descent, performed facing forwards down the wall, so you look at the ground you are travelling towards.
+- **The words come from different languages.** Abseil is German, from *ab* (down) and *Seil* (rope). Rappel is French, from *rappeler*, to recall or pull back, for retrieving the rope afterwards.
+- **Rap jumping also goes by Australian rappel, Aussie rappel and, confusingly, Geneva style within Australia itself**, because Australians already use abseiling for the ordinary version.
+- **The choice that matters is orientation, not vocabulary.** Backward-facing is the standard skill to learn. Forward-facing is a guided experience run on buildings by trained operators.
 
 ---
 
 *Part of our guide to [abseiling in Australia](/abseiling-in-australia-the-complete-guide/), which covers where to go in every state, what it costs and how to start.*
 
-## Compare abseiling and rappelling
+Three words, two of which mean exactly the same thing and one of which does not. It is a reliably confusing corner of the sport, made worse by the fact that Australia uses a different term again for the technique that carries Australia's name internationally.
 
-Abseiling and rappelling both refer to using a rope to descend a near-vertical surface. In Australia, people typically say “abseiling.” If you travel or read climbing forums, you might see “rappelling” (common in the US and parts of Europe) sprinkled in. Regardless of the name, the technique is all about controlling friction on the rope so you can glide down rock faces, canyon walls, or even building structures for urban rope access.
+Here is the short version. Abseiling and rappelling are dialect variants of one activity. Rap jumping is a different technique that shares the same equipment and physics. Everything below expands on that.
 
-The main takeaway is simple: no matter what you call the activity, the fundamentals remain the same. You anchor a rope at the top, attach yourself via a harness and a friction device, and then carefully let gravity work in your favour.
+## Abseiling and rappelling: same thing, different dialect
 
-## Gather your essential gear
+There is no technical distinction between abseiling and rappelling. Both describe a controlled descent of a fixed rope using a friction device, and both are performed the same way. Which word you hear depends entirely on where you are.
 
-Before you hop off the edge of a cliff, you'll want to make sure you've got everything needed to keep your descent both fun and safe. Here's a rundown:
+- **Abseiling** is standard in Australia, the United Kingdom, Ireland, New Zealand and much of Europe. It comes from the German *abseilen*, built from *ab* (down) and *Seil* (rope), literally to rope down.
+- **Rappelling** is standard in North America. It comes from the French *rappeler*, to recall or to pull back, which refers to retrieving the rope by pulling it down after the last person descends.
 
-| Equipment | Purpose |
-| --- | --- |
-| Rope | Your lifeline, generally thicker and stronger for controlled descents. |
-| Harness | Worn around your waist and legs to secure you to the rope setup. |
-| Belay device | Creates friction so you control your speed while descending. |
-| Carabiners | Metal clips that connect your rope, device, and harness. |
-| Helmet | Protects your head from rock falls or bumps. |
-| Gloves (optional) | Helps prevent rope burns, especially when you're still learning. |
+Both words entered English from the alpine climbing traditions of their respective language regions. That is why the split follows the same lines as much other mountaineering vocabulary. Australia's national framework for the activity, the [Australian Adventure Activity Standard](https://www.outdoorcouncilaustralia.com/aaas), uses abseiling throughout, including in its Abseil and Climb Good Practice Guide.
 
-If you'd like a refresher on everything from harnesses to rope care, pop over to [abseiling basics](/abseiling-101-a-beginners-guide-to-rappelling/) for a more detailed look.
+The practical consequence is small but real. Gear sold into the North American market is labelled for rappelling, and most published technique material you find online uses the American term. The equipment and the method are identical.
 
-## Practise beginner abseiling techniques
+## Rap jumping: the actual difference
 
-Once your gear is sorted, it's time to master the basics. Backing up over an edge can be thrilling, so a methodical approach helps build your confidence.
+Rap jumping is not a dialect variant. It describes a specific orientation of the same descent: forward-facing, so the participant looks down the wall towards the ground rather than up at the anchor.
 
-### Control friction properly
+What stays the same is the rope, the harness, the helmet, the friction device, the anchor, and the principle that a brake creates controllable friction against a loaded rope. What changes is that the rope is routed so the device works with the body facing outward from the wall, the participant walks or runs downwards rather than stepping backwards, and the descent is normally managed by an operator from below.
 
-When you feed the rope through your belay device, you're essentially deciding how fast or slow you'll move. More friction means a slower, safer speed. Too little friction can lead to a swift drop, which isn't ideal when you're learning.
+That changes the experience far more than it changes the mechanics. A backward abseil demands trust in something you cannot see. A forward descent demands trust in the fact that you are looking straight down at a long drop. Neither is obviously easier, and people split fairly evenly on which they find more confronting.
 
-- Keep your brake hand behind you with a firm grip on the rope. If you ever feel you're going too fast, pull the rope down and back to increase friction.
-- Always double-check the rope is threaded correctly through your belay device, as it's the heart of controlled descents.
+## The naming tangle
 
-### Maintain a stable body position
+The forward-facing technique collects names. Internationally it is usually the **Australian rappel** or **Aussie rappel**, reflecting its origin in Australian Army rope work of the late 1960s, where it was called the carabiner rundown. **Rap jumping** is the recreational name coined by Macka MacKail, who based the activity in Cairns from around 1988. You will also encounter **deepelling** and **angel jumping** occasionally.
 
-Leaning back over the edge can feel awkward at first. Try to keep your feet shoulder-width apart, at roughly a 90-degree angle to the wall. This stance helps you move smoothly.
+The irony is that inside Australia, the manoeuvre is more often called **Geneva style** than Australian anything. Australians already reserve abseiling for the ordinary version and do not generally say rappelling at all. Our guide to [tactical rappelling and Australian rappel techniques](/tactical-rappelling-australian-rappel-techniques/) deals with the technical heritage behind those names.
 
-- Avoid jumping backward. It might look cool in action videos, but it can lead to accidents if you lose your footing.
-- Look over your shoulder at where you want to place your feet next. Brief pauses let you plan your path and avoid loose rocks or slippery spots.
+## Quick comparison
 
-## Keep safety in mind
+| Feature | Abseiling / rappelling | Rap jumping |
+| --- | --- | --- |
+| Body orientation | Facing the wall, travelling backwards | Facing the ground, travelling forwards |
+| Sightline | Up and across; the drop is behind you | Straight down the wall you are descending |
+| Movement | Controlled walk down | Walk, jog or run down |
+| Who controls the rope | Usually the descender, with a backup | Usually the operator, from below |
+| Typical setting in Australia | Natural cliff, gorge or training tower | Building face, urban rooftop |
+| Learn it as a skill? | Yes, the standard technique to learn first | No, treated as a guided experience |
 
-Safety is your ally when you're learning any new skill, and abseiling is no different. According to [Wikipedia](https://en.wikipedia.org/wiki/Abseiling), many climbing accidents happen during descents, often due to failing anchors or insufficient rope length.
+## Which should you actually do?
 
-- Double-check your anchor points before every descent.
-- Inspect your rope for signs of wear, such as fraying or cuts.
-- Make sure you have enough rope to reach the bottom. Running out of rope is more common than you'd think, especially on taller routes.
-- If possible, try your first outdoor session with a certified instructor and a backup safety rope at the top.
+If your goal is a transferable rope skill, learn conventional abseiling first, under qualified instruction. It is the technique that carries over to canyoning, caving, multi-pitch climbing descents and rescue work. Our [step-by-step technique guide](/step-by-step-guide-how-to-abseil-for-the-first-time/) walks through the sequence, and the [essential gear checklist](/complete-essential-abseiling-gear-checklist/) covers what the system is built from.
+
+If your goal is the experience rather than the skill, rap jumping delivers it with essentially no learning curve and in a far more controlled setting than a cliff. Our [guided versus self-guided comparison](/guided-vs-self-guided-abseiling-pros-and-cons/) covers the same trade-off from the venue side.
+
+Either way, book with a qualified operator. [Rap Jumping](/) ran guided forward-abseiling sessions in Australia until March 2020, including urban descents in Melbourne and at Kangaroo Point in Brisbane, and the site is now a guide rather than an operator. The [history of those experiences](/rap-jumping-forward-abseiling-experiences-in-australia/) covers how the activity worked in practice.
+
+## Frequently asked questions
+
+### Is abseiling the same as rappelling?
+
+Yes. They describe exactly the same activity, a controlled descent of a fixed rope using a friction device. The difference is regional dialect: abseiling is standard in Australia, the UK and New Zealand, while rappelling is standard in North America.
+
+### Why are there two different words?
+
+They entered English from different languages. Abseil comes from the German *abseilen*, meaning to rope down. Rappel comes from the French *rappeler*, to recall or pull back, referring to retrieving the rope after the last person has descended.
+
+### How is rap jumping different from abseiling?
+
+Rap jumping uses the same equipment and the same controlled-friction principle, but the participant faces forwards and walks or runs down the wall looking at the ground, rather than facing the wall and travelling backwards into the drop.
+
+### What is the Australian rappel?
+
+The Australian rappel, or Aussie rappel, is the international name for the forward-facing descent. It originated in Australian Army rope work of the late 1960s, where it was known as the carabiner rundown.
+
+### Do Australians call it the Australian rappel?
+
+Generally no. Within Australia the forward-facing technique is more often called Geneva style, and the ordinary backward technique is simply called abseiling. Australians rarely use the word rappelling at all.
+
+### Which technique should a beginner learn first?
+
+Conventional backward-facing abseiling, under qualified instruction. It is the transferable skill that carries over to canyoning, caving and climbing descents. Rap jumping is better treated as a guided experience than as a technique to learn.
 
 ---
 
-### FAQ's
-
-1. **Is abseiling the same as rappelling?**  
-   Yes. Abseiling and rappelling are the same rope-descent technique. The main difference is the name - in Australia, the UK, and most of the world it's called abseiling, while in the United States it's called rappelling.
-2. **Why do Australians say abseiling instead of rappelling?**  
-   Australia follows British English climbing terminology, where “abseiling” comes from the German word abseilen (meaning “to rope down”). The US military popularised the term “rappelling,” which stuck in North America.
-3. **Are there any technical differences between abseiling and rappelling?**  
-   No - the technique, gear, and safety principles are identical. Both involve anchoring a rope, attaching a harness and descender, and controlling your speed during a vertical descent.
-4. **Which countries use the term rappelling?**  
-   “Rappelling” is most common in the United States, Canada, and parts of Europe influenced by American climbing culture. The rest of the world - including Australia, New Zealand, the UK, and South Africa - generally use “abseiling.”
-5. **Is abseiling/rappelling safe for beginners?**  
-   Yes, if done with proper gear, instruction, and safety checks. Many beginners start at indoor climbing gyms or guided outdoor abseiling tours to learn correct technique before attempting independent climbs.
-
----
-
-## Summing up
-
-Whether you call it abseiling or rappelling, this controlled descent technique is a brilliant way to see Australia's natural wonders from a fresh angle. It's equal parts adrenaline and skill-building, and a good set of beginner abseiling techniques will boost your confidence from day one. Check your gear, move slowly, and remember to keep friction in your favour. Before you know it, you'll be backing over edges with a grin on your face and a new passion you can share with others.
-
-
----
-
-**Keep reading:** [Abseiling for Beginners](/abseiling-101-a-beginners-guide-to-rappelling/)
+**Keep reading:** [Abseiling for beginners](/abseiling-101-a-beginners-guide-to-rappelling/) covers the first session end to end, and [rock climbing vs abseiling](/rock-climbing-vs-abseiling-key-differences/) compares a different pairing entirely.

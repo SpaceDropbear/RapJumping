@@ -1,6 +1,6 @@
 ---
 title: "Rock Climbing at Girraween National Park: Granite Domes & Hidden Crags"
-description: "Girraween National Park on the QLD/NSW Granite Belt offers SE Queensland's finest granite: friction slabs, cracks and bouldering. Access, ethic, season and safety (QPWS)."
+description: "Girraween National Park on the QLD/NSW Granite Belt offers SE Queensland's finest granite: friction slabs, cracks and bouldering. Access, season and safety."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/rock-climbing-at-girraween-national-park-granite-domes-hidden-crags.webp"
 heroAlt: "A climber friction-smearing up a steep granite slab at Girraween, boots edging on bare rock"

@@ -24,7 +24,7 @@ faq:
   - question: "How can logs make me safer?"
     answer: "Reviewing notes on anchors, rope length, friction control, and conditions helps you refine systems, avoid repeat mistakes, and plan better."
   - question: "How do I choose the right app?"
-    answer: "Decide if you want pure logging, training plans, or social/community features-then pick the option that prioritises those needs."
+    answer: "Decide if you want pure logging, training plans, or social/community features: then pick the option that prioritises those needs."
 ---
 
 ---
@@ -197,7 +197,7 @@ A. Many apps offer CSV or similar exports so you can keep or migrate your histor
 A. Reviewing notes on anchors, rope length, friction control, and conditions helps you refine systems, avoid repeat mistakes, and plan better.
 
 **Q. How do I choose the right app?**  
-A. Decide if you want pure logging, training plans, or social/community features-then pick the option that prioritises those needs.
+A. Decide if you want pure logging, training plans, or social/community features: then pick the option that prioritises those needs.
 
 **Q. What about privacy?**  
 A. Review each app's privacy controls, limit shared fields (like exact locations) if needed, and use local/offline modes or exports when appropriate.

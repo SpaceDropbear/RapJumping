@@ -35,7 +35,7 @@ faq:
 
 ---
 
-If you're gearing up for a day on the ropes-whether for an introductory abseil or a seasoned multi-pitch descent-one factor you don't want to overlook is rope protection. Keeping your rope secure from abrasion and damage can save you time, money, and potential hazards on the rock face. In this tutorial, you'll find an easy-to-follow set of steps to make sure your rope remains in top shape from start to finish.
+If you're gearing up for a day on the ropes, whether for an introductory abseil or a seasoned multi-pitch descent-one factor you don't want to overlook is rope protection. Keeping your rope secure from abrasion and damage can save you time, money, and potential hazards on the rock face. In this tutorial, you'll find an easy-to-follow set of steps to make sure your rope remains in top shape from start to finish.
 
 ## Step 1: Understand rope protection
 
@@ -64,7 +64,7 @@ It helps to carry a small kit of rope protectors when you're out exploring. You'
 
 ## Step 3: Choose a suitable rope
 
-When it comes to abseiling gear, no single rope does it all perfectly. Each material has pros and cons, and picking one that matches your usual environment is key. Synthetic ropes-like nylon or polyester-are the mainstays for abseiling due to their strength, controlled stretch, and durability. Cotton or manila ropes are more traditional and can suffer more quickly in damp or salty conditions, so they aren't typically a top choice for abseiling.
+When it comes to abseiling gear, no single rope does it all perfectly. Each material has pros and cons, and picking one that matches your usual environment is key. Synthetic ropes, like nylon or polyester-are the mainstays for abseiling due to their strength, controlled stretch, and durability. Cotton or manila ropes are more traditional and can suffer more quickly in damp or salty conditions, so they aren't typically a top choice for abseiling.
 
 Here's a quick reference table comparing popular rope materials:
 
@@ -76,7 +76,7 @@ Here's a quick reference table comparing popular rope materials:
 | Manila | Strong and flexible, good grip | Absorbs water, prone to rot, UV decay |
 | Cotton | Natural feel, good insulation | Not very strong for high loads, can mould easily |
 
-For abseiling, nylon and polyester usually rise to the top of the list because of their reliability. If you anticipate frequent contact with moisture or salt air (like coastal cliffs), polyester's resistance can be a big plus. On the other hand, if you need a rope that can handle occasional dynamic forces, nylon's elasticity helps reduce the impact on your anchor system-and on you.
+For abseiling, nylon and polyester usually rise to the top of the list because of their reliability. If you anticipate frequent contact with moisture or salt air (like coastal cliffs), polyester's resistance can be a big plus. On the other hand, if you need a rope that can handle occasional dynamic forces, nylon's elasticity helps reduce the impact on your anchor system, and on you.
 
 ## Step 4: Guard against abrasion
 
@@ -148,6 +148,6 @@ A. Coil or chain neatly, store in a rope bag or cool, dry place, and keep away f
 
 ## Final thoughts and your next move
 
-Ultimately, rope protection is about preserving the single most critical component in your abseiling gear arrangement. By taking a few precautions-choosing the right rope, identifying hazards in your environment, and using protective tools-you'll keep your rope performing reliably for many abseils to come. Whether you're practising with friends on a favourite local cliff or planning something more ambitious, always do a quick gear check.
+Ultimately, rope protection is about preserving the single most critical component in your abseiling gear arrangement. By taking a few precautions-choosing the right rope, identifying hazards in your environment, and using protective tools: you'll keep your rope performing reliably for many abseils to come. Whether you're practising with friends on a favourite local cliff or planning something more ambitious, always do a quick gear check.
 
-Once you feel confident about rope care, you can explore more advanced techniques and specialised abseiling gear that takes your rope safety even further. If you're curious about how to round out your kit, check out abseiling gear for more insights and suggestions on harnesses, helmets, and belay devices. With good rope protection, you'll be free to focus on the thrill of descending-and less on worrying about wear and tear at every edge. Stay safe, have fun, and let the rope do the heavy lifting.
+Once you feel confident about rope care, you can explore more advanced techniques and specialised abseiling gear that takes your rope safety even further. If you're curious about how to round out your kit, check out abseiling gear for more insights and suggestions on harnesses, helmets, and belay devices. With good rope protection, you'll be free to focus on the thrill of descending, and less on worrying about wear and tear at every edge. Stay safe, have fun, and let the rope do the heavy lifting.

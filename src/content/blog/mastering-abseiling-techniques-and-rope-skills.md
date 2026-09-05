@@ -16,7 +16,7 @@ faq:
   - question: "Why is a backup friction hitch important?"
     answer: "It acts as an automatic brake if you lose grip, adding extra security."
   - question: "Can I abseil off a single anchor?"
-    answer: "Yes, if it's unquestionably strong-but most climbers use multi-point anchors for redundancy."
+    answer: "Yes, if it's unquestionably strong, but most climbers use multi-point anchors for redundancy."
   - question: "How can I avoid rope tangles when abseiling?"
     answer: "Flake the rope before use, manage coils carefully, and position yourself to avoid twists over the edge."
 ---
@@ -39,7 +39,7 @@ faq:
 
 Abseiling techniques are your key to a controlled, confident descent whether you're scaling cliffs or tackling multi-storey structures. At its core, abseiling (sometimes called rappelling) involves lowering yourself on a rope with the help of a belay device and harness. It may look simple, but safe abseiling depends on more than just leaning back and letting gravity do the work. You need the right gear, sturdy anchor points, proper rope handling, and a solid grasp of friction control. In this ultimate guide, you'll discover how to refine your rope skills, avoid common pitfalls, and steadily build your abseiling confidence.
 
-Before you set off, keep in mind that this sport demands both physical skill and a careful mindset. If you overlook even a small detail-like a worn harness strap or a loose knot-you could end up in trouble. But with the right preparation and a healthy respect for safety, you'll be in a perfect position to explore new heights (and depths) on your next adventure.
+Before you set off, keep in mind that this sport demands both physical skill and a careful mindset. If you overlook even a small detail, like a worn harness strap or a loose knot: you could end up in trouble. But with the right preparation and a healthy respect for safety, you'll be in a perfect position to explore new heights (and depths) on your next adventure.
 
 ## Understand abseiling basics
 
@@ -62,7 +62,7 @@ Have you ever looked over the edge of a cliff and felt that little jolt of excit
 
 ## Choose the right gear
 
-When it comes to abseiling, gear is everything. If your harness doesn't fit, or your belay device is incompatible with your rope diameter, you'll find yourself struggling with friction or comfort-or both. While gear can be expensive, think of it as an investment in your safety. Here's a closer look at the essentials.
+When it comes to abseiling, gear is everything. If your harness doesn't fit, or your belay device is incompatible with your rope diameter, you'll find yourself struggling with friction or comfort, or both. While gear can be expensive, think of it as an investment in your safety. Here's a closer look at the essentials.
 
 ### Harness, helmet, and gloves
 
@@ -109,7 +109,7 @@ Basic steps for a natural anchor:
 
 ### Gear anchors
 
-If you don't trust a single tree or rock, or none is available, gear anchors become crucial. Placing nuts, cams, or bolts in reliable rock is standard practice. Keep in mind that leaving gear behind is sometimes unavoidable-though experienced climbers often rig minimal but safe setups. Always ensure each piece of gear is in robust rock and that load is distributed equally among the anchor points.
+If you don't trust a single tree or rock, or none is available, gear anchors become crucial. Placing nuts, cams, or bolts in reliable rock is standard practice. Keep in mind that leaving gear behind is sometimes unavoidable, though experienced climbers often rig minimal but safe setups. Always ensure each piece of gear is in robust rock and that load is distributed equally among the anchor points.
 
 ### Single-point vs multi-point
 
@@ -157,7 +157,7 @@ Once your gear is on, your anchor is safe, and your rope is managed, it's time t
 
 ### Body position and friction hitches
 
-To avoid swinging or scraping against the rock, keep your body in a stable “L” shape-feet on the rock, hips pointing out. Some climbers use a backup friction hitch, like a Prusik loop, for additional security. If you want to see how friction knots can improve your descent control, have a look at [friction hitches](/the-physics-of-abseiling-friction-and-force/).
+To avoid swinging or scraping against the rock, keep your body in a stable “L” shape-feet on the rock, hips pointing out. Some climbers use a backup friction hitch, like a Prusik loop, for additional security. If you want to see how friction actually controls your descent speed, have a look at [the physics of abseiling](/the-physics-of-abseiling-friction-and-force/).
 
 ### Special mention: descender devices
 
@@ -173,7 +173,7 @@ If you're looking to cover more ground in a single descent, [multi pitch rappell
 
 ### Tandem abseil and canyoning techniques
 
-Have you ever wanted to descend alongside a partner? [Tandem abseil](/tandem-abseils-rappelling-with-a-partner/) lets two people share the same belay device. It's often used in rescue scenarios or when guiding a less experienced climber. Meanwhile, [canyoning abseiling](/adventure-activities-canyoning-in-australia-the-complete-guide/) involves descending wet or slippery terrain-sometimes next to waterfalls-so you'll need to adapt your friction settings and wear suitable waterproof gear.
+Have you ever wanted to descend alongside a partner? [Tandem abseil](/tandem-abseils-rappelling-with-a-partner/) lets two people share the same belay device. It's often used in rescue scenarios or when guiding a less experienced climber. Meanwhile, [canyoning abseiling](/adventure-activities-canyoning-in-australia-the-complete-guide/) involves descending wet or slippery terrain, sometimes next to waterfalls, so you'll need to adapt your friction settings and wear suitable waterproof gear.
 
 ### Home practice and backyard setups
 
@@ -216,7 +216,7 @@ Your gear is your lifeline. Proper upkeep extends the life of your equipment and
 
 ### When to retire equipment
 
-All gear has a usable lifespan. If the manufacturer suggests retiring a rope after five years of regular use, or if you notice visible damage, it's wiser to replace rather than risk a catastrophic failure. Most harnesses also come with recommended service lives. And if you find yourself unsure about a piece of equipment-just retire it. Peace of mind and safety are worth it.
+All gear has a usable lifespan. If the manufacturer suggests retiring a rope after five years of regular use, or if you notice visible damage, it's wiser to replace rather than risk a catastrophic failure. Most harnesses also come with recommended service lives. And if you find yourself unsure about a piece of equipment, just retire it. Peace of mind and safety are worth it.
 
 ## Focus on safety and mindset
 
@@ -250,7 +250,7 @@ A. Static ropes are preferred for controlled descents because they have minimal 
 A. It acts as an automatic brake if you lose grip, adding extra security.
 
 **Q. Can I abseil off a single anchor?**  
-A. Yes, if it's unquestionably strong-but most climbers use multi-point anchors for redundancy.
+A. Yes, if it's unquestionably strong, but most climbers use multi-point anchors for redundancy.
 
 **Q. How can I avoid rope tangles when abseiling?**  
 A. Flake the rope before use, manage coils carefully, and position yourself to avoid twists over the edge.

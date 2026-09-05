@@ -1,5 +1,5 @@
 ---
-title: "Abseiling Psychology: Overcoming Fear of Heights- Rappelling Confidence"
+title: "Abseiling Psychology: Overcoming a Fear of Heights"
 description: "Overcome fear of heights with abseiling psychology in Australia! Build rappelling confidence for thrilling adventures!"
 pubDate: "2025-08-02"
 updatedDate: "2026-06-12"

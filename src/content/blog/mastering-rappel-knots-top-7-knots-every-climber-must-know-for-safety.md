@@ -271,7 +271,7 @@ You can, but it's not recommended. Always use an **autoblock** or **prusik** to 
 At least **30 cm (12 inches)** is ideal. More is better, especially with slick ropes.
 
 **Q4. Why does the Munter Hitch twist my rope?**  
-The design of the hitch inherently twists the rope-this is a trade-off for its simplicity and emergency use.
+The design of the hitch inherently twists the rope: this is a trade-off for its simplicity and emergency use.
 
 **Q5. Are knots different for static and dynamic ropes?**  
 Most knots work on both, but performance varies. Test your knots under load for each rope type.
@@ -283,4 +283,4 @@ Use a **clove hitch** or **figure-eight on a bight** depending on the anchor set
 
 ## **18. Conclusion: Build Confidence in Your Rappel Knots**
 
-Mastering rappel knots isn't optional-it's essential. Your safety depends on knowing **which knots to use**, **how to tie them**, and **when they apply**. With practice, these knots become second nature, ensuring efficient, secure, and confident descents every time.
+Mastering rappel knots isn't optional: it's essential. Your safety depends on knowing **which knots to use**, **how to tie them**, and **when they apply**. With practice, these knots become second nature, ensuring efficient, secure, and confident descents every time.

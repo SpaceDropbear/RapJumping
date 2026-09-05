@@ -218,7 +218,7 @@ A: For climbing, top-roping, or multi-pitch scenarios where falls may occur.
 A: 10-15 years if stored well and lightly used, but retire sooner if damaged or heavily worn.
 
 **Q: Which rope is more versatile?**  
-A: A dynamic rope-it works for both climbing and abseiling, but may feel bouncy on descents.
+A: A dynamic rope: it works for both climbing and abseiling, but may feel bouncy on descents.
 
 ---
 
@@ -230,7 +230,7 @@ A: A dynamic rope-it works for both climbing and abseiling, but may feel bouncy 
 - Inspect and maintain your rope after every use. Check for damage, clean it gently, and store it away from harmful elements.
 - When in doubt, talk to an expert or local instructor, and always follow manufacturer guidelines for safe use.
 
-By clarifying your abseiling (and climbing) goals, you'll find it easier to pick the perfect rope. Whether you choose a hardy static rope for that next big rappel or a dynamic rope for your steep climbing adventures, you're now equipped to make a confident, informed decision. Stay safe out there, and enjoy every step-and drop-of the journey.
+By clarifying your abseiling (and climbing) goals, you'll find it easier to pick the perfect rope. Whether you choose a hardy static rope for that next big rappel or a dynamic rope for your steep climbing adventures, you're now equipped to make a confident, informed decision. Stay safe out there, and enjoy every step, and drop-of the journey.
 
 
 ---

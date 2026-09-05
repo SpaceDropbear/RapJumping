@@ -1,6 +1,6 @@
 ---
 title: "Rock Climbing in Perth: Churchman's Brook & the Perth Hills"
-description: "Rock climbing in Perth centres on the granite quarries of the Perth Hills: Statham's Quarry, Mountain Quarry (Boya) and Churchman's Brook. DBCA booking, access, season and safety."
+description: "Rock climbing in Perth centres on the Perth Hills granite quarries: Statham's, Mountain Quarry (Boya) and Churchman's Brook. DBCA booking, access and season."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/rock-climbing-in-perth-churchmans-brook-the-perth-hills.webp"
 heroAlt: "A climber on a sheer cut granite quarry wall in the Perth Hills, still green water below"

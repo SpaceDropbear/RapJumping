@@ -284,7 +284,7 @@ HMS carabiners offer wider curves for belay devices and knots; D-shaped ones are
 Before **every use**, plus a thorough inspection every few months.
 
 **Q5. Can aluminium carabiners break under load?**  
-Not under normal conditions-they are tested to withstand multiple kilonewtons of force.
+Not under normal conditions: they are tested to withstand multiple kilonewtons of force.
 
 **Q6. Is cross-loading really that dangerous?**  
 Yes. Cross-loading reduces strength drastically and can lead to failure.
@@ -293,7 +293,7 @@ Yes. Cross-loading reduces strength drastically and can lead to failure.
 
 ## **18. Conclusion: Picking the Perfect Rappelling Carabiner**
 
-When it comes to rappelling, carabiners are more than connectors-they're crucial safety gear. Choose based on your activity, device compatibility, and environment. Look for certified models with locking gates and appropriate strength ratings. Always inspect before use and never compromise on safety.
+When it comes to rappelling, carabiners are more than connectors: they're crucial safety gear. Choose based on your activity, device compatibility, and environment. Look for certified models with locking gates and appropriate strength ratings. Always inspect before use and never compromise on safety.
 
 
 ---

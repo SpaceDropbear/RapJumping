@@ -95,7 +95,7 @@ Having the best gear is pointless if you don't know how to move with the water. 
 
 ### Position your body sideways
 
-When you rappel into a powerful jet of water, a smaller surface area helps. You don't want the full length of your torso and legs to be hammered by an overwhelming flow. By turning sideways-or even dropping to one knee-you reduce the direct impact on your body.
+When you rappel into a powerful jet of water, a smaller surface area helps. You don't want the full length of your torso and legs to be hammered by an overwhelming flow. By turning sideways, or even dropping to one knee, you reduce the direct impact on your body.
 
 Sideways positioning also helps you anchor one shoulder toward the rock or canyon wall. This means you're less likely to spin out of control. Plus, it gives you a clearer path to communicate with teammates above or below you.
 

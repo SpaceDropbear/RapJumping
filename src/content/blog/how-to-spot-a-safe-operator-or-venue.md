@@ -115,7 +115,7 @@ Another helpful sign is the presence of a second safety rope or a backup belay. 
 
 ### Communication protocols
 
-When you're high off the ground, it's surprisingly tough to hear someone shouting instructions. Safe operator abseiling providers often have clear, predefined signals-both verbal and non-verbal. Some use radios or walkie-talkies, while others rely on rope tugs or hand signals. If your instructor mentions a dedicated communication plan, you can be sure they've handled windy days and echoing cliffs before. That's precisely what you need: a team that's ready for real-world obstacles, from gusty weather to unfamiliar terrain.
+When you're high off the ground, it's surprisingly tough to hear someone shouting instructions. Safe operator abseiling providers often have clear, predefined signals, both verbal and non-verbal. Some use radios or walkie-talkies, while others rely on rope tugs or hand signals. If your instructor mentions a dedicated communication plan, you can be sure they've handled windy days and echoing cliffs before. That's precisely what you need: a team that's ready for real-world obstacles, from gusty weather to unfamiliar terrain.
 
 ### Weather checks and contingency plans
 
@@ -131,7 +131,7 @@ You can ask a few direct questions: “How frequently do you inspect your ropes?
 
 ### Minimising environmental impact
 
-Abseiling doesn't have to harm local ecosystems. Safe operators not only protect you but also safeguard the environment you're exploring. This means not discarding gear or trash at the abseil site, avoiding routes where sensitive wildlife might nest, and using tree-friendly anchor slings that don't damage bark. If your abseiling guide bashes new anchor bolts into a pristine wilderness without any consideration, that's a sign they may not respect the landscape-or your safety. Respect for nature often translates into respect for risk management as well.
+Abseiling doesn't have to harm local ecosystems. Safe operators not only protect you but also safeguard the environment you're exploring. This means not discarding gear or trash at the abseil site, avoiding routes where sensitive wildlife might nest, and using tree-friendly anchor slings that don't damage bark. If your abseiling guide bashes new anchor bolts into a pristine wilderness without any consideration, that's a sign they may not respect the landscape, or your safety. Respect for nature often translates into respect for risk management as well.
 
 ### Responsible group sizes
 
@@ -147,7 +147,7 @@ If your instructor puts zero emphasis on screening participants, that might hint
 
 ### Emergency action plans
 
-Accidents happen even in well-controlled conditions. Rocks can dislodge, or rope edges can snag. A venue that's truly prepared has a clear plan for emergencies-like a pre-assigned rescue rope, backup anchors, or a dedicated first aid area. It should never be a mystery how they'll respond to a jammed rope or an injured abseiler. Trustworthy operators rehearse these situations. They know how to improvise with extra tape or set up a self-rescue system if the rope gets stuck. Ask them directly: “How would you handle a rope jam midway?” or “What's the rescue protocol if someone can't climb back up?” Clear, confident answers demonstrate genuine readiness.
+Accidents happen even in well-controlled conditions. Rocks can dislodge, or rope edges can snag. A venue that's truly prepared has a clear plan for emergencies, like a pre-assigned rescue rope, backup anchors, or a dedicated first aid area. It should never be a mystery how they'll respond to a jammed rope or an injured abseiler. Trustworthy operators rehearse these situations. They know how to improvise with extra tape or set up a self-rescue system if the rope gets stuck. Ask them directly: “How would you handle a rope jam midway?” or “What's the rescue protocol if someone can't climb back up?” Clear, confident answers demonstrate genuine readiness.
 
 ## Notice transparent teaching
 
@@ -210,4 +210,4 @@ When deciding if you've found a safe operator for abseiling, look at everything 
 
 In the end, these precautions aren't meant to deflate your sense of adventure. They're there to enhance it, ensuring that the rope between you and the ground is backed by expertise, reliable gear, and well-practised procedures. That way, you're free to savour the rush of leaning back, letting gravity take over, and gliding calmly to the bottom. After all, abseiling is supposed to be thrilling, not terrifying.
 
-Keep these pointers in mind to pinpoint the safest operators and venues. If you're new to the sport or looking to sharpen your skills, you can explore more specific guidelines in abseiling safety standards. By doing so, you'll gain the knowledge you need so that each rope descent feels secure, guided by clear standards, and enriched by a sense of trust-both in your team and in the gear you rely on.
+Keep these pointers in mind to pinpoint the safest operators and venues. If you're new to the sport or looking to sharpen your skills, you can explore more specific guidelines in abseiling safety standards. By doing so, you'll gain the knowledge you need so that each rope descent feels secure, guided by clear standards, and enriched by a sense of trust, both in your team and in the gear you rely on.

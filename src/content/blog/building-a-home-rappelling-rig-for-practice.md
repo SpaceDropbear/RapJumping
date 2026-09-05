@@ -36,7 +36,7 @@ faq:
 - Build SERENE-A anchors: Solid, Equalised, Redundant, Efficient, No-extension, tight Angles (≤60°).
 - Protect trees/edges; never run nylon rope over nylon slings. Use metal connectors/edge protection.
 - Helmet on, knots in rope ends, autoblock/prusik below the device, device on an extension to keep systems separate.
-- Start low: knee/waist-height drills, mid-rappel lock-off, smooth feeds-then go higher.
+- Start low: knee/waist-height drills, mid-rappel lock-off, smooth feeds: then go higher.
 - Use a PAS at the top to clip in while rigging; PAS is for bodyweight only.
 - Partner up. Solo practice demands extra conservatism (redundant anchors, backups, short heights).
 - Inspect and retire worn kit early; log sessions and gear state after each practice.
@@ -50,7 +50,7 @@ Rappelling is a fairly advanced skill, so it's a good idea to have some climbing
 
 ## Recognise basic gear needs
 
-Before you hop into knots and anchor systems, it's wise to take a quick inventory of the essential items for your home rig. Rappelling-whether you're in the mountains or your backyard-depends on dependable gear that you inspect regularly.
+Before you hop into knots and anchor systems, it's wise to take a quick inventory of the essential items for your home rig. Rappelling, whether you're in the mountains or your backyard-depends on dependable gear that you inspect regularly.
 
 ### Harness, rope, and device
 
@@ -112,13 +112,13 @@ If your property has a deck or climbable structure of modest height, you might n
 
 ## Check your harness and PAS
 
-One of the biggest leaps for a new rappeller is trusting the gear-and that includes trusting how you connect yourself to the anchor. Personal Anchor Systems (PAS) are short slings or daisy-chain-like devices that attach directly to your harness, letting you safely clip into your anchor before you load or remove the rope.
+One of the biggest leaps for a new rappeller is trusting the gear, and that includes trusting how you connect yourself to the anchor. Personal Anchor Systems (PAS) are short slings or daisy-chain-like devices that attach directly to your harness, letting you safely clip into your anchor before you load or remove the rope.
 
 ### Using a personal anchor system
 
 The PAS is your temporary safety line at the top of your rig. When you're prepping your rappel, you clip one end of the PAS into both anchor points (or a master point that joins them), while the other end is attached to the belay loop on your harness. Once snug, you can lean back a bit and test everything. If something isn't secure, you'll know before you commit your entire weight to the rope.
 
-Keep in mind that PAS devices are not designed to catch a dynamic fall-they're strictly for bodyweight applications. Forgo any big jumps or whippers while clipped in. Tighten the loops so that there's no Slack between you and the anchor.
+Keep in mind that PAS devices are not designed to catch a dynamic fall: they're strictly for bodyweight applications. Forgo any big jumps or whippers while clipped in. Tighten the loops so that there's no Slack between you and the anchor.
 
 ### Backups and friction hitches
 
@@ -148,7 +148,7 @@ Once your anchor system is dependable and you've mastered the fundamentals of ri
 
 ### Test on safe terrain
 
-If you have a tall deck or a treehouse in your backyard, start by setting up a short rappel-maybe just a couple metres off the ground. That way, if something goes wrong, you're closer to the ground and can mitigate issues more easily.
+If you have a tall deck or a treehouse in your backyard, start by setting up a short rappel, maybe just a couple metres off the ground. That way, if something goes wrong, you're closer to the ground and can mitigate issues more easily.
 
 Over time, you can gradually move to higher points. The key is to be methodical: after every practice session, inspect your rope for wear, check your anchor points, and note any gear that's approaching retirement. If your webbing looks frayed or your rope has fuzzy spots, it's time to replace them. This is the exact same diligence you'd practice outdoors.
 
@@ -165,7 +165,7 @@ For more on complex descent techniques, you can also check out [abseiling techni
 
 ## Common backyard anchor ideas
 
-At home, you might have a few anchor options that vary in reliability. Always overbuild anchors for peace of mind. If you can't find two or three reliable points, consider drilling and installing removable bolts if you have the right structural material-but only if you're familiar with proper bolt installation. Otherwise, you risk compromising your anchor strength.
+At home, you might have a few anchor options that vary in reliability. Always overbuild anchors for peace of mind. If you can't find two or three reliable points, consider drilling and installing removable bolts if you have the right structural material, but only if you're familiar with proper bolt installation. Otherwise, you risk compromising your anchor strength.
 
 - Sturdy wooden beams: Check for dryness, rot, or cracks before trusting them.
 - Steel support columns: Often found in basements or garages, these can be excellent anchor points if they're structurally integrated.

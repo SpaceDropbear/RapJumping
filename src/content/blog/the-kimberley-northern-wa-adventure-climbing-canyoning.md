@@ -1,6 +1,6 @@
 ---
 title: "The Kimberley & Northern WA: Adventure Climbing & Canyoning"
-description: "Honest guide to adventure in the Kimberley & northern WA: gorge walks in Purnululu (Bungle Bungles), El Questro, dry-season access (DBCA) and safety, not roped climbing."
+description: "Honest guide to adventure in the Kimberley & northern WA: gorge walks in Purnululu, El Questro, dry-season access and safety, not roped climbing."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/the-kimberley-northern-wa-adventure-climbing-canyoning.webp"
 heroAlt: "Walkers squeezing through a narrow Kimberley gorge between banded orange sandstone walls"

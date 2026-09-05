@@ -18,7 +18,7 @@ readingTime: 2
 
 ---
 
-Welcome back to Rap Jumping! We're the original Aussie abseiling pioneers-founded in 1989 by Peter “Macka” Mackail-and after a five-year hiatus, we're relaunching our site in 2025 as your go-to hub for affiliate-marketed adventure activities across Australia.
+Welcome back to Rap Jumping! We're the original Aussie abseiling pioneers-founded in 1989 by Peter “Macka” Mackail, and after a five-year hiatus, we're relaunching our site in 2025 as your go-to hub for affiliate-marketed adventure activities across Australia.
 
 ## Our Roots & Rough History
 
@@ -28,7 +28,7 @@ Welcome back to Rap Jumping! We're the original Aussie abseiling pioneers-founde
 
 **2014-2020:** Under my ownership, Rap Jumping evolved into a digital-forward business, expanding our reach, modernizing our booking systems, and growing our crew of expert guides.
 
-**March 2020:** COVID-19 lockdowns forced us to close doors. With tourism grinding to a halt, we paused operations-and our website went dark.
+**March 2020:** COVID-19 lockdowns forced us to close doors. With tourism grinding to a halt, we paused operations, and our website went dark.
 
 ## Why We Stepped Away
 
@@ -43,9 +43,9 @@ The global pandemic didn't just shutter sites; it reshaped travel and gatherings
 ## Our Aim & Vision for the Site
 
 1. **Centralised Info Hub:** One place for expert-verified guides, gear recommendations, and up-to-date site status across all Australian states.
-2. **Affiliate Marketplace:** Seamlessly link you to the best tours, vouchers, and equipment via affiliate partners-so you save time and money, and we earn a small commission at no extra cost to you.
+2. **Affiliate Marketplace:** Seamlessly link you to the best tours, vouchers, and equipment via affiliate partners, so you save time and money, and we earn a small commission at no extra cost to you.
 3. **Community & Content:** Inspiring stories, mini case studies, and user-submitted photos to fuel your next vertical adventure.
-4. **Growth & Diversification:** In Year1, we focus on abseiling; by Year2, we'll add canyoning, via ferrata, and other high-octane activities-always backed by thorough reviews and affiliate offers.
+4. **Growth & Diversification:** In Year1, we focus on abseiling; by Year2, we'll add canyoning, via ferrata, and other high-octane activities, always backed by thorough reviews and affiliate offers.
 
 ## What's Next?
 
@@ -55,6 +55,6 @@ The global pandemic didn't just shutter sites; it reshaped travel and gatherings
 
 ## Why Follow Along?
 
-We're more than a blog-we're a community built on decades of vertical expertise. Whether you're chasing your first rappel or your hundredth, Rap Jumping's relaunch is your passport to safer, smarter, and more affordable thrills across Australia.
+We're more than a blog: we're a community built on decades of vertical expertise. Whether you're chasing your first rappel or your hundredth, Rap Jumping's relaunch is your passport to safer, smarter, and more affordable thrills across Australia.
 
 **Ready to reignite your sense of adventure?** Let’s descend into excitement together!

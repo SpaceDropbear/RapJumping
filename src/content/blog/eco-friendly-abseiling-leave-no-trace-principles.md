@@ -119,7 +119,7 @@ Your group should have a strategy for dealing with accidents. This might include
 2. A communication system, like radios or prearranged hand signals.
 3. Clear protocols for calling local rescue if someone is injured.
 
-Discuss potential scenarios-like rope tangles, anchor failures, or unexpected weather-and decide who does what if something goes wrong. While you hope you'll never need to enact these measures, being prepared offers peace of mind.
+Discuss potential scenarios, like rope tangles, anchor failures, or unexpected weather, and decide who does what if something goes wrong. While you hope you'll never need to enact these measures, being prepared offers peace of mind.
 
 ### Establish clear communication
 

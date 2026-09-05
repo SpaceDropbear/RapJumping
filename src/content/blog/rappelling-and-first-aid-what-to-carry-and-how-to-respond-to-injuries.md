@@ -43,7 +43,7 @@ Below, you'll find practical guidance on selecting first aid supplies, preventin
 
 Heading down a rope might feel routine, but injuries can pop up when you least expect them. A good first aid approach isn't merely about band-aids and gauze. It's about knowing how to respond quickly when your grip slips or your partner tweaks an ankle on a ledge.
 
-You might wonder, “Isn't a basic first aid course enough?” Basic training is a great start, but steep environments can complicate an injury. You're often far from roads, phone signals, or medical facilities. This means you have to improvise with your climbing gear and limited supplies. If you've ever climbed on a remote wall, you know each step of your approach-and every metre of your descent-comes with unique hazards.
+You might wonder, “Isn't a basic first aid course enough?” Basic training is a great start, but steep environments can complicate an injury. You're often far from roads, phone signals, or medical facilities. This means you have to improvise with your climbing gear and limited supplies. If you've ever climbed on a remote wall, you know each step of your approach, and every metre of your descent-comes with unique hazards.
 
 For more in-depth learning, organisations like NOLS offer Wilderness First Aid or Wilderness First Responder courses designed for outdoor enthusiasts. They help you adapt standard medical knowledge to spots where even a small cut can go from annoying to serious if it's not handled properly. The bottom line is that you need both practical knowledge and a well-stocked kit to support you in a true emergency.
 
@@ -74,7 +74,7 @@ Rappelling naturally exposes you to a variety of potential issues, from blisters
 
 ### Blisters and foot friction
 
-Long approaches or friction against climbing shoes can quickly cause hotspots. A quick fix is a liner sock-often a thin polyester dress sock-that reduces friction inside your climbing shoes or approach shoes. Keep tincture of benzoin and athletic tape on hand if you need a more secure patch over a developing blister. By dealing with foot hot spots early, you can avoid hobbling your way back to the car.
+Long approaches or friction against climbing shoes can quickly cause hotspots. A quick fix is a liner sock, often a thin polyester dress sock: that reduces friction inside your climbing shoes or approach shoes. Keep tincture of benzoin and athletic tape on hand if you need a more secure patch over a developing blister. By dealing with foot hot spots early, you can avoid hobbling your way back to the car.
 
 ### Limb injuries and strains
 
@@ -106,7 +106,7 @@ You might end up using quickdraws, carabiners, or even a harness leg loop to spl
 
 ### Calm and careful communication
 
-When you're dangling on vertical terrain, tension is high. Start by getting your partner onto a secure ledge or an anchor point if possible. Speak clearly, give them something stable to lean against, and try to gauge how serious their injury is. If they can't continue, figure out your evacuation plan-will you lower them, or can you safely ascend together? Sometimes the simplest solution is calling local rescue services if you have a cell signal, but in remote areas, it might be all up to you.
+When you're dangling on vertical terrain, tension is high. Start by getting your partner onto a secure ledge or an anchor point if possible. Speak clearly, give them something stable to lean against, and try to gauge how serious their injury is. If they can't continue, figure out your evacuation plan, will you lower them, or can you safely ascend together? Sometimes the simplest solution is calling local rescue services if you have a cell signal, but in remote areas, it might be all up to you.
 
 ## Check and update your gear
 
@@ -177,4 +177,4 @@ A. Train in wilderness medicine, carry communication devices, know your location
 
 Rappelling can be exhilarating, but it comes with responsibilities that extend beyond rope management. A thorough first aid strategy helps you confidently address everything from tiny nicks to more serious incidents. You'll start by building a comprehensive kit tailored to your adventures, addressing common injuries like blisters, burns, and strains, and mastering rescue methods such as a buddy rappel. Finally, you'll stay safer by keeping your gear in prime condition and continuing your education through reputable courses.
 
-Now that you know how to prepare, why not pick a date to refresh your gear checks and practise a few basic rescues on the ground? You could even explore further training if you haven't already. It only takes one successful intervention-maybe applying a bandage or improvising a splint-to prove the value of your hard-earned first aid skills. Stay safe out there, and remember: you've got this.
+Now that you know how to prepare, why not pick a date to refresh your gear checks and practise a few basic rescues on the ground? You could even explore further training if you haven't already. It only takes one successful intervention, maybe applying a bandage or improvising a splint-to prove the value of your hard-earned first aid skills. Stay safe out there, and remember: you've got this.

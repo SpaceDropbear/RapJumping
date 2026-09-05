@@ -85,7 +85,7 @@ Below is a simple table comparing abseiling with popular adventure sports:
 | Paragliding | Gliding flight | Wing, harness, helmet | Mountain slopes, ridges |
 | Canyoning | Waterfall abseils | Wetsuit, rope, harness | River gorges, slot canyons |
 
-If you're a thrill-seeker, you might find that abseiling serves as a stepping stone to bigger leaps-literally-like base jumping or paragliding. But it can also stand on its own as a fun, skill-based sport. Many climbers get a taste for rope work on short sessions, then ramp up to larger walls in places such as the Blue Mountains in Australia or the epic rock faces of Yosemite in the United States.
+If you're a thrill-seeker, you might find that abseiling serves as a stepping stone to bigger leaps-literally, like base jumping or paragliding. But it can also stand on its own as a fun, skill-based sport. Many climbers get a taste for rope work on short sessions, then ramp up to larger walls in places such as the Blue Mountains in Australia or the epic rock faces of Yosemite in the United States.
 
 ### Finding your comfort zone
 
@@ -124,7 +124,7 @@ Before you descend, always double-check that your rope is properly anchored. Mak
 
 ## Bring it all together
 
-Abseiling is an art of precision wrapped in an adrenaline package. You get the sensational perspective of hanging on a rope hundreds of feet above the ground, balanced by a measured, step-by-step technique. It pairs beautifully with climbing, canyoning, or even film stunts. If you're heading to Australia-or you're already there-there's no shortage of cliffs, gorges, and dunes that make for unforgettable descents. Combine this sense of freedom with a dip into the vibrant local culture, and you have yourself a trip worth talking about.
+Abseiling is an art of precision wrapped in an adrenaline package. You get the sensational perspective of hanging on a rope hundreds of feet above the ground, balanced by a measured, step-by-step technique. It pairs beautifully with climbing, canyoning, or even film stunts. If you're heading to Australia, or you're already there, there's no shortage of cliffs, gorges, and dunes that make for unforgettable descents. Combine this sense of freedom with a dip into the vibrant local culture, and you have yourself a trip worth talking about.
 
 ### Real stories, real inspiration
 
@@ -144,7 +144,7 @@ Cross-training in different sports not only keeps your workouts fun but also bui
 
 ## Overcoming fear and building confidence
 
-Feeling nervous about stepping backward off a cliff is natural. In fact, that little rush of adrenaline can sharpen your senses. The key is learning proper technique and trusting your gear. Start small-a short abseil of just a few metres. Work your way up as your comfort grows. You'll quickly discover that abseiling is extremely controlled, thanks to friction in the belay device and your break hand.
+Feeling nervous about stepping backward off a cliff is natural. In fact, that little rush of adrenaline can sharpen your senses. The key is learning proper technique and trusting your gear. Start small: a short abseil of just a few metres. Work your way up as your comfort grows. You'll quickly discover that abseiling is extremely controlled, thanks to friction in the belay device and your break hand.
 
 ### Mental strategies
 

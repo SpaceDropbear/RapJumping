@@ -1,239 +1,235 @@
 ---
-title: "The Physics of Abseiling Friction and Force"
-description: "Discover the magic of abseiling physics! Master friction and force like a pro climber in this captivating journey!"
+title: "The Physics of Abseiling: Friction, Force and Rope Loads"
+description: "How much force is really on an abseiling rope? Kilograms versus kilonewtons, what your gear is rated to, and why the margins are so large."
 pubDate: "2025-08-14"
-updatedDate: "2026-06-12"
+updatedDate: "2026-09-05"
 heroImage: "/images/2025/08/abseiling-physics.webp"
-heroAlt: "Isometric voxel cliff with figures rappelling on red ropes and dotted force-arrow lines around them"
-tags: ["abseiling"]
+heroAlt: "An abseiling rope running over the lip of a sandstone overhang in golden light, with a forested valley far below"
+tags: ["abseiling", "safety"]
 featured: false
-readingTime: 12
+readingTime: 13
 faq:
-  - question: "What's the difference between static and dynamic friction when abseiling?"
-    answer: "Static friction holds you when stopped; dynamic friction applies once you're sliding. Your device and brake hand regulate the switch between the two."
-  - question: "Which rope is best for abseiling-static or dynamic?"
-    answer: "Static for pure descents (low stretch, predictable control). Dynamic works on retreats/multipitch but feels springier and can run faster through devices."
-  - question: "How do temperature and conditions affect friction?"
-    answer: "Cold stiffens ropes (less bend, different feel); heat and wet ropes change sheath behaviour. Test your setup in similar conditions before committing."
-  - question: "Can I add a second carabiner to increase friction?"
-    answer: "Sometimes-if your device supports it and you can avoid cross-loading or nose snagging. Use rated lockers and keep the carabiners aligned."
-  - question: "Should I extend my device?"
-    answer: "Yes, often helpful. An extension keeps the device away from your harness and your autoblock clear and effective."
-  - question: "Where does the prusik/autoblock go?"
-    answer: "Below the device on the brake strand, clipped to your leg loop-keeps it reachable if you need a hands-free lock."
+  - question: "How many times my own bodyweight is my abseiling gear rated for?"
+    answer: "Roughly twenty five times, for a typical abseiler on a locking carabiner. An 80 kg person hanging still loads the system with about 0.78 kN, and the minimum major axis strength for a locking carabiner is 20 kN. That ratio is why a smooth descent sits so far inside the limits of the gear."
+  - question: "Can an abseiling rope actually snap?"
+    answer: "Not from the load of a person hanging on it. A low stretch abseil rope is tested to at least 22 kN, which is around thirty times what a steady descent applies. Ropes fail from cutting over sharp edges, chemical damage, and age or wear, so inspect the rope and protect the edge rather than worrying about the breaking strain."
+  - question: "Does bouncing or jumping while abseiling increase the force?"
+    answer: "Yes, and it is the main way a recreational abseiler raises the load. While the rope is slowing you, its tension is your mass times gravity plus your deceleration, so the harder you stop the higher the peak. Smooth, steady descent keeps the load near your bodyweight."
+  - question: "What is the quick way to convert kilograms to kilonewtons?"
+    answer: "Divide your mass in kilograms by 100. Because gravity is 9.8 metres per second squared, an 80 kg person weighs 784 newtons, which is 0.784 kN. Dividing by 100 gives 0.8 kN, which is close enough for any decision you will make on a cliff."
+  - question: "How heavy is too heavy for abseiling?"
+    answer: "Rope and carabiner strength is almost never the limit. The real constraints are the stated weight range of the operator, whether a harness fits you correctly, and whether your descender generates enough friction on the rope diameter in use. Ask the operator, because those limits are about fit and control rather than breaking strength."
+  - question: "What is the difference between static and dynamic friction when abseiling?"
+    answer: "Static friction holds you when you have stopped, and dynamic friction applies once the rope is sliding. Your descender and your brake hand regulate the switch between the two."
+  - question: "Which rope is best for abseiling: static or dynamic?"
+    answer: "Static for pure descents, because low stretch gives predictable control. Dynamic rope works fine on retreats and multi pitch, though it feels springier and can run faster through a descender."
+  - question: "Where does the prusik or autoblock go?"
+    answer: "Below the descender on the brake strand, clipped to your leg loop, which keeps it reachable if you need a hands free lock."
   - question: "How do anchor angles affect load?"
-    answer: "Wider angles multiply force on each leg. Aim ≤60° between anchor legs; smaller is better for marginal placements."
-  - question: "How much force does a “smooth” rappel generate?"
-    answer: "Typically well under bodyweight at the anchor; sudden jerks can spike loads. Keep movements smooth to avoid shock."
----
-
+    answer: "Wider angles multiply the force carried by each leg of the anchor. Aim for 60 degrees or less between the legs, and keep it smaller again on marginal placements."
 ---
 
 ## TL;DR
 
-- Abseiling control = balancing gravity with friction from your device, rope, and posture.
-- Tune friction: use a device's high-friction mode, consider a second locker (if supported), extend the device, and run an autoblock below.
-- Static vs dynamic friction: stop = static, slide = dynamic; you manage the transition with your brake hand and device.
-- Body mechanics: lean back, hips inline with the anchor, legs do the work-keeps your centre of mass stable.
-- Ropes: static = crisp control for pure abseils; dynamic = fine for retreat but feels bouncier.
-- Anchors: redundancy, equalisation, small angles; load-share (quad/sliding-X) and test-load before anyone commits.
-- Multi-pitch: smooth rope feeds reduce shock on anchors; avoid jerky moves and bouncing.
-- Safety: knot rope ends, use an autoblock, double-check device orientation, and communicate clearly.
+- **Kilograms measure mass and kilonewtons measure force**: multiply your mass by 9.8 to get the force your body puts on the system, or just divide your weight in kilograms by 100 for a close enough answer in kilonewtons.
+
+- **Hanging still loads the rope with roughly your bodyweight**: an 80 kg abseiler applies about 0.78 kN, which is a long way from anything the gear struggles with.
+
+- **Sudden stops and bounces are what multiply the load**: the rope has to hold you up and slow you down at the same time, so tension climbs the harder you decelerate.
+
+- **A locking carabiner starts at 20 kN and most are stamped 22 to 25**: that is over two tonnes, so a smooth abseil runs at something like a twenty fifth of the rated strength.
+
+- **Smooth beats fast**: the loads that actually threaten gear come from shock loading, sharp edges and worn kit, not from the simple act of hanging on a rope.
 
 ---
 
-## Explore abseiling physics
+There is a moment at the top of every descent where you lean back and let the rope take you. Your heels are on the edge, your weight comes off your feet, and some quiet part of your brain asks the obvious question. What is actually holding me up here, and how close to its limit is it?
 
-If you've ever lowered yourself down a rock face and wondered how everything holds together so smoothly, you're already touching on abseiling physics. It's the fascinating interplay of friction, force, and balance that keeps you in control throughout your descent. Understanding these principles can help you refine your abseiling skills, reduce the chance of accidents, and conserve energy on every rope outing. Let's break down the core physics at play, from friction management to rope types, so you can abseil with greater confidence.
+It is a good question, and the answer is genuinely reassuring. The forces involved in a controlled descent are small, and the gear is built to survive numbers many times larger. Once you can put rough figures on both sides of that comparison, the exposure stops feeling like a leap of faith and starts feeling like arithmetic.
 
-## Understand friction and its role
+This guide covers both halves of abseiling physics. First the loads, meaning what a rope actually carries, in units you can check yourself. Then the friction that lets you control the descent in the first place. Both matter, and the same principles sit underneath [rap jumping](/), where you face down the wall instead of leaning back into the harness.
 
-Friction is simply the resistance created when two surfaces rub against each other. In abseiling, friction is central to controlling your speed. You'll find friction where the rope meets your belay device, within knots you tie, and between your hands (or gloves) and the rope itself. Nail down the basics of friction, and you'll be on your way to smoother abseils.
+## Kilograms are not kilonewtons
 
-### Static vs dynamic friction
+Almost every confusion about abseiling forces starts here, so it is worth being precise.
 
-- Static friction: This occurs when there's no motion between surfaces. Think about pausing mid-descent to rest or adjust gear. The friction is high enough to keep you from moving.
-- Dynamic friction: The moment you start sliding, dynamic friction comes into play. This form of friction helps you regulate your speed as the rope slips through your belay device.
+Your **mass** is how much of you there is, measured in kilograms. It does not change if you fly to the moon. Your **weight** is the force gravity pulls you down with, and force is measured in newtons. That force is your mass multiplied by gravitational acceleration:
 
-Both types matter in abseiling. A well-chosen device or setup lets you dial in the right level of friction, whether you're pausing to rest or descending steadily all the way.
+**F = m × g**, where g is 9.8 metres per second squared.
 
-### Techniques to increase friction
+A newton is a small unit, so climbing gear is marked in **kilonewtons**, abbreviated kN. One kilonewton is a thousand newtons. Run the numbers for a few different people and the pattern falls out immediately.
 
-1. Use an asymmetrical belay device in its reversed orientation if you need more grip. Some devices work more effectively one way around than the other.
-2. Attach your belay device with two carabiners. This increases rope contact inside the device, boosting friction. Just make sure both carabiners are strong, screwgate types.
-3. Extend the belay device with a sling. This approach places the device a bit farther from your harness, which can make friction adjustments easier.
-4. Add a prusik knot. While it's primarily a safety backup that can autolock, it occasionally offers extra friction when you're descending on tricky, wet, or thin ropes.
-
-### Effect of temperature on friction
-
-Interestingly, rope friction doesn't remain constant if temperatures shift.
-
-- Warm conditions (around 20-25°C) can soften rubber or rope coatings, potentially altering how the rope moves through your belay device.
-- Colder conditions can cause the rope to feel stiffer and might reduce its ability to bend around equipment.
-
-If you're abseiling in extremes, test your gear in similar temperatures before committing to a big wall.
-
-## Balance gravity and force
-
-Gravity never stops pulling you down, so controlling your descent relies on balancing that force. By using your belay device effectively and trusting the friction in the system, you create an opposing force that slows your downward progress to a comfortable pace.
-
-### Apply Newton's laws
-
-1. Newton's First Law (Inertia): If you're stationary (static friction at work), you'll stay put until an external force (your conscious decision to slide) acts.
-2. Newton's Second Law (F = ma): The force you feel as you descend is a product of your mass times your acceleration. Changing the friction changes your acceleration.
-3. Newton's Third Law (Action and Reaction): As you pull on the rope to control your descent, the rope exerts an equal and opposite force on you.
-
-So how does this help you in real life? By knowing you can reduce acceleration with more friction or anticipate your weight shift where it's needed, you can keep your movements smooth and predictable.
-
-### Shifting your centre of mass
-
-Your centre of mass is basically the point where your weight is balanced. When abseiling, you want your centre of mass close to the rock or wall to avoid swinging out or losing control. You'll typically do this by:
-
-- Leaning back at about a 90-degree angle from the wall.
-- Keeping your legs slightly apart and using the soles of your feet for contact.
-- Shifting your hips in line with the anchor above you, so the rope runs vertically down in front.
-
-A stable centre of mass means less energy spent fighting swings or awkward positions. You'll find your abseils feel more relaxed when your body is balanced.
-
-## Choose the right rope
-
-Not all ropes are created equal, especially when discussing abseiling physics. The two main categories are static and dynamic ropes.
-
-### Static ropes vs dynamic ropes
-
-A static rope has very little stretch, making it ideal for abseiling, caving, or rescue situations. A dynamic rope is designed to elongate and absorb the force of a fall, which is vital in lead climbing or top-roping. Here's a quick comparison:
-
-| Feature | Static Rope | Dynamic Rope |
+| Abseiler | Weight force (mass × 9.8) | In kilonewtons |
 | --- | --- | --- |
-| Stretch (Elongation) | Very low (~2%) | Higher (~26% possible) |
-| Ideal Use | Abseiling, rescue, caving | Lead climbing, top-roping, mountaineering |
-| Shock Absorption | Minimal | High, reduces impact force |
-| Control When Descending | Excellent, consistent friction | More bounce, less ideal for pure abseiling |
+| 60 kg | 588 N | 0.59 kN |
+| 80 kg | 784 N | 0.78 kN |
+| 100 kg | 980 N | 0.98 kN |
+| 120 kg | 1,176 N | 1.18 kN |
 
-### Abseiling with static rope
+There is a shortcut hiding in that table. Because 9.8 is very nearly 10, **dividing your mass in kilograms by 100 gives you your weight in kilonewtons**. A 75 kg person is about 0.75 kN. A 95 kg person is about 0.95 kN. It lands within two percent, which is far better than you need for any decision you will make on a cliff.
 
-When you're purely descending, a static rope is your friend. Because it doesn't stretch much, you won't bounce around with every movement. That consistent tension helps you control your speed more precisely. However, never use static rope for lead climbing, because it cannot absorb the shock of a fall and could lead to serious injury.
+Hold onto that, because it turns every number stamped on your gear into something you can compare against yourself.
 
-### Abseiling with dynamic rope
+## What the rope carries when you just hang there
 
-If you're on a multipitch route, you might abseil on the same dynamic rope you used to climb up. Dynamic ropes still work fine for abseiling, though the extra springiness means you might notice a slight bounce or recoil. Just make sure you've tested the friction level with your belay device, because some dynamic ropes can feel faster once they're weighted.
+Here is the part that surprises people. When you stop mid descent and simply hang, the rope above you is carrying **approximately your bodyweight**. Not five times it. Not some mysterious multiplier. Just you.
 
-## Manage anchors and force distribution
+An 80 kg abseiler with a few kilograms of kit is applying somewhere near 0.85 kN to the system. That is the baseline, and a well managed abseil spends nearly all its time close to it.
 
-Anchors are your life-support system when abseiling. A weak or poorly placed anchor can fail under force, leading to dire consequences. Being mindful of how forces are distributed among anchor points adds a big safety margin.
+One nuance worth knowing. On a doubled rope threaded through an anchor, the anchor carries your full weight while each of the two strands carries roughly half. That is why anchors get more attention than rope strength in any sensible safety briefing.
 
-### Strengthen your anchor system
+## Standing still versus stopping suddenly
 
-When you're descending from high places, your anchor must hold the total load and possible shock. Here are some guidelines for stronger setups:
+So if hanging still is only bodyweight, where do bigger numbers come from? From acceleration.
 
-1. Check rock quality or structure. Avoid cracked surfaces or loose blocks.
-2. Equalise multiple anchor points. Spread the load across each piece with a load-sharing system like the quad.
-3. Keep the angle between anchor legs small. The bigger the angle, the greater the strain on each piece.
+While the rope is slowing you down, it has two jobs at once. It has to support your weight, and it has to decelerate you. Those add together, so the tension in the rope is:
 
-By taking time to do these steps, you'll worry less about anchor failure and more about enjoying your descent.
+**T = m × (g + a)**, where a is how hard you are being slowed.
 
-### Use load-sharing anchors
+When you are stationary, a is zero and the tension is just your bodyweight, exactly as above. When you drop a short distance and the rope catches you, a can be several times g, and the tension climbs with it. Nothing mysterious is happening. It is the same formula with a bigger number in one slot.
 
-Load-sharing anchor systems (such as a sliding X or quad) allow the direction of pull to shift without shocking a single anchor point. If you're in a multipitch scenario or suspect the load might change direction, a load-sharing system can better handle those directional pulls.
+This is why bouncing down a wall is discouraged, and it is not merely an aesthetic preference. Every bounce is a small deceleration event, and each one spikes the load on the rope and the anchor above you. A smooth descent keeps the system near that steady bodyweight figure, which is where you want to live.
 
-#### The angle factor
+### Fall factor, in plain language
 
-Imagine two anchor points connected by a sling in a V-shape. If you make the inside angle too wide (over 120 degrees), each anchor could end up carrying more force than your actual total load. Keep the angle narrower so that each point bears a reasonable portion of the weight.
+If you slip while abseiling, the severity of the resulting jolt depends less on how far you fell than on how much rope was available to absorb it. That ratio has a name:
 
-## Refine your abseiling techniques
+**Fall factor = distance fallen ÷ length of rope paid out.**
 
-Over time, you'll develop a feel for friction, rope handling, and balancing your body. Still, there are a few advanced tips worth knowing to level up your descents.
+Fall three metres on thirty metres of rope and the factor is 0.1, because there is plenty of rope to stretch and soak up the energy. Fall the same three metres on only three metres of rope and the factor is 1.0, because the same energy has far less material to absorb it. The drop felt identical. The load did not.
 
-### Fine-tune your friction settings
+Ordinary abseiling sits close to factor zero, because your weight is already on a rope running up to an anchor above you. There is essentially no slack to fall into. For the full treatment of the concept, including the range it runs across and how rope drag quietly makes it worse, read our guide to [fall factor and the risks it creates](/rappelling-and-fall-factor-understanding-the-risks/).
 
-- Try the Z-abseil setup if your ropes are soaked or skinny. This technique cleverly weaves the rope through multiple points, delivering excellent friction.
-- Experiment with reversed belay devices and different carabiner styles in a controlled environment before using them on a big descent.
-- Consider wearing gloves if you're dealing with long or multiple abseils. Gloves can help you manage rope burn and maintain a solid grip.
+## For the nerds
 
-### Safe abseiling posture
+<div class="notice"><strong>A common mix up worth clearing up.</strong> You will sometimes see <em>m &times; g &times; h</em> offered as a formula for the force of a fall. It is not a force. It is <strong>potential energy</strong>, measured in joules, and it tells you how much energy the system has to get rid of, not how hard the stop will be. The bridge from energy to force is stopping distance: the average force is roughly the energy divided by the distance over which you are brought to rest. Stretch the stop out over more rope and the same energy produces a gentler force, which is precisely why fall factor is written as a ratio rather than a distance. Strictly the falling body keeps gaining energy across the stopping distance too, so this is an approximation rather than an identity, though it captures the mechanism honestly. It also explains why dynamic ropes exist. A rope that stretches is a rope that lengthens the stop, and a longer stop is a lower peak force.</div>
 
-Posture can make or break your efficiency during abseils:
+## What the gear is actually rated to
 
-- Keep your feet wide enough for stability, yet close enough to shift if the surface changes.
-- Lean your upper body away from the wall, focusing on distributing weight through your legs rather than your arms.
-- Keep one hand on the brake strand behind your belay device, letting friction do the heavy lifting.
+Now put the two sides together. Here is what the equipment on a standard abseil is built to survive, against the European standards that Australian recreational climbers buy to.
 
-### Essential safety checks
+| Item | Minimum breaking or test value | Standard |
+| --- | --- | --- |
+| Locking carabiner, major axis, gate closed | 20 kN minimum, typically stamped 22 to 25 | EN 12275 |
+| Same carabiner, gate open | 7 kN minimum | EN 12275 |
+| Same carabiner, minor axis, cross loaded | 7 kN minimum | EN 12275 |
+| Sit harness, whole harness test | 15 kN | EN 12277 Type C |
+| Low stretch abseil rope | 22 kN or more | EN 1891 Type A |
+| Dynamic rope, peak impact force cap | 12 kN in the standard test fall | EN 892 |
+| Sewn sling | 22 kN | EN 566 |
 
-Abseiling might look flashy, but it remains one of the higher-risk mountaineering activities. That risk escalates if you skip critical checks:
+A 22 kN carabiner is holding back about 2,245 kilograms before it breaks. That is not a hatchback dangling off your anchor. That is a loaded four wheel drive. Meanwhile you, hanging on it, are applying about 0.8 kN.
 
-1. Inspect your rope for wear or frayed spots.
-2. Double-check your harness buckle and belay device setup.
-3. Confirm anchor integrity and redundancy.
-4. Test your friction setting with a small weight shift before fully committing to the descent.
-5. Use an autobloc backup knot (like a French prusik) on the rope below your belay device. If you lose grip, this knot can jam and prevent a dangerous fall.
+That is a ratio of roughly twenty five to one, and it is the single most reassuring number in the sport.
 
-## Consider multi-pitch forces
+Two honest caveats, because the figures deserve them. These are **laboratory minimums on new gear, loaded the way the test intends**, and they are not working loads. A knot costs a rope somewhere around a quarter to a third of its strength, and edges, grit, ultraviolet light and age all take their share. Notice too how far the carabiner numbers fall when it is loaded the wrong way. Twenty kilonewtons closed and correctly aligned becomes 7 kN with the gate open or across the minor axis.
 
-When you're abseiling multiple pitches, the loads can vary as the direction of pull changes. The force on your belay anchor can spike if you slip or if the rope tugs awkwardly against the anchor placements.
+Which is the real lesson. The margins are enormous **when the gear is used correctly**, and they shrink fast when it is not. Nobody in recreational abseiling gets hurt because a rope reached its breaking strain while someone hung on it. They get hurt from rope running over an unprotected edge, from worn kit that should have been retired, from a carabiner loaded across its spine, and from anchors that were never sound.
 
-### Reducing shock on anchors
+Descenders, for what it is worth, do not carry a single stamped strength figure at all. They are certified against a rope diameter range and a function, so match the device to the rope you are actually on.
 
-- Clip one belay piece above you while leaving the anchor to handle partial load. This technique reduces fall factor if you do slip.
-- Avoid bouncing or jerky movements while descending. A smooth abseil might only exert around 0.8kN, while a sudden jolt could jump to 1.3kN.
+If you want to go deeper on the markings themselves, our guide to [carabiner types and strength ratings](/carabiners-explained-top-types-strength-ratings-best-uses-for-rappelling/) walks through what each figure on the spine means.
 
-Keeping your movements controlled not only helps the anchor but also preserves your energy. Think of each measured step and rope feed as an investment in a longer, safer climbing day.
+## How friction actually controls your descent
 
-## Energy conservation on descents
+Forces explain what the rope survives. Friction explains why you descend at walking pace instead of falling.
 
-It's easy to assume that abseiling is less physically demanding than climbing up. But repeatedly lowering yourself, especially on multiple rappels, can tax your arms and core if you're tense or controlling friction incorrectly.
+Friction is simply resistance between two surfaces sliding across each other. In abseiling you meet it in three places: where the rope wraps through your descender, where your brake hand grips the rope, and anywhere the rope bends around hardware or rock.
 
-- Try to relax your upper body and rely more on friction through the device, rather than a death grip on the rope.
-- Use your legs for balance against the wall so your arms don't fight gravity alone.
-- Keep the descent smooth to reduce the need for abrupt stops, which can burn energy fast.
+### Static and dynamic friction
 
-## Practical tips to build skill
+Static friction is what holds you when nothing is moving. Pause mid descent to rest or sort out a tangle, and static friction is doing the work. Dynamic friction takes over the moment the rope starts to slide, and it is what regulates your speed on the way down.
 
-Abseiling is like many other climbing skills: you get better by practising safe, well-planned techniques and repeating them often. Here are some practical tips to keep improving:
+Managing the handover between the two is basically the whole skill of abseiling. Your brake hand and your device do it together.
 
-1. Practice at ground-level. Set up an anchor on a low wall or sturdy ledge so you can focus on friction settings without the stress of being way up high.
-2. Watch for rope twists. Let the rope hang freely, and occasionally untwist it to prevent tangles and uneven friction.
-3. Check out other [abseiling techniques](/mastering-abseiling-techniques-and-rope-skills/). By branching into different methods, you gain a broader skill set to deal with unexpected situations.
-4. Chart your progress. Keep a small logbook: note down rope diameter, device choice, conditions, and how everything felt. You'll quickly see patterns in what works best.
+### Adding friction when you need it
 
----
+Thin ropes, wet ropes and heavier loads all descend faster than you might like. There are several standard ways to slow things down:
 
-### FAQs
+1. Use your descender in its high friction orientation, if it has one. Many devices behave quite differently depending on which way round the rope runs.
+2. Add a second locking carabiner, where the device supports it. More rope contact means more friction. Keep the carabiners aligned and avoid cross loading.
+3. Extend the device on a sling. This moves it away from your harness and keeps an autoblock below it running clear.
+4. Wear gloves on long or repeated descents. Gloves do not add friction to the system, but they let you hold the brake strand confidently instead of feathering it.
 
-**Q. What's the difference between static and dynamic friction when abseiling?**  
-A. Static friction holds you when stopped; dynamic friction applies once you're sliding. Your device and brake hand regulate the switch between the two.
+Test any new friction setup close to the ground before you commit to it on a real descent.
 
-**Q. Which rope is best for abseiling-static or dynamic?**  
-A. Static for pure descents (low stretch, predictable control). Dynamic works on retreats/multipitch but feels springier and can run faster through devices.
+## Static or dynamic rope
 
-**Q. How do temperature and conditions affect friction?**  
-A. Cold stiffens ropes (less bend, different feel); heat and wet ropes change sheath behaviour. Test your setup in similar conditions before committing.
+Rope choice changes how the whole system feels, because stretch and friction interact.
 
-**Q. Can I add a second carabiner to increase friction?**  
-A. Sometimes-if your device supports it and you can avoid cross-loading or nose snagging. Use rated lockers and keep the carabiners aligned.
+| Feature | Static rope | Dynamic rope |
+| --- | --- | --- |
+| Stretch under load | Very low | High, by design |
+| Best used for | Abseiling, rescue, caving | Lead climbing, top roping |
+| Shock absorption | Minimal | Substantial |
+| Feel on descent | Crisp and predictable | Springier, can run faster |
 
-**Q. Should I extend my device?**  
-A. Yes, often helpful. An extension keeps the device away from your harness and your autoblock clear and effective.
+For pure descending, static rope is the better tool. It does not bounce, so your position is exactly where you put it. On a multi pitch retreat you will often abseil the dynamic rope you climbed on, which is perfectly normal, though check your friction setting because dynamic rope can feel quicker once weighted.
 
-**Q. Where does the prusik/autoblock go?**  
-A. Below the device on the brake strand, clipped to your leg loop-keeps it reachable if you need a hands-free lock.
+One rule with no exceptions: never lead climb on static rope. It cannot absorb the energy of a leading fall.
 
-**Q. How do anchor angles affect load?**  
-A. Wider angles multiply force on each leg. Aim ≤60° between anchor legs; smaller is better for marginal placements.
+## Where your body puts the load
 
-**Q. How much force does a “smooth” rappel generate?**  
-A. Typically well under bodyweight at the anchor; sudden jerks can spike loads. Keep movements smooth to avoid shock.
+Your body position does not change how much force is on the rope, but it changes how stable and efficient you feel while that force is applied.
 
-**Q. What's a quick way to add more friction on skinny/wet ropes?**  
-A. Use your device's high-friction mode, add an extra locker if supported, or employ a carabiner-brake / Z-style add-on (practice first, low to the ground).
+Keep your hips in line with the rope running up to the anchor. Set your feet roughly shoulder width apart, soles flat against the wall, and lean back until your legs are taking your weight rather than your arms. Your arms are for the brake strand, not for holding you up.
 
-**Q. Top safety checks before leaving the stance?**  
-A. Anchor redundancy/equalisation, device in correct mode/orientation with locked carabiner(s), knots in rope ends, autoblock on, and a short function test.
+Get that stance right and the descent costs almost nothing in energy. Get it wrong, with your feet too high or your body twisted out of line, and you will swing, scrape and tire yourself out fighting your own position.
 
----
+Anchor angles matter here too. As the angle between two anchor legs opens up, the force carried by each leg rises, and past 120 degrees each one is carrying more than the total load. Keep the angle tight. Our guide to [anchor placement and load distribution](/smart-abseiling-anchor-placement-tips-for-experienced-climbers/) covers rigging that properly.
 
-## Summing it all up
+## Why rap jumping feels different
 
-Abseiling might look effortless, but you're actually balancing friction, gravity, and body position every time you lower off a crag. By studying abseiling physics, you'll discover countless ways to refine your gear choices, rope setups, and descent posture. Embrace the science behind the sport: appreciating how friction devices influence speed or how centre of mass keeps you balanced can make a world of difference.
+Rap jumping turns you around. Instead of sitting back into the harness and walking down backwards, you face the ground and descend forwards, watching where you are going.
 
-Before your next outing, do a quick refresher on the fundamentals, check your anchors, and practise your friction setup in a safer zone. Once those basics are locked in, you can confidently tackle larger descents and more complex routes. Whether you're abseiling a single pitch at your local crag or backing off a huge alpine wall, understanding the physics of your rope and body puts you firmly in command of your adventure. Enjoy the ride down, and trust that a little knowledge truly is your greatest safety net.
+The physics do not change. Your mass is the same, gravity is the same, and the rope still carries about your bodyweight while you descend steadily. What changes is everything psychological. You can see the drop, so exposure hits harder, and your instincts object more loudly than they do on a conventional abseil.
+
+Mechanically there are two real differences. The rope runs from an attachment point at the front of your harness rather than behind you, and control comes through a descender managed by a guide alongside you or from the ground. On a commercial setup the system is rigged, checked and often bottom belayed by someone else. There is no slack in the system, which puts the fall factor at effectively zero and keeps the load about as steady as a rope load ever gets.
+
+So the sensation is dramatic and the loading is mundane. Smooth, controlled, forward facing descent is one of the gentlest things you can do to a rope.
+
+Recreational participants always descend under the supervision of a qualified instructor, on gear that has been checked before it is used.
+
+## Frequently asked questions
+
+### How many times my own bodyweight is my abseiling gear rated for?
+
+Roughly twenty five times, for a typical abseiler on a locking carabiner. An 80 kg person hanging still loads the system with about 0.78 kN, and the minimum major axis strength for a locking carabiner is 20 kN. That ratio is why a smooth descent sits so far inside the limits of the gear.
+
+### Can an abseiling rope actually snap?
+
+Not from the load of a person hanging on it. A low stretch abseil rope is tested to at least 22 kN, which is around thirty times what a steady descent applies. Ropes fail from cutting over sharp edges, chemical damage, and age or wear, so inspect the rope and protect the edge rather than worrying about the breaking strain.
+
+### Does bouncing or jumping while abseiling increase the force?
+
+Yes, and it is the main way a recreational abseiler raises the load. While the rope is slowing you, its tension is your mass times gravity plus your deceleration, so the harder you stop the higher the peak. Smooth, steady descent keeps the load near your bodyweight.
+
+### What is the quick way to convert kilograms to kilonewtons?
+
+Divide your mass in kilograms by 100. Because gravity is 9.8 metres per second squared, an 80 kg person weighs 784 newtons, which is 0.784 kN. Dividing by 100 gives 0.8 kN, which is close enough for any decision you will make on a cliff.
+
+### How heavy is too heavy for abseiling?
+
+Rope and carabiner strength is almost never the limit. The real constraints are the stated weight range of the operator, whether a harness fits you correctly, and whether your descender generates enough friction on the rope diameter in use. Ask the operator, because those limits are about fit and control rather than breaking strength.
+
+### What is the difference between static and dynamic friction when abseiling?
+
+Static friction holds you when you have stopped, and dynamic friction applies once the rope is sliding. Your descender and your brake hand regulate the switch between the two.
+
+### Which rope is best for abseiling: static or dynamic?
+
+Static for pure descents, because low stretch gives predictable control. Dynamic rope works fine on retreats and multi pitch, though it feels springier and can run faster through a descender.
+
+### Where does the prusik or autoblock go?
+
+Below the descender on the brake strand, clipped to your leg loop, which keeps it reachable if you need a hands free lock.
+
+### How do anchor angles affect load?
+
+Wider angles multiply the force carried by each leg of the anchor. Aim for 60 degrees or less between the legs, and keep it smaller again on marginal placements.
+
+## Want to feel these numbers for yourself?
+
+Reading about 0.8 kN is one thing. Feeling the rope take your weight while your heels hang over an edge is another, and it is the fastest way to turn arithmetic into confidence.
+
+Rap Jumping ran guided forward-abseiling sessions until 2020, with every system checked by a qualified instructor and all equipment supplied. Book the equivalent today with a qualified operator, then come back to [mastering abseiling techniques and rope skills](/mastering-abseiling-techniques-and-rope-skills/) once you have felt how little the rope actually complains.

@@ -1,6 +1,6 @@
 ---
 title: "Best Pacific Island Adventure Holidays for Climbers & Abseilers"
-description: "An honest Australian climber's & abseiler's guide to the best Pacific Island adventure holidays: comparing Fiji, Vanuatu, New Caledonia, Tonga, PNG & the Solomons."
+description: "An honest Australian climber's & abseiler's guide to the best Pacific Island adventure holidays: Fiji, Vanuatu, New Caledonia, Tonga, PNG & the Solomons."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/best-pacific-island-adventure-holidays-for-climbers-abseilers.webp"
 heroAlt: "A snorkeller swimming over a turquoise Pacific reef with a forested volcanic island behind"

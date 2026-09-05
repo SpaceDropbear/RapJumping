@@ -40,7 +40,7 @@ faq:
 
 ---
 
-If you've done a fair bit of climbing or advanced abseiling, you've probably heard of a descender device. This handy piece of gear helps regulate your speed as you move down a rope, giving you more confidence and control. Whether you're heading out for a canyon adventure or practising complex rescue techniques, choosing the right descender can make all the difference. In this comparison, we'll look at three popular options-the Figure 8, the ATC, and the GriGri-to help you decide which one best fits your style.
+If you've done a fair bit of climbing or advanced abseiling, you've probably heard of a descender device. This handy piece of gear helps regulate your speed as you move down a rope, giving you more confidence and control. Whether you're heading out for a canyon adventure or practising complex rescue techniques, choosing the right descender can make all the difference. In this comparison, we'll look at three popular options: the Figure 8, the ATC, and the GriGri-to help you decide which one best fits your style.
 
 ## Get to know your descender device
 
@@ -128,7 +128,7 @@ Not sure which option is right for you? Ask yourself these questions:
 
 - **Figure 8:** Ideal if you're comfortable managing friction with your brake hand, and you want the easiest way to set up a clean, uninterrupted descent.
 - **ATC:** A real multi-tasker. If you expect to belay and abseil using the same device, an ATC covers you for most intermediate climbing needs.
-- **GriGri:** If you're pushing into advanced territory-longer routes, tricky belays, or rescue work-an assisted brake can be a literal lifesaver. Just make sure you know how to operate it properly.
+- **GriGri:** If you're pushing into advanced territory-longer routes, tricky belays, or rescue work: an assisted brake can be a literal lifesaver. Just make sure you know how to operate it properly.
 
 
 **What to look for:** specs to match when you buy, rather than specific shop links.
@@ -188,6 +188,6 @@ A. Always check the manufacturer's range for both the device and rope; thin or w
 
 ## Wrapping up
 
-Finding the right descender device depends on how you plan to climb or abseil. A Figure 8 offers classic simplicity for smooth descents, especially if you're comfortable managing friction. An ATC is a do-it-all option that excels in both belaying and abseiling. And for those times when you want extra security-perhaps for trickier routes or rescue work-a GriGri's assisted braking can be a dream.
+Finding the right descender device depends on how you plan to climb or abseil. A Figure 8 offers classic simplicity for smooth descents, especially if you're comfortable managing friction. An ATC is a do-it-all option that excels in both belaying and abseiling. And for those times when you want extra security, perhaps for trickier routes or rescue work, a GriGri's assisted braking can be a dream.
 
 Remember, device choice alone doesn't guarantee safe or enjoyable descents. You also need a solid rope-handling foundation, quality anchors, and situational awareness. Once you've settled on a device and honed your technique (maybe with a few pointers from your climbing partners), you'll be primed for smooth and controlled abseils every time you head down the rope. Enjoy the adventure, and climb on!

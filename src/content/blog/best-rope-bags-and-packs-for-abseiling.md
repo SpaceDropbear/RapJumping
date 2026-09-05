@@ -14,7 +14,7 @@ faq:
   - question: "Can I store my rope in the bag long-term?"
     answer: "Yes, but keep the bag in a cool, dry, dark place and ensure the rope is clean and dry before storing."
   - question: "What's the most important rope bag feature?"
-    answer: "A built-in tarp is key-it keeps your rope off the ground and away from grit that can damage fibres."
+    answer: "A built-in tarp is key: it keeps your rope off the ground and away from grit that can damage fibres."
   - question: "Do I need backpack straps on a rope bag?"
     answer: "Not always. If you hike long approaches, they're useful. For short trips, a shoulder strap or simple carry handle is enough."
   - question: "How often should I clean my rope bag?"
@@ -166,7 +166,7 @@ A: Rope bags protect against dirt, moisture, and UV damage, prevent tangles, and
 A: Yes, but keep the bag in a cool, dry, dark place and ensure the rope is clean and dry before storing.
 
 **Q: What's the most important rope bag feature?**  
-A: A built-in tarp is key-it keeps your rope off the ground and away from grit that can damage fibres.
+A: A built-in tarp is key: it keeps your rope off the ground and away from grit that can damage fibres.
 
 **Q: Do I need backpack straps on a rope bag?**  
 A: Not always. If you hike long approaches, they're useful. For short trips, a shoulder strap or simple carry handle is enough.

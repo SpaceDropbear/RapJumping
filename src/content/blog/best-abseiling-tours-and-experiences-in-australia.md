@@ -144,7 +144,7 @@ If you're planning adventure holidaysAustralia, slipping in an abseiling session
 
 ## Manage safety and risk
 
-Abseiling is generally safe, provided you follow guidelines and know your limits. Reputable companies take precautions to keep you secure-helmets, harness checks, rope inspections-but it's still important to understand the expectations.
+Abseiling is generally safe, provided you follow guidelines and know your limits. Reputable companies take precautions to keep you secure-helmets, harness checks, rope inspections, but it's still important to understand the expectations.
 
 ### Check waivers and contracts
 
@@ -156,7 +156,7 @@ It's easy to feel a surge of excitement and forget to listen to your body. Step 
 
 - Slow, controlled steps: In most setups, you control the rope friction, so you can move one step at a time.
 - Watch your anchor points: Make sure your rope is always fitted into the right anchor before stepping over an edge.
-- Speak up: If something feels off-maybe the harness is uncomfortable or the angle is too steep-tell your guide immediately.
+- Speak up: If something feels off, maybe the harness is uncomfortable or the angle is too steep-tell your guide immediately.
 
 ## Capture your memories
 
@@ -218,7 +218,7 @@ A. Book a skills day (anchors, friction, self-backup), then try canyon or multi-
 
 ## Wrap up your experience
 
-Abseiling tours in Australia showcase rugged scenery, coastal panoramas, and hidden canyon gems. You choose your comfort level, from beginner-friendly courses through to advanced canyon descent. By preparing properly-both physically and mentally-and selecting the right tour operator, you'll have a memorable day out that's equal parts anticipation and achievement.
+Abseiling tours in Australia showcase rugged scenery, coastal panoramas, and hidden canyon gems. You choose your comfort level, from beginner-friendly courses through to advanced canyon descent. By preparing properly, both physically and mentally, and selecting the right tour operator, you'll have a memorable day out that's equal parts anticipation and achievement.
 
 If you're ready to dive right in, find a [guided abseiling](/guided-vs-self-guided-abseiling-pros-and-cons/) session near you or invite friends for a group abseiling celebration. Have a special occasion in mind? A fathers day adventure or mothers day adventure present could be just the ticket. Feeling brave enough to throw yourself over the edge for a good cause? A charity abseil Australia event might be perfect.
 

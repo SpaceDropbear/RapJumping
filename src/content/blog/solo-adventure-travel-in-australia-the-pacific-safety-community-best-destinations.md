@@ -1,6 +1,6 @@
 ---
 title: "Solo Adventure Travel in Australia & the Pacific: Safety, Community & Best Destinations"
-description: "A practical guide to solo adventure travel in Australia & the Pacific: safety habits, finding community, best destinations and how guided experiences make going alone easy."
+description: "A practical guide to solo adventure travel in Australia & the Pacific: safety habits, finding community, best destinations and going alone with confidence."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/solo-adventure-travel-in-australia-the-pacific-safety-community-best-destinations.webp"
 heroAlt: "A solo traveller scrambling up a rocky coastal ridge above a blue Australian bay, eucalypt scrub around them"

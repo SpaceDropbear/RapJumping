@@ -20,7 +20,7 @@ faq:
   - question: "How can I gain guiding experience?"
     answer: "Volunteer or work as an assistant with experienced guides, join clubs, log your trips, and attend events to build skills and connections."
   - question: "Is first aid training required for abseiling guides?"
-    answer: "Yes-most require at least basic first aid and CPR, with advanced or wilderness first aid recommended for remote areas."
+    answer: "Yes, most require at least basic first aid and CPR, with advanced or wilderness first aid recommended for remote areas."
   - question: "How can I build a client base?"
     answer: "Network through clubs, create a professional online presence, join guiding associations, and get referrals from other guides."
 ---
@@ -233,7 +233,7 @@ A. Options include local outdoor education programs, first aid/CPR, wilderness f
 A. Volunteer or work as an assistant with experienced guides, join clubs, log your trips, and attend events to build skills and connections.
 
 **Q. Is first aid training required for abseiling guides?**  
-A. Yes-most require at least basic first aid and CPR, with advanced or wilderness first aid recommended for remote areas.
+A. Yes, most require at least basic first aid and CPR, with advanced or wilderness first aid recommended for remote areas.
 
 **Q. How can I build a client base?**  
 A. Network through clubs, create a professional online presence, join guiding associations, and get referrals from other guides.

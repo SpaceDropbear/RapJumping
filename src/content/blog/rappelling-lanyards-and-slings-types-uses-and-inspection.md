@@ -51,7 +51,7 @@ You might notice two common terms when shopping for any climbing or abseiling ge
 - Working Load Limit (WLL): This rating appears more often on rapid links (also called rapides or quick links). It indicates the maximum weight the product can lift under specific conditions.
 - Minimum Breaking Strength (MBS): This is usually found on climbing or personal protection equipment, reflecting the load at which the device is likely to fail.
 
-Rappelling gear is often labeled with MBS because you need a clear measure of how much force it can handle before breaking. Rapid links, on the other hand, often show a WLL plus a safety factor (often 5x the WLL). In a fall, you generate a force called the Fall Impact Load, which can exceed that limit if your equipment is at its limit-or if it's poorly maintained.
+Rappelling gear is often labeled with MBS because you need a clear measure of how much force it can handle before breaking. Rapid links, on the other hand, often show a WLL plus a safety factor (often 5x the WLL). In a fall, you generate a force called the Fall Impact Load, which can exceed that limit if your equipment is at its limit, or if it's poorly maintained.
 
 ## Explore different lanyard types
 
@@ -182,4 +182,4 @@ As you gear up for abseiling adventures, rappelling lanyards deserve your close 
 
 The best approach is to begin with a style that makes sense for your usual routes. If you're new, a dynamic, adjustable product like the Petzl Connect Adjust or Camp Swing takes much of the guesswork out, giving you a secure, comfy attachment. Experienced climbers might combine a chain style PAS for quick anchor setups with a short dynamic tether for stronger protection. Regardless, treat these tools with care, check them before each climb, and replace them when they show signs of wear.
 
-Remember, no single piece of gear is a guarantee. You're stacking layers of safety, from your harness and rope to your slings, carabiners, and beyond. When everything works together, that moment of stepping backward off the edge feels a lot more confident-which is exactly how you want it to be. Enjoy your descents, and stay safe out there!
+Remember, no single piece of gear is a guarantee. You're stacking layers of safety, from your harness and rope to your slings, carabiners, and beyond. When everything works together, that moment of stepping backward off the edge feels a lot more confident: which is exactly how you want it to be. Enjoy your descents, and stay safe out there!

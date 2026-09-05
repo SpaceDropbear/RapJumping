@@ -25,7 +25,7 @@ Ready to explore the vertical world? Let's get started!
 
 ## Top-Roping: The Perfect Start for New Climbers
 
-Top-roping is often the first experience many people have with rock climbing, and for good reason-it's incredibly **safe and beginner-friendly**.
+Top-roping is often the first experience many people have with rock climbing, and for good reason: it's incredibly **safe and beginner-friendly**.
 
 Here's how it works:
 

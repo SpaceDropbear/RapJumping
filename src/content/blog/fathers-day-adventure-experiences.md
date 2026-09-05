@@ -83,7 +83,7 @@ Sometimes, instead of spending the day out, the best approach is to surprise Dad
 - Giftory not only collects adrenaline-pumping options like helicopter tours or scuba lessons, but also calmer ideas like wine tasting or quiet retreats. If your dad is the adventurous type, he can opt for the high-octane route. If he prefers slower-paced fun, a gourmet cooking class might catch his eye.
 - Xperience Days has over 2,000 options, including NASCAR test drives, scenic flights, and local tours. You can send an e-gift card so Dad can pick the exact date and activity that works for him.
 
-An experience gift goes beyond the typical tie or gadget-it shows you know him well enough to give him a memory rather than something that collects dust.
+An experience gift goes beyond the typical tie or gadget: it shows you know him well enough to give him a memory rather than something that collects dust.
 
 ## Embrace cultural traditions worldwide
 
@@ -136,7 +136,7 @@ A. Send an experience voucher, schedule a video call “toast,” ship a small g
 
 ## Wrap up with a final thought
 
-However you decide to celebrate, remember that Father's Day is all about honouring the man-or men-who guided you, cheered you on, and sometimes told you those cringe-worthy dad jokes. Whether you surprise him with a guided hiking trip, tempt him with a global buffet of flavours, or book an experience gift he's been dreaming about, the point is to spend time together and show your appreciation in a way that feels authentic.
+However you decide to celebrate, remember that Father's Day is all about honouring the man, or men, who guided you, cheered you on, and sometimes told you those cringe-worthy dad jokes. Whether you surprise him with a guided hiking trip, tempt him with a global buffet of flavours, or book an experience gift he's been dreaming about, the point is to spend time together and show your appreciation in a way that feels authentic.
 
 Feel free to mix and match ideas: maybe a short hike in the morning and a museum visit in the afternoon. Or your dad might prefer one big blowout event, like abseiling down an Australian cliff, leading into a steak dinner at home. Add the creative tweak that best suits him. The hope is that, after all is said and done, he'll look back and remember this Father's Day as a bright spot in the year. And that's something no store-bought gift can beat.
 

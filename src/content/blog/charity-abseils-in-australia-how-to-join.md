@@ -10,13 +10,13 @@ featured: false
 readingTime: 12
 faq:
   - question: "What's the quickest way to take part?"
-    answer: "Join an existing charity abseil run by a reputable operator. They handle site, safety, insurance, and the charity portal-you focus on fundraising and the fun."
+    answer: "Join an existing charity abseil run by a reputable operator. They handle site, safety, insurance, and the charity portal: you focus on fundraising and the fun."
   - question: "How do I run my own charity abseil?"
     answer: "Partner with a qualified abseil operator and a registered charity, secure venue permission, confirm insurance, get an Authority to Fundraise (where required), and publish a clear event page with costs, targets, and safety info."
   - question: "What permissions or “paperwork” do I need?"
     answer: "Typically: venue approval, charity Authority to Fundraise (as applicable), risk assessment/SWMS, insurance certificates, and participant waivers. Keep fundraising comms transparent about where the money goes."
   - question: "What gear is provided and what do I bring?"
-    answer: "Operators provide technical kit (ropes, anchors, devices, helmets, harnesses). You bring closed shoes, comfy activewear, water, sun protection-and use an autoblock/prusik below the device on rappel."
+    answer: "Operators provide technical kit (ropes, anchors, devices, helmets, harnesses). You bring closed shoes, comfy activewear, water, sun protection, and use an autoblock/prusik below the device on rappel."
   - question: "How much should I aim to raise?"
     answer: "Pick a simple, motivating target (e.g., $500-$2,000 per person, or a team total). Offer sponsor tiers and ask employers about donation matching to boost totals."
   - question: "Is it beginner-friendly?"
@@ -118,7 +118,7 @@ So where do you go from here? Start by looking up upcoming abseil events in your
 ### FAQs
 
 **Q. What's the quickest way to take part?**  
-A. Join an existing charity abseil run by a reputable operator. They handle site, safety, insurance, and the charity portal-you focus on fundraising and the fun.
+A. Join an existing charity abseil run by a reputable operator. They handle site, safety, insurance, and the charity portal: you focus on fundraising and the fun.
 
 **Q. How do I run my own charity abseil?**  
 A. Partner with a qualified abseil operator and a registered charity, secure venue permission, confirm insurance, get an Authority to Fundraise (where required), and publish a clear event page with costs, targets, and safety info.
@@ -127,7 +127,7 @@ A. Partner with a qualified abseil operator and a registered charity, secure ven
 A. Typically: venue approval, charity Authority to Fundraise (as applicable), risk assessment/SWMS, insurance certificates, and participant waivers. Keep fundraising comms transparent about where the money goes.
 
 **Q. What gear is provided and what do I bring?**  
-A. Operators provide technical kit (ropes, anchors, devices, helmets, harnesses). You bring closed shoes, comfy activewear, water, sun protection-and use an autoblock/prusik below the device on rappel.
+A. Operators provide technical kit (ropes, anchors, devices, helmets, harnesses). You bring closed shoes, comfy activewear, water, sun protection, and use an autoblock/prusik below the device on rappel.
 
 **Q. How much should I aim to raise?**  
 A. Pick a simple, motivating target (e.g., $500-$2,000 per person, or a team total). Offer sponsor tiers and ask employers about donation matching to boost totals.

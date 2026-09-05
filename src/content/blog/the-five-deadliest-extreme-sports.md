@@ -20,14 +20,14 @@ readingTime: 2
 
 ---
 
-Craving adrenaline? These five extreme sports deliver thrills-plus serious risk. Here's how nasty things can really get.
+Craving adrenaline? These five extreme sports deliver thrills, plus serious risk. Here's how nasty things can really get.
 
 ---
 
 ### 1. Free Solo Climbing
 
 **Where:** Yosemite, USA  
-Free soloists climb without ropes or harnesses-so any slip equals fatal. Recent data estimates **one death per 1,000 climbers annually** in free soloing-nearly all climbs end in disaster if things go wrong ([Expert Climbers](https://expertclimbers.com/how-dangerous-is-free-soloing), [gitnux.org](https://gitnux.org/rock-climbing-death-statistics/)). Overall rock climbing has about **30 deaths per year**, with free soloing contributing ~30% ([Hard Climbs](https://hardclimbs.info/free-solo-deaths/)).
+Free soloists climb without ropes or harnesses, so any slip equals fatal. Recent data estimates **one death per 1,000 climbers annually** in free soloing-nearly all climbs end in disaster if things go wrong ([Expert Climbers](https://expertclimbers.com/how-dangerous-is-free-soloing), [gitnux.org](https://gitnux.org/rock-climbing-death-statistics/)). Overall rock climbing has about **30 deaths per year**, with free soloing contributing ~30% ([Hard Climbs](https://hardclimbs.info/free-solo-deaths/)).
 
 - **Safety tip:** Never free solo-use ropes, protective gear, and climb with partners.
 
