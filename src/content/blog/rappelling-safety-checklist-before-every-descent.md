@@ -1,8 +1,8 @@
 ---
-title: "Rappelling Safety Checklist Before Every Descent"
-description: "Your essential rappelling safety checklist for a worry-free descent. Stay safe and enjoy every rappelling adventure!"
+title: "Abseiling Safety Checklist: Before Every Descent"
+description: "The pre-descent check to run every time: anchor, rope, harness, device, backup and environment, then an independent second check by another person."
 pubDate: "2025-08-14"
-updatedDate: "2026-06-12"
+updatedDate: "2026-09-05"
 heroImage: "/images/2025/08/Rappelling-Safety-Checklist-Before-Every-Descent.webp"
 heroAlt: "Blocky isometric illustration of climbers at a practice wall with ropes, carabiners and a figure on rappel."
 tags: ["abseiling", "safety"]
@@ -35,6 +35,12 @@ faq:
 ---
 
 If you have your rope coiled and your harness secured but still feel those pre-rappel butterflies in your stomach, you're in good company. Whether you're new to descending or have clocked dozens of vertical drops, a thorough rappelling safety checklist can make all the difference. After all, most climbing accidents happen during rappels, so it pays to be prepared and methodical. Below, you'll find a friendly, step-by-step guide to help you double-check your gear and technique every time you lower off a cliff face.
+
+## Why a fixed sequence beats a careful look
+
+The value of a checklist is not that it contains items you did not know about. It is that it removes the decision about what to check and in what order, so that fatigue, cold, distraction or a queue of people waiting behind you cannot quietly shorten it.
+
+Run the same check every time, in the same order. Say the items out loud if it helps. Consistency is what makes a check work, and improvising it is what lets an error through.
 
 ## Check the rope condition
 
@@ -152,6 +158,12 @@ Here's a condensed overview of the essential steps in your checklist. You can pr
 | Environment hazards | Loose rock, wind, wet edges |
 | Walk-off option | Safer alternative to rappel? |
 | Buddy check | Final gear verification with partner |
+
+## What a checklist cannot do
+
+A checklist assumes you can already tell a sound anchor from an unsound one, a correctly threaded device from a wrongly threaded one, and a serviceable rope from a retired one. Those judgements come from training and practice, not from a list.
+
+If you are new to this, the honest first item is to book instruction and descend under supervision until those judgements are yours. If what you want is the experience of height rather than the skill set, a guided session removes the system-building from your hands entirely. Our [first-timer's walkthrough](/first-abseiling-experience-what-to-expect/) covers what that looks like.
 
 ## Summary and next steps
 
