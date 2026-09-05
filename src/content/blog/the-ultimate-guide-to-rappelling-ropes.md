@@ -1,8 +1,8 @@
 ---
-title: "Rappelling Ropes Buying Guide: Diameter, Type & Safety"
-description: "Buying a rappelling rope? Compare static vs dynamic, diameter, nylon vs polyester and UIAA ratings to choose the right rope for abseiling in Australia."
+title: "Best Rappelling Rope: How to Choose Type and Diameter"
+description: "Choosing the best rappelling rope: static vs dynamic, diameter, nylon vs polyester and UIAA ratings, for abseiling, caving and canyoning in Australia."
 pubDate: "2025-07-21"
-updatedDate: "2026-06-12"
+updatedDate: "2026-09-05"
 heroImage: "/images/2025/07/Ultimate-Guide-to-Rappelling.webp"
 heroAlt: "Green and pink climbing ropes clipped through a carabiner and chain anchor on granite, blue sky behind"
 tags: ["equipment"]

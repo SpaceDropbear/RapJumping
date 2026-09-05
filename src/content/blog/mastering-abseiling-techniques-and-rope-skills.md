@@ -1,8 +1,8 @@
 ---
 title: "Mastering Abseiling Techniques and Rope Skills"
-description: "Mastering Abseiling Techniques and Rope Skills"
+description: "Abseiling technique past the basics: brake-hand control, body position, rope management and the rope skills that carry over to canyoning and caving."
 pubDate: "2025-08-14"
-updatedDate: "2026-06-12"
+updatedDate: "2026-09-05"
 heroImage: "/images/2025/08/Mastering-Abseiling-Techniques-and-Rope-Skills.webp"
 heroAlt: "Blocky voxel-style illustration of many helmeted figures abseiling on ropes down pixelated canyon walls into a green gorge."
 tags: ["abseiling", "techniques"]

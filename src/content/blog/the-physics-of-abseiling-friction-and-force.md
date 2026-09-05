@@ -4,7 +4,7 @@ description: "How much force is really on an abseiling rope? Kilograms versus ki
 pubDate: "2025-08-14"
 updatedDate: "2026-09-05"
 heroImage: "/images/2025/08/abseiling-physics.webp"
-heroAlt: "An abseiling rope running over the lip of a sandstone overhang in golden light, with a forested valley far below"
+heroAlt: "Isometric voxel cliff with figures rappelling on red ropes and dotted force-arrow lines around them"
 tags: ["abseiling", "safety"]
 featured: false
 readingTime: 13
