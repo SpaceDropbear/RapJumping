@@ -2,12 +2,25 @@
 title: "Mastering Rappel Knots: Top 7 Knots Every Climber Must Know for Safety"
 description: "The essential rappel knots for safe, efficient rappelling, with step-by-step guides to the double fisherman's, overhand and other key hitches."
 pubDate: "2025-07-24"
-updatedDate: "2026-06-12"
+updatedDate: "2026-09-05"
 heroImage: "/images/2025/07/figure-8-knot.webp"
 heroAlt: "Close-up of hands tying a figure-eight knot in a blue climbing rope, yellow helmet and coiled green rope nearby."
 tags: ["safety"]
 featured: false
 readingTime: 5
+faq:
+  - question: "What knots do I need for rappelling?"
+    answer: "A small set covers almost everything: a figure eight on a bight to attach the rope to an anchor, a flat overhand bend to join two ropes, a friction hitch such as a prusik or autoblock for backup, and a stopper knot in each rope end."
+  - question: "What knot is used to join two ropes for rappelling?"
+    answer: "The flat overhand bend is the standard. It is chosen because its flat profile rolls over edges and lips rather than jamming in cracks when the rope is pulled down, not because it is the strongest option. Dress it carefully, set it hard, and leave generous tails."
+  - question: "Do I need a stopper knot when rappelling?"
+    answer: "Yes. Rappelling off the end of the rope is one of the better-documented ways people are seriously hurt, and a stopper knot in each end removes that failure mode entirely. The alternative is to tie the two ends together or to confirm visually that both ends reach the ground."
+  - question: "How do you attach a prusik to a carabiner for rappelling?"
+    answer: "The friction hitch is wrapped around the main rope, then its loop is clipped to a locking carabiner on the harness leg loop, sitting below the descender as a backup. Test that it grips under load and releases when pushed before committing weight to it."
+  - question: "Which friction hitch is best for a rappel backup?"
+    answer: "The autoblock (French prusik) is the common choice below the device because it releases easily under load. A classic prusik grips harder in both directions but can jam. Either needs cord of the right diameter relative to the main rope."
+  - question: "How tight should a rappel knot be?"
+    answer: "Dressed neatly with no crossed strands, then set firmly by loading each strand in turn. A knot you can check at a glance is the whole point of using a small, familiar set, so if it looks untidy, retie it rather than inspecting it harder."
 ---
 
 ---
@@ -22,27 +35,27 @@ readingTime: 5
 
 ---
 
-## **1. Introduction to Rappel Knots**
+## Introduction to Rappel Knots
 
 Knots are the backbone of rappelling safety. Whether you're descending a single-pitch cliff or managing complex anchor systems, your life depends on properly tied and reliable **rappel knots**. With so many types available, knowing which knot to use, how to tie it, and when it's appropriate is crucial for both efficiency and survival.
 
 ---
 
-## **2. Rappelling Safety Principles**
+## Rappelling Safety Principles
 
 Before diving into specific knots, it's important to understand the foundational principles that guide all rappelling setups:
 
-### **Redundancy and Strength**
+### Redundancy and Strength
 
 Always assume one knot or system could fail. Redundant backups add layers of safety.
 
-### **Avoiding Knot Slippage**
+### Avoiding Knot Slippage
 
 Improperly dressed or untightened knots can slip under load. Always test before committing.
 
 ---
 
-## **3. Overview of Essential Rappel Knots**
+## Overview of Essential Rappel Knots
 
 Rappel knots fall into four major categories:
 
@@ -57,46 +70,46 @@ Let's explore the essential knots for each purpose.
 
 ---
 
-## **4. The Double Fisherman's Knot**
+## The Double Fisherman's Knot
 
 This knot is a go-to for **joining two ropes**, especially in critical rappelling or rescue scenarios.
 
-### **How to Tie It**
+### How to Tie It
 
 1. Lay the ends of both ropes parallel.
 2. Wrap one rope around the other **twice**, threading the end back through the loops to form a barrel knot.
 3. Repeat with the second rope.
 4. Pull the knots together until they jam tightly.
 
-### **Pros**
+### Pros
 
 - Extremely strong and secure
 - Ideal for rappelling over edges or sharp terrain
 
-### **Cons**
+### Cons
 
 - Difficult to untie after being loaded
 - Bulky; may catch on rock features
 
 ---
 
-## **5. The Overhand Knot (Flat Overhand)**
+## The Overhand Knot (Flat Overhand)
 
 Also known as the **Euro Death Knot (EDK)**, this is a minimalist knot used to join ropes for rappelling.
 
-### **Step-by-Step Instructions**
+### Step-by-Step Instructions
 
 1. Stack both rope ends side by side.
 2. Tie a simple overhand knot with both ropes.
 3. Pull tight and **dress** the knot properly.
 4. Leave at least **30 cm (12 inches)** of tail on each side.
 
-### **Safety Tips**
+### Safety Tips
 
 - Avoid tying with slick or vastly different rope types.
 - Always dress and tighten the knot under load.
 
-### **Advantages**
+### Advantages
 
 - Slides over edges easily
 - Easy to untie
@@ -104,13 +117,13 @@ Also known as the **Euro Death Knot (EDK)**, this is a minimalist knot used to j
 
 ---
 
-## **6. The Figure Eight Knot Variants**
+## The Figure Eight Knot Variants
 
-### **Figure Eight on a Bight**
+### Figure Eight on a Bight
 
 Forms a secure loop at the end of a rope. Ideal for anchoring or clipping into protection.
 
-### **Follow-Through Figure Eight**
+### Follow-Through Figure Eight
 
 Used for tying directly into a harness.
 
@@ -118,17 +131,17 @@ Used for tying directly into a harness.
 
 ---
 
-## **7. The Prusik Knot for Backup**
+## The Prusik Knot for Backup
 
 The **Prusik** is a friction hitch that slides when unloaded but grips the rope when weighted.
 
-### **How to Tie It**
+### How to Tie It
 
 1. Use a **cord smaller in diameter** than your main rope.
 2. Wrap it **2-3 times** around the rope and pass through the loop.
 3. Dress and tighten the knot.
 
-### **Best Uses**
+### Best Uses
 
 - Backup on rappel
 - Ascending rope
@@ -136,11 +149,11 @@ The **Prusik** is a friction hitch that slides when unloaded but grips the rope 
 
 ---
 
-## **8. The Autoblock Knot (French Prusik)**
+## The Autoblock Knot (French Prusik)
 
 A versatile **backup knot** that can be tied below your rappel device.
 
-### **How to Tie**
+### How to Tie
 
 1. Wrap your cord **3-5 times** around the rope.
 2. Clip both ends into a carabiner.
@@ -150,11 +163,11 @@ A versatile **backup knot** that can be tied below your rappel device.
 
 ---
 
-## **9. The Munter Hitch for Emergency Descent**
+## The Munter Hitch for Emergency Descent
 
 The **Munter Hitch** is a friction knot used when no rappel device is available.
 
-### **Key Benefits**
+### Key Benefits
 
 - Can be tied quickly with a locking carabiner
 - Allows for controlled descent
@@ -164,23 +177,31 @@ The **Munter Hitch** is a friction knot used when no rappel device is available.
 
 ---
 
-## **10. Clove Hitch and Girth Hitch**
+## Clove Hitch and Girth Hitch
 
 Both are essential for anchoring systems:
 
-### **Clove Hitch**
+### Clove Hitch
 
 - Quick, adjustable anchor knot
 - Ideal for tying into carabiners
 
-### **Girth Hitch**
+### Girth Hitch
 
 - Used to attach slings to anchors
 - Fast and simple but reduces sling strength
 
 ---
 
-## **11. Knot Selection by Application**
+## Stopper knots in the rope ends
+
+A stopper knot is a simple overhand or figure eight tied in each rope end so the end cannot pass through the descender. Rappelling off the end of the rope is one of the better-documented ways people are seriously hurt, and it is entirely preventable.
+
+Tie them on every descent. The alternatives are to tie the two ends together, or to confirm visually that both ends are on the ground before you commit. On a windy day or a route with a lip you cannot see over, the knots are the reliable option.
+
+One caveat worth knowing: in swiftwater and some canyon settings, end knots can trap a rope or a person, so canyoning practice differs. That is a specialist context with its own training, and it is not the default for a cliff descent.
+
+## Knot Selection by Application
 
 | **Scenario** | **Best Knot** |
 | --- | --- |
@@ -193,7 +214,7 @@ Both are essential for anchoring systems:
 
 ---
 
-## **12. How to Inspect and Test Knots**
+## How to Inspect and Test Knots
 
 Always check for:
 
@@ -206,7 +227,7 @@ Pull on each leg of the rope firmly to test knot security before committing to a
 
 ---
 
-## **13. Common Knot-Tying Mistakes**
+## Common Knot-Tying Mistakes
 
 Avoid these fatal errors:
 
@@ -219,7 +240,7 @@ Practice under supervision before using knots in the field.
 
 ---
 
-## **14. Best Practice: Always Use Backup Knots**
+## Best Practice: Always Use Backup Knots
 
 Backup knots such as **autoblocks** or **fireman's belays** add another layer of protection.
 
@@ -231,7 +252,7 @@ Backup knots such as **autoblocks** or **fireman's belays** add another layer of
 
 ---
 
-## **15. Ideal Cord and Rope Types for Rappel Knots**
+## Ideal Cord and Rope Types for Rappel Knots
 
 | **Type** | **Best Use** |
 | --- | --- |
@@ -243,7 +264,7 @@ Backup knots such as **autoblocks** or **fireman's belays** add another layer of
 
 ---
 
-## **16. Quick Reference Table: Knot Function Guide**
+## Quick Reference Table: Knot Function Guide
 
 | **Knot Name** | **Function** | **When to Use** |
 | --- | --- | --- |
@@ -259,7 +280,7 @@ Backup knots such as **autoblocks** or **fireman's belays** add another layer of
 
 ---
 
-## **17. FAQs About Rappelling Knots**
+## FAQs About Rappelling Knots
 
 **Q1. What is the best knot for joining two ropes to rappel?**  
 The **overhand knot** is most commonly used due to its low profile and ease of use, but **double fisherman's** offers more security in critical situations.
@@ -281,6 +302,6 @@ Use a **clove hitch** or **figure-eight on a bight** depending on the anchor set
 
 ---
 
-## **18. Conclusion: Build Confidence in Your Rappel Knots**
+## Conclusion: Build Confidence in Your Rappel Knots
 
 Mastering rappel knots isn't optional: it's essential. Your safety depends on knowing **which knots to use**, **how to tie them**, and **when they apply**. With practice, these knots become second nature, ensuring efficient, secure, and confident descents every time.
