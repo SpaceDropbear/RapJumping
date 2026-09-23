@@ -8,11 +8,20 @@ import { readdirSync, readFileSync } from 'node:fs';
 import { basename } from 'node:path';
 import { affiliateUrlFor, liveDomains } from './src/data/affiliates.mjs';
 
-// Build a slug -> lastmod (ISO) map from blog frontmatter so the sitemap can emit
-// <lastmod> per post (updatedDate, falling back to pubDate). @astrojs/sitemap can't
+// Build a slug -> lastmod (ISO) map from blog + pages frontmatter so the sitemap can emit
+// <lastmod> on every URL (updatedDate, falling back to pubDate). @astrojs/sitemap can't
 // read content frontmatter on its own, so we parse it here at config-eval time.
 const blogDir = new URL('./src/content/blog/', import.meta.url);
+const pagesDir = new URL('./src/content/pages/', import.meta.url);
 const lastmodBySlug = new Map();
+// Per-tag and site-wide max lastmod, so the aggregation views that have no frontmatter of
+// their own (tag archives, the homepage, /blog/ pagination) can still carry an honest
+// <lastmod> - the date reflects when their underlying post set last actually changed.
+const lastmodByTag = new Map();
+let siteMaxLastmod = null;
+const bumpMax = (map, key, iso) => {
+  if (!map.has(key) || map.get(key) < iso) map.set(key, iso);
+};
 // Mirrors tagSlug() in src/utils.ts. Used to work out which tag pages tag/[tag].astro
 // will mark noindex (fewer than 2 posts) so the sitemap can leave them out.
 const toTagSlug = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -24,14 +33,29 @@ for (const file of readdirSync(blogDir)) {
   const pub = block.match(/^pubDate:\s*["']?(\d{4}-\d{2}-\d{2})/m)?.[1];
   const upd = block.match(/^updatedDate:\s*["']?(\d{4}-\d{2}-\d{2})/m)?.[1];
   const date = upd || pub;
-  if (date) lastmodBySlug.set(file.replace(/\.mdx?$/, ''), new Date(date).toISOString());
+  const iso = date ? new Date(date).toISOString() : null;
+  if (iso) {
+    lastmodBySlug.set(file.replace(/\.mdx?$/, ''), iso);
+    if (!siteMaxLastmod || siteMaxLastmod < iso) siteMaxLastmod = iso;
+  }
 
   if (/^draft:\s*true/m.test(block)) continue;
   const tagsRaw = block.match(/^tags:\s*\[(.*?)\]/m)?.[1];
   for (const quoted of tagsRaw?.match(/"[^"]*"|'[^']*'/g) ?? []) {
     const slug = toTagSlug(quoted.slice(1, -1));
     tagCounts.set(slug, (tagCounts.get(slug) ?? 0) + 1);
+    if (iso) bumpMax(lastmodByTag, slug, iso);
   }
+}
+// Static content pages (about/privacy/terms) carry their own updatedDate/pubDate too.
+for (const file of readdirSync(pagesDir)) {
+  if (!file.endsWith('.md') && !file.endsWith('.mdx')) continue;
+  const block = readFileSync(new URL(file, pagesDir), 'utf8').match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1];
+  if (!block) continue;
+  const pub = block.match(/^pubDate:\s*["']?(\d{4}-\d{2}-\d{2})/m)?.[1];
+  const upd = block.match(/^updatedDate:\s*["']?(\d{4}-\d{2}-\d{2})/m)?.[1];
+  const date = upd || pub;
+  if (date) lastmodBySlug.set(file.replace(/\.mdx?$/, ''), new Date(date).toISOString());
 }
 // tag/[tag].astro sets noindex when posts.length < 2. Advertising those URLs in the
 // sitemap makes GSC report "Submitted URL marked noindex", so drop them from it.
@@ -254,8 +278,16 @@ export default defineConfig({
         return !(tag && noindexTagSlugs.has(tag));
       },
       serialize(item) {
-        const slug = new URL(item.url).pathname.replace(/^\/|\/$/g, '');
-        const lastmod = lastmodBySlug.get(slug);
+        const pathname = new URL(item.url).pathname;
+        const slug = pathname.replace(/^\/|\/$/g, '');
+        const tagSlug = pathname.match(/^\/tag\/([^/]+)\/?$/)?.[1];
+        const lastmod =
+          lastmodBySlug.get(slug) ??
+          (tagSlug && lastmodByTag.get(tagSlug)) ??
+          // Homepage and /blog/ pagination have no frontmatter of their own; their content
+          // is the post list, so the most recent post's date is an honest lastmod for them.
+          ((pathname === '/' || /^\/blog(\/\d+)?\/?$/.test(pathname)) && siteMaxLastmod) ??
+          undefined;
         if (lastmod) item.lastmod = lastmod;
         return item;
       },
