@@ -3,12 +3,12 @@ title: "Mastering Rappel Knots: Top 7 Knots Every Climber Must Know for Safety"
 seoTitle: "Mastering Rappel Knots: Top 7 Knots Every Climber Needs"
 description: "The essential rappel knots for safe, efficient rappelling, with step-by-step guides to the double fisherman's, overhand and other key hitches."
 pubDate: "2025-07-24"
-updatedDate: "2026-09-05"
+updatedDate: "2026-09-23"
 heroImage: "/images/2025/07/figure-8-knot.webp"
 heroAlt: "Close-up of hands tying a figure-eight knot in a blue climbing rope, yellow helmet and coiled green rope nearby."
 tags: ["safety"]
 featured: false
-readingTime: 5
+readingTime: 6
 faq:
   - question: "What knots do I need for rappelling?"
     answer: "A small set covers almost everything: a figure eight on a bight to attach the rope to an anchor, a flat overhand bend to join two ropes, a friction hitch such as a prusik or autoblock for backup, and a stopper knot in each rope end."
@@ -22,6 +22,14 @@ faq:
     answer: "The autoblock (French prusik) is the common choice below the device because it releases easily under load. A classic prusik grips harder in both directions but can jam. Either needs cord of the right diameter relative to the main rope."
   - question: "How tight should a rappel knot be?"
     answer: "Dressed neatly with no crossed strands, then set firmly by loading each strand in turn. A knot you can check at a glance is the whole point of using a small, familiar set, so if it looks untidy, retie it rather than inspecting it harder."
+  - question: "Why use a double fisherman's knot instead of a flat overhand?"
+    answer: "It is bulkier and harder to untie once loaded, but it holds more securely for joining ropes under higher loads or for building a friction hitch cord loop, where you want the knot to hold indefinitely rather than pull apart for retrieval."
+  - question: "What knot should I use as a stopper in the rope ends?"
+    answer: "A triple barrel, also called a triple overhand, is a common choice: it sits tidier than a stacked figure eight and is less likely to jam in your descender. Wrap the rope end around itself three times, thread it back through the wraps, and slide it tight."
+  - question: "How do I stop my friction hitch jamming my rappel device?"
+    answer: "Extend your rappel device away from your harness with a sling or personal anchor system, around 60cm long. That gives the friction hitch room to sit below the device instead of jamming into it partway down."
+  - question: "Does rope diameter affect which knot I use to join ropes?"
+    answer: "Yes. A flat overhand works well when both ropes are within about 3mm of each other in diameter. For a bigger mismatch, a double fisherman's holds more securely."
 ---
 
 ---
@@ -33,6 +41,7 @@ faq:
 - Always back up your descent with a friction hitch, a prusik or autoblock tied below your device, so the rope locks off if your brake hand slips.
 - Know your specialty knots: the figure eight for secure loops and tie-ins, the Münter hitch for an emergency descent without a device (it twists the rope), and the clove and girth hitches for anchors.
 - Dress and test every knot under load, leaving at least 30cm of tail, and use 5-7mm accessory cord for friction hitches.
+- Extend your rappel device away from your harness with a sling or PAS so a friction hitch backup sits clear of it, and use a triple barrel knot for a tidier stopper than a stacked figure eight.
 
 ---
 
@@ -109,6 +118,7 @@ Also known as the **Euro Death Knot (EDK)**, this is a minimalist knot used to j
 
 - Avoid tying with slick or vastly different rope types.
 - Always dress and tighten the knot under load.
+- Works best when both ropes are within about 3mm of each other in diameter; for a bigger mismatch, use a double fisherman's instead.
 
 ### Advantages
 
@@ -164,6 +174,12 @@ A versatile **backup knot** that can be tied below your rappel device.
 
 ---
 
+## Extending Your Rappel Device
+
+Extending your rappel device away from your harness with a sling or personal anchor system (PAS) gives your friction hitch backup room to work. Without that gap, the hitch can jam against the device partway down, making the descent jerky rather than smooth. A 60cm sling is a common length; adjust it to suit your harness and preferred hand position.
+
+---
+
 ## The Munter Hitch for Emergency Descent
 
 The **Munter Hitch** is a friction knot used when no rappel device is available.
@@ -197,6 +213,8 @@ Both are essential for anchoring systems:
 ## Stopper knots in the rope ends
 
 A stopper knot is a simple overhand or figure eight tied in each rope end so the end cannot pass through the descender. Rappelling off the end of the rope is one of the better-documented ways people are seriously hurt, and it is entirely preventable.
+
+A triple barrel, also called a triple overhand, is a tidier alternative: wrap the rope end around itself three times, thread it back through the wraps, then slide it tight so the wraps sit evenly. It sits smaller than a stacked figure eight and is less likely to jam in your device.
 
 Tie them on every descent. The alternatives are to tie the two ends together, or to confirm visually that both ends are on the ground before you commit. On a windy day or a route with a lip you cannot see over, the knots are the reliable option.
 
@@ -300,6 +318,18 @@ Most knots work on both, but performance varies. Test your knots under load for 
 
 **Q6. What knot should I use for a rappel anchor?**  
 Use a **clove hitch** or **figure-eight on a bight** depending on the anchor setup.
+
+**Q7. Why use a double fisherman's knot instead of a flat overhand?**  
+It is bulkier and harder to untie once loaded, but it holds more securely for joining ropes under higher loads or for building a **friction hitch cord loop**, where you want the knot to hold rather than pull apart for retrieval.
+
+**Q8. What knot should I use as a stopper in the rope ends?**  
+A **triple barrel** (triple overhand) is a common choice: it sits tidier than a stacked figure eight and is less likely to jam in your descender.
+
+**Q9. How do I stop my friction hitch jamming my rappel device?**  
+**Extend your rappel device** away from your harness with a sling or personal anchor system, around 60cm long, so the hitch has room to sit below the device.
+
+**Q10. Does rope diameter affect which knot I use to join ropes?**  
+Yes. A **flat overhand** works well when both ropes are within about 3mm of each other in diameter. For a bigger mismatch, a **double fisherman's** holds more securely.
 
 ---
 
