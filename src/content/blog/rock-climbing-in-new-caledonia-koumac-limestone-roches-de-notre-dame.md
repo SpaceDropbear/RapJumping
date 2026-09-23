@@ -1,5 +1,6 @@
 ---
 title: "Rock Climbing in New Caledonia: Koumac Limestone & Roches de Notre Dame"
+seoTitle: "Rock Climbing in New Caledonia: Koumac Limestone Crags"
 description: "Sport climbing at Koumac & the Roches de Notre Dame: an AU climber's guide to New Caledonia's limestone crags, best season, access and safety."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/rock-climbing-in-new-caledonia-koumac-limestone-roches-de-notre-dame.webp"

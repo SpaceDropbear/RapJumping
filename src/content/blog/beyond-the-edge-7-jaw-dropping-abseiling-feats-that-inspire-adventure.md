@@ -1,5 +1,6 @@
 ---
 title: "Beyond the Edge: 7 Jaw-Dropping Abseiling Feats That Inspire Adventure"
+seoTitle: "7 Jaw-Dropping Abseiling Feats That Inspire Adventure"
 description: "Seven remarkable abseiling and rappelling feats, from record-breaking descents to daring vertical challenges around the world."
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"

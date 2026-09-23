@@ -1,5 +1,6 @@
 ---
 title: "Abseiling for Beginners: Complete Getting-Started Guide (Australia 2026)"
+seoTitle: "Abseiling for Beginners: A Complete Getting-Started Guide"
 description: "New to abseiling? A beginner's guide to rappelling gear, technique, safety checks and your first descent - written for Australian conditions."
 pubDate: "2025-07-26"
 updatedDate: "2026-06-12"

@@ -1,5 +1,6 @@
 ---
 title: "Best Time to Visit Australia & the Pacific for Adventure Activities"
+seoTitle: "Best Time to Visit Australia & the Pacific for Adventure"
 description: "When to visit Australia & the Pacific for adventure: dry vs wet tropics, four-season south, and the South Pacific cyclone season, by month and region."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/best-time-to-visit-australia-the-pacific-for-adventure-activities.webp"

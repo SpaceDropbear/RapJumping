@@ -1,5 +1,6 @@
 ---
 title: "Moonarie: South Australia's Premier Wilderness Climbing Destination"
+seoTitle: "Moonarie: South Australia's Wilderness Climbing Spot"
 description: "Moonarie, on the rim of Wilpena Pound in Ikara-Flinders Ranges National Park, is SA's premier trad crag. NPWS SA access, season, camping and safety facts."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/moonarie-south-australias-premier-wilderness-climbing-destination.webp"

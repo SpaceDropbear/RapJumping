@@ -1,5 +1,6 @@
 ---
 title: "Auckland Abseiling: Sea Cliffs, Waterfalls & Urban Adventures"
+seoTitle: "Auckland Abseiling: Sea Cliffs, Waterfalls & Adventures"
 description: "A guide to Auckland abseiling: Waitākere Ranges waterfall canyoning, west-coast sea cliffs, kauri dieback access rules and how to book a safe half-day descent."
 pubDate: "2026-07-25"
 heroImage: "/images/2026/07/auckland-abseiling-sea-cliffs-waterfalls-urban-adventures.webp"

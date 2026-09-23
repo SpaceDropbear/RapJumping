@@ -1,5 +1,6 @@
 ---
 title: "Rock Climbing in the Flinders Ranges: Moonarie, Warren Gorge & Arkaroola"
+seoTitle: "Rock Climbing in the Flinders Ranges: SA's Remote Crags"
 description: "Rock climbing across the Flinders Ranges: Moonarie on Wilpena Pound, council-run Warren Gorge near Quorn, and privately owned Arkaroola. Access and seasons."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/rock-climbing-in-the-flinders-ranges-sas-remote-adventure-crag.webp"

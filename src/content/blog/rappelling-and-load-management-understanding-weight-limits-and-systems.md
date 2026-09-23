@@ -1,5 +1,6 @@
 ---
 title: "Rappelling and Load Management Understanding Weight Limits and Systems"
+seoTitle: "Rappelling and Load Management: Weight Limits & Systems"
 description: "Master load management in rappelling! Discover weight limits and systems for a safe descent."
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"

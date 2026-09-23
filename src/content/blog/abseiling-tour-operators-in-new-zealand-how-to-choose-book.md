@@ -1,5 +1,6 @@
 ---
 title: "Abseiling Tour Operators in New Zealand: How to Choose & Book"
+seoTitle: "Abseiling Tour Operators in New Zealand: How to Choose"
 description: "How to choose and book an abseiling tour operator in New Zealand: check WorkSafe registration, DOC concessions, guide qualifications, gear and refund policy."
 pubDate: "2026-07-25"
 heroImage: "/images/2026/07/abseiling-tour-operators-in-new-zealand-how-to-choose-book.webp"

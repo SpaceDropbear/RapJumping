@@ -1,5 +1,6 @@
 ---
 title: "Via Ferrata in Australia: RockWire, Happitat & What's Opening Next"
+seoTitle: "Via Ferrata in Australia: RockWire, Happitat & More"
 description: "Via ferrata has arrived in Australia : RockWire at Mt Buller and Happitat in the Gold Coast hinterland. Here's what each route involves and what's next."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/via-ferrata-in-australia-rockwire-happitat-whats-opening-next.webp"

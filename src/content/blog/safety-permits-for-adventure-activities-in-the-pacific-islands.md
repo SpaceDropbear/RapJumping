@@ -1,5 +1,6 @@
 ---
 title: "Safety & Permits for Adventure Activities in the Pacific Islands"
+seoTitle: "Safety & Permits for Pacific Islands Adventure Activities"
 description: "Safety, permits & customary land access for abseiling, climbing & canyoning across Fiji, Vanuatu, PNG, Tonga, New Caledonia & the Solomons."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/safety-permits-for-adventure-activities-in-the-pacific-islands.webp"

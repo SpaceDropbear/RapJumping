@@ -1,5 +1,6 @@
 ---
 title: "Rock Climbing in Victoria & South Australia: The Complete Guide"
+seoTitle: "Rock Climbing in Victoria & South Australia Guide"
 description: "Plan rock climbing across Victoria and South Australia : Grampians, Werribee Gorge, Mt Buffalo, You Yangs, Moonarie, Morialta and the Flinders Ranges."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/rock-climbing-in-victoria-south-australia-the-complete-guide.webp"

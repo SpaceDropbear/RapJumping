@@ -1,5 +1,6 @@
 ---
 title: "Rap Jumping vs. Abseiling & Rappelling: Your Guide to Extreme Adventure"
+seoTitle: "Rap Jumping vs Abseiling & Rappelling: The Difference"
 description: "Rap jumping, abseiling and rappelling compared: how each technique differs, where the terms overlap, and what sets face-first rap jumping apart."
 pubDate: "2025-07-19"
 updatedDate: "2025-07-30"

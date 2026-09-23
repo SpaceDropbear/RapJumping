@@ -1,5 +1,6 @@
 ---
 title: "Carnarvon Gorge: Hiking & Walking, NOT Technical Canyoning (What You Need to Know)"
+seoTitle: "Carnarvon Gorge: Hiking & Walking, Not Technical Canyoning"
 description: "Is Carnarvon Gorge a canyoning destination? No : it's one of Queensland's best hiking destinations. Here's what it actually offers and how to plan a visit."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/carnarvon-gorge-hiking-walking-not-technical-canyoning-what-you-need-to-know.webp"

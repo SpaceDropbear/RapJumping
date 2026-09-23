@@ -1,5 +1,6 @@
 ---
 title: "Rappelling and Rope Rescue Systems Mechanical Advantage Explained"
+seoTitle: "Rappelling & Rope Rescue Systems: Mechanical Advantage"
 description: "Master rope rescue systems with expert insight! Elevate your rappelling and rope rescue skills effortlessly."
 pubDate: "2025-08-14"
 updatedDate: "2025-08-16"

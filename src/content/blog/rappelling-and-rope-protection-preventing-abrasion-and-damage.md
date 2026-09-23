@@ -1,5 +1,6 @@
 ---
 title: "Rappelling and Rope Protection Preventing Abrasion and Damage"
+seoTitle: "Rappelling Rope Protection: Preventing Abrasion & Damage"
 description: "Discover essential rope protection tips for abseiling! Safeguard your gear and climb like a pro!"
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"

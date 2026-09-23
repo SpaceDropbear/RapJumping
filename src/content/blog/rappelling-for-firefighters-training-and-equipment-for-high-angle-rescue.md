@@ -1,5 +1,6 @@
 ---
 title: "Rappelling for Firefighters Training and Equipment for High Angle Rescue"
+seoTitle: "Rappelling for Firefighters: Training & High-Angle Rescue"
 description: "Gear up for firefighter rappelling! Unleash your high-angle rescue skills with top training and equipment."
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"

@@ -1,5 +1,6 @@
 ---
 title: "Abseiling Safety Standards: EN Regulations & Gear Compliance Guide (Australia)"
+seoTitle: "Abseiling Safety Standards: EN Regulations & Gear Compliance"
 description: "Which safety standards must your abseiling harness, rope and gear meet? A plain-English guide to EN/UIAA ratings and how to check compliance in Australia."
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"

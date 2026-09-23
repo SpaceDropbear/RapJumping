@@ -1,5 +1,6 @@
 ---
 title: "Introduction to the Basic Styles of Rock Climbing: Your Ultimate Guide"
+seoTitle: "Introduction to Rock Climbing Styles: Ultimate Guide"
 description: "Discover the basic styles of rock climbing, from top-roping and bouldering to sport climbing. Learn where to start your climbing journey safely and effectively."
 pubDate: "2025-07-15"
 updatedDate: "2026-06-12"

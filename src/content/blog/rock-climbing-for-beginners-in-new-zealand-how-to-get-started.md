@@ -1,5 +1,6 @@
 ---
 title: "Rock Climbing for Beginners in New Zealand: How to Get Started"
+seoTitle: "Rock Climbing for Beginners in New Zealand: Get Started"
 description: "New to climbing in NZ? A step-by-step beginner's guide covering indoor gyms, NZOIA-qualified courses, NZAC clubs, gear basics and DOC safety advice."
 pubDate: "2026-07-02"
 heroImage: "/images/2026/07/rock-climbing-for-beginners-in-new-zealand.webp"

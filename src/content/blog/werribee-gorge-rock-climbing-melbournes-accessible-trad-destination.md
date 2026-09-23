@@ -1,5 +1,6 @@
 ---
 title: "Werribee Gorge Rock Climbing: Melbourne's Accessible Trad Destination"
+seoTitle: "Werribee Gorge Rock Climbing: Melbourne's Trad Crag"
 description: "Werribee Gorge rock climbing at Falcons Lookout : Melbourne's accessible trad crag near Bacchus Marsh. Access, safety, what to bring."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/werribee-gorge-rock-climbing-melbournes-accessible-trad-destination.webp"

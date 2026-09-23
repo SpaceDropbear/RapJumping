@@ -1,5 +1,6 @@
 ---
 title: "Adventure Activities & Canyoning in Australia: The Complete Guide"
+seoTitle: "Adventure Activities & Canyoning in Australia: A Guide"
 description: "Canyoning, via ferrata, coasteering and high ropes across Australia : where to go, what's involved, and how each activity compares to abseiling."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/adventure-activities-canyoning-in-australia-the-complete-guide.webp"

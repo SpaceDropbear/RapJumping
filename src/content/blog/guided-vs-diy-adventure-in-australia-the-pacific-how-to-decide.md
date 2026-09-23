@@ -1,5 +1,6 @@
 ---
 title: "Guided vs DIY Adventure in Australia & the Pacific: How to Decide"
+seoTitle: "Guided vs DIY Adventure in Australia & the Pacific"
 description: "Guided vs DIY adventure in Australia & the Pacific: a factor-by-factor decision framework, a comparison table, and why beginners start rope activities guided."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/guided-vs-diy-adventure-in-australia-the-pacific-how-to-decide.webp"

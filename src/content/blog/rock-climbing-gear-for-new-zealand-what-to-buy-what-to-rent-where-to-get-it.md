@@ -1,5 +1,6 @@
 ---
 title: "Rock Climbing Gear for New Zealand: What to Buy, What to Rent, Where to Get It"
+seoTitle: "Rock Climbing Gear for New Zealand: Buy, Rent, or Get It"
 description: "Buying vs renting climbing gear in NZ: what to get first, what standards to check (EN/UIAA), and where beginners can find harnesses, shoes and ropes."
 pubDate: "2026-07-02"
 heroImage: "/images/2026/07/rock-climbing-gear-for-new-zealand.webp"

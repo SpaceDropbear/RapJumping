@@ -1,5 +1,6 @@
 ---
 title: "Rock Climbing vs Abseiling: Key Differences, Gear & Which to Try First"
+seoTitle: "Rock Climbing vs Abseiling: Key Differences & Gear"
 description: "Rock climbing vs abseiling: how they differ in technique, gear and cost, where they overlap, and which is the better place to start."
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"

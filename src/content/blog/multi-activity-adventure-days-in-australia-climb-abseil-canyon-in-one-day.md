@@ -1,5 +1,6 @@
 ---
 title: "Multi-Activity Adventure Days in Australia: Climb, Abseil & Canyon in One Day"
+seoTitle: "Multi-Activity Adventure Days in Australia: One Day"
 description: "How to combine climbing, abseiling and canyoning into a single, well-planned adventure day in Australia : sequencing, fitness and safety."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/multi-activity-adventure-days-in-australia-climb-abseil-canyon-in-one-day.webp"

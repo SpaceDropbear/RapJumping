@@ -1,5 +1,6 @@
 ---
 title: "Abseiling safety: Beginner Abseiling Techniques and Safety Tips"
+seoTitle: "Abseiling Safety: Beginner Techniques and Safety Tips"
 description: "Unlock the thrill! Beginner rappelling guide for safe abseiling adventures in Australia. Let's gear up and descend with confidence!"
 pubDate: "2025-08-02"
 updatedDate: "2026-06-12"

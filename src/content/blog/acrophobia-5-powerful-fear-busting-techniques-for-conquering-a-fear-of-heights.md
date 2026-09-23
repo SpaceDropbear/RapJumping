@@ -1,5 +1,6 @@
 ---
 title: "Acrophobia? 5 Powerful Fear-Busting Techniques for Conquering a Fear of Heights"
+seoTitle: "Acrophobia: How to Overcome Your Fear of Heights"
 description: "Five practical techniques to overcome a fear of heights, so acrophobia no longer holds you back from abseiling, rappelling and rap jumping."
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"

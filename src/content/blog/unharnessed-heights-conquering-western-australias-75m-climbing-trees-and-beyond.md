@@ -1,5 +1,6 @@
 ---
 title: "Unharnessed Heights: Conquering Western Australia's 75m Climbing Trees (and Beyond!)"
+seoTitle: "Unharnessed Heights: Conquering WA's 75m Climbing Trees"
 description: "Discover the legendary Dave Evans Bicentennial Tree in WA - a 75m unharnessed climb! Get your adrenaline fix!"
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"

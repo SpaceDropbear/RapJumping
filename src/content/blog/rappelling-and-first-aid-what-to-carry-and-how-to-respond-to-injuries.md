@@ -1,5 +1,6 @@
 ---
 title: "Rappelling and First Aid What to Carry and How to Respond to Injuries"
+seoTitle: "Rappelling First Aid: What to Carry & How to Respond"
 description: "Discover crucial rappelling first aid tips! Be prepared to handle injuries like a pro on your next adventure!"
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"

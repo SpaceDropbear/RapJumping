@@ -1,5 +1,6 @@
 ---
 title: "Adventure Travel in Australia & the Pacific: The Complete Planning Guide"
+seoTitle: "Adventure Travel in Australia & the Pacific: Planning Guide"
 description: "Plan adventure travel in Australia & the Pacific, timing, budgeting, insurance, packing and guided vs DIY. A practical, safety-first planning guide."
 pubDate: "2026-07-02"
 heroImage: "/images/2026/07/adventure-travel-australia-pacific-planning.webp"

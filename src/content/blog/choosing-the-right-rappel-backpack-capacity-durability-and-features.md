@@ -1,5 +1,6 @@
 ---
 title: "Choosing the Right Rappel Backpack Capacity Durability and Features"
+seoTitle: "Choosing the Right Rappel Backpack: Capacity & Durability"
 description: "Find your perfect rappel backpack! Unpack durability, capacity, and features for your next abseiling adventure."
 pubDate: "2025-08-14"
 updatedDate: "2025-08-16"

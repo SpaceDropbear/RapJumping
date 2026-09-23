@@ -1,5 +1,6 @@
 ---
 title: "Rappelling in Winter Conditions Ice Snow and Cold Weather Gear"
+seoTitle: "Rappelling in Winter: Ice, Snow & Cold-Weather Gear"
 description: "Gear up for winter rappelling! Discover essential ice, snow, and cold weather equipment for your next adventure."
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"

@@ -1,5 +1,6 @@
 ---
 title: "The Ultimate Christmas Thrill: Give the Gift of Rappelling & Rap Jumping"
+seoTitle: "The Ultimate Christmas Thrill: Gift of Rap Jumping"
 description: "Why rappelling and rap jumping make memorable Christmas gift ideas, and how to arrange an experience through trusted partner operators."
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"

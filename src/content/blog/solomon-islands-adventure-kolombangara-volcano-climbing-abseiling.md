@@ -1,5 +1,6 @@
 ---
 title: "Solomon Islands Adventure: Kolombangara Volcano Climbing & Abseiling"
+seoTitle: "Solomon Islands Adventure: Kolombangara Volcano Climbing"
 description: "Kolombangara volcano trek guide: a guided multi-day rainforest climb to Mt Veve & the crater rim in the Solomon Islands' Western Province, for AU adventurers."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/solomon-islands-adventure-kolombangara-volcano-climbing-abseiling.webp"

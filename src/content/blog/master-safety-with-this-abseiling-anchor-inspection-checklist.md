@@ -1,5 +1,6 @@
 ---
 title: "Master Safety with This Abseiling Anchor Inspection Checklist"
+seoTitle: "Master Safety: Abseiling Anchor Inspection Checklist"
 description: "Transform your abseiling game with our essential anchor inspection checklist. Stay safe and secured every descent!"
 pubDate: "2025-08-11"
 updatedDate: "2026-06-12"

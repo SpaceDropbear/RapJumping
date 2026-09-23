@@ -1,5 +1,6 @@
 ---
 title: "Canyoning & Abseiling in Vanuatu: Espiritu Santo's Millennium Cave"
+seoTitle: "Canyoning & Abseiling in Vanuatu: Millennium Cave"
 description: "Millennium Cave on Espiritu Santo, Vanuatu: an honest guide to the community-run jungle trek, cave crossing and canyon river adventure, season and safety."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/canyoning-abseiling-in-vanuatu-espiritu-santos-millennium-cave.webp"

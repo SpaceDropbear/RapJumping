@@ -1,5 +1,6 @@
 ---
 title: "Rotorua & Waikato Abseiling: Geothermal Gorges & Waterfall Descents"
+seoTitle: "Rotorua & Waikato Abseiling: Gorges & Waterfall Descents"
 description: "Field guide to Rotorua & Waikato abseiling: geothermal country, native-bush gorges, waterfall descents and the Waikato's signature cave abseil."
 pubDate: "2026-07-25"
 heroImage: "/images/2026/07/rotorua-waikato-abseiling-geothermal-gorges-waterfall-descents.webp"

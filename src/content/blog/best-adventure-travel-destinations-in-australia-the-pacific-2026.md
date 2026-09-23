@@ -1,5 +1,6 @@
 ---
 title: "Best Adventure Travel Destinations in Australia & the Pacific (2026)"
+seoTitle: "Best Adventure Travel Destinations in Australia & Pacific"
 description: "A regional roundup of the best adventure travel destinations across Australia & the Pacific: signature activities, who each suits, and when to go."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/best-adventure-travel-destinations-in-australia-the-pacific-2026.webp"

@@ -1,5 +1,6 @@
 ---
 title: "Canyoning + Abseiling in New Zealand: The Complete Combo Guide"
+seoTitle: "Canyoning & Abseiling in New Zealand: Combo Guide"
 description: "How abseiling fits inside canyoning across New Zealand: regions, gear, grades, cold and flash-flood hazards, plus the safety and access rules that matter."
 pubDate: "2026-07-25"
 heroImage: "/images/2026/07/canyoning-abseiling-in-new-zealand-the-complete-combo-guide.webp"

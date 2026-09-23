@@ -5,6 +5,10 @@ const blog = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
   schema: z.object({
     title: z.string(),
+    // Optional override for the <title>/OG/Twitter tag only (SERP-length hygiene). The H1,
+    // breadcrumb and JSON-LD headline always render `title` unchanged - a ranking post's
+    // visible headline and query-matched terms never move just to shorten a SERP snippet.
+    seoTitle: z.string().optional(),
     description: z.string().optional().default(''),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),

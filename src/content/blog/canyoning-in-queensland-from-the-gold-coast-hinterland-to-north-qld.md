@@ -1,5 +1,6 @@
 ---
 title: "Canyoning in Queensland: From the Gold Coast Hinterland to North QLD"
+seoTitle: "Canyoning in Queensland: Gold Coast to North QLD"
 description: "Canyoning in Queensland : from rainforest gorge abseils near Cairns to swimming holes in the Gold Coast hinterland. Where to go and what to expect."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/canyoning-in-queensland-from-the-gold-coast-hinterland-to-north-qld.webp"

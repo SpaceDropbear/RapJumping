@@ -1,5 +1,6 @@
 ---
 title: "Guided abseiling tours: Top Abseiling Tours for Beginners in Australia"
+seoTitle: "Top Guided Abseiling Tours for Beginners in Australia"
 description: "Embark on thrilling abseiling tours in Australia made for beginners like you! Safely scale new heights with top-rated guides."
 pubDate: "2025-08-02"
 updatedDate: "2026-06-12"

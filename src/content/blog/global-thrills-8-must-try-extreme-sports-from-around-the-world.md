@@ -1,5 +1,6 @@
 ---
 title: "Global Thrills: 8 Must-Try Extreme Sports from Around the World"
+seoTitle: "Global Thrills: 8 Must-Try Extreme Sports Worldwide"
 description: "Love extreme sports and travel? Discover 8 adrenaline-fueled outdoor activities from volcano boarding to wingsuit flying. Your next adventure starts here!"
 pubDate: "2025-07-18"
 updatedDate: "2026-06-12"

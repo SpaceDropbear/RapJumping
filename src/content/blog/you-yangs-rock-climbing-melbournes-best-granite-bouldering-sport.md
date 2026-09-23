@@ -1,5 +1,6 @@
 ---
 title: "You Yangs Rock Climbing: Melbourne's Best Granite Bouldering & Sport"
+seoTitle: "You Yangs Rock Climbing: Melbourne's Granite Bouldering"
 description: "You Yangs rock climbing: granite tor bouldering, trad and sport routes 40 minutes from Melbourne, plus nearby Brisbane Ranges, per Parks Victoria."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/you-yangs-rock-climbing-melbournes-best-granite-bouldering-sport.webp"

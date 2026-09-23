@@ -1,5 +1,6 @@
 ---
 title: "Canyoning in the Blue Mountains: 900 Slot Canyons, One Perfect Weekend"
+seoTitle: "Canyoning in the Blue Mountains: 900 Slot Canyons"
 description: "Canyoning in the Blue Mountains : Australia's canyoning heartland, with well over 900 known slot canyons. Where to start, key canyons and access rules."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/canyoning-in-the-blue-mountains-900-slot-canyons-one-perfect-weekend.webp"

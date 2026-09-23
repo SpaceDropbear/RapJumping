@@ -1,5 +1,6 @@
 ---
 title: "Smart Abseiling Anchor Placement Tips for Experienced Climbers"
+seoTitle: "Smart Abseiling Anchor Placement for Experienced Climbers"
 description: "Master abseiling anchor placement with expert tips for experienced climbers. Elevate your safety game now!"
 pubDate: "2025-08-11"
 updatedDate: "2026-06-12"

@@ -1,5 +1,6 @@
 ---
 title: "Beginner tips: Common Beginner Mistakes in Abseiling (and How to Avoid Them)"
+seoTitle: "Beginner Abseiling Mistakes and How to Avoid Them"
 description: "Avoid rookie abseiling mistakes in Australia! Elevate your adventure with safety tips from the pros."
 pubDate: "2025-08-02"
 updatedDate: "2026-06-12"

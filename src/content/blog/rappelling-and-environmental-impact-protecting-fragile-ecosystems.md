@@ -1,5 +1,6 @@
 ---
 title: "Rappelling and Environmental Impact Protecting Fragile Ecosystems"
+seoTitle: "Rappelling's Environmental Impact on Fragile Ecosystems"
 description: "Protect fragile ecosystems while enjoying the thrill of rappelling. Dive into environmental rappelling tips now!"
 pubDate: "2025-08-14"
 updatedDate: "2026-06-12"

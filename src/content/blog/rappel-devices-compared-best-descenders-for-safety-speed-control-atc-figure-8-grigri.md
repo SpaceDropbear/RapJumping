@@ -1,5 +1,6 @@
 ---
 title: "Rappel Devices Compared: Best Descenders for Safety, Speed & Control (ATC, Figure 8, Grigri)"
+seoTitle: "Rappel Devices Compared: ATC vs Figure 8 vs Grigri"
 description: "Rappel devices compared: the ATC, Figure 8 and Grigri, with the pros, cons and best use cases for each descender to help you choose."
 pubDate: "2025-07-23"
 updatedDate: "2026-06-12"

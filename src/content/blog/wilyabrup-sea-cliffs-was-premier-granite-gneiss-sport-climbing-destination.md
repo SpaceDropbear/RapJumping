@@ -1,5 +1,6 @@
 ---
 title: "Wilyabrup Sea Cliffs: WA's Premier Granite-Gneiss Sport Climbing Destination"
+seoTitle: "Wilyabrup Sea Cliffs: WA's Granite Sport Climbing Spot"
 description: "Wilyabrup Sea Cliffs: WA's premier granite-gneiss sea-cliff climbing and abseiling near Margaret River, in Leeuwin-Naturaliste National Park. Access and safety."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/wilyabrup-sea-cliffs-was-premier-granite-gneiss-sport-climbing-destination.webp"

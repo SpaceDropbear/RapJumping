@@ -1,5 +1,6 @@
 ---
 title: "How to Enhance Your Extreme Sports Experience with a Drone in Australia"
+seoTitle: "Enhance Your Extreme Sports Experience with a Drone"
 description: "Take your extreme sports to the next level with drone footage. Learn how to plan, film, and share stunning aerial content legally in Australia."
 pubDate: "2025-07-19"
 updatedDate: "2026-06-12"

@@ -1,5 +1,6 @@
 ---
 title: "Queenstown Abseiling & Canyoning: The Adventure Capital Delivers"
+seoTitle: "Queenstown Abseiling & Canyoning: Adventure Capital"
 description: "Queenstown is NZ's adventure capital, and abseiling here lives inside canyoning: waterfall abseils, jumps and slides across Routeburn, Gibbston and beyond."
 pubDate: "2026-07-25"
 heroImage: "/images/2026/07/queenstown-abseiling-canyoning-the-adventure-capital-delivers.webp"

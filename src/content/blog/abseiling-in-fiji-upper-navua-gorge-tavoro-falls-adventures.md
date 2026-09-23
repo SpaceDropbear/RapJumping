@@ -1,5 +1,6 @@
 ---
 title: "Abseiling in Fiji: Upper Navua Gorge & Tavoro Falls Adventures"
+seoTitle: "Abseiling in Fiji: Upper Navua Gorge & Tavoro Falls"
 description: "Honest guide to abseiling in Fiji: Upper Navua Gorge, Bouma's Tavoro Falls on Taveuni, what's real, best season and how to prepare in Australia first."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/abseiling-in-fiji-upper-navua-gorge-tavoro-falls-adventures.webp"

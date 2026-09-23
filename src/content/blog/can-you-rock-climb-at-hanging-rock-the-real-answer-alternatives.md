@@ -1,5 +1,6 @@
 ---
 title: "Can You Rock Climb at Hanging Rock? The Real Answer (+ Alternatives)"
+seoTitle: "Can You Rock Climb at Hanging Rock? Answer + Alternatives"
 description: "Can you rock climb at Hanging Rock? No : it's a protected volcanic and cultural heritage site. Here's why, plus real Victorian climbing alternatives."
 pubDate: "2026-08-21"
 heroImage: "/images/2026/08/can-you-rock-climb-at-hanging-rock-the-real-answer-alternatives.webp"

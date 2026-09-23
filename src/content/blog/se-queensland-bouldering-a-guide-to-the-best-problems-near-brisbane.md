@@ -1,5 +1,6 @@
 ---
 title: "SE Queensland Bouldering: A Guide to the Best Problems Near Brisbane"
+seoTitle: "SE Queensland Bouldering: Best Problems Near Brisbane"
 description: "Outdoor bouldering near Brisbane: Toohey Forest, White Rock and the Granite Belt around Girraween. Areas, grades, access rules and pad-and-spotter safety."
 pubDate: "2026-07-26"
 heroImage: "/images/2026/07/se-queensland-bouldering-a-guide-to-the-best-problems-near-brisbane.webp"
