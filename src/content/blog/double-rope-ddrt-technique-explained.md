@@ -28,7 +28,7 @@ faq:
 - Double rope rappelling lets you descend the full rope length in one go by tying two ropes together.
 - Ideal for tall cliffs, reducing rappel stations, and multi-pitch routes.
 - Requires a dual-rope-compatible belay device and solid anchor setup.
-- Knot placement is critical when ropes differ in diameter-keep the skinny rope on the pull side.
+- Knot placement is critical when ropes differ in diameter. Keep the skinny rope on the pull side.
 - Always tie stopper knots in rope ends until you confirm ground reach.
 - Use a friction hitch backup (prusik/autoblock) for added safety.
 - Retrieve ropes by pulling the correct strand to avoid jams (“Pull Skinny” rule).
@@ -159,7 +159,7 @@ With this approach, you have more space to see the belay device, guide the rope,
 A. A technique where two ropes are tied together to descend the full combined length, useful for tall routes or fewer rappel stations.
 
 **Q. Do both ropes need to be the same diameter?**  
-A. No, but mismatched diameters require careful knot placement to prevent uneven sliding-keep the thinner rope on the pull side.
+A. No, but mismatched diameters require careful knot placement to prevent uneven sliding. Keep the thinner rope on the pull side.
 
 **Q. What knot should I use to join two ropes?**  
 A. Common choices include the double fisherman's knot or the flat overhand (with long tails and a stopper knot).

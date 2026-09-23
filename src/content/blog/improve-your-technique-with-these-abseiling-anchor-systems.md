@@ -28,7 +28,7 @@ faq:
 Strong abseiling anchor systems are the backbone of safe descents.
 
 - **Gear up:** ropes, slings, locking carabiners/maillons, prusik cords, helmets, edge protection, and backups.
-- **Choose solid points:** healthy trees, sound rock features, or certified bolts-avoid corroded, unstable, or non-structural fixtures.
+- **Choose solid points:** healthy trees, sound rock features, or certified bolts. Avoid corroded, unstable, or non-structural fixtures.
 - **Build anchors:** single-point for bombproof placements, multi-point for redundancy, keeping angles under 60°.
 - **Inspect & maintain:** check for rust, fraying, cracks, and movement before every use; follow AAAS and local regulations.
 - **Layer safety:** personal tethers, backups, and rescue gear; practise self- and partner-rescue in controlled settings.
@@ -200,7 +200,7 @@ If you're aiming to refine your technique further, check out advanced abseiling 
 
 ### Avoid anchor failure at all costs
 
-The slightest mishap can become a big deal when you're suspended mid-air. Learn to spot cracks in the rock or suspicious rust on bolts, and practise abseiling anchor failure prevention. Also, keep your anchor angles tight, share loads across multiple points when possible, and trust your instincts-if something looks shady, reinforce or replace it.
+The slightest mishap can become a big deal when you're suspended mid-air. Learn to spot cracks in the rock or suspicious rust on bolts, and practise abseiling anchor failure prevention. Also, keep your anchor angles tight, share loads across multiple points when possible, and trust your instincts. If something looks shady, reinforce or replace it.
 
 ---
 

@@ -85,7 +85,7 @@ Below is a simple table comparing abseiling with popular adventure sports:
 | Paragliding | Gliding flight | Wing, harness, helmet | Mountain slopes, ridges |
 | Canyoning | Waterfall abseils | Wetsuit, rope, harness | River gorges, slot canyons |
 
-If you're a thrill-seeker, you might find that abseiling serves as a stepping stone to bigger leaps-literally, like base jumping or paragliding. But it can also stand on its own as a fun, skill-based sport. Many climbers get a taste for rope work on short sessions, then ramp up to larger walls in places such as the Blue Mountains in Australia or the epic rock faces of Yosemite in the United States.
+If you're a thrill-seeker, you might find that abseiling serves as a stepping stone to bigger leaps, literally, like base jumping or paragliding. But it can also stand on its own as a fun, skill-based sport. Many climbers get a taste for rope work on short sessions, then ramp up to larger walls in places such as the Blue Mountains in Australia or the epic rock faces of Yosemite in the United States.
 
 ### Finding your comfort zone
 

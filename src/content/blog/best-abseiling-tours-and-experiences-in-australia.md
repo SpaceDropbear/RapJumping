@@ -35,7 +35,7 @@ faq:
 - Operators usually supply harness/helmet/rope/device; you bring closed shoes, sun protection, water, and weather layers.
 - Safety you should see: clear briefings, redundant anchors, device checks, knots in rope ends, and an autoblock backup on descents.
 - Start short and scenic; level up to canyon or multi-pitch days or a skills course once you're comfy.
-- Group days, gift vouchers, and adaptive options exist-ask up front about age/weight limits and accessibility.
+- Group days, gift vouchers, and adaptive options exist. Ask up front about age/weight limits and accessibility.
 
 ---
 
@@ -144,7 +144,7 @@ If you're planning adventure holidaysAustralia, slipping in an abseiling session
 
 ## Manage safety and risk
 
-Abseiling is generally safe, provided you follow guidelines and know your limits. Reputable companies take precautions to keep you secure-helmets, harness checks, rope inspections, but it's still important to understand the expectations.
+Abseiling is generally safe, provided you follow guidelines and know your limits. Reputable companies take precautions to keep you secure: helmets, harness checks, rope inspections, but it's still important to understand the expectations.
 
 ### Check waivers and contracts
 

@@ -37,7 +37,7 @@ faq:
 - Use CE/UIAA-certified gear, maintain ropes, and choose low-impact anchor systems.
 - Apply Leave-No-Trace principles: plan ahead, pack out all waste, and respect wildlife.
 - Support conservation via clean-ups, tree planting, and mentoring new climbers.
-- Use advanced safety techniques-prusiks, controlled descent speed, and aborting if conditions change.
+- Use advanced safety techniques: prusiks, controlled descent speed, and aborting if conditions change.
 - Combine solid gear knowledge with ethical decision-making for long-term access preservation.
 
 ---
@@ -82,7 +82,7 @@ Ethics in climbing and rappelling often evolve out of necessity. In areas where 
 
 ## Choose gear with proper certifications
 
-In environmental rappelling, gear does more than just keep you from falling. It also reduces harm to the place you're exploring-when chosen and used correctly. Ropes, harnesses, belay devices, and carabiners are essential for your safety, but they also determine how much friction or tension is placed on fixed anchors and fragile rock surfaces.
+In environmental rappelling, gear does more than just keep you from falling. It also reduces harm to the place you're exploring, when chosen and used correctly. Ropes, harnesses, belay devices, and carabiners are essential for your safety, but they also determine how much friction or tension is placed on fixed anchors and fragile rock surfaces.
 
 ### Look for industry certifications
 
@@ -114,7 +114,7 @@ Proper planning is the bedrock of eco-friendly abseiling. Start by researching t
 
 ### Dispose of waste properly
 
-It sounds straightforward, but you'd be surprised how often toilet paper, food wrappers, and other trash end up scattering cliff bases. Pack out everything you pack in. If you snack mid-descent, stow wrappers in a sealed bag so they can't blow away. Some climbers use small portable containers for organic waste or fruit peels-yes, those can also be harmful if left behind, since not all environments break them down easily.
+It sounds straightforward, but you'd be surprised how often toilet paper, food wrappers, and other trash end up scattering cliff bases. Pack out everything you pack in. If you snack mid-descent, stow wrappers in a sealed bag so they can't blow away. Some climbers use small portable containers for organic waste or fruit peels, yes, those can also be harmful if left behind, since not all environments break them down easily.
 
 ### Respect wildlife
 

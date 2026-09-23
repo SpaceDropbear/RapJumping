@@ -116,7 +116,7 @@ Plus, experiences can be easily personalised. If your mum loves epic journeys, c
 **Q1: She's never done adventure sports, will abseiling be too much?**  
 A: Not if you book a beginner-friendly, guided session. Start with a low practice wall, go at her pace, and focus on comfort (good shoes, layers, water).
 
-**Q2: We're on a budget-what's still special?**  
+**Q2: We're on a budget. What's still special?**  
 A: Backyard campout, DIY home spa, a nature scavenger hunt, or a scenic stroll with a picnic. Personal touches beat price tags.
 
 **Q3: What should we pack for outdoor plans?**  

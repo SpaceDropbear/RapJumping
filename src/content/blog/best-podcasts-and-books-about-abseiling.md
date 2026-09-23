@@ -112,7 +112,7 @@ Though it's more advanced in scope, you can still benefit from reading it early 
 
 ## Join an abseiling community
 
-Reading and listening to experts can get you far, but nothing beats real-life practice in a supportive group. If you're based in Australia, or planning a visit-check out the abseiling community australia. Local communities often hold workshops, group outings, and social events that fast-track trust-building and skill-development. You'll swap stories and gear tips in person, make new climbing friends, and gain confidence under the watchful eyes of experienced members.
+Reading and listening to experts can get you far, but nothing beats real-life practice in a supportive group. If you're based in Australia, or planning a visit, check out the abseiling community australia. Local communities often hold workshops, group outings, and social events that fast-track trust-building and skill-development. You'll swap stories and gear tips in person, make new climbing friends, and gain confidence under the watchful eyes of experienced members.
 
 Joining or forming a club also helps you:
 

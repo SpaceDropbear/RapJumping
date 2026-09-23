@@ -139,7 +139,7 @@ A. “Complete two supervised abseils on ≤30 m routes using proper edge transi
 **Q. How do I make my goal SMART for abseiling?**  
 A. Be concrete about height/terrain, technique (e.g., autoblock), location/window, and evidence (log entries, video).
 
-**Q. Process vs performance vs outcome-what should I use?**  
+**Q. Process vs performance vs outcome, what should I use?**  
 A. Prioritise process (e.g., smooth brake-hand discipline) to unlock performance (time/height benchmarks); treat outcomes as bonuses.
 
 **Q. I freeze at the edge-how can I manage nerves?**  

@@ -127,7 +127,7 @@ Many parks and climbing regions enact temporary closures during bird breeding se
 
 ## Adopt leave no trace
 
-You've probably heard about the Leave No Trace principle-pack out what you pack in, stick to durable surfaces, respect wildlife, and keep your campsite or belay area pristine. For abseilers, these principles can be the difference between a cliff that remains a paradise and one that turns into an overrun, eroded mess.
+You've probably heard about the Leave No Trace principle: pack out what you pack in, stick to durable surfaces, respect wildlife, and keep your campsite or belay area pristine. For abseilers, these principles can be the difference between a cliff that remains a paradise and one that turns into an overrun, eroded mess.
 
 ### Simple tips to remember
 

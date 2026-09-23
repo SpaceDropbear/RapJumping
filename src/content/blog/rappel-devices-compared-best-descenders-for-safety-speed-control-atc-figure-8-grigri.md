@@ -208,7 +208,7 @@ Always check your device specs before use.
 Descending generates **friction heat**, especially on long drops.
 
 - **Figure 8s** dissipate heat best due to their large surface area.
-- **ATCs** can get hot quickly-avoid touching post-descent.
+- **ATCs** can get hot quickly. Avoid touching post-descent.
 - **Grigris** handle heat well, especially with slow, controlled rappels.
 
 Use **gloves** to protect hands and avoid burns during long or fast descents.

@@ -29,7 +29,7 @@ Craving adrenaline? These five extreme sports deliver thrills, plus serious risk
 **Where:** Yosemite, USA  
 Free soloists climb without ropes or harnesses, so any slip equals fatal. Recent data estimates **one death per 1,000 climbers annually** in free soloing-nearly all climbs end in disaster if things go wrong ([Expert Climbers](https://expertclimbers.com/how-dangerous-is-free-soloing), [gitnux.org](https://gitnux.org/rock-climbing-death-statistics/)). Overall rock climbing has about **30 deaths per year**, with free soloing contributing ~30% ([Hard Climbs](https://hardclimbs.info/free-solo-deaths/)).
 
-- **Safety tip:** Never free solo-use ropes, protective gear, and climb with partners.
+- **Safety tip:** Never free solo. Use ropes, protective gear, and climb with partners.
 
 ---
 
@@ -74,4 +74,4 @@ Called “the most dangerous eight seconds in sports,” bull riding injuries to
 
 ## Final Take
 
-These five death-defying sports-free solo climbing, BASE jumping, big-wave surfing, creeking, and bull riding-come with real, documented fatality and injury stats. If you're seeking a controlled adrenaline experience, Rap Jumping™ offers all the thrills, none of the body bags.
+These five death-defying sports: free solo climbing, BASE jumping, big-wave surfing, creeking, and bull riding, come with real, documented fatality and injury stats. If you're seeking a controlled adrenaline experience, Rap Jumping™ offers all the thrills, none of the body bags.

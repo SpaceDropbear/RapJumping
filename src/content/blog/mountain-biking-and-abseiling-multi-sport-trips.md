@@ -14,7 +14,7 @@ faq:
   - question: "What skills do I need for MTB abseiling?"
     answer: "Confident mountain biking ability, basic to intermediate abseiling skills, and comfort with heights."
   - question: "What gear is required?"
-    answer: "MTB with suspension, helmet, pads, gloves, hydration pack; for abseiling-rope, harness, descender, helmet, gloves, carabiners, and backups."
+    answer: "MTB with suspension, helmet, pads, gloves, hydration pack; for abseiling: rope, harness, descender, helmet, gloves, carabiners, and backups."
   - question: "Where can I do MTB abseiling in Australia?"
     answer: "Blue Mountains (NSW), You Yangs (VIC), Kangaroo Point (QLD), and tropical QLD rainforest waterfall sites."
   - question: "How do I stay safe during MTB abseiling?"
@@ -177,7 +177,7 @@ A. It's an adventure combining mountain biking on trails with abseiling (rappell
 A. Confident mountain biking ability, basic to intermediate abseiling skills, and comfort with heights.
 
 **Q. What gear is required?**  
-A. MTB with suspension, helmet, pads, gloves, hydration pack; for abseiling-rope, harness, descender, helmet, gloves, carabiners, and backups.
+A. MTB with suspension, helmet, pads, gloves, hydration pack; for abseiling: rope, harness, descender, helmet, gloves, carabiners, and backups.
 
 **Q. Where can I do MTB abseiling in Australia?**  
 A. Blue Mountains (NSW), You Yangs (VIC), Kangaroo Point (QLD), and tropical QLD rainforest waterfall sites.

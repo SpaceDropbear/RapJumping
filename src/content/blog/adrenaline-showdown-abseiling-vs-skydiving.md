@@ -55,7 +55,7 @@ Abseiling in many regions is allowed, though some places discourage it for envir
 
 ## Learn skydiving essentials
 
-Skydiving is a different beast altogether. You ride a plane up to anywhere between 10,000 and 14,000 feet (about 3,000 to 4,200 metres), jump out, and free-fall at speeds around 120 mph (193 km/h). Then you open a parachute and glide gently back to earth-if all goes according to plan. It's a serious jolt of adrenaline, and it usually takes less than an hour from gear-up to touchdown.
+Skydiving is a different beast altogether. You ride a plane up to anywhere between 10,000 and 14,000 feet (about 3,000 to 4,200 metres), jump out, and free-fall at speeds around 120 mph (193 km/h). Then you open a parachute and glide gently back to earth, if all goes according to plan. It's a serious jolt of adrenaline, and it usually takes less than an hour from gear-up to touchdown.
 
 The actual free-fall is often 40 to 60 seconds of pure exhilaration. In tandem skydiving, which is how most people start out, the instructor handles the main operations: pulling the chute and guiding you to the landing zone. There's even a backup parachute to help ensure a safe flight back to solid ground.
 

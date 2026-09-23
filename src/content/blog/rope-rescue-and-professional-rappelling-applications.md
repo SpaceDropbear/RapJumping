@@ -34,7 +34,7 @@ faq:
 - Training builds skills in knot tying, rigging, ascents/descents, and mechanical advantage systems.
 - Anchors must be strong, redundant, and properly angled to share loads.
 - Adapt techniques for specific environments (SAR, water rescue, load management, industrial sites).
-- Environmental factors (UV, rain, ice, heat) degrade ropes-inspect and store correctly.
+- Environmental factors (UV, rain, ice, heat) degrade ropes. Inspect and store correctly.
 - Combat fatigue with rotations, hydration, and prioritising critical tasks.
 - Modern tech like drones improves situational awareness; advanced ropes/harnesses enhance safety.
 - Follow an operational flow: plan → rig → execute → monitor → debrief.

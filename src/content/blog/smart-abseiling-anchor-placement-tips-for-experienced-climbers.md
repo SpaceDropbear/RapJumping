@@ -54,7 +54,7 @@ Even if you've been abseiling for years, a quick anchor assessment can be the di
 
 Natural anchors include trees, boulders, and rock protrusions. If you're eyeing a tree, look for one with a trunk at least 20 cm thick, or about the diameter of your thigh (Straight Up Adventures). Make sure it's healthy, deeply rooted, and stable when you tug in the direction of load. Rocks also serve as good single point anchors when shaped like spikes or horns. Use 6 mm or thicker accessory cord around them, taking care to pad any sharp edges that might cut into your rope.
 
-Artificial anchors range from bolts and pitons to steel carabiners or maillons left at popular abseil points. Even if a bolt looks new, give it a firm check-look for corrosion, cracks, or movement in any direction ([REI](https://www.rei.com/learn/expert-advice/climbing-anchors.html)). Glue-in bolts are often preferred for Australian rock types, since they deliver strong performance over time ([Climbing Bolt Supplies](https://climbingboltsupplies.com/anchor-selection/)). Whenever possible, ask locals or consult local route listings for up-to-date anchor conditions.
+Artificial anchors range from bolts and pitons to steel carabiners or maillons left at popular abseil points. Even if a bolt looks new, give it a firm check: look for corrosion, cracks, or movement in any direction ([REI](https://www.rei.com/learn/expert-advice/climbing-anchors.html)). Glue-in bolts are often preferred for Australian rock types, since they deliver strong performance over time ([Climbing Bolt Supplies](https://climbingboltsupplies.com/anchor-selection/)). Whenever possible, ask locals or consult local route listings for up-to-date anchor conditions.
 
 #### Vehicle anchors and caution
 

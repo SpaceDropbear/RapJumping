@@ -205,7 +205,7 @@ A. Yes. A supportive seat harness, wider padded leg loops, and a pull-up bar let
 **Q. What's the safest way to start?**  
 A. Begin indoors or on a low-angle slab with a top/backup belay, practise device threading and braking, then progress to taller outdoor drops once you're smooth and confident.
 
-**Q. I struggle to modulate speed-what can help?**  
+**Q. I struggle to modulate speed. What can help?**  
 A. Add friction: use a device setting with more friction, a second carabiner, or a short friction hitch (autoblock) beneath your descender so small hand movements give big control.
 
 **Q. Do I need extra helpers for an adaptive setup?**  

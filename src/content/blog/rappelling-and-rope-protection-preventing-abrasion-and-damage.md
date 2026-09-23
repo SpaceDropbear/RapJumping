@@ -30,7 +30,7 @@ faq:
 - Assess terrain for sharp edges, loose gravel, or saltwater exposure before rigging.
 - Nylon and polyester ropes are top picks for durability; choose based on environment.
 - Use flexible sleeves, rigid guards, or rollers to shield rope at contact points.
-- Inspect ropes before/after every trip-look for frays, soft spots, or discoloration.
+- Inspect ropes before/after every trip: look for frays, soft spots, or discoloration.
 - Keep ropes clean, dry, and stored in cool, UV-free locations.
 - Replace ropes early if significant damage or heavy wear is detected.
 
@@ -106,7 +106,7 @@ Here's a practical routine:
    - Note any discolouration that might indicate heavy friction or chemical exposure.
 2. Check the core:
    - If your rope has a mantle-core design, feel for soft or squishy spots that might mean internal damage.
-   - Some ropes include a marker in the core or special stitching-watch for changes that might indicate severe wear.
+   - Some ropes include a marker in the core or special stitching. Watch for changes that might indicate severe wear.
 3. Clean if necessary:
    - Sand and dirt can grind away at the rope interior. Gently rinse the rope in lukewarm water after a particularly dusty or muddy trip.
    - Avoid harsh detergents. Special rope cleaners exist, or you can use mild soap. If the rope is heavily soiled, consider a rope-washing tool to dislodge grit from the weave.
@@ -114,7 +114,7 @@ Here's a practical routine:
    - Keep a simple log of each abseiling outing: location, general conditions, and any major incidents (like a fall or rope snag).
    - Ropes do have a lifespan. Depending on how rigorously you use them, you may need to retire a rope earlier than the “official” guidelines if you detect significant wear.
 
-If you encounter wire ropes in an industrial rope access environment, remember that cleaning and lubrication can be crucial. Tools like the Viper wire rope cleaner help remove debris before adding lubricant, which prolongs wire rope function. For typical abseiling, though, your main focus is on synthetic rope care-keep it free of grit and out of direct sunlight when possible.
+If you encounter wire ropes in an industrial rope access environment, remember that cleaning and lubrication can be crucial. Tools like the Viper wire rope cleaner help remove debris before adding lubricant, which prolongs wire rope function. For typical abseiling, though, your main focus is on synthetic rope care: keep it free of grit and out of direct sunlight when possible.
 
 ## Step 6: Store properly
 
@@ -140,7 +140,7 @@ A. Nylon for dynamic performance and shock absorption; polyester for UV, abrasio
 A. Use flexible sleeves, rigid edge guards, or roller systems at contact points to prevent cutting or fraying.
 
 **Q. How often should I inspect my rope?**  
-A. Before and after every session-look for cuts, soft spots, discoloration, or damaged stitching.
+A. Before and after every session: look for cuts, soft spots, discoloration, or damaged stitching.
 
 **Q. How should I store my abseiling rope?**  
 A. Coil or chain neatly, store in a rope bag or cool, dry place, and keep away from sunlight, chemicals, and moisture.

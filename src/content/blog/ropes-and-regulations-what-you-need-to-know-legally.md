@@ -24,7 +24,7 @@ faq:
   - question: "How do I choose the right rope type?"
     answer: "Match rope to environment, load requirements, usage frequency, and local regulations."
   - question: "Is formal training required?"
-    answer: "Often yes-especially for industrial or high-risk work. Accredited programs are recommended."
+    answer: "Often yes, especially for industrial or high-risk work. Accredited programs are recommended."
   - question: "What's involved in a rope work risk assessment?"
     answer: "Site hazard checks, ranking risks, defining controls, and ensuring clear communication."
 ---
@@ -195,7 +195,7 @@ A. Inspect daily, store in dry/cool conditions, lubricate wire ropes, and replac
 A. Match rope to environment, load requirements, usage frequency, and local regulations.
 
 **Q. Is formal training required?**  
-A. Often yes-especially for industrial or high-risk work. Accredited programs are recommended.
+A. Often yes, especially for industrial or high-risk work. Accredited programs are recommended.
 
 **Q. What's involved in a rope work risk assessment?**  
 A. Site hazard checks, ranking risks, defining controls, and ensuring clear communication.

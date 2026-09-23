@@ -25,7 +25,7 @@ faq:
 
 ## TL;DR
 
-A quality abseiling harness is your lifeline-look for UIAA or EN-12277 certifications, comfort-focused design, and enough gear loops for your style of abseiling.
+A quality abseiling harness is your lifeline. Look for UIAA or EN-12277 certifications, comfort-focused design, and enough gear loops for your style of abseiling.
 
 - **Comfort:** Good padding, waistbelt above hips, adjustable leg loops if layering.
 - **Safety:** Reinforced tie-in points, durable buckles, certified by recognised bodies.

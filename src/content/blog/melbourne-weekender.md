@@ -67,7 +67,7 @@ Who wants to go first? …Jade, thanks for volunteering!
 Thanks guys. Cheers. Thanks…
 
 Urban Central Rap Jumping's most important credential is its 100% safety rating.  
-But I have to tell you-when you're moments away from jumping off a building, you're still 100% terrified.
+But I have to tell you: when you're moments away from jumping off a building, you're still 100% terrified.
 
 This is scarier than jumping out of a plane.  
 Why... why am I doing this?  
@@ -94,7 +94,7 @@ So I'm going to have to do it again?
 
 **Derek:**  
 Yes, definitely going to do it again.  
-But don't worry-apples, pears, oranges!  
+But don't worry, apples, pears, oranges!  
 Each jump is going to be different. Each jump's going to be more exciting than the last!
 
 **Jade:**  

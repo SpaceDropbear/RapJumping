@@ -209,7 +209,7 @@ Plenty of abseilers actually own both types, using each rope for its unique stre
 A: It has minimal stretch, giving you stable, bounce-free descents and better control.
 
 **Q: Can I lead climb with a static rope?**  
-A: No. Static ropes can't absorb fall forces safely-use a dynamic rope for climbing.
+A: No. Static ropes can't absorb fall forces safely. Use a dynamic rope for climbing.
 
 **Q: When should I use a dynamic rope?**  
 A: For climbing, top-roping, or multi-pitch scenarios where falls may occur.

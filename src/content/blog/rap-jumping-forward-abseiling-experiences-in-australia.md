@@ -87,7 +87,7 @@ Your safety is the number one concern for rap jumping instructors. Early on, Mac
 
 1. Full gear check. Harnesses and ropes must be inspected, adjusted, and positioned. When you suit up, your instructor ensures every strap, buckle, and knot is solid.
 2. Training on knots. Many rap jump operators teach you crucial knots (like the figure eight, clove hitch, and double fisherman knot). Even if you're not tying them alone, you'll learn the basics so you know what's keeping you secure.
-3. Strong anchors. The anchor system, often involving multiple connection points-must withstand much more than body weight. You'll see back-up lines, so even if one line failed (rare!), another one is in place.
+3. Strong anchors. The anchor system, often involving multiple connection points, must withstand much more than body weight. You'll see back-up lines, so even if one line failed (rare!), another one is in place.
 4. Instructor oversight. First-time rap jumpers typically get a “top rope” system, meaning the instructor controls a secondary rope. That additional line is there to catch you if you lose your balance or momentarily panic.
 5. Graduated approach. You might start with smaller jumps first, building up confidence before tackling the bigger heights. In fact, many sites have a progressive system from mild to wild.
 
@@ -99,7 +99,7 @@ You can find rap jumping experiences across the country, from coastal cities to 
 
 If natural thrills are more your style, consider heading to Queensland's Barron Gorge near Cairns. That's where it all began, and it's still a highlight for many travelling adventurers. These tours let you rappel down towering rock faces, possibly with a waterfall view. Meanwhile, fans of scenic beaches might combine a Surfers Paradise holiday with a rap jumping session over the Gold Coast's skyline. The mix of ocean breeze and city lights sets a dramatic stage.
 
-You can keep an eye out for seasonal packages, since some providers offer dry-season or wet-season variations. And don't forget that rap jumping might fit nicely alongside other gravity-defying activities, like bungy jumping or canyoning-if you're in an area with diverse adventure sports.
+You can keep an eye out for seasonal packages, since some providers offer dry-season or wet-season variations. And don't forget that rap jumping might fit nicely alongside other gravity-defying activities, like bungy jumping or canyoning, if you're in an area with diverse adventure sports.
 
 **Book it:** rope descents around Cairns
 

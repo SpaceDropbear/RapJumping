@@ -85,7 +85,7 @@ One of the coolest parts of the abseiling community is how social it can be. Man
 
 ### Finding abseiling clubs
 
-Australia's major cities, like Sydney, Melbourne, and Perth-have numerous clubs dedicated to climbing and abseiling. Organised meets allow you to experience various formats (single-pitch, multi-pitch, or even a bit of canyoning). Each group often has beginners' meetups, letting you test the waters with minimal pressure. For a club near you, see [abseiling clubs](/australian-abseiling-clubs-and-online-communities/) and get plugged into events in your area.
+Australia's major cities, like Sydney, Melbourne, and Perth, have numerous clubs dedicated to climbing and abseiling. Organised meets allow you to experience various formats (single-pitch, multi-pitch, or even a bit of canyoning). Each group often has beginners' meetups, letting you test the waters with minimal pressure. For a club near you, see [abseiling clubs](/australian-abseiling-clubs-and-online-communities/) and get plugged into events in your area.
 
 ### Going beyond clubs: festivals and podcasts
 
@@ -219,7 +219,7 @@ A. Local clubs, meetups, skills nights, and community trips. Offer to co-rig, be
 **Q. Any access/permit issues?**  
 A. Yes-check park advisories, cultural site protections, seasonal closures, and route-specific rules before you go.
 
-**Q. I want to guide-what's the pathway?**  
+**Q. I want to guide. What's the pathway?**  
 A. Do a recognised instructor program, log supervised days across terrain types, maintain first aid (often remote), pass assessment.
 
 **Q. What about rope access careers?**  
@@ -237,4 +237,4 @@ A. Inspect before/after use, store cool/dry/dark, avoid chemicals/UV, and retire
 
 You've learned a ton about gear basics, training pathways, epic Australian destinations, and the best ways to connect with other enthusiasts. So what's next? Start small: link up with a local group, sprinkle in a few short training sessions, and keep an eye out for special events like a climbing festival. If you decide to go pro, read more about becoming an abseiling guide or dig deeper into the rope access industry.
 
-Abseiling can turn a once-in-a-while thrill into a lifelong passion. Whatever direction you choose, remember the key is consistent practice, support from your community, and respect for the amazing environments where you'll dangle on ropes. You've now got the fundamental knowledge to jump into Australia's abseiling scene-go ahead and take that first step backward off the edge. You never know what adventures might be waiting just one rappel away!
+Abseiling can turn a once-in-a-while thrill into a lifelong passion. Whatever direction you choose, remember the key is consistent practice, support from your community, and respect for the amazing environments where you'll dangle on ropes. You've now got the fundamental knowledge to jump into Australia's abseiling scene. Go ahead and take that first step backward off the edge. You never know what adventures might be waiting just one rappel away!

@@ -34,7 +34,7 @@ faq:
 - A prusik backup acts as a hands-free safety brake if your brake hand slips during abseiling.
 - Use ~1.5 m of 6 mm cord tied in a loop with a double fisherman's knot.
 - Place the hitch below the descender for easier control and release.
-- Test friction before committing-add wraps if it slips, reduce wraps if it jams.
+- Test friction before committing: add wraps if it slips, reduce wraps if it jams.
 - Practise use and rescue scenarios on easy ground before big descents.
 
 ---
@@ -269,7 +269,7 @@ A. Yes-autoblock and klemheist knots are also popular, each with different grip 
 A. Start with 3 wraps on dry, mid-diameter ropes; add a wrap for skinny, wet or icy ropes until it grips reliably.
 
 **Q. Nylon, aramid, or Dyneema for hitch cord?**  
-A. Nylon/polyester or heat-resistant aramids (e.g., Technora) grip well. Dyneema is slick with a low melting point-avoid it for friction hitches.
+A. Nylon/polyester or heat-resistant aramids (e.g., Technora) grip well. Dyneema is slick with a low melting point. Avoid it for friction hitches.
 
 **Q. Can I use the Farrimond hitch for abseiling backup?**  
 A. No-treat it as a utility/quick-release hitch for guys or haul control. Use prusik, klemheist or Distel for life-support backups.

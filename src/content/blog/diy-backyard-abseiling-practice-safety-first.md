@@ -10,15 +10,15 @@ featured: false
 readingTime: 13
 faq:
   - question: "Can I safely abseil at home if I'm solo?"
-    answer: "Yes-with conservative rigging: redundant anchors, an autoblock/prusik below the device, knots in rope ends, and short practice heights."
+    answer: "Yes, with conservative rigging: redundant anchors, an autoblock/prusik below the device, knots in rope ends, and short practice heights."
   - question: "What makes a backyard anchor “good enough”?"
     answer: "Sound structure (e.g., large, healthy tree or engineered post), no cracks/rot, equalised slings, tight angles, and a backed-up master point."
   - question: "Static or dynamic rope for home practice?"
-    answer: "Static gives crisp control for pure descents. Dynamic is acceptable but bouncier-plan for added friction."
+    answer: "Static gives crisp control for pure descents. Dynamic is acceptable but bouncier. Plan for added friction."
   - question: "Where should the prusik/autoblock go?"
     answer: "Below the device on the brake strand, clipped to your leg loop so it stays reachable for a hands-free stop."
   - question: "Do I need a helmet at home?"
-    answer: "Yes. Low height doesn't remove risk-helmets protect from slips and hard objects (ledges, rails, brick, branches)."
+    answer: "Yes. Low height doesn't remove risk: helmets protect from slips and hard objects (ledges, rails, brick, branches)."
   - question: "Is it OK to run the rope over a tree sling?"
     answer: "No. Avoid nylon-on-nylon. Use metal hardware/maillons or a protected, low-abrasion path for the rope."
   - question: "How do I stop mid-descent without panicking?"
@@ -31,7 +31,7 @@ faq:
 
 ## TL;DR
 
-- Backyard abseiling is legit for skill tuning-IF your anchors and checks are bulletproof.
+- Backyard abseiling is legit for skill tuning, IF your anchors and checks are bulletproof.
 - Prep the area: clear the landing, identify a bombproof overhead point, confirm local rules.
 - Gear: fit harness, correct-diameter rope, locking device + lockers, helmet; add gloves and a prusik backup.
 - Anchors: use wide, healthy trees or engineered posts; sling + backup; equalise and re-check every session.
@@ -46,7 +46,7 @@ You're probably excited to step up your abseiling skills without leaving home. T
 
 ## Prepare your backyard
 
-Before you buckle into your harness, you want to make sure your backyard abseiling area is as safe as possible. Chances are, you have a few obstacles around you-trees, fences, sheds: that could influence your descent. Here's how to get it under control.
+Before you buckle into your harness, you want to make sure your backyard abseiling area is as safe as possible. Chances are, you have a few obstacles around you: trees, fences, sheds, that could influence your descent. Here's how to get it under control.
 
 1. Clear the ground space
    - Remove loose debris like branches, toys, and furniture.
@@ -259,19 +259,19 @@ When you're consistent with these practices, abseiling at home can be a fantasti
 ### FAQs
 
 **Q. Can I safely abseil at home if I'm solo?**  
-A. Yes-with conservative rigging: redundant anchors, an autoblock/prusik below the device, knots in rope ends, and short practice heights.
+A. Yes, with conservative rigging: redundant anchors, an autoblock/prusik below the device, knots in rope ends, and short practice heights.
 
 **Q. What makes a backyard anchor “good enough”?**  
 A. Sound structure (e.g., large, healthy tree or engineered post), no cracks/rot, equalised slings, tight angles, and a backed-up master point.
 
 **Q. Static or dynamic rope for home practice?**  
-A. Static gives crisp control for pure descents. Dynamic is acceptable but bouncier-plan for added friction.
+A. Static gives crisp control for pure descents. Dynamic is acceptable but bouncier. Plan for added friction.
 
 **Q. Where should the prusik/autoblock go?**  
 A. Below the device on the brake strand, clipped to your leg loop so it stays reachable for a hands-free stop.
 
 **Q. Do I need a helmet at home?**  
-A. Yes. Low height doesn't remove risk-helmets protect from slips and hard objects (ledges, rails, brick, branches).
+A. Yes. Low height doesn't remove risk: helmets protect from slips and hard objects (ledges, rails, brick, branches).
 
 **Q. Is it OK to run the rope over a tree sling?**  
 A. No. Avoid nylon-on-nylon. Use metal hardware/maillons or a protected, low-abrasion path for the rope.

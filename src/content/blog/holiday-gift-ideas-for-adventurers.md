@@ -25,7 +25,7 @@ faq:
 
 ## TL;DR
 
-- Swap “stuff” for stories: gift an Aussie adventure-bridge climbs, waterfall abseils, whale-shark swims, whitewater, great-white cage dives, epic hikes, Kimberley cruises, wine-with-wilderness, and outback 4WD.
+- Swap “stuff” for stories: gift an Aussie adventure: bridge climbs, waterfall abseils, whale-shark swims, whitewater, great-white cage dives, epic hikes, Kimberley cruises, wine-with-wilderness, and outback 4WD.
 - Match the thrill level, duration, and season to your giftee (from 2-hour city views to multi-day remote expeditions).
 - Go guided for safety and simplicity, most operators include gear, briefings, and flexible vouchers.
 - Add personal touches (journal, camera case, brunch booking) to turn an experience into a lifelong memory.

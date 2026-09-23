@@ -26,7 +26,7 @@ faq:
 ## TL;DR
 
 - Abseiling insurance covers medical bills, rescue costs, and liability if things go wrong.
-- Standard travel insurance often excludes abseiling-check for high-risk sports coverage.
+- Standard travel insurance often excludes abseiling: check for high-risk sports coverage.
 - Key policy features: altitude limits, geographic scope, medical evacuation, gear cover.
 - Always use quality, well-maintained gear; worn equipment can void claims.
 - Have emergency plans: comms, first aid, rescue contacts, route knowledge.

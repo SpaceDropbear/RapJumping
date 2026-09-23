@@ -36,7 +36,7 @@ Safe, controlled abseiling starts with the right gear and consistent maintenance
 - **Friction device:** Pick one compatible with rope diameter; consider assisted braking for extra safety.
 - **Protection:** Use helmets, gloves, and weather-appropriate clothing to prevent injury and improve control.
 - **Maintenance:** Clean and store gear properly, track usage, and replace worn items.
-- **Environment:** Adapt gear to terrain, weather, and anchor type-carry spares for outdoor routes.
+- **Environment:** Adapt gear to terrain, weather, and anchor type. Carry spares for outdoor routes.
 
 ---
 

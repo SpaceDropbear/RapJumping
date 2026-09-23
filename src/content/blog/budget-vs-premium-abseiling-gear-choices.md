@@ -211,7 +211,7 @@ A: Yes, if it meets certified safety standards, but it may wear faster and be le
 A: If you abseil often, tackle challenging routes, or value maximum comfort and durability, premium gear is worth it.
 
 **Q: Should I buy second-hand abseiling equipment?**  
-A: Only buy used gear you can verify as safe-avoid second-hand ropes, harnesses, and helmets due to hidden wear.
+A: Only buy used gear you can verify as safe. Avoid second-hand ropes, harnesses, and helmets due to hidden wear.
 
 **Q: What's the best way to save on premium gear?**  
 A: Shop during Black Friday, Memorial Day, or end-of-season sales, and look for last year's models at clearance prices.

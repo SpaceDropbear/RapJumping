@@ -10,7 +10,7 @@ featured: false
 readingTime: 10
 faq:
   - question: "Which harness type is best for general abseiling?"
-    answer: "A sit harness-lightweight, comfortable, and offers high mobility."
+    answer: "A sit harness: lightweight, comfortable, and offers high mobility."
   - question: "When should I choose a full-body harness?"
     answer: "For rescue work, industrial tasks, heavier climbers, children, or when carrying heavy packs."
   - question: "How do I know if my harness fits correctly?"
@@ -25,7 +25,7 @@ faq:
 
 ## TL;DR
 
-Your harness is the link between you and the rope-comfort, safety, and mobility depend on it.
+Your harness is the link between you and the rope. Comfort, safety, and mobility depend on it.
 
 - **Sit harness:** Great for most abseiling and climbing; lighter, more freedom of movement, and easy to wear.
 - **Full-body harness:** Better for children, heavier climbers, rescue/industrial work; distributes load across torso and reduces inversion risk.
@@ -146,7 +146,7 @@ A chest harness should never be used alone. It always goes with a sit harness to
 ### FAQs
 
 **Q: Which harness type is best for general abseiling?**  
-A: A sit harness-lightweight, comfortable, and offers high mobility.
+A: A sit harness: lightweight, comfortable, and offers high mobility.
 
 **Q: When should I choose a full-body harness?**  
 A: For rescue work, industrial tasks, heavier climbers, children, or when carrying heavy packs.

@@ -33,7 +33,7 @@ faq:
 ## TL;DR
 
 - Load management in rappelling means controlling forces on rope, anchors, and devices to prevent shock loads, overheating, and failures.
-- Solid anchors are essential-choose bombproof points, inspect carefully, and use redundancy.
+- Solid anchors are essential: choose bombproof points, inspect carefully, and use redundancy.
 - Gear choice matters: figure 8s, brake-assisted devices, or auto-lockers must match rope diameter and rescue conditions.
 - Static ropes are preferred for rescue; always check safe working load (SWL) and rope condition.
 - Prevent tangles by flaking rope and controlling feed; maintain brake and guide hand positions.

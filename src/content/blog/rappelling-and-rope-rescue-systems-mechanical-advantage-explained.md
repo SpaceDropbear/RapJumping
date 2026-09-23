@@ -200,7 +200,7 @@ Rope rescue requires more than a onetime lesson. Ongoing training keeps you shar
 
 ### Practise advanced techniques
 
-As you master the basics, start advancing into subjects like artificial high directionals (AHDs) and complex hauls. AHDs-tripods, bipods, or monopods-raise your ropes above edges to reduce friction and make terrain transitions easier. Rigging these devices correctly demands a solid understanding of cantilevered forces, so keep learning and drilling.
+As you master the basics, start advancing into subjects like artificial high directionals (AHDs) and complex hauls. AHDs: tripods, bipods, or monopods raise your ropes above edges to reduce friction and make terrain transitions easier. Rigging these devices correctly demands a solid understanding of cantilevered forces, so keep learning and drilling.
 
 You might also explore rope access or industrial applications to gain a broader skill set. In these environments, you'll face challenges like unstable wind turbines or large steel structures. Getting authorised training through organisations like IRATA or SPRAT can open up new ways to manage rope systems effectively.
 
@@ -254,6 +254,6 @@ A. Practise regularly, delegate tasks, and use quick-adjust devices to set up fa
 
 Congratulations on walking through the key steps of setting up rope rescue systems. From selecting the right rope and harness to constructing bombproof anchors and using mechanical advantage, you've laid a strong foundation. Even if each step felt a bit overwhelming at first, regular practice will help everything click into place faster than you might expect.
 
-By steadily refining your techniques, you'll not only grow your confidence but also give your team the best shot at saving lives during critical rescue missions. Never stop learning, testing, and expanding on the fundamentals you've just reviewed. And if you're ready for deeper dives, like advanced rope rescue methods or exploring rope access technologies-take that next step. Your future self and your rescue team will thank you.
+By steadily refining your techniques, you'll not only grow your confidence but also give your team the best shot at saving lives during critical rescue missions. Never stop learning, testing, and expanding on the fundamentals you've just reviewed. And if you're ready for deeper dives, like advanced rope rescue methods or exploring rope access technologies, take that next step. Your future self and your rescue team will thank you.
 
 Stay safe, stay curious, and keep honing your skills. You've got this!

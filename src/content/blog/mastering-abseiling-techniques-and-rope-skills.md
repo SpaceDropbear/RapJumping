@@ -27,7 +27,7 @@ faq:
 
 - Abseiling = controlled rope descent using a harness, belay/descender, and secure anchors.
 - Always match rope type to the activity (static for abseiling, dynamic for climbing).
-- Anchors are your lifeline-use solid natural or multi-point gear anchors.
+- Anchors are your lifeline. Use solid natural or multi-point gear anchors.
 - Rope handling and clear communication prevent jams, tangles, and accidents.
 - Maintain a stable body position, brake hand on the rope, and control friction at all times.
 - Advanced techniques include multi-pitch, tandem, and canyoning abseils.
@@ -58,7 +58,7 @@ Abseiling is essentially the reverse of rock climbing. You're using a rope, harn
 - Rope handling: Climbing ropes (dynamic) are elastic to absorb falls, while abseiling ropes (static) are low stretch for steady descent.
 - Equipment overlap: You still use harnesses and carabiners, but friction management is front and centre.
 
-Have you ever looked over the edge of a cliff and felt that little jolt of excitement mixed with caution? That's the moment abseiling can transform into a thrilling experience-if you have the right skill set.
+Have you ever looked over the edge of a cliff and felt that little jolt of excitement mixed with caution? That's the moment abseiling can transform into a thrilling experience, if you have the right skill set.
 
 ## Choose the right gear
 
@@ -263,4 +263,4 @@ Abseiling is more than just sliding down a rope. It's a technical skill that com
 
 From anchor building and rope handling to friction control and mindset, every little detail plays a role in keeping you safe. One small step you could take right now is to re-check your harness and rope for signs of wear. Or plan a weekend practice session on a familiar route to see how your new knowledge translates to real-world conditions. Each abseil will boost your confidence and teach you something fresh.
 
-If you have a favourite tip, or if you've discovered a game-changing trick, don't hesitate to share it with fellow climbers. Abseiling is a community-driven art form-when we collaborate, compare notes, and learn from each other, we all enjoy safer and more adventurous descents. Here's to your continued journey with a rope, a rock face, and the thrill of leaning back into the great unknown. Stay safe, trust your gear, and have a blast exploring the vertical world.
+If you have a favourite tip, or if you've discovered a game-changing trick, don't hesitate to share it with fellow climbers. Abseiling is a community-driven art form. When we collaborate, compare notes, and learn from each other, we all enjoy safer and more adventurous descents. Here's to your continued journey with a rope, a rock face, and the thrill of leaning back into the great unknown. Stay safe, trust your gear, and have a blast exploring the vertical world.

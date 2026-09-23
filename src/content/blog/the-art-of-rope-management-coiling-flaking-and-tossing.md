@@ -145,7 +145,7 @@ For more advanced tips, including anchor types and descent options, you could ch
 
 ### FAQs
 
-**Q. Dynamic vs static-when should I use each?**  
+**Q. Dynamic vs static, when should I use each?**  
 A. Dynamic for lead/top-rope (absorbs falls). Static for hauling, rope access, and many abseils where low stretch = precise control.
 
 **Q. What diameter works best with common tube devices?**  

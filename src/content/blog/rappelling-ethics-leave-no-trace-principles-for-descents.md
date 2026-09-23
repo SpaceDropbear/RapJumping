@@ -34,10 +34,10 @@ faq:
 - Abseiling ethics combine safety, environmental responsibility, and respect for local regulations.
 - Minimise environmental impact by sticking to established routes and avoiding sensitive habitats.
 - Follow legal standards for gear (CE/UIAA certified) and abide by regional climbing regulations.
-- Respect wildlife-avoid nesting areas, keep noise low, and leash pets.
+- Respect wildlife: avoid nesting areas, keep noise low, and leash pets.
 - Set anchors with care to protect rock and ensure redundancy for safety.
 - Use safety backups like prusik knots or Fireman's Belay to prevent accidents.
-- Leave no trace-pack out all waste, minimise chalk marks, and avoid trampling vegetation.
+- Leave no trace: pack out all waste, minimise chalk marks, and avoid trampling vegetation.
 - Support climbing access through advocacy groups, clean-ups, and responsible route use.
 - Stay informed about route conditions and share safety updates with the community.
 - Continuously refresh skills, learn updated techniques, and mentor new climbers.
@@ -50,7 +50,7 @@ Picture yourself standing at the very edge with your harness secured and rope co
 
 ## Understand abseiling ethics
 
-Walking up to a rock face with rope in hand might feel routine if you've been climbing for years. But if you ever catch yourself thinking, “It's just a quick descent-what's the harm?” that's the moment to revisit what abseiling ethics really mean. It's about minimising impact on the environment, respecting climbing access policies, and preserving the experience for everyone else who loves the great outdoors.
+Walking up to a rock face with rope in hand might feel routine if you've been climbing for years. But if you ever catch yourself thinking, “It's just a quick descent, what's the harm?” that's the moment to revisit what abseiling ethics really mean. It's about minimising impact on the environment, respecting climbing access policies, and preserving the experience for everyone else who loves the great outdoors.
 
 Cliff ecosystems are more fragile than most. According to recent findings, climbing has grown to around 35 million participants worldwide, and all those footsteps, chalk marks, and rope pulls can add up. Some routes pass through bird nesting areas, while others host rare plant life that can't survive anywhere else. When you understand that your every move might affect these creatures' survival, it becomes easier to adjust your habits. Choosing your routes carefully, limiting pitches on cliffs known for nesting birds, and learning about local conservation guidelines all contribute to better abseiling practices.
 

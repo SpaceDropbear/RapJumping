@@ -30,7 +30,7 @@ faq:
 - Essential gear includes harness, static/dynamic rope, rappel device, backup friction hitch, and an extension system.
 - Safety checks like the BRAKES acronym reduce risks from overlooked knots, anchors, or gear setup.
 - Famous stunt icons like Jackie Chan, Dar Robinson, and Michelle Yeoh emphasise meticulous preparation.
-- Australia offers prime locations-Blue Mountains, urban building descents, coastal cliffs-where guided tours may add a cinematic twist.
+- Australia offers prime locations: Blue Mountains, urban building descents, coastal cliffs, where guided tours may add a cinematic twist.
 - Stunt rappelling can be combined with other adventure sports such as canyoning, rafting, and climbing for multi-sport experiences.
 
 ---

@@ -28,7 +28,7 @@ faq:
 - Rope bags protect ropes from dirt, moisture, and UV damage, extending lifespan.
 - Built-in tarp keeps rope clean and off the ground.
 - Features to look for: tie-off loops, water-resistant fabric, backpack straps, compression straps, extra pockets.
-- Capacity matters-pick a size to fit your rope length.
+- Capacity matters. Pick a size to fit your rope length.
 - Budget bags (e.g., Edelrid Liner) suit casual use; premium models (e.g., DMM Classic) offer more comfort and durability.
 - Clean and inspect bag regularly; store in a cool, dry, dark place.
 - Flaking rope inside the bag prevents tangles and kinks.

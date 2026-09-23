@@ -175,7 +175,7 @@ A. When you want the lightest, simplest rappel device and you're confident manag
 **Q. What about canyoning?**  
 A. ATC or Figure 8 can work, but canyon-specific descenders with multiple friction modes are often better on wet ropes.
 
-**Q. Double-rope rappels-what works?**  
+**Q. Double-rope rappels, what works?**  
 A. ATC and Figure 8 handle doubles. GriGri is single-rope only.
 
 **Q. What backup should I use?**  
