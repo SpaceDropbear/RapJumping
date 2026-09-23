@@ -157,5 +157,44 @@ for (const s of jsonLd) schemas.push({ '@context': 'https://schema.org', ...s })
         els.forEach((el) => io.observe(el));
       }
     </script>
+    <script>
+      // Vikunja #1006: fire a GA4 "affiliate_click" event on outbound affiliate clicks, so
+      // affiliate performance can be measured instead of guessed. Affiliate anchors are
+      // identified the way the build already marks them: rel="sponsored" (set for every live
+      // merchant link in astro.config.mjs's rehypeAffiliateLinks - GetYourGuide, Commission
+      // Factory, and impact.com once its programs go live). Capture phase so this fires before
+      // the new-tab navigation (all affiliate links open target="_blank").
+      //
+      // Reports the event through BOTH common integration points, whichever GA4 ends up wired
+      // through, so this needs no further change once analytics is connected:
+      //   - window.dataLayer.push(...) - the GTM / Cloudflare Zaraz "custom event" convention.
+      //   - window.gtag(...) - the direct gtag.js convention.
+      // Both are feature-detected and are safe no-ops if analytics isn't loaded yet.
+      document.addEventListener(
+        'click',
+        (event) => {
+          const link = event.target instanceof Element ? event.target.closest('a[rel~="sponsored"]') : null;
+          if (!link) return;
+          let merchant = '';
+          try {
+            merchant = new URL(link.href, location.href).hostname.replace(/^www\./, '');
+          } catch {
+            return;
+          }
+          const payload = { merchant, link_url: link.href, page: location.pathname };
+
+          window.dataLayer = window.dataLayer || [];
+          window.dataLayer.push({ event: 'affiliate_click', ...payload });
+
+          if (typeof window.gtag === 'function') {
+            window.gtag('event', 'affiliate_click', payload);
+          }
+          if (window.zaraz && typeof window.zaraz.track === 'function') {
+            window.zaraz.track('affiliate_click', payload);
+          }
+        },
+        true
+      );
+    </script>
   </body>
 </html>
