@@ -9,7 +9,7 @@ tags: ["abseiling", "equipment"]
 featured: false
 readingTime: 11
 faq:
-  - question: "Dynamic vs static-when should I use each?"
+  - question: "Dynamic vs static, when should I use each?"
     answer: "Dynamic for lead/top-rope (absorbs falls). Static for hauling, rope access, and many abseils where low stretch = precise control."
   - question: "What diameter works best with common tube devices?"
     answer: "Most handle ~8.9-10.2 mm well. Thin ropes run faster and may need high-friction mode; always check your device's spec."

@@ -13,7 +13,7 @@ faq:
     answer: "“Complete two supervised abseils on ≤30 m routes using proper edge transitions and an autoblock backup within 4-6 weeks.”"
   - question: "How do I make my goal SMART for abseiling?"
     answer: "Be concrete about height/terrain, technique (e.g., autoblock), location/window, and evidence (log entries, video)."
-  - question: "Process vs performance vs outcome-what should I use?"
+  - question: "Process vs performance vs outcome, what should I use?"
     answer: "Prioritise process (e.g., smooth brake-hand discipline) to unlock performance (time/height benchmarks); treat outcomes as bonuses."
   - question: "I freeze at the edge-how can I manage nerves?"
     answer: "Rehearse a three-step script: breathe-count-cue (“lean, lock, look”), visualise the first 5 m, then commit to micro-moves."

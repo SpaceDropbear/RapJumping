@@ -13,7 +13,7 @@ faq:
     answer: "Yes. A supportive seat harness, wider padded leg loops, and a pull-up bar let your upper body do more of the work, while a guide manages a backup belay for added security."
   - question: "What's the safest way to start?"
     answer: "Begin indoors or on a low-angle slab with a top/backup belay, practise device threading and braking, then progress to taller outdoor drops once you're smooth and confident."
-  - question: "I struggle to modulate speed-what can help?"
+  - question: "I struggle to modulate speed. What can help?"
     answer: "Add friction: use a device setting with more friction, a second carabiner, or a short friction hitch (autoblock) beneath your descender so small hand movements give big control."
   - question: "Do I need extra helpers for an adaptive setup?"
     answer: "One qualified instructor plus a backup belayer is typical. For transfers or complex terrain, an extra handler makes edge management and positioning calmer and quicker."

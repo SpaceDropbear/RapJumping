@@ -21,7 +21,7 @@ faq:
     answer: "Local clubs, meetups, skills nights, and community trips. Offer to co-rig, belay, and learn-mentors notice reliability."
   - question: "Any access/permit issues?"
     answer: "Yes-check park advisories, cultural site protections, seasonal closures, and route-specific rules before you go."
-  - question: "I want to guide-what's the pathway?"
+  - question: "I want to guide. What's the pathway?"
     answer: "Do a recognised instructor program, log supervised days across terrain types, maintain first aid (often remote), pass assessment."
   - question: "What about rope access careers?"
     answer: "Certify through IRATA (Level 1→3). Courses typically run 1-2 weeks; revalidate every 3 years; work under a L3 supervisor."

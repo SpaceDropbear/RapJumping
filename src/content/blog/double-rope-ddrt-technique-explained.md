@@ -12,7 +12,7 @@ faq:
   - question: "What is double rope rappelling?"
     answer: "A technique where two ropes are tied together to descend the full combined length, useful for tall routes or fewer rappel stations."
   - question: "Do both ropes need to be the same diameter?"
-    answer: "No, but mismatched diameters require careful knot placement to prevent uneven sliding-keep the thinner rope on the pull side."
+    answer: "No, but mismatched diameters require careful knot placement to prevent uneven sliding. Keep the thinner rope on the pull side."
   - question: "What knot should I use to join two ropes?"
     answer: "Common choices include the double fisherman's knot or the flat overhand (with long tails and a stopper knot)."
   - question: "How do I avoid tangled ropes during descent?"

@@ -14,7 +14,7 @@ faq:
   - question: "When is premium gear worth the investment?"
     answer: "If you abseil often, tackle challenging routes, or value maximum comfort and durability, premium gear is worth it."
   - question: "Should I buy second-hand abseiling equipment?"
-    answer: "Only buy used gear you can verify as safe-avoid second-hand ropes, harnesses, and helmets due to hidden wear."
+    answer: "Only buy used gear you can verify as safe. Avoid second-hand ropes, harnesses, and helmets due to hidden wear."
   - question: "What's the best way to save on premium gear?"
     answer: "Shop during Black Friday, Memorial Day, or end-of-season sales, and look for last year's models at clearance prices."
   - question: "Can I mix budget and premium items in my setup?"

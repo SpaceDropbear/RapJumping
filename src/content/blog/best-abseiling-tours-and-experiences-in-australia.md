@@ -20,7 +20,7 @@ faq:
   - question: "Minimum age or weight?"
     answer: "Many tours allow supervised kids and set a minimum weight so the harness/device works correctly. Confirm specifics when booking."
   - question: "Can I wear glasses or bring my phone?"
-    answer: "Yes-with retainers. Use a lanyard/zip pocket for phones and sunglasses."
+    answer: "Yes, with retainers. Use a lanyard/zip pocket for phones and sunglasses."
   - question: "What if the weather turns?"
     answer: "Tours may reschedule or move to a sheltered venue. Wind, rain, or heat can change plans-operators should brief you."
   - question: "Photos included?"
@@ -200,7 +200,7 @@ A. Totally normal. Your guide can coach stance and breathing, and even “pre-lo
 A. Many tours allow supervised kids and set a minimum weight so the harness/device works correctly. Confirm specifics when booking.
 
 **Q. Can I wear glasses or bring my phone?**  
-A. Yes-with retainers. Use a lanyard/zip pocket for phones and sunglasses.
+A. Yes, with retainers. Use a lanyard/zip pocket for phones and sunglasses.
 
 **Q. What if the weather turns?**  
 A. Tours may reschedule or move to a sheltered venue. Wind, rain, or heat can change plans-operators should brief you.

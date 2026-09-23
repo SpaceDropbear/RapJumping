@@ -17,7 +17,7 @@ faq:
   - question: "How do I protect my rope on sharp edges?"
     answer: "Use flexible sleeves, rigid edge guards, or roller systems at contact points to prevent cutting or fraying."
   - question: "How often should I inspect my rope?"
-    answer: "Before and after every session-look for cuts, soft spots, discoloration, or damaged stitching."
+    answer: "Before and after every session: look for cuts, soft spots, discoloration, or damaged stitching."
   - question: "How should I store my abseiling rope?"
     answer: "Coil or chain neatly, store in a rope bag or cool, dry place, and keep away from sunlight, chemicals, and moisture."
 ---
